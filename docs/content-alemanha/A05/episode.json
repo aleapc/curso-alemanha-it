@@ -1,0 +1,388 @@
+{
+  "id": "a05",
+  "nivel": "avancado",
+  "numero": 33,
+  "parte": "A05",
+  "titulo": "L'altra lingua, e il saluto che si sposta con la mappa",
+  "subtitulo": "Moin è un aggettivo, Grüß Gott traccia una linea attraverso il paese, le parole austriache hanno valore legale a Bruxelles, e l'inglese qui è una risposta a un'indagine più che una garanzia",
+  "cena": "Un piccolo negozio a metà pomeriggio, dove il saluto che arriva da dietro il bancone ti dice in quale terzo del paese ti trovi.",
+  "moldura": "ganha",
+  "frasePiso": "Sei parole portate bene battono un paragrafo detto male. Ciao, per favore, grazie, scusa, e i due saluti d'addio — è tutto il set.",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-a05-gruss",
+      "afirmacao": "La mappa dei saluti viene da un'indagine più che da leggende da guida turistica, e la domanda è esattamente il caso d'uso del viaggiatore. Atlas zur deutschen Alltagssprache (AdA), Elspaß, Salisburgo, e Möller, Liegi, Rodada 2, domanda F01, «Gruß am Nachmittag»: come si saluta abitualmente entrando in un piccolo negozio al pomeriggio dove si conoscono le persone. La distribuzione: Moin e Moinmoin nello Schleswig-Holstein e nella Bassa Sassonia settentrionale; Grüß Gott nella Germania meridionale, in Baviera, in Austria e nella fascia prealpina; Servus nella Baviera orientale e in Austria; Grüß Euch in Austria e in crescita; Grüezi e Hoi nella Svizzera settentrionale e orientale e nel Vorarlberg; e Hallo in generale, registrato in circa 150 località dell'indagine. Due riscontri dallo stesso AdA sono migliori della versione da guida: Moin non deriva da «Morgen» ma da «moien Dag», dal basso tedesco e frisone moi che significa bello o piacevole, cosicché ciò che sopravvive nella forma breve è solo l'aggettivo — l'ulteriore affermazione che sia per questo che si usa a qualsiasi ora compare in uno snippet e in una voce enciclopedica ed è valutata MODERATA; e Hallo è il cambiamento d'uso più grande dagli anni '70, che soppianta o compete con Guten Tag soprattutto al nord e all'ovest, fuori dall'area di Moin. Tre limiti: l'AdA pubblica categorie ordinali per località, mai percentuali, quindi qualsiasi percentuale attribuita a queste mappe sarebbe inventata; l'area esatta di Moin non esiste come isoglossa, solo punti d'indagine, quindi non si può affermare nulla di più fine di Schleswig-Holstein più Bassa Sassonia settentrionale; e le mappe dei saluti d'addio esistono ma la pagina porta solo immagini e le parole «Text folgt in Kürze», quindi solo Tschüss come neutro e Auf Wiedersehen come formale si possono insegnare con sicurezza.",
+      "fonte": "Atlas zur deutschen Alltagssprache (AdA), Rodada 2, questão F01 «Gruß am Nachmittag» [RESUMO — página lida por fetch]; etimologia de Moin do próprio AdA; Rodada 10, questões 17a e 17b, para a despedida — página só com imagens e «Text folgt in Kürze». Pesquisa §3.2 e §3.5, itens 18 e 19 da lista de exclusão. ⚠ Nenhum percentual pode ser atribuído ao AdA: as cartas publicam categorias ordinais (üblich / ab und zu / unüblich).",
+      "ano": 2026,
+      "revisarAte": "2030-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-a05-n05",
+        "de-a05-n06",
+        "de-a05-n07",
+        "de-a05-n08"
+      ]
+    },
+    {
+      "id": "de-a05-englisch",
+      "afirmacao": "Special Eurobarometer 540, Europeans and their languages, rilevazione settembre-ottobre 2023, pubblicato nel 2024 per la DG EAC: il 65 per cento in Germania dichiara di parlare inglese abbastanza bene da sostenere una conversazione, come lingua aggiuntiva, contro una media UE27 del 47 per cento, alla lettera dal testo corrente: «Nearly half of Europeans (47%) say they speak it, a slight increase (+5) compared to 2012.» Il dato precedente comparabile, Special Eurobarometer 386, rilevazione febbraio-marzo 2012, era il 56 per cento per la Germania contro il 38 per cento per l'UE27. Il contrappeso onesto è l'Adult Education Survey di Eurostat, tabelle edat_aes_l21 e edat_aes_l31, per la Germania nella fascia 25-64 anni: chi non ha alcuna lingua straniera è sceso dal 21,3 per cento nel 2016 al 12,3 nel 2022, cosicché l'87,7 per cento dichiara almeno una lingua — ma di questi, solo il 28,0 per cento si valuta competente nella propria migliore lingua straniera, il che equivale a circa il 24,5 per cento della fascia d'età. Le due domande sono diverse, conversazione auto-valutata contro un livello in stile QCER, e non vanno mai sommate né presentate come conferma l'una dell'altra. Le suddivisioni, dall'indagine del 2012 e a livello europeo anziché tedesco, alla lettera: l'inglese molto buono è più frequente tra «younger people, particularly 15-24 year olds (27%), compared with those aged 55+ (15%)», tra «those who finished their full time education aged 20+ (26%)», e tra «people who live in large towns (29%), particularly when compared with those who live in rural villages (15%)»; la stessa relazione nota che i tedeschi che parlano inglese sono tra quelli che lo usano solo occasionalmente, al 58 per cento. Due note di provenienza: il PDF dell'SP540 effettivamente aperto proveniva da un mirror esterno al dominio europa.eu, con copertina, ISBN, DOI e impaginazione intatti e il valore verificato per riscontro con il testo corrente; e l'EF English Proficiency Index, che colloca la Germania al 4º posto su 123 nel 2025 dopo il 10º nel 2024, è descritto dal suo stesso editore come auto-selezionato e non garantito rappresentativo, quindi non è mai una stima di popolazione. Una suddivisione est-ovest per l'inglese è ASSENTE come dato e qui non è asserita in alcuna forma.",
+      "fonte": "Special Eurobarometer 540 (Verian para a DG EAC, DOI 10.2766/28257), p. 20, tabela «D48.otherlang.»; SP386 (2012), p. 21, célula DE; Eurostat AES, tabelas edat_aes_l21 e edat_aes_l31; EF EPI 2025, Appendix A, «Sampling Biases», verbatim: «The test-taking population represented in this Index is self-selected and not guaranteed to be representative.» Pesquisa §10.1 e item 38 da lista de exclusão.",
+      "ano": 2023,
+      "revisarAte": "2028-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-a05-n02",
+        "de-a05-n03",
+        "de-a05-n04"
+      ]
+    },
+    {
+      "id": "de-a05-plurizentrik",
+      "afirmacao": "Il tedesco non è solo della Germania, e dal lato austriaco questo è diritto primario dell'UE più che etichetta. Il Protokoll Nr. 10 allegato all'Atto di adesione del 1994 (GU C 241 del 29 agosto 1994, CELEX 11994N/PRO/10, aperto su EUR-Lex), intitolato «über die Verwendung spezifisch österreichischer Ausdrücke der deutschen Sprache im Rahmen der Europäischen Union»: l'articolo 1 dà agli specifici termini austriaci lo stesso status ed effetti legali dei loro equivalenti tedeschi, e l'articolo 2 impone che i nuovi atti dell'UE redatti in tedesco includano le varianti austriache. Avvertenza: l'allegato che elenca i termini compare come una tabella vuota su EUR-Lex, quindi la cifra spesso citata di 23 termini NON è stata verificata. Dal lato svizzero, il Cantone di Zurigo ha votato il 15 maggio 2011 per approvare l'iniziativa «JA zur Mundart im Kindergarten»; la legge scolastica è stata modificata cosicché la lingua d'insegnamento all'asilo è «grundsätzlich» il dialetto, con il tedesco standard limitato a «einzelne Verse und Lieder, bei Rollenspielen oder bei Audio- und Bildmedien», in vigore dal 1º agosto 2012. Avvertenza: la quota riferita del 53,9 per cento veniva da uno snippet e NON è stata verificata. Il corso insegna il fatto legale e rifiuta espressamente la formula prescrittiva da guida «non chiamare mai un austriaco un tedesco», che non ha fonte: il protocollo dice molto di più, con molto meno rischio.",
+      "fonte": "Protokoll Nr. 10 ao Ato de Adesão de 1994, JO C 241 de 29/8/1994, CELEX 11994N/PRO/10, EUR-Lex aberto, arts. 1 e 2. Cantão de Zurique, votação de 15/5/2011, «JA zur Mundart im Kindergarten», em vigor desde 1/8/2012, comunicado aberto em zh.ch. Pesquisa §10.5, itens 9 e 46 da lista de exclusão. ⚠ A lista dos «23 termos» e o percentual da votação de Zurique NÃO foram verificados e não entram.",
+      "ano": 2012,
+      "revisarAte": "2031-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-a05-n10",
+        "de-a05-n11"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a05-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "pt": "Qui ti aspettano due altre lingue. Una è l'inglese. L'altra è il saluto, che si sposta con la mappa."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a05-n02",
+      "bloco": "corpo",
+      "pt": "Nel 2023, il sessantacinque per cento ha detto di parlare inglese abbastanza bene da conversare. In tutta l'Unione, quarantasette."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a05-n03",
+      "pt": "Undici anni prima la stessa domanda otteneva cinquantasei. Quindi il numero si è mosso, e si è mosso in una sola direzione."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a05-n04",
+      "pt": "L'altra metà della verità: una seconda indagine chiede il livello, e solo un quarto si definisce competente."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-a05-r01",
+      "receptivo": true,
+      "acao": "Il passaggio è offerto, non preteso. Accettalo, e tieni il tuo tedesco per il saluto e il grazie.",
+      "es": "Ich kann Ihnen gerne auch auf Englisch helfen.",
+      "pt": "Volentieri posso aiutarla anche in inglese.",
+      "tts": "Ich kann Ihnen gerne auch auf Englisch helfen."
+    },
+    {
+      "consulta": [
+        "reparo/ingles"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a05-p01",
+      "promptPt": "Vuoi cominciare nella loro lingua ed essere onesto su fin dove arriva, tutto in una frase breve. Parla adesso.",
+      "audioKey": "de-a05-t01",
+      "es": "Ich spreche nur ein bisschen Deutsch.",
+      "pinyin": "ikh SHPREH-khuh noor ine BISS-khen DOYTCH",
+      "pt": "Parlo solo un po' di tedesco.",
+      "tts": "Ich spreche nur ein bisschen Deutsch."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a05-n05",
+      "bloco": "capsula",
+      "pt": "Ora il saluto. Un'indagine ha chiesto come si saluta in un piccolo negozio al pomeriggio. Le risposte disegnano una mappa."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-a05-r02",
+      "receptivo": true,
+      "acao": "Sei al nord — Schleswig-Holstein o la cima della Bassa Sassonia. Funziona a qualsiasi ora del giorno.",
+      "es": "Moin! Moin moin. Was darf's denn sein?",
+      "pt": "Moin! Moin moin. Cosa le do?",
+      "tts": "Moin! Moin moin. Was darf's denn sein?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a05-n06",
+      "pt": "Moin non ha nulla a che fare con Morgen. Viene da una parola del basso tedesco per «piacevole», e resta solo l'aggettivo."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-a05-r03",
+      "receptivo": true,
+      "acao": "Sud — Baviera, Austria, la fascia prealpina. Non ti si chiede nulla di religioso; è semplicemente il saluto locale.",
+      "es": "Grüß Gott! Was kann ich für Sie tun?",
+      "pt": "Grüß Gott! Cosa posso fare per lei?",
+      "tts": "Grüß Gott! Was kann ich für Sie tun?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-a05-r04",
+      "receptivo": true,
+      "acao": "Baviera orientale e Austria. Prendilo come un saluto; per congedarti, tieni Tschüss e Auf Wiedersehen.",
+      "es": "Servus! Grüß Euch, ein Tisch ist noch frei.",
+      "pt": "Servus! Salve a voi due, c'è ancora un tavolo libero.",
+      "tts": "Servus! Grüß Euch, ein Tisch ist noch frei."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a05-n07",
+      "pt": "Hallo è quello generale, registrato in circa centocinquanta luoghi, ed è il cambiamento più grande dagli anni settanta."
+    },
+    {
+      "consulta": [
+        "chegar/entrar",
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a05-p02",
+      "promptPt": "Stai entrando in un piccolo negozio alle tre del pomeriggio e non hai idea di quale saluto regionale sia in uso qui. Parla adesso.",
+      "audioKey": "de-a05-t02",
+      "es": "Hallo, guten Tag!",
+      "pinyin": "HA-lo, GOO-ten tahk",
+      "pt": "Ciao, buongiorno!",
+      "tts": "Hallo, guten Tag!"
+    },
+    {
+      "consulta": [
+        "reparo/devagar",
+        "reparo/como-se-diz"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a05-p03",
+      "promptPt": "Il saluto che hai appena ricevuto era una sillaba sola e non l'hai mai sentito in vita tua. Chiedi che te lo ripetano. Parla adesso.",
+      "audioKey": "de-a05-t03",
+      "es": "Entschuldigung, wie bitte?",
+      "pinyin": "ent-SHOOL-di-goong, vee BIT-tuh",
+      "pt": "Scusi, come dice?",
+      "tts": "Entschuldigung, wie bitte?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a05-n08",
+      "pt": "Per l'addio, solo due sono sicuri ovunque. Tschüss tra le persone, e Auf Wiedersehen a un bancone."
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a05-p04",
+      "promptPt": "Ha passato quattro minuti su una domanda da trenta secondi, e vorresti che sapesse che è arrivata. Parla adesso.",
+      "audioKey": "de-a05-t04",
+      "es": "Vielen Dank, das ist sehr nett!",
+      "pinyin": "FEE-len dank, dass isst zair nett",
+      "pt": "Grazie mille, è molto gentile!",
+      "tts": "Vielen Dank, das ist sehr nett!"
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer",
+        "chegar/sair"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a05-p05",
+      "promptPt": "Stai lasciando un bancone dove qualcuno in divisa ha appena sistemato tutto il tuo pomeriggio. Chiudi in modo formale. Parla adesso.",
+      "audioKey": "de-a05-t05",
+      "es": "Danke schön, auf Wiedersehen!",
+      "pinyin": "DAN-kuh shurn, owf VEE-der-zay-en",
+      "pt": "Grazie, arrivederci!",
+      "tts": "Danke schön, auf Wiedersehen!"
+    },
+    {
+      "consulta": [
+        "chegar/sair",
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a05-p06",
+      "promptPt": "Stesso pomeriggio, porta diversa: la donna della panetteria chiacchiera con te da una settimana. Chiudi con calore. Parla adesso.",
+      "audioKey": "de-a05-t06",
+      "es": "Tschüss, schönen Tag noch!",
+      "pinyin": "chuess, SHUR-nen tahk nokh",
+      "pt": "Ciao, buona giornata!",
+      "tts": "Tschüss, schönen Tag noch!"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a05-n09",
+      "pt": "Sei parole portano un intero viaggio. Hallo, bitte, danke, Entschuldigung, e i due saluti d'addio. Non serve altro."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a05-n10",
+      "pt": "E la lingua non è solo di questo paese. Le parole austriache hanno lo stesso valore legale nei testi dell'Unione."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-a05-r05",
+      "receptivo": true,
+      "acao": "Stessa lingua, parola diversa per lo stesso oggetto. Scrivila invece di correggerla — sono entrambe corrette.",
+      "es": "Bei uns heißt das Erdapfel, nicht Kartoffel.",
+      "pt": "Da noi si chiama Erdapfel, non Kartoffel.",
+      "tts": "Bei uns heißt das Erdapfel, nicht Kartoffel."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a05-n11",
+      "pt": "A Zurigo, nel 2011 gli elettori decisero che l'asilo funziona in dialetto. Il tedesco standard tenne le canzoni."
+    },
+    {
+      "consulta": [
+        "reparo/como-se-diz",
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a05-p07",
+      "promptPt": "È appena passata una parola che non conosci, e chi l'ha usata è l'unico esperto nella stanza. Parla adesso.",
+      "audioKey": "de-a05-t07",
+      "es": "Wie sagt man das bei Ihnen?",
+      "pinyin": "vee zahkt mann dass by EE-nen",
+      "pt": "Come si dice dalle sue parti?",
+      "tts": "Wie sagt man das bei Ihnen?"
+    },
+    {
+      "consulta": [
+        "reparo/escreve"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a05-p08",
+      "promptPt": "Terzo ascolto di una parola regionale ed è ancora una macchia — cambia canale invece di chiedere una quarta volta. Parla adesso.",
+      "audioKey": "de-a05-t08",
+      "es": "Können Sie mir das bitte aufschreiben?",
+      "pinyin": "KUR-nen zee meer dass BIT-tuh OWF-shry-ben",
+      "pt": "Me lo può scrivere, per favore?",
+      "tts": "Können Sie mir das bitte aufschreiben?"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-a05-s01",
+      "es": "Hallo, guten Tag! Vielen Dank, das ist sehr nett! Tschüss, schönen Tag noch!",
+      "pinyin": "HA-lo GOO-ten tahk · FEE-len dank dass isst zair nett · chuess SHUR-nen tahk nokh",
+      "pt": "Ripeti le tre che aprono una porta, ringraziano uno sconosciuto e la richiudono.",
+      "tts": "Hallo, guten Tag! Vielen Dank, das ist sehr nett! Tschüss, schönen Tag noch!"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a05-n12",
+      "bloco": "recap",
+      "pt": "A05 fatto. Moin al nord, Grüß Gott al sud, Hallo ovunque, e sei parole che stanno in una tasca."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Il saluto che ha una mappa, e sei parole che vanno ovunque",
+    "secoes": [
+      {
+        "titulo": "Sei parole, e perché è tutta la lista",
+        "corpo": "Hallo, bitte, danke, Entschuldigung, tschüss, auf Wiedersehen. Cioè un saluto, un per favore, un grazie, una scusa e due addii — uno per le persone e uno per i banconi — e tra loro coprono ogni scambio ordinario che un visitatore ha in una giornata. Portare bene sei parole vale più che ricordarne a metà quaranta, perché sono quelle che arrivano all'inizio di un'interazione e ne fissano la temperatura. Entschuldigung è la più lunga e la più preziosa: è impossibile scambiarla per altro, apre l'attenzione di uno sconosciuto senza alcun'altra cortesia, e vale sia come «scusa» sia come «permesso». Bitte fa più lavoro di quanto la sua traduzione suggerisca — è «per favore», ma risponde anche a un grazie, e significa «prego?» quando la voce sale alla fine.",
+        "exemplos": [
+          {
+            "es": "Hallo, guten Tag!",
+            "pt": "Ciao, buongiorno!"
+          },
+          {
+            "es": "Danke schön, auf Wiedersehen!",
+            "pt": "Grazie, arrivederci!"
+          }
+        ]
+      },
+      {
+        "titulo": "Il saluto ha una mappa, e la mappa viene da un'indagine",
+        "corpo": "Un atlante linguistico ha chiesto esattamente la domanda a cui un viaggiatore ha bisogno di una risposta: come saluti normalmente quando entri in un piccolo negozio al pomeriggio? Moin, e raddoppiato come Moinmoin, appartiene allo Schleswig-Holstein e al nord della Bassa Sassonia. Grüß Gott è la Germania meridionale, la Baviera, l'Austria e la fascia prealpina. Servus è la Baviera orientale e l'Austria. Grüß Euch è austriaco e in crescita. Grüezi e Hoi sono la Svizzera settentrionale e orientale e il Vorarlberg. E Hallo è quello generale, registrato in circa centocinquanta delle località dell'indagine. Due limiti vanno enunciati: l'atlante pubblica categorie anziché percentuali, quindi qualsiasi cifra attaccata a queste mappe sarebbe inventata; e non c'è confine esatto per Moin, solo punti d'indagine, quindi non si può onestamente tracciare nulla di più fine di «Schleswig-Holstein e nord della Bassa Sassonia». Hallo, intanto, è il singolo cambiamento più grande nelle abitudini di saluto dagli anni '70, che compete con o rimpiazza Guten Tag al nord e all'ovest, fuori dalla fascia di Moin."
+      },
+      {
+        "titulo": "Moin è un aggettivo, non un mattino",
+        "corpo": "La versione da guida dice che Moin è un Morgen accorciato e che usarlo al pomeriggio è uno scherzo locale. L'atlante dice il contrario: viene da moien Dag, da una parola del basso tedesco e frisone moi che significa bello o piacevole, cosicché ciò che sopravvive nella forma breve è l'aggettivo e non il sostantivo. L'affermazione che sia precisamente per questo che funziona a qualsiasi ora è prova più debole — uno snippet e una voce enciclopedica — quindi trattala come probabile più che certa. Ciò che è sicuro in pratica è più semplice: se Moin è ciò che è arrivato dal bancone, Moin è una buona risposta, alle undici del mattino o alle sei di sera. All'uscita, le due parole sicure in ogni regione sono Tschüss, che è neutra e personale, e Auf Wiedersehen, che è formale e giusta a qualsiasi bancone. I saluti d'addio regionali di cui potresti leggere altrove hanno mappe d'indagine pubblicate senza alcun testo, quindi il corso non ne nomina le regioni né ne traccia la geografia."
+      },
+      {
+        "titulo": "L'inglese: cos'è il numero, e cosa non è",
+        "corpo": "Il sessantacinque per cento ha detto nel 2023 di parlare inglese abbastanza bene da sostenere una conversazione, contro il quarantasette per cento in tutta l'UE, e in aumento dal cinquantasei per cento del 2012. Trattalo come un'autodichiarazione su una capacità, non come una garanzia sulla persona che hai davanti — e tienilo accanto a una seconda indagine che pone una domanda diversa: l'ottantasette virgola sette per cento degli adulti ha dichiarato almeno una lingua straniera nel 2022, ma solo il ventotto per cento di questi si è valutato competente, il che equivale a circa un quarto della fascia d'età. Due domande, due risposte, e non vanno sommate. Ciò che le suddivisioni a livello europeo suggeriscono è dove aspettarselo: di più tra i quindici-ventiquattrenni che tra gli ultracinquantacinquenni, di più tra chi ha studiato oltre i venti, e notevolmente di più nelle grandi città che nei villaggi rurali — e persino tra chi lo parla, la maggioranza lo usa solo occasionalmente. Un indice che potresti vedere citato, che colloca questo paese al quarto posto nel mondo, è descritto dal suo stesso editore come auto-selezionato e non rappresentativo, e non è mai una stima di popolazione. Non c'è alcun dato su un'eventuale differenza est-ovest nell'inglese, quindi nulla è affermato in proposito."
+      },
+      {
+        "titulo": "La lingua non è solo di questo paese, e questo è scritto nel diritto dell'UE",
+        "corpo": "La frase da guida «non chiamare mai un austriaco un tedesco» non ha alcuna fonte dietro, e c'è qualcosa di molto migliore da sapere. Il Protocollo n. 10 all'Atto di adesione del 1994 dà agli specifici termini austriaci della lingua tedesca lo stesso status ed effetti legali dei loro equivalenti tedeschi, e impone che le nuove leggi dell'UE redatte in tedesco includano le varianti austriache. Questo è diritto europeo primario, concordato nel 1994, e dice la cosa interessante a chiare lettere: c'è più di un tedesco corretto. La lista dei termini a esso allegata compare come una tabella vuota nel database ufficiale, quindi il numero di termini spesso citato non è verificato e qui non è ripetuto. La Svizzera è andata oltre a modo suo: gli elettori del Cantone di Zurigo decisero nel maggio 2011 che l'asilo si insegna in dialetto, con il tedesco standard tenuto per singoli versi e canzoni, giochi di ruolo e media registrati, in vigore dall'agosto 2012. La conseguenza pratica per te è piccola e piacevole. Quando arriva una parola che non è quella che hai imparato, non è un errore da correggere — è una variante con un passaporto. Chiedi come la dicono, scrivila, e usa la loro."
+      }
+    ]
+  },
+  "slot": "A05",
+  "permissao": "Ti è permesso rispondere a qualsiasi saluto regionale con Hallo. È registrato in tutto il paese e nessuno lo sente come un rifiuto di stare al gioco — rispecchiare Moin o Grüß Gott è un bonus, mai un obbligo, e sbagliarne uno non costa nulla. Ti è permesso dire in una frase che il tuo tedesco arriva solo fin lì; la gente passa all'inglese prontamente e quel passaggio è un'offerta più che un verdetto su di te. E ti è permesso chiedere che una parola venga scritta invece di sentirla una quarta volta, il che è più veloce e ti dà anche la grafia.",
+  "permissaoAudioKey": "de-a05-n09",
+  "espelho": "Chiunque abbia visto un visitatore arrivare nel proprio paese armato di un saluto regionale e piazzarlo nella regione completamente sbagliata sa come cade — non offensivo, solo un po' buffo, e istantaneamente informativo su dove l'ha letto. Vale anche il contrario: uno sconosciuto che dice per favore e grazie come si deve e nient'altro compra più benevolenza di uno che tenta un paragrafo.",
+  "fichasCulturais": [
+    {
+      "sinal": "Entri in un negozio, dici Guten Tag, e ti torna indietro una sola sillaba che non hai mai sentito, o un saluto che nomina Dio.",
+      "suaLeitura": "Mi hanno dato un dialetto che non riesco a seguire, e il resto di questa conversazione mi sarà del tutto oscuro.",
+      "oQueEAli": "Ti hanno dato il saluto locale, ed è un riferimento sulla mappa. Un atlante linguistico ha chiesto esattamente questa domanda — come saluti entrando in un piccolo negozio al pomeriggio — e le risposte si ordinano per regione: Moin nello Schleswig-Holstein e nel nord della Bassa Sassonia, Grüß Gott al sud e nella fascia prealpina, Servus nella Baviera orientale e in Austria, Hallo ovunque. Moin non è un Morgen accorciato: viene da una parola del basso tedesco per «piacevole», e resta solo l'aggettivo.",
+      "oQueVoceFaz": "Rispondi con Hallo, guten Tag, che funziona ovunque, o restituisci lo stesso saluto che hai ricevuto se l'hai colto. Se non l'hai colto, Entschuldigung, wie bitte lo fa ripetere e a nessuno dispiace essere interpellato.",
+      "oQueMelhora": "Il saluto smette di essere un test che hai fallito e diventa informazione su dove ti trovi, e lo scambio dopo è esattamente nel tedesco che hai già.",
+      "ondeNaoVale": "La mappa regionale è tracciata da punti d'indagine, non da confini, quindi trattala come una tendenza e non una regola — l'atlante pubblica categorie anziché percentuali, e non esiste area esatta per Moin oltre lo Schleswig-Holstein e il nord della Bassa Sassonia. Rispecchiare un saluto è facoltativo; niente di male segue dall'usare Hallo tutta la settimana. E per gli addii, solo Tschüss e Auf Wiedersehen sono sicuri ovunque: i saluti regionali hanno mappe pubblicate senza alcun testo.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-a05-n05",
+        "de-a05-n06",
+        "de-a05-n07"
+      ]
+    },
+    {
+      "sinal": "Apri in tedesco, e la risposta torna dritta in inglese fluente prima che tu abbia finito la frase.",
+      "suaLeitura": "Il mio accento mi ha tradito e mi è stato cortesemente detto di non sforzarmi.",
+      "oQueEAli": "È un'offerta del canale condiviso più veloce, ed è molto comune: il sessantacinque per cento ha detto nel 2023 di saper sostenere una conversazione in inglese, contro il quarantasette per cento in tutta l'UE. È anche un'autodichiarazione più che una promessa — una diversa indagine ha trovato che dell'ottantotto per cento che dichiara una lingua straniera, solo circa il ventotto per cento si valuta competente. Aspettatelo di più nelle città e da chi è più giovane, e aspettati che molti di loro usino l'inglese solo occasionalmente.",
+      "oQueVoceFaz": "Prendi l'inglese per il contenuto e tieni il tedesco per la cornice: il saluto, il per favore, il grazie e l'addio. Se una parola vale la pena, chiedi come la dicono, e chiedila per iscritto quando non ti resta in testa.",
+      "oQueMelhora": "Smetti di trattare il passaggio come un rifiuto, sbrighi la tua faccenda a piena velocità, e lasci comunque lo scambio con le sei parole che rendono il prossimo più caldo.",
+      "ondeNaoVale": "Non è una garanzia che l'inglese ci sarà. Le cifre calano fuori dalle grandi città e tra i parlanti più anziani, e moduli, avvisi e banconi di paese sono tutta un'altra faccenda. Non c'è alcun dato su un'eventuale differenza est-ovest nell'inglese, quindi nulla va presunto da quale parte del paese ti trovi.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-a05-n02",
+        "de-a05-n03",
+        "de-a05-n04"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "q-b03",
+  "nivel": "basico",
+  "titulo": "Quiz — Entschuldigung, e poi ciò di cui hai bisogno",
+  "subtitulo": "Un'apertura, sette seconde metà, e le due richieste che mettono un numero su carta",
+  "introAudioKey": "de-b03-q-i",
+  "introPt": "Un viaggiatore non afferra il numero del binario a uno sportello dei biglietti e chiede tre volte, ogni volta qualcosa di più piccolo.",
+  "cenario": "Uno sportello dei biglietti in una stazione principale, una fila dietro di te, e una coincidenza con due cambi.",
+  "dialogo": [
+    {
+      "audioKey": "de-b03-q01",
+      "voz": "target_de_f",
+      "es": "Entschuldigung, ich habe das nicht verstanden.",
+      "pt": "Scusi, non ho capito.",
+      "tts": "Entschuldigung, ich habe das nicht verstanden."
+    },
+    {
+      "audioKey": "de-b03-q02",
+      "voz": "target_de_m",
+      "es": "Gleis vierzehn, umsteigen in Hannover.",
+      "pt": "Binario quattordici, cambio ad Hannover.",
+      "tts": "Gleis vierzehn, umsteigen in Hannover."
+    },
+    {
+      "audioKey": "de-b03-q03",
+      "voz": "target_de_f",
+      "es": "Entschuldigung, schreiben Sie es bitte auf.",
+      "pt": "Scusi, me lo scriva per favore.",
+      "tts": "Entschuldigung, schreiben Sie es bitte auf."
+    },
+    {
+      "audioKey": "de-b03-q04",
+      "voz": "target_de_m",
+      "es": "Natürlich. Bitte schön.",
+      "pt": "Certo. Ecco a lei.",
+      "tts": "Natürlich. Bitte schön."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "La risposta è tornata esattamente alla stessa velocità la seconda volta. Cosa chiedi?",
+      "opcoes": [
+        "Noch einmal, un'altra volta",
+        "Langsamer — «più lentamente» nomina la vera difficoltà ed è una cosa più piccola da concedere",
+        "Niente; hai esaurito il tuo turno",
+        "Tutto quanto in inglese"
+      ],
+      "correta": 1,
+      "explica": "Chiedere di ripetere ottiene la stessa frase alla stessa velocità, perché nessuno sa che il problema era la velocità. Usa noch einmal quando non hai afferrato nulla, langsamer quando l'hai sentito ma non riuscivi a stargli dietro."
+    },
+    {
+      "pergunta": "Nella frase c'è un prezzo o il numero di un binario. Qual è la mossa migliore?",
+      "opcoes": [
+        "Chiedere di ripetere finché non lo capisci",
+        "Farlo mettere su carta o su uno schermo — schreiben Sie es bitte auf",
+        "Indovinare e verificare dopo",
+        "Ripetere il numero a caso"
+      ],
+      "correta": 1,
+      "explica": "I numeri sono ciò che ti costa, e sopravvivono peggio di tutto alla ripetizione. La carta chiude lo scambio in una mossa invece che in tre."
+    },
+    {
+      "pergunta": "Su quanto inglese puoi contare in Germania?",
+      "opcoes": [
+        "Praticamente tutti, quindi il tedesco è opzionale",
+        "Circa il sessantacinque per cento ha dichiarato nel sondaggio UE del 2023 di saper sostenere una conversazione — una buona scommessa, non una certezza",
+        "Quasi nessuno fuori dagli aeroporti",
+        "Solo le persone sotto i venticinque anni"
+      ],
+      "correta": 1,
+      "explica": "Sessantacinque per cento contro una media europea del quarantasette, in aumento dal cinquantasei del 2012 — e molti di quelli che lo dichiarano riferiscono anche di usarlo solo occasionalmente. Chiedi prima; non aprire in inglese come se fosse un tuo diritto."
+    },
+    {
+      "pergunta": "Perché ogni seconda metà della formula arriva come un unico blocco intero?",
+      "opcoes": [
+        "Per risparmiare tempo",
+        "Perché il tedesco segna la funzione di un sostantivo sull'articolo che lo precede, quindi costruire tu stesso la metà significherebbe decidere una forma allo sportello",
+        "Perché le parole non si possono separare",
+        "Perché sono modi di dire senza significato letterale"
+      ],
+      "correta": 1,
+      "explica": "L'articolo è la prima parola dello spazio da riempire, quindi una seconda metà aperta ti consegnerebbe una tabella di declinazioni sotto pressione. Qui scegli un bisogno, non una forma, e l'apertura non cambia mai."
+    },
+    {
+      "pergunta": "Cosa fai subito dopo aver detto l'apertura?",
+      "opcoes": [
+        "Continui a parlare per non perdere il coraggio",
+        "Lasci mezzo istante di silenzio — la pausa è ciò che gira uno sconosciuto verso di te",
+        "La ripeti più forte",
+        "Indichi il telefono"
+      ],
+      "correta": 1,
+      "explica": "La pausa cambia la postura dell'altra persona, e qualunque cosa arrivi dopo arriva più lentamente di quanto farebbe altrimenti. Non costa nulla ed è la metà più economica della mossa."
+    }
+  ]
+}

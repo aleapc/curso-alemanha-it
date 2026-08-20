@@ -1,0 +1,96 @@
+{
+  "id": "q-a08",
+  "nivel": "avancado",
+  "titulo": "Quiz — L'ultima mattina, e la carta in tasca",
+  "subtitulo": "Cinque domande su due congedi, dieci aperture, due numeri e l'unica voce che non viene aggiunta al prezzo",
+  "introAudioKey": "de-a08-q-i",
+  "introPt": "Un'ultima mattina passata su tre soglie, e tutto ciò a cui serviva il corso su un'unica carta.",
+  "cenario": "La panetteria, la reception e la porta della cucina, tutte entro duecento metri, e un treno più tardi.",
+  "dialogo": [
+    {
+      "audioKey": "de-a08-q01",
+      "voz": "target_de_f",
+      "es": "Es hat sehr gut geschmeckt.",
+      "pt": "Era molto buono.",
+      "tts": "Es hat sehr gut geschmeckt."
+    },
+    {
+      "audioKey": "de-a08-q02",
+      "voz": "target_de_m",
+      "es": "Das freut mich sehr! Kommen Sie wieder.",
+      "pt": "Mi fa molto piacere! Torni a trovarci.",
+      "tts": "Das freut mich sehr! Kommen Sie wieder."
+    },
+    {
+      "audioKey": "de-a08-q03",
+      "voz": "target_de_f",
+      "es": "Vielen Dank für die Woche! Ich komme wieder.",
+      "pt": "Grazie mille per la settimana! Tornerò.",
+      "tts": "Vielen Dank für die Woche! Ich komme wieder."
+    },
+    {
+      "audioKey": "de-a08-q04",
+      "voz": "target_de_m",
+      "es": "Kommen Sie gut nach Hause! Bis zum nächsten Mal.",
+      "pt": "Faccia buon ritorno a casa! Alla prossima.",
+      "tts": "Kommen Sie gut nach Hause! Bis zum nächsten Mal."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Perché questo corso insegna solo Tschüss e Auf Wiedersehen?",
+      "opcoes": [
+        "I congedi regionali sono considerati sgarbati da parte di uno straniero",
+        "Sono gli unici due che esistono in tedesco standard",
+        "La distribuzione di quelli regionali non ha potuto essere verificata",
+        "Gli altri sono limitati ad Austria e Svizzera"
+      ],
+      "correta": 2,
+      "explica": "Il progetto di sondaggio che stabilirebbe dove Ade, Pfiat di e Servus siano davvero usati ha pubblicato le sue mappe dei congedi senza didascalia e con una riga che dice che il testo deve ancora arrivare. Le etimologie sono fissate nei dizionari; la geografia no. Quindi il corso insegna quello neutro e quello formale e non sostiene nulla sul resto."
+    },
+    {
+      "pergunta": "Componi il 112 in Germania. Chi risponde?",
+      "opcoes": [
+        "Un unico servizio che smista polizia, vigili del fuoco o ambulanza",
+        "I vigili del fuoco e il servizio di ambulanza — la polizia è al 110",
+        "Il servizio medico di guardia",
+        "Una linea in inglese per i visitatori stranieri"
+      ],
+      "correta": 1,
+      "explica": "Ci sono due numeri, ed è questo il dettaglio senza cui arriva un visitatore che viene da un Paese con un numero unico: il 112 è vigili del fuoco e ambulanza, il 110 è la polizia, e il 112 non ti mette in contatto con loro. Un terzo, 116117, copre ciò per cui andresti da un medico quando l'ambulatorio è chiuso — e la sua stessa pagina in inglese dice che il servizio è disponibile solo in tedesco."
+    },
+    {
+      "pergunta": "Lo scaffale dice 0,99 € e la cassa chiede 1,24 €. Che cosa è successo?",
+      "opcoes": [
+        "L'IVA è stata aggiunta alla cassa",
+        "Il prezzo era etichettato male",
+        "Il deposito sul contenitore, che per legge non deve essere incluso nel prezzo",
+        "Un sovrapprezzo sui pagamenti con carta"
+      ],
+      "correta": 2,
+      "explica": "Le regole sui prezzi impongono il prezzo totale, IVA inclusa, e separatamente impongono che il deposito sul contenitore sia indicato accanto a quel totale ed espressamente non conglobato in esso. Entrambi i numeri sono corretti, e la differenza è una regola rispettata, non un trucco."
+    },
+    {
+      "pergunta": "L'aliquota ridotta del 7 per cento è tornata sui pasti al ristorante il 1° gennaio 2026. Dove la vede un cliente?",
+      "opcoes": [
+        "Come voce separata sul conto",
+        "Da nessuna parte — il prezzo indicato è il totale, IVA inclusa",
+        "Aggiunta alla cassa, come un'imposta sulle vendite",
+        "Solo sugli scontrini pagati con carta"
+      ],
+      "correta": 1,
+      "explica": "Poiché la legge impone prezzi totali IVA inclusa, il cliente non vede mai un'aliquota, solo un numero. Le bevande sono rimaste al 19 per cento, e quel cambiamento è altrettanto invisibile sul conto."
+    },
+    {
+      "pergunta": "Perché ogni scheda di questo corso ti ha consegnato il sostantivo con il suo articolo già attaccato?",
+      "opcoes": [
+        "Perché i sostantivi tedeschi si usano sempre con un articolo",
+        "Perché l'articolo cambia con la funzione che il sostantivo svolge, e non ti è mai stato chiesto di ricavarla",
+        "Perché l'articolo porta l'accento della frase",
+        "Perché rende la frase più cortese"
+      ],
+      "correta": 1,
+      "explica": "Einen Tisch, ein Zimmer, eine Bäckerei — imparati per intero, come si impara un numero di telefono. La marca sta sull'articolo e cambia con il ruolo del sostantivo nella frase, e chiedere a un viaggiatore di deciderlo a un bancone è l'unica cosa che il metodo si rifiuta di fare."
+    }
+  ]
+}

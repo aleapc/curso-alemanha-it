@@ -1,0 +1,96 @@
+{
+  "id": "q-b12",
+  "nivel": "basico",
+  "titulo": "Quiz — Ohne, la paroletta che rende il piatto tuo",
+  "subtitulo": "Una parola, quattro banconi e i due modi di dire ch",
+  "introAudioKey": "de-b12-q-i",
+  "introPt": "Un bancone per il pranzo all'una e venti, una coda dietro, e sei piatti cambiati da una sola parola.",
+  "cenario": "Il bancone del pranzo, l'una e venti.",
+  "dialogo": [
+    {
+      "audioKey": "de-b12-q01",
+      "voz": "target_de_f",
+      "es": "Haben Sie etwas ohne Fleisch?",
+      "pt": "Avete qualcosa senza carne?",
+      "tts": "Haben Sie etwas ohne Fleisch?"
+    },
+    {
+      "audioKey": "de-b12-q02",
+      "voz": "target_de_m",
+      "es": "Ja, die Gemüsesuppe und den Kartoffelsalat.",
+      "pt": "Sì, la zuppa di verdure e l'insalata di patate.",
+      "tts": "Ja, die Gemüsesuppe und den Kartoffelsalat."
+    },
+    {
+      "audioKey": "de-b12-q03",
+      "voz": "target_de_f",
+      "es": "Ohne Zwiebeln, bitte.",
+      "pt": "Senza cipolle, per favore.",
+      "tts": "Ohne Zwiebeln, bitte."
+    },
+    {
+      "audioKey": "de-b12-q04",
+      "voz": "target_de_m",
+      "es": "Alles klar. Ohne Zwiebeln. Sonst noch etwas?",
+      "pt": "D'accordo. Senza cipolle. Altro?",
+      "tts": "Alles klar. Ohne Zwiebeln. Sonst noch etwas?"
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Ovunque altro la cosa che ordini porta una paroletta davanti — einen Kaffee, ein Bier. Cosa succede dopo «ohne»?",
+      "opcoes": [
+        "La stessa paroletta serve ancora",
+        "Non ci va nulla davanti: ohne Fleisch, ohne Milch, ohne Eis",
+        "La cosa va al plurale",
+        "Aggiungi bitte in mezzo"
+      ],
+      "correta": 1,
+      "explica": "È l'unica struttura in cui la cosa arriva nuda, e non è una scorciatoia — i nomi generici e di massa lì davvero non prendono nulla."
+    },
+    {
+      "pergunta": "Dove sta «ohne» nella frase?",
+      "opcoes": [
+        "All'inizio, prima della cosa che vuoi",
+        "Subito dopo il verbo",
+        "Alla fine — einen Kaffee ohne Milch",
+        "Ovunque, non fa differenza"
+      ],
+      "correta": 2,
+      "explica": "Tenendolo per ultimo non devi spostare nient'altro, e da solo — ohne Zwiebeln, bitte — è già un'istruzione completa una volta nominato il piatto."
+    },
+    {
+      "pergunta": "«Milch» e «Buch» finiscono entrambe in ⟨ch⟩. È lo stesso suono?",
+      "opcoes": [
+        "Sì, sempre lo stesso",
+        "No: leggero e avanti dopo una vocale anteriore, più indietro in gola dopo una vocale posteriore",
+        "Sì, ed è la k di chemistry",
+        "No, il secondo è muto"
+      ],
+      "correta": 1,
+      "explica": "Ich, Milch e Chemie prendono quello anteriore; Buch e Bach quello posteriore. La vocale davanti sceglie, quindi non c'è nulla da memorizzare parola per parola."
+    },
+    {
+      "pergunta": "Come si fa la ü di «Gemüse»?",
+      "opcoes": [
+        "Dì oo — è la stessa vocale",
+        "Dì ii e arrotonda le labbra senza muovere la lingua",
+        "Dì you come nella parola inglese",
+        "Dì la u di but"
+      ],
+      "correta": 1,
+      "explica": "Il tuo orecchio la assocerà a oo per un po' — in uno studio il 97% di queste vocali è stato udito da ascoltatori angloamericani come vocali posteriori. La bocca è più facile dell'orecchio qui: ii più labbra arrotondate."
+    },
+    {
+      "pergunta": "Lui risponde «Sonst noch etwas?». Cosa vale per te?",
+      "opcoes": [
+        "È un saluto cortese di congedo",
+        "Ti sta chiedendo di pagare",
+        "Un secondo turno al bancone — la bevanda e il pane vanno lì",
+        "Non ha capito cosa hai detto"
+      ],
+      "correta": 2,
+      "explica": "Altro? Dì ja e aggiungi la cosa successiva. L'alternativa è ricordarti della bevanda dopo aver pagato e rimetterti in coda."
+    }
+  ]
+}

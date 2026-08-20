@@ -1,0 +1,449 @@
+{
+  "id": "b02",
+  "nivel": "basico",
+  "numero": 2,
+  "parte": "B02",
+  "titulo": "Saluta entrando, e altre nove parole",
+  "subtitulo": "Dieci parole reggono un'intera visita in negozio — e quella che la apre si muove con la mappa, da Moin al nord a Grüß Gott al sud",
+  "cena": "Entri in un piccolo negozio nel pomeriggio con già due persone dentro, il titolare dietro il bancone alza lo sguardo, e c'è un mezzo secondo in cui o la parola esce o non esce.",
+  "moldura": "ganha",
+  "frasePiso": "Una parola entrando, una uscendo, e tre misure di grazie in mezzo. Questa è l'intera visita.",
+  "moldes": [
+    "DANKE"
+  ],
+  "clique": {
+    "contagem": [
+      "il bancone della panetteria",
+      "la reception dell'hotel",
+      "lo sportello dei biglietti",
+      "l'edificio giusto, a due strade di distanza"
+    ],
+    "desconto": "Nessuno ti ha dato una frase di chiusura diversa per il fornaio, la receptionist e l'impiegato. Hai tenuto una sola parola e hai cambiato solo quanta ne dicevi.",
+    "piso": "La prossima volta che qualcuno ti porge qualcosa e avresti fatto un cenno del capo, uscirà invece una parola — e sceglierai tu quale misura."
+  },
+  "fatosDatados": [
+    {
+      "id": "de-b02-gruss",
+      "afirmacao": "Il saluto del pomeriggio cambia per regione, e l'indagine che lo documenta è ambientata esattamente nella situazione che questa parte insegna: entrare in un piccolo negozio nel pomeriggio. L'Atlas zur deutschen Alltagssprache (Elspaß, Salisburgo / Möller, Liegi), tornata 2, domanda F01, colloca Moin e Moinmoin nello Schleswig-Holstein e nella Bassa Sassonia settentrionale; Grüß Gott nella Germania meridionale, in Austria e nella fascia prealpina; Servus nella Baviera orientale e in Austria; Grüezi e Hoi nella Svizzera settentrionale e orientale e nel Vorarlberg; e Hallo come generale, registrato in circa 150 punti di rilevamento. Due risultati dall'atlante stesso sono migliori della versione da guida turistica: Moin non viene da Morgen ma da moien Dag, dal basso tedesco e frisone moi che significa piacevole, così che la forma abbreviata conserva solo l'aggettivo; e Hallo è il maggiore cambiamento d'uso dagli anni Settanta, che sostituisce o compete con Guten Tag soprattutto al nord e all'ovest, fuori dall'area del Moin.",
+      "fonte": "Atlas zur deutschen Alltagssprache (AdA), Elspaß (Salzburg) / Möller (Liège), Rodada 2, questão F01, «Gruß am Nachmittag» [RESUMO — página lida por fetch]. Pesquisa §3.2. RESSALVAS DE MÉTODO, obrigatórias: o AdA publica CATEGORIAS ORDINAIS (üblich / ab und zu / unüblich) por localidade, NUNCA percentuais — qualquer número percentual atribuído ao AdA seria invenção (lista de exclusão, item 17); e o AdA dá PONTOS DE INQUÉRITO, não isoglossas, de modo que nenhuma fronteira mais fina que «Schleswig-Holstein + norte da Baixa Saxônia» existe para o Moin (item 18). A etimologia de Moin é do próprio AdA; a afirmação de que por isso serve a qualquer hora é MODERADA. O Goethe-Institut foi verificado e descartado: a página não cita fonte nem dado. DATAÇÃO: a pesquisa não declara o ano de campo da Rodada 2 do AdA; o campo `ano` registra a CONSULTA de 2026, não o ano do inquérito, e nenhuma data de campo pode ser atribuída à carta F01.",
+      "ano": 2026,
+      "revisarAte": "2029-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-b02-n04",
+        "de-b02-n05",
+        "de-b02-n06",
+        "de-b02-n07"
+      ]
+    },
+    {
+      "id": "de-b02-sie",
+      "afirmacao": "Sie è l'appellativo di partenza e chi impara non deve mai decidere nulla. Il Duden Sprachratgeber afferma che nella vita lavorativa e con nuovi contatti Sie è l'appellativo corretto, e che il du viene offerto verso il basso — il capo all'impiegato, il collega più anziano al più giovane — con il du non richiesto da un superiore considerato maleducazione. Il linguista Horst Simon (FU Berlino), intervistato da Spektrum der Wissenschaft il 27 marzo 2023, aggiunge la parte che conta di più: chiunque può offrire il du, e la vera asimmetria è che la persona che riceve l'offerta difficilmente può rifiutarla. Simon afferma anche che l'idea che il Sie stia scomparendo non è dimostrata. L'unico dato quantitativo reperito è un'indagine commerciale di Appinio del 7 gennaio 2026, N=4.877, età 16–54: il 54 per cento dà del Sie al proprio capo, e meno di una persona su dieci in ogni fascia d'età è favorevole ad abolire il Sie.",
+      "fonte": "Duden, Sprachratgeber «Duzen oder Siezen?», verbatim: «Grundsätzlich ist im Geschäftsleben oder bei neuen Kontakten aber zunächst das Sie die korrekte Ansprache»; «das Du wird von oben nach unten angeboten, der Chef bietet es dem Mitarbeiter an, die ältere Kollegin der jüngeren». Horst Simon (FU Berlin), entrevista à Spektrum der Wissenschaft, 27/3/2023 [RESUMO]. Appinio, «Siezen oder Duzen», 7/1/2026, N=4.877, 16–54 anos [RESUMO]. Pesquisa §3.1. RESSALVAS: o Appinio é instituto COMERCIAL, representatividade não declarada, e a faixa etária para em 54 anos — serve para dizer «o Sie não está sendo abolido», não para número fino. RECUSADO e fora do curso: «a mulher oferece o du» (item 3 da lista de exclusão) e a DIREÇÃO da assimetria em loja e restaurante (item 20), que nenhuma fonte aberta documenta.",
+      "ano": 2026,
+      "revisarAte": "2028-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-b02-n08",
+        "de-b02-n09"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b02-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "pt": "Dieci parole reggono qui un'intera visita in negozio, e una di esse deve uscire prima di qualsiasi altra cosa.",
+      "tom": "ganha"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b02-n03",
+      "bloco": "corpo",
+      "pt": "Il saluto non è un ornamento. È il mezzo secondo che dice che sei arrivato, non che stai curiosando.",
+      "tom": "ganha"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b02-t01",
+      "es": "Guten Tag.",
+      "pinyin": "GOO-ten tahk",
+      "pt": "Buongiorno. Quello che funziona da metà mattina fino alla sera, ovunque nel paese.",
+      "tts": "Guten Tag."
+    },
+    {
+      "consulta": [
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b02-p01",
+      "promptPt": "Le due del pomeriggio, stai varcando la soglia del negozio, e il titolare ha alzato lo sguardo dalla cassa. Parla adesso.",
+      "audioKey": "de-b02-t01",
+      "es": "Guten Tag.",
+      "pinyin": "GOO-ten tahk",
+      "pt": "Buongiorno.",
+      "tts": "Guten Tag."
+    },
+    {
+      "consulta": [
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b02-p02",
+      "promptPt": "Ora sono le sette di sera, ed entri in un ristorante dove qualcuno tiene in mano una pila di menù. Parla adesso.",
+      "audioKey": "de-b02-t02",
+      "es": "Guten Abend.",
+      "pinyin": "GOO-ten AH-bent",
+      "pt": "Buonasera.",
+      "tts": "Guten Abend."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b02-n04",
+      "pt": "Quale saluto senti dipende dalla mappa. Un'indagine sui saluti del pomeriggio ha trovato una parola diversa per ogni angolo.",
+      "tom": "ganha"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b02-r01",
+      "receptivo": true,
+      "es": "Moin. Moin moin.",
+      "pinyin": "moyn · moyn moyn",
+      "pt": "Ciao, al nord. Una sillaba, detta raddoppiata tanto quanto singola, e arriverà prima che tu abbia varcato la porta.",
+      "tts": "Moin. Moin moin.",
+      "acao": "Rispondi con la stessa parola se sei al nord e l'hai appena sentita. Copia ciò che ha usato la stanza."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b02-n05",
+      "pt": "Moin appartiene allo Schleswig-Holstein e alla Bassa Sassonia settentrionale. E non viene da Morgen.",
+      "tom": "ganha"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b02-n06",
+      "pt": "Viene da una parola del basso tedesco che significa piacevole. Ciò che è sopravvissuto all'abbreviazione è l'aggettivo, non l'ora.",
+      "tom": "ganha"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b02-r02",
+      "receptivo": true,
+      "es": "Grüß Gott. Servus.",
+      "pinyin": "grues got · ZEHR-voos",
+      "pt": "Ciao, al sud, e di nuovo ciao con più calore dentro. Il secondo fa anche da arrivederci.",
+      "tts": "Grüß Gott. Servus.",
+      "acao": "Riconosci questi due anziché ricorrervi. Dove sono di casa li sentirai entro la prima ora."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b02-n07",
+      "pt": "Quei due appartengono al sud. Hallo è dappertutto, ed è il maggiore cambiamento d'uso dagli anni Settanta.",
+      "tom": "ganha"
+    },
+    {
+      "consulta": [
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b02-p03",
+      "promptPt": "Non hai idea di quale regione sei, il posto è piccolo, e qualcuno ha alzato lo sguardo. Una parola ti copre. Parla adesso.",
+      "audioKey": "de-b02-t03",
+      "es": "Hallo.",
+      "pinyin": "HAH-lo",
+      "pt": "Hello.",
+      "tts": "Hallo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b02-n08",
+      "pt": "Ora l'appellativo. Sie è corretto per ogni sconosciuto adulto, ogni bancone e ogni ufficio, per tutto il viaggio.",
+      "tom": "ganha"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b02-n09",
+      "pt": "Il passaggio a quello informale è offerto dall'altra parte, mai preso. Quindi qui non c'è nessuna decisione per te.",
+      "tom": "ganha"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b02-n02",
+      "bloco": "molde",
+      "pt": "Ecco «lo stampo»: danke, danke schön, vielen Dank. Tre misure di grazie, e la misura è la tua unica scelta.",
+      "tom": "ganha"
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "DANKE",
+      "encaixe": "danke",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b02-p04",
+      "promptPt": "Il bancone della panetteria, un sacchetto porto al di là, tre secondi di transazione e una fila dietro di te. Misura più piccola. Parla adesso.",
+      "audioKey": "de-b02-t04",
+      "es": "Danke.",
+      "pinyin": "DAHN-kuh",
+      "pt": "Grazie.",
+      "tts": "Danke."
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "DANKE",
+      "encaixe": "danke schön",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b02-p05",
+      "promptPt": "Alla reception dell'hotel, ha appena stampato la mappa e ci ha tracciato sopra una linea per te. Misura media. Parla adesso.",
+      "audioKey": "de-b02-t05",
+      "es": "Danke schön.",
+      "pinyin": "DAHN-kuh shoen",
+      "pt": "Grazie.",
+      "tts": "Danke schön."
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "DANKE",
+      "encaixe": "vielen Dank",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b02-p06",
+      "promptPt": "Uno sconosciuto ti ha accompagnato all'edificio giusto, a due strade di distanza, e ora sta tornando indietro da dove è venuto. Misura più grande. Parla adesso.",
+      "audioKey": "de-b02-t06",
+      "es": "Vielen Dank.",
+      "pinyin": "FEE-len dahnk",
+      "pt": "Grazie mille.",
+      "tts": "Vielen Dank."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b02-r03",
+      "receptivo": true,
+      "es": "Bitte schön. Gern geschehen.",
+      "pinyin": "BIT-tuh shoen · gehrn guh-SHAY-en",
+      "pt": "Prego, e fatto volentieri. Entrambi ti tornano subito addosso, e nessuno dei due chiede una risposta.",
+      "tts": "Bitte schön. Gern geschehen.",
+      "acao": "Senti questi due come un punto fermo, non come una domanda. Lo scambio è finito e puoi prendere il tuo sacchetto e andare."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b02-n13",
+      "pt": "Bitte fa quattro lavori: per favore, ecco a te, prego e come dice. La parola più riutilizzata del paese.",
+      "tom": "ganha"
+    },
+    {
+      "consulta": [
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b02-p07",
+      "promptPt": "Tiene il sacchetto aperto e ti chiede se vuoi anche il secondo. Lo vuoi. Parla adesso.",
+      "audioKey": "de-b02-t07",
+      "es": "Ja, bitte.",
+      "pinyin": "yah, BIT-tuh",
+      "pt": "Sì, grazie.",
+      "tts": "Ja, bitte."
+    },
+    {
+      "consulta": [
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "DANKE",
+      "encaixe": "danke",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b02-p08",
+      "promptPt": "Stesso bancone, e stavolta ti offre un sacchetto di carta che non ti serve. Rifiutalo senza diventare freddo. Parla adesso.",
+      "audioKey": "de-b02-t08",
+      "es": "Nein, danke.",
+      "pinyin": "nine, DAHN-kuh",
+      "pt": "No, grazie.",
+      "tts": "Nein, danke."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b02-n11",
+      "pt": "Un'altra parola, ed è la più lunga di oggi. Da sola è una scusa. La parte tre la trasforma in un'apertura.",
+      "tom": "ganha"
+    },
+    {
+      "consulta": [
+        "reparo/apontar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b02-p09",
+      "promptPt": "Il corridoio è stretto, sei appena andato addosso a qualcuno all'indietro, e tenete entrambi in mano dei cestini. Parla adesso.",
+      "audioKey": "de-b02-t09",
+      "es": "Entschuldigung.",
+      "pinyin": "ent-SHOOL-di-goong",
+      "pt": "Scusi.",
+      "tts": "Entschuldigung."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b02-n10",
+      "pt": "Due saluti di congedo coprono tutto: quello breve quando esci da un negozio, quello lungo dove la stanza è più formale.",
+      "tom": "ganha"
+    },
+    {
+      "consulta": [
+        "chegar/sair"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b02-p10",
+      "promptPt": "Sei alla porta mentre esci e lei è ancora dietro il bancone. Quello breve. Parla adesso.",
+      "audioKey": "de-b02-t10",
+      "es": "Tschüss!",
+      "pinyin": "chues",
+      "pt": "Ciao!",
+      "tts": "Tschüss!"
+    },
+    {
+      "consulta": [
+        "chegar/sair",
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "DANKE",
+      "encaixe": "danke",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b02-p11",
+      "promptPt": "Allo sportello dei biglietti, l'impiegato ha risolto una coincidenza che era oltre le tue forze, e c'è una fila che aspetta. Chiudi e vai. Parla adesso.",
+      "audioKey": "de-b02-t11",
+      "es": "Danke, auf Wiedersehen.",
+      "pinyin": "DAHN-kuh, owf VEE-duh-zay-en",
+      "pt": "Grazie, arrivederci.",
+      "tts": "Danke, auf Wiedersehen."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-b02-s01",
+      "molde": "DANKE",
+      "es": "Danke. Danke schön. Vielen Dank.",
+      "pinyin": "DAHN-kuh · DAHN-kuh shoen · FEE-len dahnk",
+      "pt": "Ripeti in ombra le tre misure una dietro l'altra, e nota quanto più tempo ci vuole a dire l'ultima.",
+      "tts": "Danke. Danke schön. Vielen Dank."
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b02-n12",
+      "bloco": "recap",
+      "pt": "B02 fatto. Saluta entrando, tre misure di danke, Sie per tutti, e Tschüss uscendo.",
+      "tom": "ganha"
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Dieci parole, un appellativo e una mappa",
+    "secoes": [
+      {
+        "titulo": "Le dieci",
+        "corpo": "Guten Morgen, Guten Tag, Guten Abend; Hallo; bitte; danke, danke schön, vielen Dank; ja e nein; Entschuldigung; Tschüss e Auf Wiedersehen. Questo è tutto il corredo di partenza, e nulla in esso cambia forma a seconda di con chi parli. Due di esse, Moin e Grüß Gott, stanno nella colonna dell'ascolto anziché in quella del parlato, perché appartengono a parti particolari del paese e saprai entro un giorno in quale ti trovi.",
+        "exemplos": [
+          {
+            "es": "Guten Tag. … Danke schön. … Auf Wiedersehen.",
+            "pt": "I tre tempi di una visita: entrata, grazie, uscita"
+          },
+          {
+            "es": "Ja, bitte. / Nein, danke.",
+            "pt": "Sì grazie / no grazie — le due risposte che ti servono di più"
+          }
+        ]
+      },
+      {
+        "titulo": "Le tre misure di grazie",
+        "corpo": "Danke da solo è rapido e appartiene a una transazione: monete, un sacchetto, uno scontrino. Danke schön è un gradino sopra e va bene per qualsiasi cosa che sia costata all'altra persona un momento di attenzione. Vielen Dank è il più pieno dei tre e appartiene a dove qualcuno ha davvero fatto qualcosa per te — ti ha accompagnato da qualche parte, ha fatto una telefonata, ha trovato una coincidenza. La scelta è una scelta di misura, non di grammatica: «lo stampo» non cambia mai forma e non dipende mai da con chi stai parlando."
+      },
+      {
+        "titulo": "Bitte, e i suoi quattro lavori",
+        "corpo": "Bitte è per favore alla fine di una richiesta; è ecco a te quando si porge qualcosa; è prego dopo un grazie; e, detto da solo con tono ascendente, è come dice, non ho capito. Bitte schön e gern geschehen sono le due risposte che sentirai di più dopo aver ringraziato qualcuno, e nessuna delle due ti chiede nulla — chiudono lo scambio."
+      },
+      {
+        "titulo": "La mappa dei saluti, e ciò che l'indagine dice e non dice",
+        "corpo": "Un'indagine sul tedesco quotidiano ha chiesto come le persone salutano abitualmente entrando in un piccolo negozio nel pomeriggio — che è esattamente la situazione in cui ti trovi. Moin e Moinmoin appartengono allo Schleswig-Holstein e alla Bassa Sassonia settentrionale; Grüß Gott alla Germania meridionale, all'Austria e alla fascia prealpina; Servus alla Baviera orientale e all'Austria; Grüezi e Hoi alla Svizzera settentrionale e orientale; e Hallo è generale, registrato in circa centocinquanta punti di rilevamento. Due cose che l'atlante registra e che le guide sbagliano: Moin non è un'abbreviazione di Morgen — viene da moien Dag, da una parola del basso tedesco e del frisone che significa piacevole, quindi ciò che è sopravvissuto è l'aggettivo — e Hallo è il maggiore cambiamento d'uso dagli anni Settanta, che compete con o sostituisce Guten Tag soprattutto al nord e all'ovest, fuori dall'area del Moin. L'atlante pubblica categorie ordinali per località anziché percentuali, e punti di rilevamento anziché confini, quindi non esiste alcun confine del Moin più fine di quello da insegnare."
+      },
+      {
+        "titulo": "Sie, e l'offerta che non puoi fare",
+        "corpo": "Sie è l'appellativo corretto negli affari e con nuovi contatti, ed è ciò che usi per ogni sconosciuto adulto per tutto il viaggio. Il passaggio al du informale è offerto anziché dato per scontato, e viaggia verso il basso — un capo a un impiegato, un collega più anziano a uno più giovane — con un du non richiesto da un superiore considerato maleducazione. Un linguista che lavora sugli appellativi in tedesco fa l'osservazione più acuta: chiunque può offrire il du, e la vera asimmetria è che chi riceve l'offerta difficilmente può rifiutarla. Quindi l'unica mossa a tua disposizione è quella sicura, e la fai non facendo nulla. Quanto all'idea che il Sie stia scomparendo, non è dimostrata; l'unico dato quantitativo disponibile viene da un'indagine commerciale, e in essa meno di una persona su dieci in qualsiasi fascia d'età voleva abolire il Sie."
+      },
+      {
+        "titulo": "Due congedi, e perché solo due",
+        "corpo": "Tschüss è neutro e funziona in un negozio, un bar, una panetteria, un taxi. Auf Wiedersehen è quello formale e appartiene a dove la stanza è formale: un ufficio, una banca, la reception di un medico, la reception di un hotel che ti tratta con attenzione. I congedi regionali esistono — li sentirai al sud e al sud-ovest — ma il materiale d'indagine che li mappa non è stato pubblicato con alcun testo, quindi questo corso insegna i due che sono sicuri ovunque e ti lascia raccogliere quello locale a orecchio."
+      }
+    ]
+  },
+  "slot": "B02",
+  "permissao": "Ti è permesso dire Hallo dappertutto. È generale in tutto il paese, è il singolo maggiore cambiamento nelle abitudini di saluto in cinquant'anni, e nessuno lo sente come il compromesso di un estraneo. Non devi capire in quale regione ti trovi prima di aprire bocca, e non devi mai nemmeno decidere tra appellativo formale e informale — Sie è giusto per impostazione predefinita, e l'altro non sei tu a doverlo offrire.",
+  "permissaoAudioKey": "de-b02-n07",
+  "espelho": "Fai già tutto questo a casa senza dargli un nome: il cenno del capo al giornalaio, il grazie che è una sillaba a una cassa e tre sillabe quando qualcuno ti tiene una porta. Nessuno ti ha insegnato le misure e non ne hai mai sbagliata una. Questa parte è lo stesso insieme di mosse con suoni diversi attaccati.",
+  "fichasCulturais": [
+    {
+      "sinal": "Entri in un piccolo negozio, vai dritto allo scaffale che vuoi, e parli solo alla cassa.",
+      "suaLeitura": "Curiosare in silenzio è la cosa educata — parlare con il personale prima di averne bisogno è disturbarlo.",
+      "oQueEAli": "L'indagine che documenta il comportamento di saluto tedesco è ambientata letteralmente in un piccolo negozio nel pomeriggio, il che ti dice dove vive il saluto: è comportamento da bancone, non cerimonia. La parola stessa cambia con la mappa — Moin nello Schleswig-Holstein e nella Bassa Sassonia settentrionale, Grüß Gott e Servus al sud e in Austria, Grüezi in Svizzera, e Hallo registrato come generale in circa centocinquanta punti di rilevamento.",
+      "oQueVoceFaz": "Di' Hallo o Guten Tag entrando, prima di guardare qualsiasi cosa. Poi usa qualsiasi parola ti sia tornata addosso la volta successiva che entri in un negozio in quella città.",
+      "oQueMelhora": "La seconda metà dello scambio diventa più facile perché la prima metà è avvenuta, e smetti di essere la persona che si materializza alla cassa.",
+      "ondeNaoVale": "L'atlante pubblica categorie ordinali per località, non percentuali, e punti di rilevamento anziché confini — quindi non c'è un'area del Moin esatta oltre lo Schleswig-Holstein e la Bassa Sassonia settentrionale, e nessun numero qui da citare. E niente di tutto ciò dice che un negozio ti tratterà male se resti in silenzio; dice che il saluto è a tua disposizione ed è a buon mercato.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b02-n04"
+      ]
+    },
+    {
+      "sinal": "Qualcuno più o meno della tua età al tavolo accanto, o un commesso in un negozio rivolto a clienti più giovani, ti dà del du informale.",
+      "suaLeitura": "Ora siamo in rapporti informali, quindi sarebbe rigido o poco amichevole da parte mia non rispondere con il du.",
+      "oQueEAli": "Sie è l'appellativo corretto negli affari e con nuovi contatti. Il passaggio al du è un'offerta, viaggia dalla persona più anziana a quella più giovane, e l'asimmetria ben documentata non riguarda chi possa offrire — chiunque può — ma il fatto che chi la riceve difficilmente possa rifiutare. Il che significa che il rischio sta interamente dal lato di chi offre, e tu non sei mai quello che offre.",
+      "oQueVoceFaz": "Mantieni tu il Sie. Nulla di ciò che hai imparato cambia forma, perché il Sie è già dentro ogni frase fissa di questo corso. Se qualcuno usa il du con te, prendilo come una loro scelta e vai avanti.",
+      "oQueMelhora": "Smetti di spendere attenzione su una decisione che non è tua, e non fai mai l'unica mossa che invece cadrebbe male, cioè l'informalità non richiesta da uno sconosciuto.",
+      "ondeNaoVale": "Chi dà del Sie a chi dentro un negozio o un ristorante non è documentato in nessuna fonte aperta — quella direzione è una convenzione descritta, non una misurazione. I dati d'indagine sul Sie vengono da un istituto commerciale con rappresentatività non dichiarata e una fascia d'età che si ferma a 54 anni. E niente di tutto ciò predice la persona davanti a te: un'offerta di du dice qualcosa su di lei e sul suo negozio, non su come stavi andando tu.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b02-n09"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "id": "b07",
+  "nivel": "basico",
+  "numero": 7,
+  "parte": "B07",
+  "slot": "B07",
+  "titulo": "Können Sie — il viaggio in centro, chiesto in quattro parole",
+  "subtitulo": "Un atterraggio in ritardo, un treno regionale e un letto d'hotel, con un'apertura che funziona su ogni sconosciuto nel mezzo",
+  "cena": "La stazione ferroviaria sotto l'aeroporto dopo un atterraggio in ritardo: due tabelloni non concordano, la borsa ha le ruote su una rampa di metallo, e il letto è ancora a tre decisioni di distanza.",
+  "moldura": "ganha",
+  "frasePiso": "Können Sie, più la cosa che vuoi far fare. Un'apertura, e ogni sconosciuto tra il gate e il letto diventa interpellabile.",
+  "moldes": [
+    "KONNEN-SIE"
+  ],
+  "clique": {
+    "contagem": [
+      "il banco informazioni",
+      "il binario",
+      "il treno",
+      "la reception dell'hotel"
+    ],
+    "desconto": "Nessuno ti ha dato una frase per ognuno di quei quattro posti. Hai tenuto un'apertura e hai cambiato solo ciò che veniva dopo.",
+    "piso": "La prossima volta che qualcuno dice qualcosa che non hai colto, non annuirai sperando. La richiederai in quattro parole."
+  },
+  "fatosDatados": [
+    {
+      "id": "de-b07-reservierung",
+      "afirmacao": "Sui treni tedeschi a lunga percorrenza la prenotazione del posto è una possibilità, non un obbligo. Le Beförderungsbedingungen der Deutschen Bahn AG (nuova edizione del 14 dicembre 2025, modificata il 1º gennaio 2026, Tarifbekanntmachung 1/2026) intitolano la clausola A.5/5.1 «Reservierungsmöglichkeit» e affermano che i viaggiatori POSSONO prenotare fino a dodici mesi in anticipo in ICE e IC/EC, che un vettore può imporre l'obbligo di prenotazione su determinati treni, e che «Die reservierungspflichtigen Züge sind im Fahrplan mit R gekennzeichnet.» Il diritto a un posto prenotato decade se non viene occupato entro 15 minuti dalla partenza del treno dalla stazione da cui vale la prenotazione. La tariffa facoltativa è di 5,50 € per persona e tratta in seconda classe e 6,90 € in prima (Stand 1/1/2026). La prenotazione È inclusa e obbligatoria sul Nightjet, sui servizi ICE/TGV per Parigi e Marsiglia, sui treni per Milano via Basilea e su tutti i treni a lunga percorrenza per la Polonia.",
+      "fonte": "Beförderungsbedingungen der Deutschen Bahn AG, Neuausgabe vom 14.12.2025 / Stand 01.01.2026, Tarifbekanntmachung 1/2026, cláusula A.5 / 5.1 e 5.2 (PDF baixado e extraído) + FAQ do bahn.de aberto em 5/8/2026 para as exceções. ⚠ O bahn.de/agb indicava em 5/8/2026 uma versão mais recente, «Stand 31.07.2026», que NÃO foi verificada — inclusive quanto aos valores 5,50 € / 6,90 €.",
+      "ano": 2026,
+      "revisarAte": "2027-01-31",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-b07-n04",
+        "de-b07-n05"
+      ]
+    },
+    {
+      "id": "de-b07-puenktlichkeit",
+      "afirmacao": "La definizione di «pünktlich» delle stesse ferrovie tedesche è un arrivo con meno di 6 minuti di ritardo, misurato a ogni fermata e non solo a destinazione. Con quella definizione il 60,1 per cento dei treni a lunga percorrenza della DB è arrivato in orario nel 2025 (62,5 per cento nel 2024), mentre DB Regio Schiene — i servizi regionali — ha raggiunto l'89,2 per cento. La metrica rivolta ai passeggeri, Reisendenpünktlichkeit, usa una soglia di 14:59 minuti e conta le coincidenze perse e le soppressioni: 65,5 per cento nel 2025. I dati del 2026 sono più bassi: 52,6 per cento di puntualità operativa a lunga percorrenza sia a giugno sia a luglio 2026, contro un obiettivo ufficiale del 60 per cento per l'anno.",
+      "fonte": "DB-Konzern, Geschäftsbericht 2025 (PDF oficial publicado 27/3/2026), seção «Betrieb — Pünktlichkeit», verbatim «Pünktlich sind Ankünfte mit einer Abweichung kleiner + 6 Minuten»; Presseinformation Bilanz 2025 da DB, Berlim, 27/3/2026, verbatim «60,1 Prozent der DB-Fernverkehrszüge erreichten 2025 pünktlich das Ziel (Vorjahr: 62,5 Prozent)»; tabela mensal de Pünktlichkeitswerte em deutschebahn.com, referência julho/2026, acessada em 5/8/2026.",
+      "ano": 2026,
+      "revisarAte": "2027-04-30",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-b07-n06",
+        "de-b07-n07"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b07-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "tom": "ganha",
+      "pt": "Atterraggio in ritardo, un treno, un letto. Tra loro stanno quattro sconosciuti, e una sola apertura li gestisce tutti e quattro."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b07-n02",
+      "bloco": "molde",
+      "tom": "ganha",
+      "pt": "Ecco «lo stampo»: Können Sie, poi la cosa che vuoi far fare. Il verbo sta alla fine, già parcheggiato per te."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b07-t01",
+      "es": "Entschuldigung, können Sie mir helfen?",
+      "pinyin": "ent-SHOOL-di-goong, KUR-nen zee meer HELL-fen",
+      "pt": "Scusi, può aiutarmi?",
+      "tts": "Entschuldigung, können Sie mir helfen?"
+    },
+    {
+      "consulta": [
+        "reparo/apontar",
+        "chegar/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ENTSCHULDIGUNG",
+      "encaixe": "können Sie mir helfen",
+      "encaixeGloss": "aiutarmi",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b07-p01",
+      "promptPt": "Il banco informazioni è aperto e i tabelloni non concordano tra loro. Apri con la parola lunga, poi di' cosa ti serve. Parla adesso.",
+      "audioKey": "de-b07-t01",
+      "es": "Entschuldigung, können Sie mir helfen?",
+      "pinyin": "ent-SHOOL-di-goong, KUR-nen zee meer HELL-fen",
+      "pt": "Scusi, può aiutarmi?",
+      "tts": "Entschuldigung, können Sie mir helfen?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b07-r01",
+      "es": "Ja, natürlich. Wohin möchten Sie?",
+      "pt": "Sì, certo. Dove vuole andare?",
+      "tts": "Ja, natürlich. Wohin möchten Sie?",
+      "receptivo": true,
+      "acao": "Sì più una domanda di ritorno è la forma normale qui. Rispondi col solo nome del luogo — è una risposta completa."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b07-n03",
+      "tom": "ganha",
+      "pt": "Können è «kur-nen». Quella ö è la vocale dell'inglese «her» detta con le labbra arrotondate, e nient'altro cambia."
+    },
+    {
+      "consulta": [
+        "reparo/devagar",
+        "reparo/apontar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "das wiederholen",
+      "encaixeGloss": "ripeterlo",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b07-p02",
+      "promptPt": "Hanno risposto in fretta e ne hai colto una parola. Chiedi tutto una seconda volta. Parla adesso.",
+      "audioKey": "de-b07-t02",
+      "es": "Können Sie das wiederholen?",
+      "pinyin": "KUR-nen zee dass VEE-der-hoh-len",
+      "pt": "Può ripeterlo?",
+      "tts": "Können Sie das wiederholen?"
+    },
+    {
+      "consulta": [
+        "reparo/devagar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "langsamer sprechen",
+      "encaixeGloss": "parlare più lentamente",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b07-p03",
+      "promptPt": "Le stesse parole di nuovo, stessa velocità. Stavolta chiedi di scalare di una marcia. Parla adesso.",
+      "audioKey": "de-b07-t03",
+      "es": "Können Sie langsamer sprechen?",
+      "pinyin": "KUR-nen zee LAHNG-zah-mer SHPREH-khen",
+      "pt": "Può parlare più lentamente?",
+      "tts": "Können Sie langsamer sprechen?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b07-r02",
+      "es": "Sie müssen einmal umsteigen.",
+      "pt": "Deve cambiare una volta.",
+      "tts": "Sie müssen einmal umsteigen.",
+      "receptivo": true,
+      "acao": "Umsteigen significa che scendi e risali. Alza un dito per confermare il numero e chiedi di scrivere la stazione."
+    },
+    {
+      "consulta": [
+        "transporte/plataforma",
+        "transporte/qual-trem"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "mir den Bahnsteig zeigen",
+      "encaixeGloss": "mostrarmi il binario",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b07-p04",
+      "promptPt": "Sei bordi numerati sotto un solo tetto e il tuo treno parte tra quattro minuti. Chiedi di indicare il tuo. Parla adesso.",
+      "audioKey": "de-b07-t04",
+      "es": "Können Sie mir den Bahnsteig zeigen?",
+      "pinyin": "KUR-nen zee meer dayn BAHN-shtyke TSY-gen",
+      "pt": "Può mostrarmi il binario?",
+      "tts": "Können Sie mir den Bahnsteig zeigen?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b07-n04",
+      "tom": "ganha",
+      "pt": "Il tuo biglietto a lunga percorrenza qui non è legato a un posto. Solo i treni contrassegnati R nell'orario richiedono una prenotazione."
+    },
+    {
+      "consulta": [
+        "transporte/qual-trem"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ENTSCHULDIGUNG",
+      "encaixe": "ist dieser Platz frei",
+      "encaixeGloss": "questo posto è libero",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b07-p05",
+      "promptPt": "Sei sul treno, una giacca è sul posto e il suo proprietario guarda fuori dal finestrino. Apri, poi chiedi. Parla adesso.",
+      "audioKey": "de-b07-t05",
+      "es": "Entschuldigung, ist dieser Platz frei?",
+      "pinyin": "ent-SHOOL-di-goong, ist DEE-zer plats fry",
+      "pt": "Scusi, questo posto è libero?",
+      "tts": "Entschuldigung, ist dieser Platz frei?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b07-n05",
+      "tom": "ganha",
+      "pt": "Un posto prenotato smette di essere prenotato quindici minuti dopo che il treno lascia la stazione da cui parte la prenotazione."
+    },
+    {
+      "consulta": [
+        "reparo/escreve"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "das aufschreiben",
+      "encaixeGloss": "scriverlo",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b07-p06",
+      "promptPt": "Un nome di stazione di cinque sillabe ti è appena passato all'orecchio. A mezzanotte la carta batte la memoria. Parla adesso.",
+      "audioKey": "de-b07-t06",
+      "es": "Können Sie das aufschreiben?",
+      "pinyin": "KUR-nen zee dass OWF-shry-ben",
+      "pt": "Può scriverlo?",
+      "tts": "Können Sie das aufschreiben?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b07-r03",
+      "es": "Der Zug hat heute zehn Minuten Verspätung.",
+      "pt": "Oggi il treno è in ritardo di dieci minuti.",
+      "tts": "Der Zug hat heute zehn Minuten Verspätung.",
+      "receptivo": true,
+      "acao": "Verspätung è la parola per un treno in ritardo. Quando la senti, il numero davanti è quello che conta — siediti."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b07-n06",
+      "tom": "ganha",
+      "pt": "Pünktlich su quel tabellone significa meno di sei minuti di ritardo, contato a ogni fermata lungo la linea, non solo alla tua."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b07-n07",
+      "tom": "ganha",
+      "pt": "Con quel conteggio la lunga percorrenza è arrivata in orario al 60,1 per cento nel 2025, e i regionali all'89,2."
+    },
+    {
+      "consulta": [
+        "taxi/destino"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "ein Taxi rufen",
+      "encaixeGloss": "chiamare un taxi",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b07-p07",
+      "promptPt": "Ultima tappa, niente più treni stanotte, e il posteggio fuori è vuoto. Chiedi alla persona al bancone. Parla adesso.",
+      "audioKey": "de-b07-t07",
+      "es": "Können Sie ein Taxi rufen?",
+      "pinyin": "KUR-nen zee eyn TAX-ee ROO-fen",
+      "pt": "Può chiamare un taxi?",
+      "tts": "Können Sie ein Taxi rufen?"
+    },
+    {
+      "consulta": [
+        "quarto/checkin",
+        "reparo/apontar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "mir das erklären",
+      "encaixeGloss": "spiegarmelo",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b07-p08",
+      "promptPt": "La reception dell'hotel ti porge una tessera, un codice e una frase sulla colazione, tutto insieme. Chiedilo più lento e più chiaro. Parla adesso.",
+      "audioKey": "de-b07-t08",
+      "es": "Können Sie mir das erklären?",
+      "pinyin": "KUR-nen zee meer dass air-KLAIR-en",
+      "pt": "Può spiegarmelo?",
+      "tts": "Können Sie mir das erklären?"
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b07-p09",
+      "promptPt": "Chiave in mano, mezzanotte e mezza, e la persona dietro il bancone è rimasta sveglia per te. Chiudi. Parla adesso.",
+      "audioKey": "de-b07-t09",
+      "es": "Vielen Dank. Gute Nacht!",
+      "pinyin": "FEE-len dahnk. GOO-tuh nakht",
+      "pt": "Grazie mille. Buonanotte!",
+      "tts": "Vielen Dank. Gute Nacht!"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-b07-s01",
+      "molde": "KONNEN-SIE",
+      "es": "Können Sie das wiederholen? Können Sie das aufschreiben? Können Sie mir helfen?",
+      "pinyin": "KUR-nen zee dass VEE-der-hoh-len. KUR-nen zee dass OWF-shry-ben. KUR-nen zee meer HELL-fen",
+      "pt": "Ripeti in ombra le stesse quattro parole su tre diverse piccole emergenze.",
+      "tts": "Können Sie das wiederholen? Können Sie das aufschreiben? Können Sie mir helfen?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b07-n08",
+      "bloco": "recap",
+      "tom": "ganha",
+      "pt": "B07 fatto. Können Sie più la cosa che vuoi far fare, dal banco al binario al letto."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Un'apertura, e il verbo già parcheggiato alla fine",
+    "secoes": [
+      {
+        "titulo": "Können Sie più la cosa che vuoi far fare",
+        "corpo": "Il tedesco manda il verbo alla fine della frase in moltissime costruzioni, ed è la cosa più disorientante dell'ordine delle parole per un anglofono. Questo «stampo» la risolve prima che tu ci arrivi: Können Sie è fisso, e qualsiasi cosa ci metti dopo finisce con un infinito che è già seduto dove il tedesco lo vuole. Non stai spostando nulla. Stai scegliendo un blocco e lasciandolo cadere dentro.",
+        "exemplos": [
+          {
+            "es": "Können Sie das wiederholen?",
+            "pt": "Può ripeterlo?"
+          },
+          {
+            "es": "Können Sie mir helfen?",
+            "pt": "Può aiutarmi?"
+          }
+        ]
+      },
+      {
+        "titulo": "Sie è già dentro «lo stampo»",
+        "corpo": "Il Sie di cortesia è inserito nell'apertura, quindi non prendi mai una decisione su come rivolgerti a qualcuno mentre sei stanco e porti una borsa. Sie è la forma giusta per uno sconosciuto, un bancone, un funzionario e un autista, per tutto il viaggio. Se qualcuno più tardi ti offre il du, è un'offerta che fa lui e che tu accetti — non è una scelta che devi fare per primo."
+      },
+      {
+        "titulo": "Il posto non fa parte del biglietto",
+        "corpo": "Sui treni a lunga percorrenza qui una prenotazione è qualcosa che puoi comprare, non qualcosa che il biglietto ti impone: la regola che la governa è persino intitolata «possibilità di prenotazione». I treni che ne richiedono una sono contrassegnati con una R nell'orario, e su quelli la prenotazione arriva comunque con l'acquisto — i treni notturni, i servizi per Parigi e Marsiglia, per Milano via Basilea e per la Polonia. Le prenotazioni facoltative costano 5,50 euro in seconda classe e 6,90 in prima, e un posto che hai prenotato smette di essere tuo quindici minuti dopo che il treno lascia la stazione da cui parte la tua prenotazione."
+      },
+      {
+        "titulo": "Cosa conta come «in orario»",
+        "corpo": "Il dato di puntualità che vedi citato è misurato rispetto a una soglia di meno di sei minuti, a ogni fermata anziché solo a destinazione, ed è per questo che il numero appare sempre migliore di quanto un pomeriggio di viaggio faccia sentire. C'è un secondo dato, più onesto, la Reisendenpünktlichkeit, che ammette quindici minuti e conta la coincidenza che hai perso: 65,5 per cento per la lunga percorrenza nel 2025 contro il 60,1 col conteggio rigoroso. I treni regionali sono la buona notizia per un viaggiatore che arriva da un aeroporto: 89,2 per cento nello stesso anno."
+      },
+      {
+        "titulo": "Umsteigen, e le due parole che lo seguono",
+        "corpo": "La risposta alla tua domanda conterrà molto spesso umsteigen — cambi treno. Viaggia con un numero (einmal, zweimal) e un nome di stazione, e quei tre pezzi sono l'intera istruzione. Se cogli il numero e perdi il nome, hai già «lo stampo» che lo risolve: Können Sie das aufschreiben."
+      }
+    ]
+  },
+  "permissao": "Ti è permesso chiedere le stesse quattro parole al banco, sul binario, sul treno e all'hotel, senza variarle per suonare meno ripetitivo. Nessuno lì sta valutando il tuo tedesco, e chiedere due volte è più economico per tutti che indovinare una volta sola. Ti è anche permesso salire su un treno a lunga percorrenza senza un posto prenotato e semplicemente trovarne uno — è così che il biglietto è progettato per funzionare qui.",
+  "permissaoAudioKey": "de-b07-n02",
+  "espelho": "Chiunque arrivi in una stazione sconosciuta a casa esegue già questa esatta sequenza — trova qualcuno in divisa, chiedi, richiedi più lentamente, fattelo scrivere. L'unica parte nuova è che le quattro parole non cambiano mai.",
+  "fichasCulturais": [
+    {
+      "sinal": "L'app dice che la tua coincidenza ha quattro minuti e il tabellone dice che il treno è in orario, eppure il binario è vuoto.",
+      "suaLeitura": "Il sistema o funziona al secondo o si è rotto, e non riesci a capire quale dei due.",
+      "oQueEAli": "«In orario» qui è una soglia definita, non una promessa: un arrivo conta come puntuale se è in ritardo di meno di sei minuti, ed è misurato a ogni fermata della linea. C'è un secondo dato costruito per i passeggeri, che ammette quindici minuti e conta le coincidenze perse e le soppressioni.",
+      "oQueVoceFaz": "Concedi a una coincidenza più del minimo che l'app offre, e quando viene annunciato un ritardo, cogli il numero che viene prima della parola Verspätung anziché la frase intorno.",
+      "oQueMelhora": "Smetti di leggere un dato di puntualità come una garanzia personale, e pianifichi con un margine l'unica coincidenza della giornata che conta davvero.",
+      "ondeNaoVale": "Non dice nulla sul tuo particolare treno nel tuo particolare giorno. E le due metà della rete si comportano diversamente: la lunga percorrenza ha viaggiato in orario al 60,1 per cento nel 2025, la regionale all'89,2 per cento — la tratta da un aeroporto verso una città è di solito del secondo tipo, non del primo.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b07-n06",
+        "de-b07-n07"
+      ]
+    },
+    {
+      "sinal": "Sali su un treno a lunga percorrenza con un biglietto valido e nessun numero di posto da nessuna parte su di esso.",
+      "suaLeitura": "Qualcosa è andato perso in fase di prenotazione e stai per essere spostato da chi possiede quel posto.",
+      "oQueEAli": "La regola che governa i posti su questi treni è intitolata «possibilità di prenotazione». Prenotare è facoltativo tranne sui treni contrassegnati R nell'orario, dove è comunque inclusa nell'acquisto. Una prenotazione fatta da qualcun altro decade quindici minuti dopo che il treno lascia la stazione da cui parte.",
+      "oQueVoceFaz": "Percorri la carrozza, leggi i piccoli display sopra i posti, e chiedi prima di sederti. Se un posto non mostra alcuna prenotazione per la tua tratta, è tuo.",
+      "oQueMelhora": "Smetti di pagare una prenotazione per ansia, e smetti di stare in piedi in un corridoio accanto a undici posti vuoti.",
+      "ondeNaoVale": "I treni notturni e diversi servizi internazionali richiedono una prenotazione e la includono nel biglietto — il Nightjet, ICE e TGV per Parigi e Marsiglia, i treni per Milano via Basilea e tutti i treni a lunga percorrenza per la Polonia. E questo descrive le condizioni in vigore al 1º gennaio 2026; esiste un'edizione successiva che non è stata verificata, quindi tratta le due cifre delle tariffe come quelle di gennaio.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b07-n04",
+        "de-b07-n05"
+      ]
+    }
+  ]
+}

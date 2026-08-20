@@ -1,0 +1,391 @@
+{
+  "id": "b08",
+  "nivel": "basico",
+  "numero": 8,
+  "parte": "B08",
+  "slot": "B08",
+  "titulo": "Wo ist — e la risposta che puoi tenere in testa",
+  "subtitulo": "Due lettere che si scambiano di posto, tre parole che non cambiano mai, e un braccio che si alza e indica",
+  "cena": "Un incrocio in una città in cui sei atterrato ieri, telefono al quattro per cento, con la porta di una panetteria tenuta aperta all'angolo.",
+  "moldura": "ganha",
+  "frasePiso": "Wo ist, più il luogo. Tre parole, e la risposta arriva come un braccio che indica anziché un paragrafo.",
+  "moldes": [
+    "WO-IST"
+  ],
+  "clique": {
+    "contagem": [
+      "la panetteria",
+      "l'incrocio",
+      "l'atrio della stazione",
+      "la hall dell'hotel"
+    ],
+    "desconto": "Quattro posti, quattro persone diverse, e non hai imparato una nuova frase per nessuno di essi. Solo l'ultima parola è cambiata.",
+    "piso": "La prossima volta che ti perdi, non aprirai un'app di traduzione. Entrerai dalla porta aperta più vicina e dirai tre parole."
+  },
+  "fatosDatados": [
+    {
+      "id": "de-b08-ingles",
+      "afirmacao": "Nella tornata di rilevazione del 2023 dell'Eurobarometro sulle lingue, il 65 per cento degli intervistati in Germania ha detto di parlare una lingua aggiuntiva abbastanza bene da sostenere una conversazione, e quella lingua è in stragrande maggioranza l'inglese; la media UE27 sulla stessa domanda era del 47 per cento. Il dato comparabile del 2012 era del 56 per cento contro una media UE27 del 38 per cento.",
+      "fonte": "Special Eurobarometer 540, «Europeans and their languages» (campo set–out 2023, publicado 2024; Verian para a DG EAC; DOI 10.2766/28257), p. 20, tabela D48.otherlang; série comparável com o Special Eurobarometer 386 (campo fev–mar 2012), p. 21. ⚠ Ressalva de proveniência registrada no dossiê: o PDF do SP540 efetivamente aberto veio de um espelho fora do domínio europa.eu, com capa, ISBN, DOI e layout íntegros e o valor validado contra o texto corrido da p. 19. ⚠ Não somar com o Adult Education Survey do Eurostat: são perguntas diferentes e não são intercambiáveis.",
+      "ano": 2024,
+      "revisarAte": "2027-06-30",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-b08-n07"
+      ]
+    },
+    {
+      "id": "de-b08-gruss",
+      "afirmacao": "Il saluto che senti entrando in un piccolo negozio varia per regione e l'indagine che lo mappa ha posto esattamente quella domanda. Moin e Moinmoin sono registrati nello Schleswig-Holstein e nella Bassa Sassonia settentrionale; Grüß Gott nella Germania meridionale e nella fascia prealpina; Servus nella Baviera orientale; Hallo dappertutto, registrato in circa 150 punti di rilevamento, ed è il maggiore cambiamento d'uso dagli anni Settanta. Moin non viene da «Morgen»: viene da «moien Dag», dall'aggettivo del basso tedesco e del frisone moi, «piacevole» — la forma abbreviata conserva solo l'aggettivo.",
+      "fonte": "Atlas zur deutschen Alltagssprache (AdA), Elspaß (Salzburg) / Möller (Liège), Rodada 2, questão F01 «Gruß am Nachmittag» — a pergunta é literalmente sobre entrar à tarde num pequeno comércio. Página lida em 2026 para o dossiê. ⚠ O AdA publica CATEGORIAS ORDINAIS por localidade (üblich / ab und zu / unüblich), não percentuais: qualquer número percentual atribuído a esta carta seria invenção. ⚠ A «área exata» do Moin não existe — o AdA dá pontos de inquérito, não isoglossas.",
+      "ano": 2026,
+      "revisarAte": "2028-08-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-b08-n06"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b08-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "tom": "ganha",
+      "pt": "Una domanda, tre parole, e una risposta abbastanza piccola da tenere: un braccio si alza e indica."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b08-n02",
+      "bloco": "molde",
+      "tom": "ganha",
+      "pt": "Ecco «lo stampo»: Wo ist, poi il luogo. Wo è «voh» — una w scritta fa il lavoro della tua v."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b08-t01",
+      "es": "Entschuldigung, wo ist der Ausgang?",
+      "pinyin": "ent-SHOOL-di-goong, voh ist dair OWS-gahng",
+      "pt": "Scusi, dov'è l'uscita?",
+      "tts": "Entschuldigung, wo ist der Ausgang?"
+    },
+    {
+      "consulta": [
+        "chegar/sair",
+        "transporte/placas"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ENTSCHULDIGUNG",
+      "encaixe": "wo ist der Ausgang",
+      "encaixeGloss": "dov'è l'uscita",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b08-p01",
+      "promptPt": "L'atrio della stazione ha quattro serie di porte e la luce del giorno nella direzione sbagliata. Apri con la parola lunga, poi chiedi. Parla adesso.",
+      "audioKey": "de-b08-t01",
+      "es": "Entschuldigung, wo ist der Ausgang?",
+      "pinyin": "ent-SHOOL-di-goong, voh ist dair OWS-gahng",
+      "pt": "Scusi, dov'è l'uscita?",
+      "tts": "Entschuldigung, wo ist der Ausgang?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b08-r01",
+      "es": "Immer geradeaus, dann links.",
+      "pt": "Sempre dritto, poi a sinistra.",
+      "tts": "Immer geradeaus, dann links.",
+      "receptivo": true,
+      "acao": "Due pezzi: una linea dritta e una svolta. Ripeti loro la svolta — links o rechts — e guardali annuire."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b08-n03",
+      "tom": "ganha",
+      "pt": "E Sie è «zee», mai «see». Una s scritta all'inizio di parola, davanti a una vocale, esce sonora."
+    },
+    {
+      "consulta": [
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "die Toilette",
+      "encaixeGloss": "la toilette",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b08-p02",
+      "promptPt": "Sei nella panetteria all'angolo e c'è una sosta che tutti fanno dopo una lunga mattinata. Chiedi. Parla adesso.",
+      "audioKey": "de-b08-t02",
+      "es": "Wo ist die Toilette?",
+      "pinyin": "voh ist dee twa-LET-uh",
+      "pt": "Dov'è la toilette?",
+      "tts": "Wo ist die Toilette?"
+    },
+    {
+      "consulta": [
+        "transporte/qual-trem",
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "der Bahnhof",
+      "encaixeGloss": "la stazione",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b08-p03",
+      "promptPt": "Hai un treno tra quaranta minuti e il grande edificio con l'orologio è da qualche parte dietro questi tetti. Chiedi. Parla adesso.",
+      "audioKey": "de-b08-t03",
+      "es": "Wo ist der Bahnhof?",
+      "pinyin": "voh ist dair BAHN-hohf",
+      "pt": "Dov'è la stazione?",
+      "tts": "Wo ist der Bahnhof?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b08-n04",
+      "tom": "ganha",
+      "pt": "Bier è «beer» e nein è «nine». Nelle parole native la coppia di vocali dice il nome della sua seconda lettera."
+    },
+    {
+      "consulta": [
+        "transporte/plataforma"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "die Haltestelle",
+      "encaixeGloss": "la fermata",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b08-p04",
+      "promptPt": "Un tram è appena passato all'incrocio e vuoi il posto dove fa salire le persone. Chiedi. Parla adesso.",
+      "audioKey": "de-b08-t04",
+      "es": "Wo ist die Haltestelle?",
+      "pinyin": "voh ist dee HAHL-tuh-shtell-uh",
+      "pt": "Dov'è la fermata del tram?",
+      "tts": "Wo ist die Haltestelle?"
+    },
+    {
+      "consulta": [
+        "quarto/mala"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "der Aufzug",
+      "encaixeGloss": "l'ascensore",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b08-p05",
+      "promptPt": "Di nuovo nella hall dell'hotel con una borsa pesante e una camera al quarto piano. Chiedi prima di iniziare a salire. Parla adesso.",
+      "audioKey": "de-b08-t05",
+      "es": "Wo ist der Aufzug?",
+      "pinyin": "voh ist dair OWF-tsook",
+      "pt": "Dov'è l'ascensore?",
+      "tts": "Wo ist der Aufzug?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b08-n05",
+      "tom": "ganha",
+      "pt": "Chiedi piccolo e la risposta resta piccola. Sinistra o destra è qualcosa a cui uno sconosciuto può rispondere con una mano."
+    },
+    {
+      "consulta": [
+        "reparo/apontar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b08-p06",
+      "promptPt": "Hanno indicato e poi hanno detto quaranta parole sopra il gesto. Riducilo a una scelta tra due mani. Parla adesso.",
+      "audioKey": "de-b08-t06",
+      "es": "Links oder rechts?",
+      "pinyin": "links OH-der rekhts",
+      "pt": "Sinistra o destra?",
+      "tts": "Links oder rechts?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b08-r02",
+      "es": "Gleich um die Ecke, keine fünf Minuten.",
+      "pt": "Proprio dietro l'angolo, meno di cinque minuti.",
+      "tts": "Gleich um die Ecke, keine fünf Minuten.",
+      "receptivo": true,
+      "acao": "Ecke è angolo e Minuten è minuti. Quelle due parole sono l'intera risposta — inizia a camminare e richiedi all'angolo."
+    },
+    {
+      "consulta": [
+        "chegar/balcao",
+        "transporte/placas"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "einen Stadtplan",
+      "encaixeGloss": "una piantina della città",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b08-p07",
+      "promptPt": "Quattro per cento di batteria rimasta, e la hall dell'hotel ha un espositore di roba di carta vicino alla porta. Chiedi se ne hanno una. Parla adesso.",
+      "audioKey": "de-b08-t07",
+      "es": "Haben Sie einen Stadtplan?",
+      "pinyin": "HAH-ben zee EYE-nen SHTAT-plahn",
+      "pt": "Avete una piantina della città?",
+      "tts": "Haben Sie einen Stadtplan?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b08-n06",
+      "tom": "ganha",
+      "pt": "Ciò che torna alla porta si muove con la mappa: Moin al nord, Grüß Gott al sud, Hallo ovunque."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b08-r03",
+      "es": "Moin! Was kann ich für Sie tun?",
+      "pt": "Moin! Cosa posso fare per lei?",
+      "tts": "Moin! Was kann ich für Sie tun?",
+      "receptivo": true,
+      "acao": "Riconoscilo e rispondi con le tue tre parole. Non devi mai produrre il saluto regionale — Hallo funziona ovunque."
+    },
+    {
+      "consulta": [
+        "pagar/dinheiro",
+        "compras/quanto"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "der Geldautomat",
+      "encaixeGloss": "il bancomat",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b08-p08",
+      "promptPt": "La panetteria accetta banconote e monete e nient'altro, e il tuo portafoglio non ha né le une né le altre. Fai la domanda dell'incrocio. Parla adesso.",
+      "audioKey": "de-b08-t08",
+      "es": "Wo ist der Geldautomat?",
+      "pinyin": "voh ist dair GELT-ow-toh-maht",
+      "pt": "Dov'è il bancomat?",
+      "tts": "Wo ist der Geldautomat?"
+    },
+    {
+      "consulta": [
+        "reparo/apontar",
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b08-p09",
+      "promptPt": "Hanno indicato una via senza fine in vista, e hai una borsa in spalla. Chiedi l'unica cosa che decide se cammini. Parla adesso.",
+      "audioKey": "de-b08-t09",
+      "es": "Ist es weit?",
+      "pinyin": "ist es vyte",
+      "pt": "È lontano?",
+      "tts": "Ist es weit?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b08-n07",
+      "tom": "ganha",
+      "pt": "Due adulti su tre qui dicono di poter sostenere una conversazione in un'altra lingua, e di solito è l'inglese."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-b08-s01",
+      "molde": "WO-IST",
+      "es": "Wo ist der Bahnhof? Wo ist die Toilette? Wo ist der Aufzug?",
+      "pinyin": "voh ist dair BAHN-hohf. voh ist dee twa-LET-uh. voh ist dair OWF-tsook",
+      "pt": "Ripeti in ombra le stesse tre parole su tre posti che non hanno nulla a che vedere l'uno con l'altro.",
+      "tts": "Wo ist der Bahnhof? Wo ist die Toilette? Wo ist der Aufzug?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b08-n08",
+      "bloco": "recap",
+      "tom": "ganha",
+      "pt": "B08 fatto. Wo ist più il luogo, poi una domanda con due risposte per tenere piccolo il resto."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Tre parole in uscita, un braccio di ritorno",
+    "secoes": [
+      {
+        "titulo": "Wo ist più il luogo",
+        "corpo": "Questo è «lo stampo» più economico del corso e c'è una ragione grammaticale. Dopo ist, il tedesco usa la semplice forma da dizionario del sostantivo — la stessa sul cartello, la stessa nel tuo frasario. Quindi mentre ogni altro «stampo» ti chiede di imparare l'articolo e il sostantivo come un unico blocco incollato, qui il blocco che impari è per l'appunto il blocco che era già scritto per te: der Bahnhof, die Toilette, der Ausgang.",
+        "exemplos": [
+          {
+            "es": "Wo ist der Bahnhof?",
+            "pt": "Dov'è la stazione?"
+          },
+          {
+            "es": "Wo ist die Haltestelle?",
+            "pt": "Dov'è la fermata del tram?"
+          }
+        ]
+      },
+      {
+        "titulo": "Le lettere che si scambiano di posto",
+        "corpo": "Tre scambi ti comprano gran parte della lettura, e nessuno di essi è un suono nuovo. Una w scritta è la tua v: Wo è «voh», Wasser è «vasser». Una v scritta è di solito la tua f: viel è «feel», Vater è «fahter» — anche se le regole ortografiche ufficiali tengono per questo una breve lista chiusa di parole native, e i prestiti come Vase e privat mantengono il suono v. Una s scritta all'inizio di parola, davanti a una vocale, è sonora: Sie è «zee», sagen è «zahgen». E una z scritta è «ts», come in cats, mai «zee»."
+      },
+      {
+        "titulo": "Di' la seconda lettera",
+        "corpo": "La coppia ei si dice come la lettera inglese I — nein è «nine», eins è «eyntss». La coppia ie è una E lunga — Bier è «beer», vier è «feer». Entrambe sono il nome della seconda lettera della coppia, e nelle parole native la regola non si rompe. Questa singola riga copre centinaia di parole che leggerai sui cartelli, ed è la differenza tra dire «beer» e dire qualcosa che nessuno nella stanza riconosce."
+      },
+      {
+        "titulo": "Fai una domanda la cui risposta ti entra in testa",
+        "corpo": "Uno sconosciuto che vuole essere d'aiuto ti darà più di quanto tu possa reggere. Due piccole richieste di seguito lo risolvono senza alcuna grammatica: links oder rechts, che costringe la risposta in una di due mani, e ist es weit, che decide se cammini o prendi qualcosa. Entrambe sono sì-o-no o l'uno-o-l'altro, ed entrambe lasciano la persona libera di rispondere con un gesto."
+      },
+      {
+        "titulo": "Ciò che torna alla porta",
+        "corpo": "Il saluto che senti entrando si muove con la mappa: Moin nello Schleswig-Holstein e nella Bassa Sassonia settentrionale, Grüß Gott in tutto il sud e nella fascia prealpina, Servus nella Baviera orientale, e Hallo più o meno ovunque — quest'ultimo è il maggiore cambiamento nell'uso comune dagli anni Settanta. Moin, per inciso, non ha nulla a che vedere con Morgen: viene da un aggettivo che significa piacevole, e l'abbreviazione ha conservato solo l'aggettivo. Non te ne serve nessuno nella tua bocca. Hallo è sicuro ovunque, e riconoscere gli altri è ciò che ti impedisce di sentire un saluto amichevole come una parola che non sei riuscito a imparare."
+      },
+      {
+        "titulo": "Spesso risponderanno in inglese",
+        "corpo": "Circa due adulti su tre qui dicono di poter sostenere una conversazione in una lingua aggiuntiva, e in pratica quella lingua è l'inglese. Ottenere una risposta in inglese a una domanda in tedesco non è un fallimento del tuo tedesco: è qualcuno che è efficiente con uno sconosciuto che porta una borsa. Chiedi in tedesco, prendi la risposta nella lingua in cui arriva, e ringrazia in tedesco."
+      }
+    ]
+  },
+  "permissao": "Ti è permesso usare le stesse identiche tre parole alla panetteria, all'incrocio, nell'atrio della stazione e nella hall dell'hotel, senza abbellirle. Ti è anche permesso ricevere risposta in inglese e continuare poi in tedesco — il saluto e la domanda con cui hai aperto hanno già fatto il loro lavoro, e nessuno si aspetta che un visitatore produca il saluto regionale che usano loro stessi.",
+  "permissaoAudioKey": "de-b08-n02",
+  "espelho": "Chiunque venga fermato per strada a casa da un visitatore con tre parole e una faccia speranzosa sa già cosa fare: indicare, dire una svolta, e lasciarlo andare. È esattamente la transazione che stai preparando, solo dall'altro lato.",
+  "fichasCulturais": [
+    {
+      "sinal": "Apri con le tue tre parole di tedesco e la risposta torna in inglese fluente.",
+      "suaLeitura": "Il tuo accento ti ha tradito e il tedesco che hai esercitato è stato una serata sprecata.",
+      "oQueEAli": "Nella tornata del 2023 dell'indagine europea sulle lingue, il 65 per cento degli intervistati in Germania ha detto di parlare una lingua aggiuntiva abbastanza bene da sostenere una conversazione, contro una media UE del 47 — e quella lingua è in stragrande maggioranza l'inglese. Passare all'inglese è efficienza con uno sconosciuto, non un verdetto sulla tua pronuncia.",
+      "oQueVoceFaz": "Fai comunque la domanda in tedesco, prendi la risposta in inglese, e chiudi in tedesco. È l'apertura che cambia la temperatura dello scambio, non l'intera conversazione.",
+      "oQueMelhora": "Ottieni l'informazione più in fretta e ricevi comunque il merito di aver chiesto, che è la parte che si vede sui volti delle persone.",
+      "ondeNaoVale": "È capacità autodichiarata da un'indagine, non una misurazione, e il numero a livello nazionale nasconde le suddivisioni: i dati europei mostrano il dato che cresce con la giovinezza, con gli anni di istruzione e con la dimensione della città, ed è solo un dato nazionale. Non ci sono dati pubblicati suddivisi per Bundesland o tra est e ovest, quindi non portare un'aspettativa in una particolare città.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b08-n07"
+      ]
+    },
+    {
+      "sinal": "Entri in un piccolo negozio, dici Guten Tag, e ti torna una singola sillaba che non gli somiglia affatto.",
+      "suaLeitura": "Ti hanno risposto in modo brusco, o hai sbagliato il saluto.",
+      "oQueEAli": "L'indagine che mappa questo ha posto esattamente la tua domanda — come le persone salutano entrando in un piccolo negozio nel pomeriggio — e la risposta è regionale. Moin e Moinmoin nello Schleswig-Holstein e nella Bassa Sassonia settentrionale, Grüß Gott in tutto il sud, Servus nella Baviera orientale, Hallo quasi dappertutto. Moin non è l'abbreviazione di Morgen; viene da un aggettivo che significa piacevole, e funziona a qualsiasi ora.",
+      "oQueVoceFaz": "Riconoscilo, rispondi con Hallo, e vai dritto alle tue tre parole. Copiare la forma locale non è richiesto e non è il prezzo di uno scambio amichevole.",
+      "oQueMelhora": "Un saluto di una sillaba smette di suonare come impazienza, che è la singola errata interpretazione più comune che un visitatore fa passando una porta.",
+      "ondeNaoVale": "L'indagine pubblica categorie ordinali per località — abituale, occasionale, insolito — e non percentuali, quindi nessun numero appartiene a nessuna di queste forme. La mappa dà punti di rilevamento anziché confini: il nucleo del Moin è lo Schleswig-Holstein e la Bassa Sassonia settentrionale, e qualsiasi confine più fine di quello sarebbe inventato. E niente di tutto ciò predice cosa un singolo individuo ti dirà.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b08-n06"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "id": "b10",
+  "nivel": "basico",
+  "numero": 10,
+  "parte": "B10",
+  "slot": "B10",
+  "titulo": "Pronuncia la seconda lettera e il cartello si legge da solo",
+  "subtitulo": "Porte, orari di apertura e un'etichetta che significa l'opposto di quello che sembra",
+  "cena": "Domenica, nove e venti, una via di saracinesche abbassate in una città in cui sei atterrato ieri sera, e l'unica finestra illuminata è una panetteria due porte più in là.",
+  "moldura": "ganha",
+  "frasePiso": "Quattro cose trovate in una città sconosciuta con tre parole. Quasi tutti quelli che passano una settimana qui indicano le cose con il dito e sperano.",
+  "moldes": [
+    "ICH-SUCHE"
+  ],
+  "clique": {
+    "contagem": [
+      "la vetrina della farmacia",
+      "l'atrio della banca",
+      "la panetteria",
+      "l'atrio della stazione"
+    ],
+    "desconto": "Nessuno ti ha passato quattro frasi. Hai tenuto due parole e cambiato la cosa in fondo, e la via ti ha risposto ogni volta.",
+    "piso": "La prossima volta che una via non ti dà niente da indicare, avrai comunque un'apertura — e leggerai la porta prima di tirarla."
+  },
+  "fatosDatados": [
+    {
+      "id": "de-b10-ladenschluss",
+      "afirmacao": "La chiusura dei negozi è scritta nella legge, non nell'abitudine. Il § 3 della Ladenschlussgesetz federale tiene i negozi chiusi la domenica e nei giorni festivi, prima delle 6 del mattino e dalle 8 di sera, e il 24 dicembre dalle 14; le panetterie possono aprire dalle cinque e mezza. Dopo la riforma del federalismo del 2006 sono i sedici Länder a legiferare in proprio — l'art. 74, comma 1, n. 11 della Legge Fondamentale esclude il Ladenschluss dal diritto economico federale — e la legge federale resta come modello residuo.",
+      "fonte": "Ladenschlussgesetz § 3 e Art. 74 Abs. 1 Nr. 11 GG, texto integral em gesetze-im-internet.de, lido em 5/8/2026",
+      "ano": 2026,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-b10-n07"
+      ]
+    },
+    {
+      "id": "de-b10-bayern-2025",
+      "afirmacao": "La Baviera ha smesso di seguire la legge federale: la Bayerisches Ladenschlussgesetz del 25 luglio 2025 è in vigore dal 1º agosto 2025. Mantiene il limite delle 20 dal lunedì al sabato, permette a un comune di liberare fino a otto serate all'anno senza dover addurre motivo, e consente ai mini-supermercati senza personale fino a 150 metri quadri di aprire 24 ore su 24, domenica compresa.",
+      "fonte": "Bayerisches Ladenschlussgesetz de 25/7/2025 (GVBl. S. 246), Art. 2, verificado em gesetze-bayern.de",
+      "ano": 2025,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-b10-n08"
+      ]
+    },
+    {
+      "id": "de-b10-bargeld",
+      "afirmacao": "Il contante è l'unico mezzo di pagamento legale illimitato ai sensi del § 14, comma 1, della legge sulla Bundesbank, e nulla obbliga un commerciante ad accettare la carta. L'indagine sui pagamenti della Bundesbank pubblicata il 17 giugno 2026 ha rilevato che il contante era utilizzabile nel 94% degli acquisti in presenza e che un metodo diverso dal contante era, o sarebbe stato, accettato nell'86% — in crescita rispetto all'81% di due anni prima; nei mercati e nelle bancarelle l'accettazione di mezzi diversi dal contante era del 43%.",
+      "fonte": "§ 14 Abs. 1 BBankG; Deutsche Bundesbank, «Zahlungsverhalten in Deutschland 2025», publicado 17/6/2026 (6.070 entrevistas, campo 8/9 a 2/12/2025)",
+      "ano": 2026,
+      "revisarAte": "2028-06-30",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-b10-n06"
+      ]
+    },
+    {
+      "id": "de-b10-pfand-etiqueta",
+      "afirmacao": "L'etichetta sullo scaffale e la cassa sono in disaccordo per legge. Il § 3 della Preisangabenverordnung obbliga a indicare il prezzo totale IVA compresa, e il § 7 obbliga a indicare la cauzione accanto a quel prezzo e a non sommarla espressamente ad esso; il § 31 della Verpackungsgesetz fissa la cauzione a un minimo di 25 centesimi IVA compresa. Così una bottiglia etichettata 0,99 € viene battuta a 1,24 €.",
+      "fonte": "PAngV 2022 §§ 3 e 7; VerpackG § 31 Abs. 1, texto integral em gesetze-im-internet.de, lido em 5/8/2026",
+      "ano": 2026,
+      "revisarAte": "2027-01-31",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-b10-n11"
+      ]
+    },
+    {
+      "id": "de-b10-ortografia",
+      "afirmacao": "Le regole di lettura sono ufficiali, non folklore: l'Amtliches Regelwerk in vigore dal 1º luglio 2024 elenca ⟨ie⟩ come una e lunga nelle parole native, ⟨ei⟩ come il dittongo di eigen, ⟨w⟩ come v, ⟨z⟩ come ts tra le combinazioni consonantiche, e ⟨s⟩ davanti a una vocale come z in sagen, Seife, lesen. ⟨v⟩ è quella che non segue una regola unica: il § 29 dà f in una breve lista chiusa di parole native — Vater, viel, vier, von, vor e poche altre — mentre il § 30 dà v nei prestiti come Vase e privat e registra un'oscillazione genuina in November, Larve, Vers.",
+      "fonte": "Rat für deutsche Rechtschreibung / IDS Mannheim, «Amtliches Regelwerk der deutschen Rechtschreibung», edição 2024, §§ 1, 22, 27, 29 e 30",
+      "ano": 2024,
+      "revisarAte": "2028-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-b10-n03",
+        "de-b10-n04"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b10-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "tom": "ganha",
+      "pt": "Prima che qualcuno qui ti parli, lo fanno i muri. Porte, orari ed etichette: gran parte di questo viaggio è scritta."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b10-n02",
+      "bloco": "cena",
+      "pt": "Domenica, nove e venti, una via di saracinesche abbassate. Due finestre sono illuminate e tutte e due ti stanno dicendo qualcosa."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b10-r01",
+      "es": "Geöffnet: Montag bis Samstag, 8 bis 20 Uhr. Sonntag Ruhetag.",
+      "pinyin": "guh-URF-net: MOHN-tahk bis ZAMS-tahk, akht bis TSVAN-tsikh oor. ZON-tahk ROO-eh-tahk",
+      "pt": "Aperto dal lunedì al sabato, dalle 8 alle 20. Domenica giorno di riposo.",
+      "tts": "Geöffnet: Montag bis Samstag, acht bis zwanzig Uhr. Sonntag Ruhetag.",
+      "receptivo": true,
+      "acao": "Leggi prima il secondo numero. Venti sono le otto di sera. Ogni Land fissa il proprio limite serale, quindi l'autorità è il cartello, non l'abitudine."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b10-r02",
+      "es": "Ziehen. Drücken.",
+      "pinyin": "TSEE-en. DRUEK-en",
+      "pt": "Tirare. Spingere.",
+      "tts": "Ziehen. Drücken.",
+      "receptivo": true,
+      "acao": "Due parole sul vetro all'altezza degli occhi. Leggile prima che decida la tua mano."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b10-n03",
+      "bloco": "corpo",
+      "pt": "Una regola di lettura ripaga il viaggio. In ei e ie, pronuncia la seconda lettera. Bier è birra. Nein fa rima con l'inglese nine."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b10-r03",
+      "es": "Eingang. Ausgang. Einfahrt. Ausfahrt.",
+      "pinyin": "INE-gang. OWS-gang. INE-fart. OWS-fart",
+      "pt": "Entrata. Uscita. Ingresso, per i veicoli. Uscita, per i veicoli.",
+      "tts": "Eingang. Ausgang. Einfahrt. Ausfahrt.",
+      "receptivo": true,
+      "acao": "Ein è dentro, aus è fuori. Una volta sentita questa coppia riesci a leggere metà dei cartelli di qualunque edificio qui."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b10-n04",
+      "pt": "Tre lettere ti cambiano suono. W diventa v, z diventa ts, e v è f nelle parole antiche. Wasser, zehn, vier."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b10-r04",
+      "es": "Nur Bargeld.",
+      "pinyin": "noor BAR-gelt",
+      "pt": "Solo contanti.",
+      "tts": "Nur Bargeld.",
+      "receptivo": true,
+      "acao": "Controlla la cassa per questo prima di ordinare, non dopo. È un cartello lecito, ed è la ragione per cui esiste la frase successiva."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b10-n05",
+      "bloco": "molde",
+      "pt": "Ed ecco lo stampo che trova le cose: ich suche, e poi qualunque cosa tu stia cercando di raggiungere."
+    },
+    {
+      "consulta": [
+        "saude/algo-para",
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-SUCHE",
+      "encaixe": "eine Apotheke",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b10-p01",
+      "promptPt": "Le pastiglie per il mal di testa sono finite sull'aereo e l'uomo che porta a spasso il cane ha l'aria di chi abita qui. Di' cosa cerchi. Parla adesso.",
+      "audioKey": "de-b10-t01",
+      "es": "Ich suche eine Apotheke.",
+      "pinyin": "ikh ZOO-khuh INE-uh ah-poh-TAY-kuh",
+      "pt": "Cerco una farmacia.",
+      "tts": "Ich suche eine Apotheke."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b10-rr01",
+      "es": "Am Marktplatz, gleich neben der Kirche.",
+      "pinyin": "am MARKT-plats, glykh NAY-ben dair KEER-khuh",
+      "pt": "In piazza del mercato, proprio accanto alla chiesa.",
+      "tts": "Am Marktplatz, gleich neben der Kirche."
+    },
+    {
+      "consulta": [
+        "pagar/dinheiro",
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-SUCHE",
+      "encaixe": "einen Geldautomaten",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b10-p02",
+      "promptPt": "Alla cassa della panetteria c'era scritto solo contanti e ti restano undici euro. Chiedi alla donna nell'atrio della banca. Parla adesso.",
+      "audioKey": "de-b10-t02",
+      "es": "Ich suche einen Geldautomaten.",
+      "pinyin": "ikh ZOO-khuh INE-en GELT-ow-toh-mah-ten",
+      "pt": "Cerco un bancomat.",
+      "tts": "Ich suche einen Geldautomaten."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b10-n06",
+      "pt": "Il contante funziona quasi ovunque; la carta no. Nulla obbliga nessuno qui ad accettare la tua."
+    },
+    {
+      "consulta": [
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-SUCHE",
+      "encaixe": "eine Bäckerei",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b10-p03",
+      "promptPt": "È domenica e l'unica finestra illuminata della via vende qualcosa di caldo. Scopri dov'è la più vicina. Parla adesso.",
+      "audioKey": "de-b10-t03",
+      "es": "Ich suche eine Bäckerei.",
+      "pinyin": "ikh ZOO-khuh INE-uh bek-uh-RYE",
+      "pt": "Cerco una panetteria.",
+      "tts": "Ich suche eine Bäckerei."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b10-n07",
+      "bloco": "capsula",
+      "pt": "Gli orari sono legge, non umore. Domeniche e festivi chiuso; il limite serale è le otto, e ogni Land può spostarlo."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b10-r05",
+      "es": "Bäckerei: Sonntag 8 bis 11 Uhr.",
+      "pinyin": "bek-uh-RYE: ZON-tahk akht bis elf oor",
+      "pt": "Panetteria: domenica, dalle 8 alle 11.",
+      "tts": "Bäckerei: Sonntag acht bis elf Uhr.",
+      "receptivo": true,
+      "acao": "Copiati la finestra oraria nella tua mattinata. La fascia domenicale è breve e chiude intorno alla funzione principale in chiesa."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b10-n08",
+      "pt": "La Baviera ha scritto la propria versione nel 2025: i negozi senza personale fino a 150 metri quadri possono aprire 24 ore su 24."
+    },
+    {
+      "consulta": [
+        "compras/balcao",
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-SUCHE",
+      "encaixe": "einen Supermarkt",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b10-p04",
+      "promptPt": "Lunedì, sei e mezza, e il frigo dell'appartamento che hai affittato è vuoto. Chiedi al vicino sulle scale. Parla adesso.",
+      "audioKey": "de-b10-t04",
+      "es": "Ich suche einen Supermarkt.",
+      "pinyin": "ikh ZOO-khuh INE-en ZOO-per-markt",
+      "pt": "Cerco un supermercato.",
+      "tts": "Ich suche einen Supermarkt."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b10-r06",
+      "es": "Verkauf von Reisebedarf an Reisende.",
+      "pinyin": "fair-KOWF fon RYE-zuh-buh-darf an RYE-zen-duh",
+      "pt": "Vendita di articoli da viaggio ai viaggiatori.",
+      "tts": "Verkauf von Reisebedarf an Reisende.",
+      "receptivo": true,
+      "acao": "Questa riga è la licenza dei negozi nelle stazioni e negli aeroporti. Aspettati uno scaffale da viaggio, non la spesa settimanale."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b10-n09",
+      "pt": "I negozi di stazioni e aeroporti restano aperti tutto il giorno, e per legge vendono articoli da viaggio."
+    },
+    {
+      "consulta": [
+        "transporte/placas",
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "der Eingang",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b10-p05",
+      "promptPt": "Hai percorso tutto l'atrio della stazione e ogni porta a vetri che hai provato è per uscire. Chiedi alla guardia. Parla adesso.",
+      "audioKey": "de-b10-t05",
+      "es": "Wo ist der Eingang?",
+      "pinyin": "voh ist dair INE-gang",
+      "pt": "Dov'è l'entrata?",
+      "tts": "Wo ist der Eingang?"
+    },
+    {
+      "consulta": [
+        "transporte/placas",
+        "quarto/mala"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "der Aufzug",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b10-p06",
+      "promptPt": "Binario 11, due rampe di scale, e una valigia che pesa più di quanto pesasse giovedì. Chiedi. Parla adesso.",
+      "audioKey": "de-b10-t06",
+      "es": "Wo ist der Aufzug?",
+      "pinyin": "voh ist dair OWF-tsook",
+      "pt": "Dov'è l'ascensore?",
+      "tts": "Wo ist der Aufzug?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b10-n10",
+      "tom": "protege",
+      "pt": "Una parola da leggere piano. Gift su una bottiglia è veleno. Stessa antica radice della tua parola, compito opposto."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b10-r07",
+      "es": "Gift. Nicht trinken.",
+      "pinyin": "gift. nikht TRINK-en",
+      "pt": "Veleno. Non bere.",
+      "tts": "Gift. Nicht trinken.",
+      "receptivo": true,
+      "acao": "Rimetti la bottiglia sullo scaffale. Il significato antico della parola sopravvive solo dentro Mitgift, una dote — mai su un'etichetta."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b10-n11",
+      "tom": "ganha",
+      "pt": "Poi l'etichetta che sembra un errore ed è obbedienza. Lo scaffale dice 0,99 e la cassa dice 1,24."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b10-r08",
+      "es": "0,99 Euro, zuzüglich 25 Cent Pfand.",
+      "pinyin": "NOOL komma NOYN-oont-NOYN-tsikh OY-roh, TSOO-tsueg-likh FUENF-oont-tsvan-tsikh tsent pfant",
+      "pt": "0,99 euro, più 25 centesimi di cauzione.",
+      "tts": "Null Komma neunundneunzig Euro, zuzüglich fünfundzwanzig Cent Pfand.",
+      "receptivo": true,
+      "acao": "Aggiungi tu stesso la cauzione prima di contare le monete. La legge vieta al negozio di sommarla al prezzo di scaffale."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b10-n12",
+      "pt": "Ovunque altrove il numero sullo scaffale è il numero intero. La tassa è già dentro, non si aggiunge niente."
+    },
+    {
+      "consulta": [
+        "transporte/placas"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "der Ausgang",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b10-p07",
+      "promptPt": "Bottiglie restituite, monete in mano, e questo negozio l'ha costruito qualcuno che odia la luce del giorno. Chiedi. Parla adesso.",
+      "audioKey": "de-b10-t07",
+      "es": "Wo ist der Ausgang?",
+      "pinyin": "voh ist dair OWS-gang",
+      "pt": "Dov'è l'uscita?",
+      "tts": "Wo ist der Ausgang?"
+    },
+    {
+      "consulta": [
+        "chegar/entrar",
+        "transporte/placas"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-SUCHE",
+      "encaixe": "den Hauptbahnhof",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b10-p08",
+      "promptPt": "Il tuo treno parte tra quaranta minuti e la mappa sul telefono ha deciso di caricare un quadrato grigio vuoto. Chiedi a chiunque. Parla adesso.",
+      "audioKey": "de-b10-t08",
+      "es": "Ich suche den Hauptbahnhof.",
+      "pinyin": "ikh ZOO-khuh dayn HOWPT-bahn-hohf",
+      "pt": "Cerco la stazione centrale.",
+      "tts": "Ich suche den Hauptbahnhof."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-b10-s01",
+      "es": "Ich suche eine Apotheke. Ich suche einen Geldautomaten. Ich suche den Hauptbahnhof.",
+      "pinyin": "ikh ZOO-khuh INE-uh ah-poh-TAY-kuh. ikh ZOO-khuh INE-en GELT-ow-toh-mah-ten. ikh ZOO-khuh dayn HOWPT-bahn-hohf",
+      "pt": "Ripeti in ombra le stesse due parole attraverso tre commissioni completamente diverse.",
+      "tts": "Ich suche eine Apotheke. Ich suche einen Geldautomaten. Ich suche den Hauptbahnhof.",
+      "molde": "ICH-SUCHE"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b10-n13",
+      "bloco": "clique",
+      "pt": "Conta i posti: la vetrina della farmacia, l'atrio della banca, la panetteria, l'atrio della stazione."
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b10-n14",
+      "bloco": "recap",
+      "pt": "B10 fatto. Leggi la seconda lettera, leggi l'ora di chiusura, e metti ich suche davanti a qualunque cosa ti serva."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "La via come esercizio di lettura",
+    "secoes": [
+      {
+        "titulo": "La regola della seconda lettera",
+        "corpo": "Il tedesco ei e ie sono la coppia che manda in tilt un lettore inglese, perché l'inglese ha believe ma anche height, seize, receive e ceiling. Il tedesco non ha questo litigio con sé stesso: in entrambi i digrammi pronunci la seconda lettera. Ei è il suono della lettera inglese I — nein, eins, Wein, Einfahrt. Ie è una e lunga — Bier, vier, Liebe, sieben. Le regole ortografiche ufficiali in vigore dal luglio 2024 lo elencano esattamente così, e non c'è nessuna eccezione nativa da ricordare."
+      },
+      {
+        "titulo": "Quattro lettere che si scambiano il compito",
+        "corpo": "W è la tua v: Wasser, Wein, wo. V è la tua f nella breve lista chiusa di parole native antiche — Vater, viel, vier, von, vor — anche se nelle parole arrivate da fuori è di nuovo una v, come in Vase e privat, e una manciata oscilla davvero, November tra queste. Z non è mai z: è ts, come alla fine dell'inglese cats — zehn, zwanzig, Platz. E la s davanti a una vocale è z: suche inizia come l'inglese zoo, Seife come zipper. Nessuno di questi è un suono nuovo per te. Sono etichette nuove su suoni che la tua bocca fa già, ed è per questo che ripagano in un pomeriggio."
+      },
+      {
+        "titulo": "Ich suche, e ciò che viene dopo",
+        "corpo": "La cosa dopo ich suche arriva già vestita: eine Apotheke, einen Geldautomaten, den Hauptbahnhof. Impara ciascuna come un blocco, come hai imparato un numero di telefono, e non togliere mai la paroletta davanti. Il tedesco cambia quella paroletta secondo il compito che la cosa svolge nella frase, e dopo ich suche il compito è fisso — quindi il blocco che hai imparato è il blocco che dici, e non ti viene mai chiesto di risolvere nulla sul marciapiede."
+      },
+      {
+        "titulo": "Le porte e gli orari dietro di esse",
+        "corpo": "L'orario di chiusura è legislazione. La legge federale tiene i negozi chiusi la domenica e nei festivi, prima delle sei del mattino e dalle otto di sera, con le panetterie autorizzate ad aprire dalle cinque e mezza; e dal 2006 ciascuno dei sedici Länder scrive la propria versione, ed è per questo che il dettaglio cambia mentre viaggi. La legge propria della Baviera è entrata in vigore ad agosto 2025 e, tra le altre cose, permette ai negozi senza personale fino a 150 metri quadri di aprire 24 ore su 24. Ciò che è aperto di domenica è una lista breve intorno a cui puoi organizzarti: la farmacia di turno, la panetteria nella sua finestra mattutina, il distributore di benzina per carburante e articoli da viaggio, e i negozi di stazioni e aeroporti — che per legge vendono articoli da viaggio ai viaggiatori, non ti fanno fare la spesa settimanale. Una verkaufsoffener Sonntag, quando una città apre per un pomeriggio, è locale, datata e legata a un'occasione; non è qualcosa su cui contare."
+      },
+      {
+        "titulo": "Il prezzo sull'etichetta",
+        "corpo": "Il numero che vedi è il numero che paghi: la Preisangabenverordnung obbliga i commercianti a mostrare il prezzo totale con l'IVA già dentro, l'opposto dell'abitudine americana di scoprire la tassa alla cassa. C'è esattamente un'eccezione legale, ed è la cauzione su una bottiglia o una lattina. La stessa norma obbliga il negozio a indicare la cauzione accanto al prezzo e a non sommarla espressamente. Quindi 0,99 € sullo scaffale, almeno 0,25 € di cauzione secondo la Verpackungsgesetz, e 1,24 € alla cassa — un obbligo di non fare la somma, con un'eccellente imitazione di un errore."
+      },
+      {
+        "titulo": "Gift",
+        "corpo": "Das Gift è veleno. Le due parole sono davvero la stessa parola: il sostantivo tedesco è stato costruito sul verbo geben, dare, e significava un dono, un regalo, prima che il senso si restringesse a una dose di qualcosa che uccide. Il tedesco moderno conserva il vecchio significato in un solo posto, il composto Mitgift, una dote. Su una bottiglia, un armadietto o una recinzione, leggilo come veleno e nient'altro."
+      }
+    ]
+  },
+  "permissao": "Ti è permesso restare fermo davanti a un cartello e leggerlo due volte; nessuno in quella via ti sta cronometrando. E ich suche più una cosa è già una richiesta completa qui — non serve una rincorsa di saluto-più-scusa perché funzioni, e puoi usare le stesse identiche due parole alla vetrina della farmacia, nell'atrio della banca e nell'atrio della stazione senza vestirle in modo diverso ogni volta.",
+  "espelho": "Il viaggiatore che legge ogni parola di un menu a casa sua e poi tira a indovinare su una porta all'estero sta facendo la cosa più difficile, non quella più coraggiosa.",
+  "fichasCulturais": [
+    {
+      "sinal": "Le otto e cinque di sera, la porta del supermercato non si apre, e le luci dentro sono ancora accese con il personale che si muove dietro.",
+      "suaLeitura": "Hanno chiuso in anticipo, mi hanno visto arrivare e non si sono voluti scomodare.",
+      "oQueEAli": "L'orario di chiusura è una questione di legge più che dell'umore del negoziante. La legge federale chiude i negozi la domenica e nei festivi e dalle otto di sera, e dal 2006 ogni Land legifera la propria versione — quella della Baviera è entrata in vigore ad agosto 2025. L'ancora costituzionale sta sopra tutto questo: la domenica è tutelata come giorno di riposo dall'articolo 139 della costituzione di Weimar, ripreso nella Legge Fondamentale dall'articolo 140.",
+      "oQueVoceFaz": "Fa' la spesa prima delle otto, e pianifica la domenica come un giorno con la sua breve lista: panetteria nella finestra mattutina, farmacia di turno, distributore per articoli da viaggio, negozi di stazione e aeroporto.",
+      "oQueMelhora": "La domenica smette di prenderti in contropiede, e ti riprendi la mattinata — una panetteria alle nove di domenica è una delle migliori mezz'ore che il paese offre.",
+      "ondeNaoVale": "Gli orari di apertura appartengono a ciascun Land, e solo tre dei sedici sono stati verificati per questo corso — Baviera, Berlino e Renania Settentrionale-Vestfalia, gli ultimi due solo in parte. Ristoranti e caffè sono un ramo di legge separato e nulla qui li descrive. Una verkaufsoffener Sonntag esiste ma è locale, datata e occasionale.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b10-n07",
+        "de-b10-n08"
+      ]
+    },
+    {
+      "sinal": "Lo scaffale dice 0,99 €, tu porgi un euro, e la cassa ti chiede 1,24 €.",
+      "suaLeitura": "O era l'etichetta di scaffale sbagliata o qualcuno mi sta prendendo in giro.",
+      "oQueEAli": "È un obbligo di non fare la somma. La norma sui prezzi rende il prezzo esposto il prezzo totale con l'IVA dentro, e la sezione immediatamente successiva obbliga il commerciante a mostrare la cauzione accanto a quel prezzo e a non includerla espressamente. La cauzione stessa è di almeno 25 centesimi secondo la legge sugli imballaggi, e la rigetta zzgl. 0,25 € Pfand è il negozio che obbedisce alla legge.",
+      "oQueVoceFaz": "Leggi la seconda riga sull'etichetta e aggiungila tu prima di contare le monete; la cauzione torna indietro quando restituisci il vuoto.",
+      "oQueMelhora": "Smetti di leggere un'etichetta lecita come una furbata, e cominci a vedere la cauzione come denaro parcheggiato anziché denaro perso.",
+      "ondeNaoVale": "Questo riguarda la cauzione a rendere unico contrassegnata dal logo DPG. Il vetro a rendere si regge su un accordo privato tra imbottigliatore e negozio anziché sulla legge, e i suoi importi sono usi di mercato più che legge. Vino, alcolici e cartoni per bevande sono esenti — ma l'esenzione cade quando la stessa bevanda arriva in lattina o in bottiglia di plastica, e quelle portano la cauzione come qualunque altra cosa.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b10-n11",
+        "de-b10-n12"
+      ]
+    }
+  ]
+}

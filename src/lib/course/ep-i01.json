@@ -1,0 +1,426 @@
+{
+  "id": "i01",
+  "nivel": "intermediario",
+  "numero": 19,
+  "parte": "I01",
+  "titulo": "Wann ist — la domanda che ti mette in mano il loro orario",
+  "subtitulo": "Le otto di sera muovono un paese intero, e una domanda breve ti fa avere l'ora da chi ci vive sopra",
+  "cena": "Le sette e un quarto di un martedì, un frigo quasi vuoto in camera, e il supermercato a due strade di distanza con quarantacinque minuti di vita ancora addosso.",
+  "moldura": "ganha",
+  "frasePiso": "Non tirare a indovinare l'ora. Di' Wann ist, e costruisci la serata sulla risposta che torna indietro.",
+  "decisao": "a che ora mangi — se fai la spesa prima delle otto e mangi tardi come fa la strada, o scopri alle 20:05 che l'unico cibo rimasto in città è dietro il bancone di una stazione",
+  "emJogo": "tempo",
+  "moldes": [
+    "WANN-IST"
+  ],
+  "clique": {
+    "contagem": [
+      "the front desk",
+      "the platform",
+      "the museum foyer",
+      "the bakery counter"
+    ],
+    "desconto": "Nobody handed you a different sentence for the hotel, the platform, the museum and the square. You kept three words and changed only the thing whose hour you wanted.",
+    "piso": "Next time something has a fixed time and you do not know it, you will not hunt for a printed sign. You will ask, in three words, and get a number."
+  },
+  "fatosDatados": [
+    {
+      "id": "de-i01-ladenschluss",
+      "afirmacao": "Gli orari di chiusura dei negozi in Germania sono legge, non abitudine. Il § 3 della Ladenschlussgesetz federale ordina la chiusura dei punti vendita la domenica e nei giorni festivi, prima delle 6 e dalle 20 dal lunedì al sabato, e dalle 14 il 24 dicembre quando cade in un giorno lavorativo; i panifici possono aprire dalle 5.30. Dalla Föderalismusreform del 2006 la competenza appartiene ai Länder — l'Art. 74 Abs. 1 Nr. 11 GG esclude «das Recht des Ladenschlusses» dal diritto economico federale — quindi l'ora è fissata dove ti trovi. Berlino consente l'apertura 24 ore su 24 dal lunedì al sabato e mantiene la domenica chiusa come regola. La Baviera ha approvato la propria legge, la BayLadSchlG del 25 luglio 2025, in vigore dal 1° agosto 2025: mantiene le 20 dal lunedì al sabato ma aggiunge fino a otto serate lunghe all'anno concesse dal comune, fino a quattro in più per esercente con due settimane di preavviso, e lascia che i mini-supermercati senza personale fino a 150 m² aprano 24 ore su 24 anche la domenica.",
+      "fonte": "§ 3 LadSchlG e Art. 74 Abs. 1 Nr. 11 GG, verbatim de gesetze-im-internet.de (pesquisa §7.1); BayLadSchlG de 25/7/2025, GVBl. S. 246, vigente desde 1/8/2025, verificado em gesetze-bayern.de. ATENÇÃO: a premissa corrente «só a Baviera segue a lei federal» está DESATUALIZADA e a pesquisa corrige. Berlim é [RESUMO de berlin.de] — a lei berlinense não foi aberta; o estatuto dos outros 13 Länder NÃO foi verificado e nada se afirma sobre eles.",
+      "ano": 2025,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-i01-n03",
+        "de-i01-n07"
+      ]
+    },
+    {
+      "id": "de-i01-sonntag",
+      "afirmacao": "La domenica è ancorata al di sopra della legge ordinaria. L'Art. 140 GG incorpora l'Art. 139 della costituzione di Weimar, che tutela la domenica e i giorni festivi riconosciuti come giorni di riposo, e il Bundesverfassungsgericht ha stabilito il 1° dicembre 2009 (1 BvR 2857/07, 1 BvR 2858/07) che l'interesse al fatturato di un negoziante e lo «Shopping-Interesse» di un cliente non bastano da soli a giustificare l'apertura. Ciò che la legge federale lascia passare la domenica è ristretto e nominato: le farmacie di turno (§ 4), i distributori di benzina limitati ai beni da viaggio (§ 6), i negozi di stazione e aeroporto limitati ai beni da viaggio per i viaggiatori (§§ 8 e 9), le città termali (§ 10), e una breve finestra per latte, prodotti da forno, frutta fresca, fiori e giornali (§ 12), con gli orari fissati dal Land «unter Berücksichtigung der Zeit des Hauptgottesdienstes».",
+      "fonte": "Art. 140 GG + Art. 139 WRV e §§ 4, 6, 8, 9, 10, 12 LadSchlG, verbatim de gesetze-im-internet.de; BVerfG 1/12/2009, comunicado bvg09-134, com o núcleo «Ein bloß wirtschaftliches Umsatzinteresse … genügen grundsätzlich nicht» (pesquisa §§7.2, 7.3, 7.5). NÃO AFIRMAR que restaurante abre no domingo por estar fora do Ladenschluss — a pesquisa marca isso como inferência, nenhum Gaststättengesetz foi aberto. O verkaufsoffener Sonntag é local, datado e ligado a evento: nunca ensinar o aluno a contar com ele.",
+      "ano": 2026,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-i01-n05"
+      ]
+    },
+    {
+      "id": "de-i01-db-pontualidade",
+      "afirmacao": "La ferrovia tiene il proprio orologio e pubblica quanto bene lo mantiene. Nel rapporto annuale del DB Konzern per il 2025, un arrivo conta come puntuale quando lo scostamento è inferiore a sei minuti, e viene misurato a ogni fermata, non solo a destinazione. Con questo metro il 60,1 per cento dei treni a lunga percorrenza è arrivato in orario nel 2025, contro il 62,5 per cento nel 2024; il dato rivolto al passeggero, Reisendenpünktlichkeit, che conta coincidenze perse e cancellazioni con una soglia di 14:59 minuti, era del 65,5 per cento. Le ferrovie regionali sono andate molto meglio, all'89,2 per cento. Nel 2026 il dato della lunga percorrenza è sceso ancora — 52,6 per cento sia a giugno sia a luglio — e l'azienda stessa definisce il 2026 un anno record di cantieri e ha riportato il proprio obiettivo al 60 per cento.",
+      "fonte": "Geschäftsbericht 2025 do DB-Konzern (publicado 27/3/2026) e Presseinformation Bilanz 2025, verbatim: «Pünktlich sind Ankünfte mit einer Abweichung kleiner + 6 Minuten» e «60,1 Prozent der DB-Fernverkehrszüge erreichten 2025 pünktlich das Ziel (Vorjahr: 62,5 Prozent)»; tabela mensal oficial acessada em 5/8/2026 (pesquisa §5.1). ESTE FATO SUBSTITUI O ESTEREÓTIPO: a pesquisa RECUSA «alemães são pontuais» — em Levine & Norenzayan (1999) a Alemanha é 8ª em precisão de relógios públicos, atrás de Itália e Áustria, e o estudo mede ritmo de vida em Frankfurt nos anos 1990, não pontualidade em compromissos. Nada disso entra como traço de povo.",
+      "ano": 2026,
+      "revisarAte": "2027-04-30",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-i01-n04"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i01-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "tom": "ganha",
+      "pt": "Qui l'orologio è scritto nella legge, non nell'abitudine. Impara tre ore e la giornata si organizza da sola."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-i01-r01",
+      "receptivo": true,
+      "es": "Wir schließen um acht. Die Kasse macht zehn vor zu.",
+      "pinyin": "veer SHLEE-sen oom akht · dee KASS-uh makht tsayn for tsoo",
+      "pt": "Chiudiamo alle otto. La cassa chiude alle dieci meno.",
+      "tts": "Wir schließen um acht. Die Kasse macht zehn vor zu.",
+      "acao": "Cogli «um acht». È l'ora su cui lavora tutta la strada, ed è nella legge."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i01-n02",
+      "bloco": "molde",
+      "tom": "ganha",
+      "pt": "Ecco «lo stampo»: Wann ist, e poi la cosa. Tre parole, e l'ora torna da te."
+    },
+    {
+      "consulta": [
+        "quarto/checkin"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WANN-IST",
+      "encaixe": "das Frühstück",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i01-p01",
+      "promptPt": "La sera prima, alla reception, così la sveglia di domani ha un motivo di esistere. Parla adesso.",
+      "audioKey": "de-i01-t01",
+      "es": "Wann ist das Frühstück?",
+      "pinyin": "vahn ist dass FRUE-shtuek",
+      "pt": "A che ora è la colazione?",
+      "tts": "Wann ist das Frühstück?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i01-r02",
+      "receptivo": true,
+      "es": "Frühstück ist von sieben bis zehn.",
+      "pinyin": "FRUE-shtuek ist fon ZEE-ben biss tsayn",
+      "pt": "La colazione è dalle sette alle dieci.",
+      "tts": "Frühstück ist von sieben bis zehn.",
+      "acao": "Due numeri, una finestra. Scrivili entrambi prima che la frase sia finita."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i01-n03",
+      "bloco": "corpo",
+      "tom": "ganha",
+      "pt": "I negozi chiudono alle otto, dal lunedì al sabato, e tutta la domenica. È una legge, non un'abitudine locale."
+    },
+    {
+      "consulta": [
+        "transporte/qual-trem",
+        "transporte/plataforma"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WANN-IST",
+      "encaixe": "der nächste Zug",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i01-p02",
+      "promptPt": "Sul binario alle dieci e dieci, davanti a un orario cartaceo che non riesci a leggere abbastanza in fretta. Parla adesso.",
+      "audioKey": "de-i01-t02",
+      "es": "Wann ist der nächste Zug?",
+      "pinyin": "vahn ist dair NEKH-stuh tsook",
+      "pt": "A che ora è il prossimo treno?",
+      "tts": "Wann ist der nächste Zug?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i01-r03",
+      "receptivo": true,
+      "es": "In zwölf Minuten, Gleis vier.",
+      "pinyin": "in tsvoelf mi-NOO-ten · glyce feer",
+      "pt": "Tra dodici minuti, binario quattro.",
+      "tts": "In zwölf Minuten, Gleis vier.",
+      "acao": "Il binario arriva attaccato all'ora. Aspetta la seconda metà prima di muovere i piedi."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i01-n04",
+      "tom": "ganha",
+      "pt": "Il sessanta virgola uno per cento dei treni a lunga percorrenza è arrivato in orario nel 2025, e lì in orario significa meno di sei minuti."
+    },
+    {
+      "consulta": [
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WANN-IST",
+      "encaixe": "die Führung",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i01-p03",
+      "promptPt": "Nell'atrio del museo, alla biglietteria, prima di aver pagato alcunché. Parla adesso.",
+      "audioKey": "de-i01-t03",
+      "es": "Wann ist die Führung?",
+      "pinyin": "vahn ist dee FUE-roong",
+      "pt": "A che ora è la visita guidata?",
+      "tts": "Wann ist die Führung?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i01-n05",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "La domenica sta nella costituzione. Prodotti da forno, fiori e giornali hanno una breve finestra al mattino, e basta."
+    },
+    {
+      "consulta": [
+        "mesa/comida"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WANN-IST",
+      "encaixe": "das Abendessen",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i01-p04",
+      "promptPt": "In una piccola pensione dove una sola cucina decide la serata di tutti in una volta. Parla adesso.",
+      "audioKey": "de-i01-t04",
+      "es": "Wann ist das Abendessen?",
+      "pinyin": "vahn ist dass AH-bunt-ess-en",
+      "pt": "A che ora è la cena?",
+      "tts": "Wann ist das Abendessen?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-i01-r04",
+      "receptivo": true,
+      "es": "Wir servieren ab halb sieben. Warm gibt es bis neun.",
+      "pinyin": "veer zer-VEE-ren ap halp ZEE-ben · varm gipt ess biss noyn",
+      "pt": "Serviamo dalle sei e mezza. Piatti caldi fino alle nove.",
+      "tts": "Wir servieren ab halb sieben. Warm gibt es bis neun.",
+      "acao": "«Halb sieben» è mezza prima delle sette, quindi le sei e mezza. Non è mai le sette e mezza. Sentilo una volta ed è tuo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i01-n06",
+      "tom": "ganha",
+      "pt": "«Lo stampo» prende l'ora di qualsiasi cosa abbia un orario fisso. Pasti, treni, visite, il mercato in piazza."
+    },
+    {
+      "consulta": [
+        "mesa/mesa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-MOCHTE",
+      "encaixe": "einen Tisch um acht",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i01-p05",
+      "promptPt": "Ti hanno detto che la sala si riempie tardi. Prenditi lo slot tardivo ad alta voce, mentre sei ancora lì. Parla adesso.",
+      "audioKey": "de-i01-t05",
+      "es": "Ich möchte einen Tisch um acht, bitte.",
+      "pinyin": "ikh MOEKH-tuh EYE-nen tish oom akht, BIT-tuh",
+      "pt": "Vorrei un tavolo alle otto, per favore.",
+      "tts": "Ich möchte einen Tisch um acht, bitte."
+    },
+    {
+      "consulta": [
+        "transporte/qual-trem"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WANN-IST",
+      "encaixe": "der letzte Bus",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i01-p06",
+      "promptPt": "Sei al terzo bicchiere di una bella serata e il ritorno a casa è l'unica cosa ancora da decidere. Parla adesso.",
+      "audioKey": "de-i01-t06",
+      "es": "Wann ist der letzte Bus?",
+      "pinyin": "vahn ist dair LETS-tuh booss",
+      "pt": "A che ora è l'ultimo autobus?",
+      "tts": "Wann ist der letzte Bus?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i01-r05",
+      "receptivo": true,
+      "es": "Der letzte fährt um Viertel nach eins.",
+      "pinyin": "dair LETS-tuh fairt oom FEER-tel nakh eyns",
+      "pt": "L'ultimo parte all'una e un quarto.",
+      "tts": "Der letzte fährt um Viertel nach eins.",
+      "acao": "«Viertel nach» è e un quarto, «Viertel vor» è meno un quarto. Una sillaba di distanza, un'ora di distanza."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i01-n07",
+      "tom": "ganha",
+      "pt": "La Baviera ha scritto la propria legge sulla chiusura nel 2025, e Berlino lascia i negozi aperti tutta la notte dal lunedì al sabato."
+    },
+    {
+      "consulta": [
+        "transporte/bilhete"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-MOCHTE",
+      "encaixe": "eine Fahrkarte für halb neun",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i01-p07",
+      "promptPt": "Allo sportello, comprando il domani mattina prima che ne esista la coda. Parla adesso.",
+      "audioKey": "de-i01-t07",
+      "es": "Ich möchte eine Fahrkarte für halb neun, bitte.",
+      "pinyin": "ikh MOEKH-tuh EYE-nuh FAR-kar-tuh fuer halp noyn, BIT-tuh",
+      "pt": "Vorrei un biglietto per le otto e mezza, per favore.",
+      "tts": "Ich möchte eine Fahrkarte für halb neun, bitte."
+    },
+    {
+      "consulta": [
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WANN-IST",
+      "encaixe": "der Markt",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i01-p08",
+      "promptPt": "Qualcuno al bancone del panificio ha accennato che la piazza è un posto diverso una mattina alla settimana. Parla adesso.",
+      "audioKey": "de-i01-t08",
+      "es": "Wann ist der Markt?",
+      "pinyin": "vahn ist dair markt",
+      "pt": "A che ora è il mercato?",
+      "tts": "Wann ist der Markt?"
+    },
+    {
+      "consulta": [
+        "transporte/qual-trem"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WANN-IST",
+      "encaixe": "die erste S-Bahn",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i01-p09",
+      "promptPt": "Un volo alle sei del mattino, e i soldi del taxi che sarebbero meglio spesi sul viaggio stesso. Parla adesso.",
+      "audioKey": "de-i01-t09",
+      "es": "Wann ist die erste S-Bahn?",
+      "pinyin": "vahn ist dee AIR-stuh ESS-bahn",
+      "pt": "A che ora è la prima S-Bahn?",
+      "tts": "Wann ist die erste S-Bahn?"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-i01-s01",
+      "molde": "WANN-IST",
+      "es": "Wann ist das Frühstück? Wann ist der nächste Zug? Wann ist das Abendessen?",
+      "pinyin": "vahn ist dass FRUE-shtuek · vahn ist dair NEKH-stuh tsook · vahn ist dass AH-bunt-ess-en",
+      "pt": "Rincorri una sola apertura attraverso tre orologi completamente diversi.",
+      "tts": "Wann ist das Frühstück? Wann ist der nächste Zug? Wann ist das Abendessen?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i01-n08",
+      "bloco": "recap",
+      "tom": "ganha",
+      "pt": "I01 fatto. Le otto, la domenica, e un solo stampo che prende l'ora di qualsiasi cosa abbia un orario."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Tre parole, e ogni ora del paese",
+    "secoes": [
+      {
+        "titulo": "Wann ist più la cosa",
+        "corpo": "Tieni Wann ist e mettici dopo qualsiasi cosa abbia un orario fisso. L'apertura non cambia mai, il verbo è già dentro, e non devi mai scegliere tra ist, öffnet e schließt sotto pressione. Dopo ist la cosa sta al nominativo, che è la forma da dizionario — quindi ciò che impari come blocco è anche ciò che leggerai sul tabellone.",
+        "exemplos": [
+          {
+            "es": "Wann ist das Frühstück?",
+            "pt": "A che ora è la colazione?"
+          },
+          {
+            "es": "Wann ist der nächste Zug?",
+            "pt": "A che ora è il prossimo treno?"
+          },
+          {
+            "es": "Wann ist der Markt?",
+            "pt": "A che ora è il mercato?"
+          }
+        ]
+      },
+      {
+        "titulo": "La cosa arriva con il suo articolo attaccato",
+        "corpo": "Il tedesco segna la funzione di un sostantivo nella frase sull'articolo che gli sta davanti, e quell'articolo è la prima parola del buco. Perciò questo corso non ti dà mai un sostantivo nudo. Impari der nächste Zug, das Frühstück, die Führung per intero, come hai imparato un numero di telefono, e non ti si chiede mai di capire quale tra der, den, dem o des vada lì. Ti costa la grammatica e ti compra la frase."
+      },
+      {
+        "titulo": "Halb sieben è le sei e mezza",
+        "corpo": "L'unica espressione di orario che frega puntualmente chi parla italiano: halb sieben conta all'indietro verso le sette, non in avanti da esse, quindi è le sei e mezza. Halb acht è le sette e mezza. Viertel nach è e un quarto e Viertel vor è meno un quarto. Nient'altro nel dire l'ora ti costerà un'ora, e questa te la costerà, una volta."
+      },
+      {
+        "titulo": "Le otto, e perché niente di ciò che fai le cambia",
+        "corpo": "Il § 3 della Ladenschlussgesetz federale ordina la chiusura dei punti vendita la domenica e nei festivi, prima delle sei del mattino, e dalle otto di sera dal lunedì al sabato, con i panifici autorizzati ad aprire alle cinque e mezza. Dal 2006 la competenza appartiene ai Länder — la stessa Legge Fondamentale ritaglia «das Recht des Ladenschlusses» fuori dal diritto economico federale — quindi l'ora esatta è una questione di dove ti trovi. Berlino permette l'apertura 24 ore su 24 dal lunedì al sabato. La Baviera ha approvato la propria legge nel luglio 2025, mantenendo le otto ma aggiungendo fino a otto serate lunghe all'anno concesse dal comune e lasciando che i mini-supermercati senza personale sotto i 150 metri quadri aprano a tutte le ore. Gli altri tredici Länder non sono stati verificati per questo corso, e nulla viene affermato su di essi."
+      },
+      {
+        "titulo": "Cos'è davvero aperto la domenica",
+        "corpo": "Il riposo domenicale non è solo una regola sui negozi: la Legge Fondamentale incorpora la clausola di Weimar che tutela la domenica come giorno di riposo, e nel 2009 la Corte Costituzionale ha stabilito che l'interesse al fatturato di un negoziante e il desiderio di un cliente di fare acquisti non bastano da soli a giustificare l'apertura. Ciò che la legge federale nomina come eccezioni è breve e vale la pena memorizzarlo: la farmacia di turno, il distributore di benzina ma solo per i beni da viaggio, i negozi di stazione e aeroporto ma solo per i beni da viaggio venduti ai viaggiatori, le città termali, e una breve finestra mattutina per latte, prodotti da forno, frutta fresca, fiori e giornali — una finestra che ogni Land fissa attorno all'ora della funzione religiosa principale, ed è per questo che chiude così presto. Una domenica con i negozi aperti è un permesso locale, datato, legato a un evento. Non contarci mai."
+      },
+      {
+        "titulo": "I treni pubblicano i propri voti",
+        "corpo": "Questo corso non ti dice che il paese va in orario, perché le cifre dello stesso operatore non lo dicono. Deutsche Bahn conta un arrivo come puntuale quando è in ritardo di meno di sei minuti e lo misura a ogni fermata, e con quella definizione generosa il 60,1 per cento dei treni a lunga percorrenza ce l'ha fatta nel 2025, in calo dal 62,5 dell'anno prima. Il dato rivolto al passeggero, che conta la coincidenza che hai perso, era del 65,5 per cento. I treni regionali sono andati molto meglio, all'89,2 per cento. A giugno e luglio 2026 il dato della lunga percorrenza era al 52,6 per cento. Prevedi margine, e prendi sul serio il servizio regionale — i numeri dicono che funziona."
+      },
+      {
+        "titulo": "Come leggere le trascrizioni in questo corso",
+        "corpo": "Due lettere si scambiano di posto contro il tuo istinto, ed è la correzione più a buon mercato di tutto il corso: la w scritta si pronuncia come una v italiana, e la v scritta si pronuncia di solito come una f. Quindi Wann è «vahn» e vier è «feer». La z scritta è sempre ts, mai un suono di s dolce: zehn è «tsayn». La s scritta prima di una vocale è una s dolce sonora: sieben è «zee-ben». Nelle trascrizioni, ue sta per ü (di' «i» e arrotonda le labbra senza muovere la lingua) e oe sta per ö (di' la «e» di «rete» e arrotonda le labbra allo stesso modo); kh sta per ch, che in realtà è due suoni — morbido dopo una vocale anteriore, come in ich, raschiato più indietro dopo a, o e u, come in Bach. E la coppia che rovina la lettura ad alta voce: in ei e ie, pronuncia la seconda lettera. Nein fa rima con «nain», vier fa rima con «fiir». Quella regola non ha eccezioni native."
+      }
+    ]
+  },
+  "slot": "I01",
+  "permissao": "Ti è permesso chiedere che ora è qualcosa, ad alta voce, in tre parole, invece di dare la caccia a un cartello stampato o dedurlo da quanto è piena una sala. Nessuno sente Wann ist come ignoranza — è la domanda di qualcuno che ha intenzione di esserci. E ti è permesso mangiare tardi: la chiusura dei negozi alle otto è una regola sui negozi, e non dice nulla su quando dovresti avere fame.",
+  "permissaoAudioKey": "de-i01-n02",
+  "espelho": "Chiunque sia arrivato da qualche parte una domenica e abbia trovato l'intera via principale al buio conosce questa sensazione da dentro. L'unica differenza qui è che la strada buia è una legge che puoi leggere, il che significa che è anche un orario su cui puoi pianificare.",
+  "fichasCulturais": [
+    {
+      "sinal": "Sono le otto e cinque di un mercoledì e ogni supermercato davanti a cui passi ha le luci spente.",
+      "suaLeitura": "Questo quartiere dev'essere morto, o mi sono infilato nella parte sbagliata della città.",
+      "oQueEAli": "Il § 3 della Ladenschlussgesetz federale chiude i punti vendita dalle 20 dal lunedì al sabato e tutto il giorno la domenica e nei festivi, e dal 2006 ogni Land fissa la propria versione di quell'ora. Berlino permette l'apertura 24 ore su 24 nei giorni lavorativi; la legge bavarese del 2025 mantiene le otto ma libera serate extra e lascia che i piccoli negozi senza personale commercino a tutte le ore.",
+      "oQueVoceFaz": "Fai la spesa prima delle otto, oppure mangia dove il cibo è servito anziché venduto. Il giorno in cui ti fai cogliere impreparato, la stazione e il distributore sono aperti — legalmente limitati ai beni da viaggio, che in pratica è uno scaffale scarno e caro.",
+      "oQueMelhora": "La serata smette di essere una corsa. Compri nel pomeriggio e passi il tratto dalle otto a mezzanotte nelle sale che sono davvero aperte, che è dove la serata era comunque.",
+      "ondeNaoVale": "Non è un unico orario nazionale, e questo corso ha verificato solo tre Länder. Baviera, Berlino e Renania Settentrionale-Vestfalia sono stati esaminati, gli ultimi due solo in parte, e qui nulla viene affermato sugli altri tredici. Ristoranti e bar sono una questione giuridica separata che non è stata verificata affatto.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-i01-n03",
+        "de-i01-n07"
+      ]
+    },
+    {
+      "sinal": "Il tuo treno è in ritardo di nove minuti, e il tabellone mostra ancora il servizio come regolare.",
+      "suaLeitura": "È andato storto qualcosa che nessuno ammette, e sto per perdere tutto ciò che viene dopo.",
+      "oQueEAli": "La definizione di puntuale dell'operatore stesso è uno scostamento sotto i sei minuti, misurato a ogni fermata. Nove minuti è in ritardo con quel metro e l'azienda pubblica quanto spesso accade: il 60,1 per cento dei treni a lunga percorrenza era in orario nel 2025, e il 52,6 per cento a giugno e luglio 2026, cosa che l'azienda attribuisce a un volume record di lavori di cantiere. I treni regionali viaggiavano all'89,2 per cento.",
+      "oQueVoceFaz": "Lascia un margine reale attorno a qualsiasi coincidenza ti serva davvero, e preferisci il servizio regionale dove esiste. Controlla il dato di puntualità del passeggero anziché quello operativo — è quello che conta una coincidenza persa.",
+      "oQueMelhora": "Smetti di leggere un treno in ritardo come un disastro personale o come prova su un paese, e cominci a trattarlo come una probabilità pubblicata su cui puoi pianificare.",
+      "ondeNaoVale": "Non dice nulla sulle persone. Lo stereotipo sulla puntualità nazionale è stato rifiutato per questo corso: sull'indicatore misurato più vicino, la precisione degli orologi pubblici, la Germania è arrivata ottava, dietro Italia e Austria, in uno studio che misurava il ritmo di vita a Francoforte nei primi anni '90 e non ha mai misurato se qualcuno arrivi in orario a qualcosa.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-i01-n04"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "q-a07",
+  "nivel": "avancado",
+  "titulo": "Quiz — L'offerta che non fai mai",
+  "subtitulo": "Cinque domande sul du che arriva dall'altra parte, un nome di battesimo attaccato al Sie, e gli orari che sono messi per iscritto",
+  "introAudioKey": "de-a07-q-i",
+  "introPt": "Una quarta sera nello stesso locale, un'offerta al bancone, e un colpo alla porta di sopra alle dieci e dieci.",
+  "cenario": "Una Kneipe, un oste che ti ha servito tre volte, e un vicino con un orario nella frase.",
+  "dialogo": [
+    {
+      "audioKey": "de-a07-q01",
+      "voz": "target_de_m",
+      "es": "Wir können uns gerne duzen.",
+      "pt": "Se vuole, possiamo darci del tu.",
+      "tts": "Wir können uns gerne duzen."
+    },
+    {
+      "audioKey": "de-a07-q02",
+      "voz": "target_de_f",
+      "es": "Gerne! Ich bin Alex.",
+      "pt": "Volentieri! Sono Alex.",
+      "tts": "Gerne! Ich bin Alex."
+    },
+    {
+      "audioKey": "de-a07-q03",
+      "voz": "target_de_f",
+      "es": "Thomas, wann kommen Sie morgen?",
+      "pt": "Thomas, quando viene domani?",
+      "tts": "Thomas, wann kommen Sie morgen?"
+    },
+    {
+      "audioKey": "de-a07-q04",
+      "voz": "target_de_m",
+      "es": "Könnten Sie das bitte etwas leiser machen? Es ist nach zehn.",
+      "pt": "Potrebbe abbassare un po', per favore? Sono passate le dieci.",
+      "tts": "Könnten Sie das bitte etwas leiser machen? Es ist nach zehn."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Qualcuno ti offre il du. Che cosa ti fa fare il corso?",
+      "opcoes": [
+        "Offrirlo tu per primo, per cortesia",
+        "Dire gerne e dare il tuo nome di battesimo",
+        "Rifiutarlo fino al terzo incontro",
+        "Passare al du e usarlo perfettamente da lì in poi"
+      ],
+      "correta": 1,
+      "explica": "Una parola e un nome sono l'intera risposta. La mossa è offerta, non presa, e nulla nell'accettarla ti obbliga a produrre tu stesso il du — la maggior parte di chi lo accetta ricasca nel Sie per tutta la serata e nessuno tiene il conto."
+    },
+    {
+      "pergunta": "Dove sta la vera asimmetria del du, secondo il linguista citato?",
+      "opcoes": [
+        "Solo una persona più anziana può offrirlo",
+        "Solo una donna può offrirlo",
+        "Chiunque può offrirlo, ma chi lo riceve può a stento rifiutare",
+        "Può essere ritirato la mattina dopo"
+      ],
+      "correta": 2,
+      "explica": "Horst Simon della Libera Università di Berlino ridimensiona la gerarchia — chiunque può offrirlo — e sposta il peso sul rifiuto. Il passaggio è anche a senso unico e in pratica irreversibile, ed è esattamente per questo che la mossa è lasciata a chi vive lì. La regola su chi offre in base al genere non ha fondamento nella letteratura consultata."
+    },
+    {
+      "pergunta": "Un negoziante ti chiama per nome e continua a darti del Sie. Che cosa sta succedendo?",
+      "opcoes": [
+        "Un errore, e dovresti correggerlo con garbo",
+        "Un'offerta di du che ci si aspetta tu accetti",
+        "L'Hamburger Sie — normale, più frequente al nord",
+        "Il segno che sei stato scortese prima"
+      ],
+      "correta": 2,
+      "explica": "Nome di battesimo più Sie è una forma mista documentata, più frequente nella Germania settentrionale e rara al sud, nell'Austria occidentale e in Svizzera. È un piccolo passo verso di te, non un'offerta, e la risposta corretta è continuare con il Sie."
+    },
+    {
+      "pergunta": "Che cosa copre in realtà il regolamento federale sulle ore di quiete?",
+      "opcoes": [
+        "Ogni rumore, la domenica e dopo le otto di sera",
+        "Le macchine elencate nel suo allegato, nelle zone residenziali",
+        "Musica e conversazioni negli appartamenti dopo le dieci di notte",
+        "Bar e ristoranti nei centri città"
+      ],
+      "correta": 1,
+      "explica": "Il 32° regolamento sul controllo delle emissioni vieta di usare i dispositivi elencati nel suo allegato — tosaerba, soffiatori — nelle zone residenziali la domenica e nei festivi tutto il giorno, e nei giorni feriali dalle otto di sera alle sette del mattino. Il silenzio notturno generale dalle dieci alle sei viene dalla legge del Land, dal regolamento comunale e dal regolamento condominiale dell'edificio, ed è per questo che nessuno può citare una singola legge nazionale sul rumore."
+    },
+    {
+      "pergunta": "Lo studio del 2009 sui gesti per contare che cosa ha trovato, esattamente?",
+      "opcoes": [
+        "Che alzare un solo indice ti fa arrivare due birre",
+        "Che solo i partecipanti tedeschi usavano il pollice per il numero uno",
+        "Che il pollice si usa dappertutto nell'Europa continentale",
+        "Che i baristi fraintendono i gesti stranieri quasi sempre"
+      ],
+      "correta": 1,
+      "explica": "È ciò che dice l'abstract, contro due gruppi nordamericani che usavano l'indice. Ha misurato la forma del gesto e nulla su ciò che il barista faceva dopo, su sessanta partecipanti in scenari ipotetici — quindi è uno schema documentato, e la storia delle due birre resta un aneddoto."
+    }
+  ]
+}

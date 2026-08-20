@@ -1,0 +1,96 @@
+{
+  "id": "q-i02",
+  "nivel": "intermediario",
+  "titulo": "Quiz — Tocca a te alla cassa",
+  "subtitulo": "Quattro parole, e alla cassa nulla che tu non abbia visto arrivare",
+  "introAudioKey": "de-i02-q-i",
+  "introPt": "Un viaggiatore saluta entrando, ordina in quattro parole, chiede come si paga prima di ordinare e non si stupisce del totale.",
+  "cenario": "Un negozietto un martedì pomeriggio, tre persone davanti a te e una bancarella in piazza subito dopo.",
+  "dialogo": [
+    {
+      "audioKey": "de-i02-q01",
+      "voz": "target_de_f",
+      "es": "Moin! Was darf's sein?",
+      "pt": "Moin! Cosa le porto?",
+      "tts": "Moin! Was darf's sein?"
+    },
+    {
+      "audioKey": "de-i02-q02",
+      "voz": "target_de_m",
+      "es": "Ich möchte zwei Brötchen, bitte.",
+      "pt": "Vorrei due panini, per favore.",
+      "tts": "Ich möchte zwei Brötchen, bitte."
+    },
+    {
+      "audioKey": "de-i02-q03",
+      "voz": "target_de_f",
+      "es": "Das macht ein Euro vierundzwanzig. Neunundneunzig Cent plus Pfand.",
+      "pt": "Fa un euro e ventiquattro. Novantanove centesimi più cauzione.",
+      "tts": "Das macht ein Euro vierundzwanzig. Neunundneunzig Cent plus Pfand."
+    },
+    {
+      "audioKey": "de-i02-q04",
+      "voz": "target_de_m",
+      "es": "Nur Bargeld, tut mir leid. Der Automat ist um die Ecke.",
+      "pt": "Solo contanti, mi dispiace. Il bancomat è dietro l'angolo.",
+      "tts": "Nur Bargeld, tut mir leid. Der Automat ist um die Ecke."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Sullo scaffale c'era scritto 0,99 € e la cassa dice 1,24 €. Cos'è successo?",
+      "opcoes": [
+        "Alla cassa è stata aggiunta l'imposta, come si farebbe negli Stati Uniti",
+        "L'etichetta sullo scaffale non era aggiornata",
+        "È stata aggiunta la cauzione — la legge impone di indicarla accanto al prezzo e di non inglobarla in esso",
+        "Alla transazione è stato applicato un costo di servizio"
+      ],
+      "correta": 2,
+      "explica": "Le norme sull'indicazione dei prezzi fanno sì che il prezzo esposto sia il totale con l'IVA già inclusa, e poi impongono di indicare la cauzione accanto a quel totale, senza inglobarla. La cauzione sul monouso è di almeno venticinque centesimi IVA inclusa."
+    },
+    {
+      "pergunta": "Dove si usa Moin e da cosa deriva?",
+      "opcoes": [
+        "Nell'estremo nord, e deriva da una parola che significa bello o gradevole",
+        "In Baviera, ed è l'abbreviazione di Morgen",
+        "Ovunque, ed è un Guten Morgen accorciato",
+        "In Renania, ed è un saluto di carnevale"
+      ],
+      "correta": 0,
+      "explica": "Schleswig-Holstein e la Bassa Sassonia settentrionale. Risale a moien Dag e al basso tedesco e frisone moi, così che resta solo l'aggettivo — ed è per questo che si usa a qualsiasi ora, non solo al mattino."
+    },
+    {
+      "pergunta": "Una bancarella allontana la tua carta e indica un cartello nur Bargeld. Qual è la situazione dal punto di vista legale?",
+      "opcoes": [
+        "Stanno violando l'obbligo di accettare il pagamento con carta",
+        "Devono accettare la carta sopra un importo minimo",
+        "Devono accettarla se espongono un logo di carte da qualche parte",
+        "Non violano nulla — non c'è alcun obbligo di accettare le carte, e le banconote sono l'unico mezzo di pagamento a corso legale illimitato"
+      ],
+      "correta": 3,
+      "explica": "Sia il solo contante sia la sola carta sono leciti in Germania. Le banconote in euro sono l'unico mezzo di pagamento a corso legale illimitato, e un commerciante che voglia rifiutare i contanti deve concordarlo in anticipo — che è esattamente ciò che fa un cartello che accetta solo carta."
+    },
+    {
+      "pergunta": "Qualcuno al banco dice «wir können uns gerne duzen». Che cos'è?",
+      "opcoes": [
+        "Una correzione — hai usato il du e avresti dovuto usare il Sie",
+        "Un'offerta di passare al du, fatta da parte loro, che tu accetti",
+        "Una richiesta di parlare più lentamente",
+        "Un modo educato di chiudere la conversazione"
+      ],
+      "correta": 1,
+      "explica": "Il passaggio al du viene offerto, mai proposto da te, e una volta fatto non si torna indietro. Il tuo compito è riconoscerlo e dire di sì. Altrimenti il Sie resta corretto per tutto il viaggio."
+    },
+    {
+      "pergunta": "Dove si paga ancora in modo schiacciante in contanti?",
+      "opcoes": [
+        "Nei supermercati",
+        "Ai mercati e alle bancarelle, dove nove pagamenti su dieci sono in contanti",
+        "Solo nei ristoranti",
+        "Da nessuna parte — nel 2025 i pagamenti senza contanti hanno superato il novanta per cento"
+      ],
+      "correta": 1,
+      "explica": "Lo studio della banca centrale del 2025 ha rilevato per la prima volta che i pagamenti senza contanti hanno superato la metà dei pagamenti quotidiani, al 55 per cento, ma ai mercati e nelle vendite di strada nove pagamenti su dieci erano in contanti e il pagamento senza contanti era accettato solo nel 43 per cento dei casi."
+    }
+  ]
+}

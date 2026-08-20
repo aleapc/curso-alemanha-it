@@ -1,0 +1,96 @@
+{
+  "id": "q-i09",
+  "nivel": "intermediario",
+  "titulo": "Quiz — Mattina di mercato e la macchina delle bottiglie",
+  "subtitulo": "Banconote alle bancarelle, venticinque centesimi indietro, e le date che decidono il pomeriggio",
+  "introAudioKey": "de-i09-q-i",
+  "introPt": "Un visitatore chiede l'orario, paga una bancarella in contanti e riporta i vuoti per la cauzione.",
+  "cenario": "Sabato a un Wochenmarkt che va fino alle due, poi l'atrio del supermercato tornando a casa.",
+  "dialogo": [
+    {
+      "audioKey": "de-i09-q01",
+      "voz": "target_de_f",
+      "es": "Wann ist der Markt?",
+      "pt": "Quando c'è il mercato?",
+      "tts": "Wann ist der Markt?"
+    },
+    {
+      "audioKey": "de-i09-q02",
+      "voz": "target_de_m",
+      "es": "Dienstags und samstags, bis vierzehn Uhr.",
+      "pt": "Il martedì e il sabato, fino alle quattordici.",
+      "tts": "Dienstags und samstags, bis vierzehn Uhr."
+    },
+    {
+      "audioKey": "de-i09-q03",
+      "voz": "target_de_f",
+      "es": "Ich möchte ein Kilo Kartoffeln, bitte.",
+      "pt": "Vorrei un chilo di patate, per favore.",
+      "tts": "Ich möchte ein Kilo Kartoffeln, bitte."
+    },
+    {
+      "audioKey": "de-i09-q04",
+      "voz": "target_de_m",
+      "es": "Zusammen sieben Euro achtzig. Nur Bargeld, bitte.",
+      "pt": "In tutto sette euro e ottanta. Solo contanti, per favore.",
+      "tts": "Zusammen sieben Euro achtzig. Nur Bargeld, bitte."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Bis vierzehn Uhr. Quando smettono di vendere le bancarelle?",
+      "opcoes": [
+        "Alle quattro del pomeriggio",
+        "Alle due del pomeriggio",
+        "Alle dieci del mattino",
+        "Dipende dal tempo"
+      ],
+      "correta": 1,
+      "explica": "Gli orari si danno sul quadrante di ventiquattro ore, e un mercato che chiude alle vierzehn Uhr sta smontando dall'una e mezza circa."
+    },
+    {
+      "pergunta": "Una bancarella dice nur Bargeld. Che cos'è?",
+      "opcoes": [
+        "Un'irregolarità che puoi segnalare",
+        "Perfettamente lecito — le banconote sono l'unico mezzo di pagamento a corso legale illimitato e nessuno è obbligato ad accettare una carta",
+        "Un segno che la bancarella è abusiva",
+        "Una regola che vale solo prima di mezzogiorno"
+      ],
+      "correta": 1,
+      "explica": "Ai mercati e nelle vendite di strada nove pagamenti su dieci sono in contanti, e solo il 43 per cento di quei venditori accetta altro. Preleva denaro prima di andare."
+    },
+    {
+      "pergunta": "Lo scaffale dice 0,99 € e la cassa chiede 1,24 €. Perché?",
+      "opcoes": [
+        "L'imposta viene aggiunta alla cassa",
+        "La cauzione sul contenitore è di almeno 25 centesimi, e la legge impone di indicarla accanto al prezzo e di non sommarla espressamente ad esso",
+        "Un costo di servizio sui prodotti confezionati",
+        "L'etichetta non era aggiornata"
+      ],
+      "correta": 1,
+      "explica": "È l'unica eccezione dichiarata alla regola secondo cui il prezzo esposto è il prezzo. Riporta i vuoti e i soldi ti vengono scalati dalla spesa."
+    },
+    {
+      "pergunta": "Quale di questi non ha cauzione?",
+      "opcoes": [
+        "Una bottiglia di plastica d'acqua",
+        "Una lattina di birra",
+        "Un cartone di bevanda, una bottiglia di vino, e qualsiasi cosa sotto 0,1 o sopra 3 litri",
+        "Una bottiglia di plastica di yogurt da bere"
+      ],
+      "correta": 2,
+      "explica": "Il materiale decide più della bevanda: bottiglie di plastica e lattine la portano quasi sempre, cartoni e bottiglie di vino no."
+    },
+    {
+      "pergunta": "Quando si tiene l'Oktoberfest?",
+      "opcoes": [
+        "Tutto ottobre",
+        "Inizia a settembre — dal 19 settembre al 4 ottobre nel 2026, sedici giorni",
+        "Le prime due settimane di novembre",
+        "Si sposta con la Pasqua"
+      ],
+      "correta": 1,
+      "explica": "Il nome inganna. E il Maß va da 14,80 € a 15,90 € nel 2026 — un prezzo che stabiliscono gli osti, e che la città verifica solo per la ragionevolezza."
+    }
+  ]
+}

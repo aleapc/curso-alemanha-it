@@ -1,0 +1,96 @@
+{
+  "id": "q-b09",
+  "nivel": "basico",
+  "titulo": "Quiz — Il timbro, la macchinetta e il numero in fondo",
+  "subtitulo": "Comprarlo, convalidarlo, e sentire il binario",
+  "introAudioKey": "de-b09-q-i",
+  "introPt": "Quattro minuti alla partenza: la carta in una mano, una macchinetta su un palo, e un numero in fondo a una frase.",
+  "cenario": "Un binario regionale, tarda mattinata.",
+  "dialogo": [
+    {
+      "audioKey": "de-b09-q01",
+      "voz": "target_de_f",
+      "es": "Einmal nach Hamburg, bitte.",
+      "pt": "Uno per Amburgo, per favore.",
+      "tts": "Einmal nach Hamburg, bitte."
+    },
+    {
+      "audioKey": "de-b09-q02",
+      "voz": "target_de_m",
+      "es": "Einfach oder hin und zurück?",
+      "pt": "Solo andata o andata e ritorno?",
+      "tts": "Einfach oder hin und zurück?"
+    },
+    {
+      "audioKey": "de-b09-q03",
+      "voz": "target_de_f",
+      "es": "Einfach, bitte. Wo ist der Entwerter?",
+      "pt": "Solo andata, per favore. Dov'è l'obliteratrice?",
+      "tts": "Einfach, bitte. Wo ist der Entwerter?"
+    },
+    {
+      "audioKey": "de-b09-q04",
+      "voz": "target_de_m",
+      "es": "Dort drüben. Der Zug fährt heute von Gleis sieben.",
+      "pt": "Laggiù. Oggi il treno parte dal binario sette.",
+      "tts": "Dort drüben. Der Zug fährt heute von Gleis sieben."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Hai comprato un biglietto cartaceo dalla macchinetta. A cosa serve la macchinetta sul palo?",
+      "opcoes": [
+        "A niente che ti serva — la data è già stampata",
+        "Stampa un orario ed è questo che attiva il biglietto",
+        "È solo per gli abbonamenti",
+        "Apre il tornello"
+      ],
+      "correta": 1,
+      "explica": "Il regolamento federale dei trasporti elenca il non convalidare, o il non convalidare subito, accanto al non avere affatto un biglietto valido. La carta senza il timbro è, per legge, carta senza biglietto."
+    },
+    {
+      "pergunta": "Hai comprato il biglietto nell'app dell'operatore e hai fatto il check-in. E adesso?",
+      "opcoes": [
+        "Trovare la macchinetta e timbrare lo schermo",
+        "Niente — il check-in l'ha convalidato elettronicamente",
+        "Stampare prima il biglietto alla macchinetta",
+        "Chiedere al controllore di convalidarlo"
+      ],
+      "correta": 1,
+      "explica": "Le condizioni lo dicono chiaramente: usare la funzione di check-in convalida elettronicamente il biglietto acquistato. La carta ha bisogno di un timbro, il telefono no."
+    },
+    {
+      "pergunta": "Sessanta euro compaiono in entrambi i set di regole. Qual è la differenza?",
+      "opcoes": [
+        "È lo stesso importo fisso ovunque",
+        "In città è un tetto; in ferrovia è un minimo che può salire in un lungo viaggio",
+        "In città è un minimo; in ferrovia è un tetto",
+        "Si applica solo agli abbonamenti"
+      ],
+      "correta": 1,
+      "explica": "La regola urbana dice fino a sessanta euro; la regola ferroviaria dice il doppio della tariffa, ma almeno sessanta. Stesso numero, direzione opposta."
+    },
+    {
+      "pergunta": "Avevi un biglietto valido ma era nell'altro cappotto. Qual è la via d'uscita?",
+      "opcoes": [
+        "Niente — l'importo è definitivo una volta scritto",
+        "Dimostrare entro una settimana di aver avuto un biglietto valido, ed entrambe le regole lo abbassano a sette euro",
+        "Pagare sul posto per uno sconto",
+        "Comprare un nuovo biglietto a bordo"
+      ],
+      "correta": 1,
+      "explica": "Entrambe le regole lo riducono a sette euro dietro prova entro una settimana dal giorno del controllo. In ferrovia c'è una seconda via d'uscita: nessuna biglietteria aperta e nessuna macchinetta funzionante alla stazione di partenza significa che non si deve nulla."
+    },
+    {
+      "pergunta": "«Der Zug fährt heute von Gleis sieben.» Dov'è l'informazione utile?",
+      "opcoes": [
+        "All'inizio della frase",
+        "Nel mezzo",
+        "Proprio in fondo — il numero arriva per ultimo",
+        "Non viene mai annunciata, solo visualizzata"
+      ],
+      "correta": 2,
+      "explica": "Gleis è «binario» e il numero arriva alla fine. Aspetta oltre la frase per l'ultima parola, e se l'altoparlante cambia qualcosa, quattro parole te lo fanno ripetere."
+    }
+  ]
+}

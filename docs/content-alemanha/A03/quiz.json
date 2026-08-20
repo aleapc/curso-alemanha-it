@@ -1,0 +1,96 @@
+{
+  "id": "q-a03",
+  "nivel": "avancado",
+  "titulo": "Quiz — Chi credono di essere",
+  "subtitulo": "Cinque domande su un orologio arrivato ottavo, una soglia di sei minuti, un cartello legittimo di soli contanti e una domenica costituzionale",
+  "introAudioKey": "de-a03-q-i",
+  "introPt": "Un treno in ritardo, una cassa che vuole banconote, e un sabato sera prima di un giorno in cui la strada sarà chiusa.",
+  "cenario": "Un binario, poi un caffè a due strade dalla stazione, il pomeriggio prima di una domenica per cui non hai fatto piani.",
+  "dialogo": [
+    {
+      "audioKey": "de-a03-q01",
+      "voz": "target_de_m",
+      "es": "Der ICE nach Hamburg hat heute zehn Minuten Verspätung.",
+      "pt": "Il treno veloce per Amburgo oggi ha dieci minuti di ritardo.",
+      "tts": "Der ICE nach Hamburg hat heute zehn Minuten Verspätung."
+    },
+    {
+      "audioKey": "de-a03-q02",
+      "voz": "target_de_f",
+      "es": "Wir wünschen Ihnen eine gute Weiterfahrt — soweit möglich.",
+      "pt": "Le auguriamo un buon proseguimento del viaggio — per quanto possibile.",
+      "tts": "Wir wünschen Ihnen eine gute Weiterfahrt — soweit möglich."
+    },
+    {
+      "audioKey": "de-a03-q03",
+      "voz": "target_de_m",
+      "es": "Nur Bargeld, bitte. Wir nehmen keine Karten.",
+      "pt": "Solo contanti, per favore. Non accettiamo carte.",
+      "tts": "Nur Bargeld, bitte. Wir nehmen keine Karten."
+    },
+    {
+      "audioKey": "de-a03-q04",
+      "voz": "target_de_f",
+      "es": "Sonntags haben wir geschlossen. Ab Montag wieder ab sieben.",
+      "pt": "La domenica siamo chiusi. Da lunedì di nuovo aperti dalle sette.",
+      "tts": "Sonntags haben wir geschlossen. Ab Montag wieder ab sieben."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Nell'unico studio che ha cronometrato gli orologi pubblici in trentuno Paesi, dove è arrivata la Germania?",
+      "opcoes": [
+        "Prima, davanti alla Svizzera",
+        "Ottava, dietro Svizzera, Italia e Austria",
+        "Seconda, appena dietro il Giappone",
+        "Lo studio non ha mai misurato gli orologi"
+      ],
+      "correta": 1,
+      "explica": "Quarantatré secondi di scarto medio contro i ventiquattro dell'Italia. La stessa tabella mette la Germania prima al mondo per la velocità con cui un ufficio postale vende un francobollo — e misura il ritmo di vita, non se qualcuno sia puntuale a un appuntamento. Quello non lo misura nulla."
+    },
+    {
+      "pergunta": "La ferrovia dice che il sessanta virgola uno per cento dei treni a lunga percorrenza è stato puntuale nel 2025. Puntuale significa che cosa?",
+      "opcoes": [
+        "Arrivare a destinazione al minuto stampato",
+        "Arrivare con meno di sei minuti di ritardo, conteggiato a ogni fermata",
+        "Arrivare entro mezz'ora",
+        "Partire in orario, qualunque cosa succeda dopo"
+      ],
+      "correta": 1,
+      "explica": "Quella soglia, e il conteggio a ogni fermata, è il motivo per cui il dato ufficiale suona sempre meglio di come la giornata è sembrata. La metrica che include la coincidenza persa concede quindici minuti ed è arrivata al sessantacinque virgola cinque per cento."
+    },
+    {
+      "pergunta": "La battuta del capotreno ha strappato una risata. Che cosa sta succedendo?",
+      "opcoes": [
+        "Il personale è sotto disciplina e i passeggeri lo sanno",
+        "È la battuta di casa — l'azienda fa persino delle finte commedie-documentario sui propri ritardi",
+        "È una scusa formale in un registro all'antica",
+        "Qualcuno ha tradotto male un annuncio"
+      ],
+      "correta": 1,
+      "explica": "L'umorismo più sicuro per un ospite è quello che il posto fa già su se stesso. Ridi con loro; l'idea più ampia che l'efficienza sia una barzelletta nazionale non ha fonte e il corso non la sostiene."
+    },
+    {
+      "pergunta": "Il caffè accetta solo contanti. Che tipo di situazione è?",
+      "opcoes": [
+        "Qualcosa da segnalare a un'associazione di consumatori",
+        "Del tutto legittima — le banconote sono l'unico mezzo di pagamento a corso legale illimitato e nulla obbliga qualcuno ad accettare una carta",
+        "Il segno che l'attività non è registrata",
+        "Una regola che vale solo per gli importi piccoli"
+      ],
+      "correta": 1,
+      "explica": "L'esatto contrario dell'Italia, dove un commerciante deve accettare la tua carta. I contanti erano utilizzabili nel novantaquattro per cento degli acquisti in presenza, e ai mercati nove pagamenti su dieci sono in contanti, con solo il quarantatré per cento dei venditori che accetta altro."
+    },
+    {
+      "pergunta": "Perché l'intera strada è chiusa la domenica?",
+      "opcoes": [
+        "Una decisione del consiglio comunale che cambia ogni anno",
+        "Una clausola della costituzione del 1919, trasferita nella Legge Fondamentale, tutela la domenica come giorno di riposo",
+        "Un accordo sindacale nel settore del commercio",
+        "Niente di formale — è semplicemente l'usanza"
+      ],
+      "correta": 1,
+      "explica": "Nel 2009 la corte costituzionale ha bocciato quattro domeniche d'Avvento di fila, ritenendo che l'interesse al fatturato e la voglia di fare acquisti non bastino. L'elenco di ciò che apre è breve: farmacia di turno, articoli da viaggio del distributore, la vetrina mattutina di una panetteria, i negozi di stazione e aeroporto."
+    }
+  ]
+}

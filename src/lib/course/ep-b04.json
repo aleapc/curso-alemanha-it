@@ -1,0 +1,434 @@
+{
+  "id": "b04",
+  "nivel": "basico",
+  "numero": 4,
+  "parte": "B04",
+  "titulo": "Cinque decisioni che il tuo tavolo di cucina può ancora prendere",
+  "subtitulo": "Quanti contanti, quale domenica, se il posto è prenotato, cosa la cassa ha bisogno di sentire, e la tessera che ti fa entrare in una sala d'attesa tedesca",
+  "cena": "Il tuo tavolo di cucina, a dieci giorni dalla partenza, telefono in mano — l'ultimo tratto in cui ognuna di queste è ancora un lavoro da cinque minuti.",
+  "moldura": "protege",
+  "frasePiso": "Risolte stasera al tuo tavolo, nessuna di queste si trasforma in una coda a un bancone in Germania.",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-b04-bargeld",
+      "afirmacao": "La Germania non ha alcun obbligo legale di accettare le carte, e la legge va nella direzione opposta: le banconote in euro sono l'unico mezzo di pagamento a corso legale illimitato — § 14 Abs. 1 BBankG, «Auf Euro lautende Banknoten sind das einzige unbeschränkte gesetzliche Zahlungsmittel». Un commerciante può tuttavia rifiutare i contanti quando è stato concordato in anticipo un altro mezzo, ed è per questo che «nur Bargeld» e «nur Karte» sulla porta sono entrambi perfettamente leciti. Lo studio della Bundesbank Zahlungsverhalten in Deutschland 2025 (pubblicato il 17 giugno 2026) ha rilevato che i contanti potevano essere usati nel 94 per cento degli acquisti in loco, che l'86 per cento dei riceventi avrebbe accettato un metodo non in contanti (81 per cento nel 2023, 61 per cento nel 2021), e che un buon quarto degli intervistati ha avuto almeno un pagamento con carta o telefono fallito nel mese precedente, la ragione dominante essendo che il ricevente non offre affatto un metodo non in contanti (77 per cento). Ai mercati e nelle vendite di strada, nove pagamenti su dieci sono in contanti e l'accettazione di metodi non in contanti si attesta al 43 per cento.",
+      "fonte": "§ 14 Abs. 1 BBankG (gesetze-im-internet.de, verbatim) + posição do BCE sobre recusa de dinheiro mediante acordo prévio (Vertragsfreiheit) + Deutsche Bundesbank, «Zahlungsverhalten in Deutschland 2025», publicado 17/6/2026, PDF de 82 páginas lido: 94% de uso possível de dinheiro, 86% de aceitação de meios não-monetários, «ein gutes Viertel» com falha de pagamento por cartão no último mês (18% em 2023), mercados e venda de rua com 43% de aceitação. Metodologia: forsa, 6.070 entrevistas, campo 8/9 a 2/12/2025, diário de 3 dias, base POS n=10.394. Dados bienais — próxima edição prevista para 2028.",
+      "ano": 2026,
+      "revisarAte": "2028-06-30",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-b04-n04",
+        "de-b04-n05"
+      ]
+    },
+    {
+      "id": "de-b04-girocard",
+      "afirmacao": "Accettare le carte in Germania non è la stessa cosa che accettare la tua. Il circuito nazionale di debito girocard, gestito da EURO Kartensysteme GmbH per il settore bancario tedesco, si descrive come «das elektronische Bezahlsystem der deutschen Banken und Sparkassen» con «rund 100 Millionen ausgegebenen Karten», e afferma che la portata internazionale dipende da un co-badge: «Darüber hinaus verfügt die girocard in der Regel über eine Zusatzfunktion, ein sogenanntes Co-Badge eines internationalen Debitsystems (Maestro, Debit Mastercard, V Pay, Visa Debit oder JCB).» La scala è il motivo per cui conta: lo Zahlungssysteme im Einzelhandel 2025 dell'EHI Retail Institute, che copre 495 miliardi di euro del commercio al dettaglio fisso tedesco nel 2024, colloca girocard al 41,5 per cento del fatturato e al 28,89 per cento delle transazioni, contro il 33,8 per cento del fatturato in contanti e l'8,3 per cento con carte di credito.",
+      "fonte": "girocard.eu, operado pela EURO Kartensysteme GmbH (empresa conjunta da Deutsche Kreditwirtschaft), verbatim; EHI Retail Institute, «Zahlungssysteme im Einzelhandel 2025», Colônia, junho/2025, dados de 2024, PDF de amostra aberto. RESSALVA EXPRESSA (item 24 da lista de exclusões): NÃO existe declaração institucional da Bundesbank ou da Deutsche Kreditwirtschaft afirmando que cartões Visa/Mastercard estrangeiros são recusados em terminais girocard-only — a ligação causal é explicação de mecanismo e nunca pode ser apresentada como citação.",
+      "ano": 2025,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-b04-n04"
+      ]
+    },
+    {
+      "id": "de-b04-ladenschluss",
+      "afirmacao": "Gli orari di apertura dei negozi sono stabiliti da ciascun Land, non da Berlino: l'Art. 74 Abs. 1 Nr. 11 GG affida al governo federale il diritto economico espressamente «ohne das Recht des Ladenschlusses». La Ladenschlussgesetz federale del 1956 sopravvive come modello residuale, e il suo § 3 tiene i negozi chiusi la domenica e nei giorni festivi, prima delle 6 del mattino e dalle 20 di sera dal lunedì al sabato, e dalle 14 del pomeriggio il 24 dicembre. La tutela della domenica è costituzionale: l'Art. 140 GG recepisce l'Art. 139 della costituzione di Weimar, e il Bundesverfassungsgericht ha stabilito il 1º dicembre 2009 che l'interesse al fatturato di un commerciante e lo «Shopping-Interesse» di un cliente non bastano da soli a giustificare l'apertura. La Baviera ha smesso di seguire il testo federale il 1º agosto 2025, quando è entrata in vigore la sua Bayerisches Ladenschlussgesetz del 25 luglio 2025: lo stesso limite delle 20 di sera, più fino a otto serate prolungate all'anno autorizzate dal comune, altre quattro per commerciante con preavviso di due settimane, e mini-supermercati senza personale fino a 150 metri quadrati autorizzati ad aprire ininterrottamente, domeniche comprese.",
+      "fonte": "Art. 74 Abs. 1 Nr. 11 GG, § 3 LadSchlG, Art. 140 GG + Art. 139 WRV, todos verbatim de gesetze-im-internet.de; BVerfG, Urteil de 1/12/2009, 1 BvR 2857/07 e 1 BvR 2858/07 (comunicado bvg09-134); BayLadSchlG de 25/7/2025, GVBl. S. 246, em vigor desde 1/8/2025, verificado em gesetze-bayern.de. RESSALVA: o estatuto do Ladenschluss foi verificado em apenas 3 dos 16 Länder (Baviera, Berlim e NRW, os dois últimos parcialmente) — é a categoria mais volátil do dossiê.",
+      "ano": 2025,
+      "revisarAte": "2027-02-28",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": [
+        "de-b04-n06"
+      ]
+    },
+    {
+      "id": "de-b04-reservierung",
+      "afirmacao": "La prenotazione del posto su un treno tedesco a lunga percorrenza è un'opzione, non un obbligo. Le Beförderungsbedingungen der Deutschen Bahn AG, nella versione del 14 dicembre 2025 aggiornata al 1º gennaio 2026, intitolano la clausola A.5 «Reservierungsmöglichkeit» e prevedono che i viaggiatori possano prenotare fino a dodici mesi in anticipo nei treni ICE e IC/EC; dove un treno prevede la prenotazione obbligatoria, è contrassegnato con una R nell'orario. Il diritto al posto prenotato decade se il viaggiatore non l'ha occupato quindici minuti dopo che il treno lascia la stazione da cui vale la prenotazione. La tariffa per persona e tratta è di 5,50 euro in seconda classe e 6,90 euro in prima, con prenotazione gratuita in Flexpreis di prima classe sui treni senza prenotazione obbligatoria, e un posto per bicicletta a 7,50 euro dove non incluso. Eccezioni confermate: il Nightjet delle ÖBB richiede una prenotazione e la include nell'acquisto, mentre i servizi notturni IC e ICE no.",
+      "fonte": "Beförderungsbedingungen der Deutschen Bahn AG, «Neuausgabe vom 14. Dezember 2025 / Aktualisierter Stand vom 01. Januar 2026», Tarifbekanntmachung 1/2026, PDF baixado e extraído — cláusulas A.5/5.1, 5.2 e 5.3 verbatim; exceções do FAQ do bahn.de aberto em 5/8/2026. RESSALVA DE VERSÃO: o bahn.de/agb indicava em 5/8/2026 uma versão «Stand 31.07.2026», mais recente que a citada; as eventuais mudanças na cláusula A.5 e nos valores 5,50 € / 6,90 € NÃO foram verificadas. Preços de transporte mudam em janeiro.",
+      "ano": 2026,
+      "revisarAte": "2027-01-31",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-b04-n07",
+        "de-b04-n08"
+      ]
+    },
+    {
+      "id": "de-b04-taxfree",
+      "afirmacao": "Gli acquisti esentasse all'uscita dall'UE hanno tre condizioni e una sorpresa. Il Merkblatt zur Umsatzsteuerbefreiung für Ausfuhrlieferungen im nichtkommerziellen Reiseverkehr del Bundesfinanzministerium, Stand marzo 2025 e distribuito da zoll.de, richiede che l'acquirente risieda fuori dall'UE, che la merce esca entro tre mesi dall'acquisto, e che il valore totale IVA compresa superi i 50 euro. Decide la residenza, non la cittadinanza — il Merkblatt lo dice testualmente, «Auf die Staatsangehörigkeit des Käufers kommt es nicht an», e affronta il caso britannico con esempi numerati: un cittadino britannico che vive nell'Irlanda del Nord non è un acquirente di paese terzo, uno che vive in Inghilterra lo è. Alla frontiera il viaggiatore presenta passaporto, documento di esportazione e «die auszuführende Ware» — la merce stessa. La sorpresa è a chi appartiene l'agevolazione: «Die Steuerbefreiung gilt ausschließlich für den Unternehmer». Il viaggiatore non ha diritto a un rimborso dall'ufficio delle imposte e riceve invece una riduzione di prezzo che il commerciante può concedere, ed è per questo che gli agenti in aeroporto pagano dopo aver dedotto una commissione di gestione. L'aliquota piena dietro il calcolo è del 19 per cento — § 12 UStG, «Die Steuer beträgt für jeden steuerpflichtigen Umsatz 19 Prozent der Bemessungsgrundlage» — ed è l'aliquota che il viaggiatore non riottiene mai per intero.",
+      "fonte": "BMF, «Merkblatt zur Umsatzsteuerbefreiung für Ausfuhrlieferungen im nichtkommerziellen Reiseverkehr», Stand März 2025, distribuído pelo zoll.de — 15 páginas, PDF aberto; condições, prazo, exemplos britânicos (3) e (4), procedimento e a cláusula «Die Steuerbefreiung gilt ausschließlich für den Unternehmer» todos verbatim; alíquota-padrão de 19% verbatim do § 12 UStG (gesetze-im-internet.de). RESSALVA: a alíquota reduzida de 7% na gastronomia entrou em 1/1/2026 e não afeta este cálculo, mas prova que a alíquota é matéria móvel.",
+      "ano": 2025,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-b04-n09",
+        "de-b04-n10"
+      ]
+    },
+    {
+      "id": "de-b04-krankenversicherung",
+      "afirmacao": "Per un residente nel Regno Unito la tessera sanitaria è il biglietto d'ingresso e non l'assicurazione. Il consiglio di viaggio del FCDO per la Germania afferma che per ricevere l'assistenza sanitaria statale medicamente necessaria in Germania serve una GHIC o una EHIC, e sulla stessa pagina che una GHIC o EHIC non è un'alternativa all'assicurazione di viaggio. Ciò che la tessera compra è il sistema statale tedesco alle condizioni dei residenti, e i residenti pagano quote: il § 39 Abs. 4 SGB V addebita a un adulto ricoverato un importo giornaliero per al massimo 28 giorni in un anno solare, e il § 61 Satz 2 SGB V fissa tale importo a 10 euro al giorno, con i medicinali al 10 per cento del prezzo, minimo 5 euro e massimo 10. La Praxisgebühr di 10 euro a trimestre che le guide più vecchie menzionano ancora è stata abolita con voto unanime del Bundestag il 9 novembre 2012, con effetto dal 1º gennaio 2013.",
+      "fonte": "gov.uk, «Germany travel advice — Health» e «Healthcare for UK nationals visiting the EU», abertas em 5/8/2026, verbatim «Dial 112 and ask for an ambulance» e «A GHIC or EHIC is not an alternative to travel insurance»; § 39 Abs. 4 e § 61 Satz 2 SGB V verbatim de gesetze-im-internet.de; abolição da Praxisgebühr [RESUMO de bundestag.de, 546 votos em 9/11/2012, efeito em 1/1/2013]. NÃO ENTRA: qualquer citação atribuída ao Medicare (medicare.gov devolveu 403) nem à DVKA (404).",
+      "ano": 2026,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-b04-n11"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b04-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "pt": "La lista di stasera è lunga cinque voci e scade. Ognuna è un lavoro da cinque minuti qui e una coda là."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b04-r01",
+      "es": "Guten Tag, Hotel Adler.",
+      "pinyin": "GOO-ten TAHK, ho-TEL AHD-ler",
+      "pt": "Buongiorno, Hotel Adler.",
+      "tts": "Guten Tag, Hotel Adler."
+    },
+    {
+      "consulta": [
+        "quarto/checkin"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b04-p01",
+      "promptPt": "Hanno risposto, e hai ancora dieci giorni per sistemare qualsiasi cosa emerga da questa telefonata. Aprila. Parla adesso.",
+      "audioKey": "de-b04-t01",
+      "es": "Guten Tag, ich habe eine Frage zur Buchung.",
+      "pinyin": "GOO-ten TAHK, ikh HAH-buh EYE-nuh FRAH-guh tsoor BOO-khoong",
+      "pt": "Buongiorno, ho una domanda sulla prenotazione.",
+      "tts": "Guten Tag, ich habe eine Frage zur Buchung."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b04-n02",
+      "bloco": "corpo",
+      "pt": "Una prenotazione confermata via email non è una prenotazione confermata da una persona. Chiedi ora le piccole cose."
+    },
+    {
+      "consulta": [
+        "taxi/destino",
+        "quarto/checkin"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ENTSCHULDIGUNG",
+      "encaixe": "wie ist die genaue Adresse",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b04-p02",
+      "promptPt": "La pagina della prenotazione ti ha dato un nome commerciale e un quartiere. Procurati la cosa a cui un autista può davvero arrivare. Parla adesso.",
+      "audioKey": "de-b04-t02",
+      "es": "Entschuldigung, wie ist die genaue Adresse?",
+      "pinyin": "ent-SHOOL-di-goong, vee ist dee ge-NOW-uh a-DRE-suh",
+      "pt": "Scusi, qual è l'indirizzo esatto?",
+      "tts": "Entschuldigung, wie ist die genaue Adresse?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b04-r02",
+      "es": "Königstraße vierzehn, dritter Stock.",
+      "pinyin": "KURN-ikh-shtrah-suh FEER-tsayn, DRI-ter shtok",
+      "pt": "Königstraße quattordici, terzo piano.",
+      "tts": "Königstraße vierzehn, dritter Stock.",
+      "receptivo": true,
+      "acao": "Scrivilo in una nota che funziona senza segnale, con l'ortografia tedesca e la ß lasciata così com'è."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b04-n03",
+      "pt": "Quell'ultima lettera di Straße è una s e nient'altro. Mai una B, e mai qualcosa in più da dire."
+    },
+    {
+      "consulta": [
+        "quarto/checkin"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b04-p03",
+      "promptPt": "Il tuo volo atterra tardi e i posti piccoli non sempre hanno personale per tutta la notte. Verificalo ora. Parla adesso.",
+      "audioKey": "de-b04-t03",
+      "es": "Ist die Rezeption nachts offen?",
+      "pinyin": "ist dee re-tsep-TSYOHN nakhts O-fen",
+      "pt": "La reception è aperta di notte?",
+      "tts": "Ist die Rezeption nachts offen?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b04-r03",
+      "es": "Ja, die Rezeption ist rund um die Uhr besetzt.",
+      "pinyin": "yah, dee re-tsep-TSYOHN ist roont oom dee OOR be-ZETST",
+      "pt": "Sì, la reception è presidiata ventiquattr'ore su ventiquattro.",
+      "tts": "Ja, die Rezeption ist rund um die Uhr besetzt.",
+      "receptivo": true,
+      "acao": "Metti la risposta nella stessa nota offline, sulla riga sotto l'indirizzo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b04-n04",
+      "pt": "Uno: i contanti. Le banconote sono qui l'unico mezzo a corso legale illimitato, e nessun negozio è obbligato ad accettare la tua carta."
+    },
+    {
+      "consulta": [
+        "pagar/cartao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b04-p04",
+      "promptPt": "Prima di decidere quante banconote portare con te, scopri come questo posto vuole essere pagato. Parla adesso.",
+      "audioKey": "de-b04-t04",
+      "es": "Nehmen Sie Karte?",
+      "pinyin": "NAY-men zee KAR-tuh",
+      "pt": "Accettate la carta?",
+      "tts": "Nehmen Sie Karte?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b04-r04",
+      "es": "Nur Bargeld, bitte.",
+      "pinyin": "noor BAR-gelt, BI-tuh",
+      "pt": "Solo contanti, per favore.",
+      "tts": "Nur Bargeld, bitte.",
+      "receptivo": true,
+      "acao": "Prendi le banconote senza discutere. Questa frase è lecita qui, e non riguarda te."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b04-n05",
+      "pt": "Ai mercati e alle bancarelle di strada nove pagamenti su dieci sono in contanti, e le carte sono accettate meno della metà delle volte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b04-n06",
+      "pt": "Due: l'orologio dei negozi. Domeniche e festivi chiusi, e dalle otto di sera negli altri giorni."
+    },
+    {
+      "consulta": [
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ENTSCHULDIGUNG",
+      "encaixe": "wann schließt der Supermarkt",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b04-p05",
+      "promptPt": "Atterri un sabato pomeriggio e il frigo nell'appartamento è vuoto. Chiedi una cosa al tuo host. Parla adesso.",
+      "audioKey": "de-b04-t05",
+      "es": "Entschuldigung, wann schließt der Supermarkt?",
+      "pinyin": "ent-SHOOL-di-goong, van shleest dair ZOO-per-markt",
+      "pt": "Scusi, a che ora chiude il supermercato?",
+      "tts": "Entschuldigung, wann schließt der Supermarkt?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b04-n07",
+      "pt": "Tre: il posto. Prenotarne uno è qui una possibilità, non una regola — un treno che lo esige porta una R."
+    },
+    {
+      "consulta": [
+        "transporte/bilhete"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b04-p06",
+      "promptPt": "Il lungo viaggio verso sud è prenotato, e il binario è il posto sbagliato dove risolvere questa cosa. Parla adesso.",
+      "audioKey": "de-b04-t06",
+      "es": "Brauche ich eine Reservierung?",
+      "pinyin": "BROW-khuh ikh EYE-nuh re-zer-VEE-roong",
+      "pt": "Mi serve una prenotazione?",
+      "tts": "Brauche ich eine Reservierung?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b04-n08",
+      "pt": "Cinque e cinquanta in seconda classe, e il posto resta tuo solo fino a quindici minuti dopo la partenza."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b04-n09",
+      "bloco": "capsula",
+      "pt": "Quattro: la cassa. Se vivi fuori dall'UE, il documento di esportazione si chiede prima di pagare, mai dopo."
+    },
+    {
+      "consulta": [
+        "compras/pagar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b04-p07",
+      "promptPt": "A un bancone a Monaco, con più di cinquanta euro di merce. Di' l'unica cosa che decide tutto questo. Parla adesso.",
+      "audioKey": "de-b04-t07",
+      "es": "Ich wohne nicht in der EU.",
+      "pinyin": "ikh VOH-nuh nikht in dair ay-OO",
+      "pt": "Non vivo nell'UE.",
+      "tts": "Ich wohne nicht in der EU."
+    },
+    {
+      "consulta": [
+        "compras/pagar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b04-p08",
+      "promptPt": "L'acquisto è battuto in cassa e il commesso aspetta. Nomina il foglio con cui te ne vai. Parla adesso.",
+      "audioKey": "de-b04-t08",
+      "es": "Ich brauche den Ausfuhrbeleg.",
+      "pinyin": "ikh BROW-khuh dayn OWS-foor-be-layk",
+      "pt": "Mi serve il documento di esportazione.",
+      "tts": "Ich brauche den Ausfuhrbeleg."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b04-n10",
+      "pt": "Oltre cinquanta euro, fuori entro tre mesi, e la merce in mano alla dogana — non nella stiva."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b04-n11",
+      "pt": "Cinque: la copertura sanitaria. Una tessera britannica compra il sistema statale, e la parte tedesca chiede comunque dieci al giorno."
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "DANKE",
+      "encaixe": "vielen Dank",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b04-p09",
+      "promptPt": "La telefonata ha fatto tutto ciò per cui avevi chiamato e la persona è rimasta con te. Chiudila del tutto. Parla adesso.",
+      "audioKey": "de-b04-t09",
+      "es": "Vielen Dank und auf Wiedersehen.",
+      "pinyin": "FEE-len DANK oont owf VEE-der-zayn",
+      "pt": "Grazie mille, e arrivederci.",
+      "tts": "Vielen Dank und auf Wiedersehen."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-b04-s01",
+      "es": "Nehmen Sie Karte? Brauche ich eine Reservierung? Ich wohne nicht in der EU.",
+      "pinyin": "NAY-men zee KAR-tuh. BROW-khuh ikh EYE-nuh re-zer-VEE-roong. ikh VOH-nuh nikht in dair ay-OO",
+      "pt": "Ripeti in ombra le tre frasi che sistemano il denaro prima di volare.",
+      "tts": "Nehmen Sie Karte? Brauche ich eine Reservierung? Ich wohne nicht in der EU."
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b04-n12",
+      "bloco": "recap",
+      "pt": "B04 fatto. Contanti decisi, domenica pianificata, posto sistemato, documento di esportazione chiesto, tessera sanitaria nel portafoglio."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Una lista che smette di essere economica nel momento in cui sali a bordo",
+    "secoes": [
+      {
+        "titulo": "Quanti contanti, e perché la domanda è reale",
+        "corpo": "La Germania non ha alcuna legge che obblighi un'attività ad accettare la tua carta. Ha l'opposto: le banconote in euro sono l'unico mezzo a corso legale illimitato, e un commerciante può rifiutare i contanti solo dove è stato concordato in anticipo un altro mezzo. Quindi «nur Bargeld» sulla porta e «nur Karte» alla cassa sono entrambi perfettamente leciti, e con nessuno dei due si può discutere. Il quadro non è cupo — la Bundesbank ha rilevato nel 2025 che l'86 per cento dei riceventi avrebbe accettato un metodo non in contanti, su dal 61 per cento del 2021 — ma un buon quarto delle persone ha avuto un pagamento con carta o telefono fallito almeno una volta nel mese precedente, e la ragione dominante era semplicemente che il posto non offre nulla di elettronico. Mercati e bancarelle di strada sono il fronte duro: nove pagamenti su dieci in contanti, carte accettate nel 43 per cento dei casi. Decidi stasera un importo sensato di banconote anziché a uno sportello all'arrivo. Una parola sulla frase stessa, perché è l'eccezione e non il modello: Karte qui nomina un modo di pagare, come Bargeld, e i modi di pagare non prendono nessuna paroletta davanti in tedesco — Nehmen Sie Karte?, esattamente come l'inglese dice by card e non by a card. Qualsiasi cosa tu possa contare arriva comunque vestita, e questo corso non ti consegna mai una cosa numerabile svestita: è eine SIM-Karte e einen Stadtplan, imparate intere, e niente che tu debba risolvere a un bancone.",
+        "exemplos": [
+          {
+            "es": "Nehmen Sie Karte?",
+            "pt": "Accettate la carta?"
+          }
+        ]
+      },
+      {
+        "titulo": "La tua carta non è la stessa cosa di una carta",
+        "corpo": "Il sistema nazionale di debito, girocard, conta circa cento milioni di carte e il 41,5 per cento del fatturato del commercio al dettaglio fisso, e la sua portata internazionale dipende dal fatto che una data carta porti anche un co-badge come Maestro, V Pay, Debit Mastercard o Visa Debit. La forma pratica di ciò, ed è un meccanismo più che una citazione: un terminale qui può essere collegato al sistema nazionale, quindi un posto che accetta le carte non è la stessa cosa di un posto che accetta la tua. È un motivo in più per cui le banconote in tasca sono un piano e non una superstizione."
+      },
+      {
+        "titulo": "L'orologio dei negozi, e chi lo regola davvero",
+        "corpo": "Dal 2006 la chiusura dei negozi è affare di ciascun Land — la costituzione affida il diritto economico al livello federale espressamente senza di essa. La legge federale del 1956 sopravvive come modello residuale, e chiude i negozi la domenica e nei giorni festivi e dalle otto di sera negli altri giorni. La domenica stessa è tutelata costituzionalmente, e la Corte costituzionale federale ha stabilito nel 2009 che il fatturato di un commerciante e il desiderio di un cliente di fare acquisti non bastano da soli ad aprirla. La Baviera ha lasciato il testo federale il 1º agosto 2025 con la propria legge: stesse otto in punto, più una manciata di serate prolungate autorizzate e mini-supermercati senza personale fino a 150 metri quadrati autorizzati a operare ininterrottamente. Un verkaufsoffener Sonntag esiste ma è locale, datato e legato a un'occasione — non pianificare mai una domenica intorno a uno."
+      },
+      {
+        "titulo": "Il posto è facoltativo, e la prenotazione ha un orologio sopra",
+        "corpo": "I treni tedeschi a lunga percorrenza non legano il biglietto a un posto. Le condizioni del vettore stesso chiamano la clausola una Reservierungsmöglichkeit — una possibilità — e le eccezioni sono contrassegnate con una R nell'orario. Puoi prenotare fino a dodici mesi in anticipo; la seconda classe costa 5,50 euro per persona e tratta, la prima 6,90. Due dettagli vale la pena portarli con sé: in Flexpreis di prima classe la prenotazione è gratuita sui treni senza prenotazione obbligatoria, e un posto prenotato smette di essere tuo quindici minuti dopo che il treno ha lasciato la stazione da cui è iniziata la tua prenotazione. I treni notturni gestiti dalle ÖBB richiedono una prenotazione e la includono; i servizi notturni IC e ICE no.",
+        "exemplos": [
+          {
+            "es": "Brauche ich eine Reservierung?",
+            "pt": "Mi serve una prenotazione?"
+          }
+        ]
+      },
+      {
+        "titulo": "L'esenzione appartiene al negozio, non a te",
+        "corpo": "Tre condizioni: vivi fuori dall'UE, la merce esce entro tre mesi, e il totale IVA compresa è oltre i 50 euro. Decide la residenza e non la cittadinanza — un titolare di passaporto britannico che vive in Inghilterra ha diritto, lo stesso titolare che vive nell'Irlanda del Nord no. Alla frontiera presenti passaporto, documento di esportazione e la merce, ed è lì che i viaggiatori veri si incagliano imbarcando l'acquisto in stiva. E la parte elegante: l'esenzione è concessa al commerciante, non a te. Non c'è alcun rimborso dall'ufficio delle imposte; ciò che ottieni è una riduzione di prezzo che il commerciante può concedere, ed è proprio per questo che l'agente in aeroporto paga dopo una commissione di gestione. Non vedi mai il diciannove per cento pieno, e questo è il sistema che funziona come progettato."
+      },
+      {
+        "titulo": "La tessera sanitaria, e i dieci euro dietro di essa",
+        "corpo": "Per un residente nel Regno Unito la GHIC o EHIC è ciò che apre il sistema statale tedesco, e il governo britannico dice sulla stessa pagina che non è un'alternativa all'assicurazione di viaggio. Ciò che la tessera compra sono le condizioni dei residenti, e i residenti pagano quote: un adulto in ospedale paga dieci euro al giorno per al massimo 28 giorni in un anno solare, e i medicinali costano il dieci per cento del prezzo con un minimo di cinque euro e un massimo di dieci. I dieci euro a trimestre che le guide più vecchie descrivono ancora sono stati aboliti all'unanimità nel novembre 2012 e hanno smesso di applicarsi il 1º gennaio 2013 — se una guida li menziona ancora, quella guida è vecchia di tredici anni."
+      }
+    ]
+  },
+  "slot": "B04",
+  "permissao": "Ti è permesso di sovra-prepararti per questa unica sera. Confermare una prenotazione che hai già, decidere un importo di contanti che potresti non usare, e chiedere di un posto che potresti non prenotare mai non sono ansia — questo è l'unico tratto del viaggio in cui cinque minuti al tuo tavolo sistemano cose che un bancone sistemerebbe male, e ti è permesso spenderli e poi fermarti.",
+  "permissaoAudioKey": "de-b04-n01",
+  "espelho": "Chiunque abbia mai fatto uno screenshot di una carta d'imbarco perché l'app della compagnia si blocca sta già applicando questo istinto a un documento. B04 chiede la stessa abitudine offline su altri quattro, e poi ti lascia chiudere il portatile.",
+  "fichasCulturais": [
+    {
+      "sinal": "Un bar o una bancarella al mercato scaccia la tua carta e dice «nur Bargeld», senza scuse e senza spiegazioni.",
+      "suaLeitura": "Stanno evadendo le tasse, o stanno facendo i difficili, e da qualche parte deve esserci una regola che dice che devono accettarla.",
+      "oQueEAli": "Non esiste una tale regola in Germania, e la legge punta nella direzione opposta: le banconote in euro sono l'unico mezzo a corso legale illimitato, e un'attività può rifiutare i contanti solo dove è stato concordato in anticipo un altro mezzo. «Nur Bargeld» e «nur Karte» sono entrambi leciti. Sul campo, l'86 per cento dei riceventi accetterebbe un metodo non in contanti, ma ai mercati e nelle vendite di strada quella quota scende al 43 per cento.",
+      "oQueVoceFaz": "Decidi un importo di contanti prima di volare e chiedi «Nehmen Sie Karte?» prima di ordinare anziché dopo, che è il momento in cui hai ancora una scelta su dove spendere.",
+      "oQueMelhora": "Una carta rifiutata smette di essere una piccola umiliazione e diventa un'informazione che avevi già, e le banconote in tasca si rivelano il piano anziché il ripiego.",
+      "ondeNaoVale": "Questa non è un'affermazione che il paese vada avanti a contanti. L'accettazione di metodi non in contanti è salita dal 61 per cento del 2021 all'86 per cento del 2025 e più della metà dei pagamenti quotidiani è ora non in contanti. E il punto sul fatto che la tua carta particolare fallisca in un terminale del sistema nazionale è la spiegazione di un meccanismo, non una dichiarazione istituzionale — una tale dichiarazione non esiste.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b04-n04",
+        "de-b04-n05"
+      ]
+    },
+    {
+      "sinal": "Compri il biglietto a lunga percorrenza, vedi una prenotazione del posto offerta come extra, e presumi che il biglietto non sia comprato correttamente finché non ne hai aggiunta una.",
+      "suaLeitura": "Il viaggio ad alta velocità significa un biglietto legato a un posto, come in Francia, Italia e Spagna, quindi la prenotazione dev'essere il biglietto vero.",
+      "oQueEAli": "Le condizioni del vettore stesso chiamano la clausola una possibilità anziché un obbligo. I treni con prenotazione obbligatoria sono contrassegnati con una R nell'orario, e sono l'eccezione. Prenotare costa 5,50 euro in seconda classe e 6,90 in prima, è gratuito in Flexpreis di prima classe sui treni senza l'obbligo, e si può fare fino a dodici mesi in anticipo. Un posto prenotato decade inoltre quindici minuti dopo che il treno lascia la stazione da cui è iniziata la tua prenotazione.",
+      "oQueVoceFaz": "Compra il biglietto, cerca la R, e prenota solo quando l'orario lo chiede o quando un venerdì affollato rende utili i cinque e cinquanta. Se hai prenotato, sii al posto entro il primo quarto d'ora.",
+      "oQueMelhora": "Smetti di pagare per qualcosa che non eri mai stato obbligato a comprare, e smetti di stare in piedi accanto al tuo stesso posto prenotato chiedendoti se la persona che vi siede sia in torto.",
+      "ondeNaoVale": "Letto rispetto alle condizioni in vigore al 1º gennaio 2026. Esiste una versione più recente datata 31 luglio 2026 e la sua clausola A.5 e i due prezzi non sono stati verificati, e qui le tariffe dei trasporti cambiano a gennaio. Alcuni servizi internazionali prevedono la prenotazione obbligatoria con essa inclusa, e il treno notturno delle ÖBB lo fa sempre.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b04-n07",
+        "de-b04-n08"
+      ]
+    }
+  ]
+}

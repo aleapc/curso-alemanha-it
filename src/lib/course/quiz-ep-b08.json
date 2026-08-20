@@ -1,0 +1,96 @@
+{
+  "id": "q-b08",
+  "nivel": "basico",
+  "titulo": "Quiz — Wo ist, e la risposta che ti sta in testa",
+  "subtitulo": "Tre parole in uscita, un braccio di ritorno",
+  "introAudioKey": "de-b08-q-i",
+  "introPt": "Un visitatore con il telefono scarico chiede tre parole in un panificio ed esce sapendo dove andare.",
+  "cenario": "Un negozio d'angolo a un incrocio, metà pomeriggio.",
+  "dialogo": [
+    {
+      "audioKey": "de-b08-q01",
+      "voz": "target_de_f",
+      "es": "Entschuldigung, wo ist der Bahnhof?",
+      "pt": "Scusi, dov'è la stazione?",
+      "tts": "Entschuldigung, wo ist der Bahnhof?"
+    },
+    {
+      "audioKey": "de-b08-q02",
+      "voz": "target_de_m",
+      "es": "Moin! Immer geradeaus, dann links.",
+      "pt": "Moin! Sempre dritto, poi a sinistra.",
+      "tts": "Moin! Immer geradeaus, dann links."
+    },
+    {
+      "audioKey": "de-b08-q03",
+      "voz": "target_de_f",
+      "es": "Ist es weit?",
+      "pt": "È lontano?",
+      "tts": "Ist es weit?"
+    },
+    {
+      "audioKey": "de-b08-q04",
+      "voz": "target_de_m",
+      "es": "Nein, gleich um die Ecke, keine fünf Minuten.",
+      "pt": "No, proprio dietro l'angolo, meno di cinque minuti.",
+      "tts": "Nein, gleich um die Ecke, keine fünf Minuten."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Come si pronuncia la w in «wo»?",
+      "opcoes": [
+        "Come la w di «water»",
+        "Come la tua v",
+        "Muta",
+        "Come la f di «four»"
+      ],
+      "correta": 1,
+      "explica": "Una w scritta fa il lavoro della tua v: Wo è «voh», Wasser è «vasser». La v scritta, invece, è di solito la tua f — viel è «feel»."
+    },
+    {
+      "pergunta": "«Bier» e «nein». Come si leggono le coppie di vocali?",
+      "opcoes": [
+        "Entrambe come la lettera inglese I",
+        "Entrambe come una E lunga",
+        "Pronuncia il nome della seconda lettera della coppia",
+        "Pronuncia il nome della prima lettera della coppia"
+      ],
+      "correta": 2,
+      "explica": "Ie è una E lunga — Bier è «beer». Ei è la lettera inglese I — nein è «nine». Nelle parole native la regola non si rompe, e copre centinaia di insegne."
+    },
+    {
+      "pergunta": "Indicano una lunga strada e poi dicono altre quaranta parole. Qual è la riparazione più economica?",
+      "opcoes": [
+        "Chiedere loro di scrivere tutto",
+        "Fare una domanda con solo due risposte possibili, come «links oder rechts»",
+        "Dire che non hai capito e andartene",
+        "Ripetere la domanda più forte"
+      ],
+      "correta": 1,
+      "explica": "Chiedi piccolo e la risposta resta piccola. Links oder rechts e ist es weit si possono entrambe rispondere con una mano sola, ed è per questo che ti lasciano con qualcosa che puoi portare via."
+    },
+    {
+      "pergunta": "Dici Guten Tag entrando in un negozio del nord e ti rispondono «Moin». Cos'è?",
+      "opcoes": [
+        "Una correzione del tuo saluto",
+        "Un saluto regionale, documentato nello Schleswig-Holstein e nella Bassa Sassonia settentrionale",
+        "Abbreviazione di «Morgen», quindi usato solo prima di mezzogiorno",
+        "Una risposta spazientita"
+      ],
+      "correta": 1,
+      "explica": "Viene da un aggettivo che significa «piacevole», non da Morgen, e il sondaggio che lo mappa pubblica località anziché percentuali. Non devi mai produrlo: Hallo funziona ovunque."
+    },
+    {
+      "pergunta": "Chiedi in tedesco e ti rispondono in un inglese fluente. Cos'è successo?",
+      "opcoes": [
+        "Il tuo tedesco era troppo scarso per lavorarci",
+        "Circa due adulti su tre lì dicono di saper sostenere una conversazione in un'altra lingua, e qualcuno sta essendo efficiente",
+        "Hai usato il livello di cortesia sbagliato",
+        "L'inglese è la lingua ufficiale delle ferrovie"
+      ],
+      "correta": 1,
+      "explica": "Nel sondaggio europeo sulle lingue del 2023, il 65 per cento degli intervistati in Germania ha dichiarato di parlare un'altra lingua abbastanza bene da conversare. Chiedi in tedesco, prendi la risposta in inglese, chiudi in tedesco."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "_comentario": "IT → Alemanha: voz-guia IT (comprador), alvo ALEMÃO (Rhea/Roman) REUSADO a custo zero. INV-5. Guia flash, alvo multilingual_v2.",
+  "_casting": "Juli fica DELIBERADAMENTE de fora. Ela é a voz-guia de todos os cinco SKUs de comprador alemão do catálogo (DE→Espanha, Itália, França, Grécia, Türkiye), e usá-la aqui como voz-ALVO faria a mesma pessoa ser a professora num produto e o nativo a imitar no outro. Thomas entra só no ear module de A01, pelo mesmo motivo em dose menor. As vozes-modelo são Rhea e Roman, que não têm papel em nenhum outro SKU. NÃO alegar sotaque regional: nenhuma destas vozes é verificadamente de região nenhuma, e Hamburgo, Colônia, Munique e Leipzig soam diferente — A01 trata de VELOCIDADE e desgaste, não de região.",
+  "_fonetica_do_par": "Inglês → alemão, e este par é o mais generoso do catálogo até aqui: as duas línguas são germânicas e o comprador CHEGA COM muita coisa. Ele já tem /ʃ/ (⟨sch⟩), /f/, /k/, /t/, o /ts/ final de «cats» que serve ao ⟨z⟩ alemão, e reconhece centenas de cognatos — Hand, Wasser, Buch, trinken. O ERRO CARO, e é ortográfico antes de ser fonético: ⟨w⟩ alemão é /v/ (Wasser = «vasser») e ⟨v⟩ alemão é /f/ (viel = «fiel») — o anglófono lê os dois trocados e é o defeito nº 1 do par. Depois vem ⟨s⟩ antes de vogal, que é /z/ (sagen), e ⟨z⟩, que é /ts/ e nunca /z/. PRECISA APRENDER: ⟨ü⟩ e ⟨ö⟩, anteriores arredondadas sem equivalente inglês, que são as duas vogais mais caras do curso; e ⟨ch⟩, que tem DUAS realizações que o inglês não distingue — o /x/ posterior de Bach e o /ç/ anterior de ich. O contraste vale palavra e o aluno não o ouve de partida. ARMADILHA PRÓPRIA DO ANGLÓFONO: a devocalização final (Auslautverhärtung) faz ⟨d⟩ ⟨b⟩ ⟨g⟩ finais virarem /t/ /p/ /k/ — Hund soa «Hunt», Tag soa «Tak» —, e o anglófono, que não a tem, sonoriza e soa estrangeiro; e o golpe de glote antes de vogal inicial, que separa palavras que o inglês emenda. ⟨ei⟩ e ⟨ie⟩ são o par que mais derruba a leitura: ⟨ei⟩ soa como o nome da letra I inglesa (nein) e ⟨ie⟩ como um E longo (vier) — regra simples, «diga a SEGUNDA letra», e vale para todo o vocabulário. O ⟨ß⟩ nunca é «B»: é /s/ surdo. ESTE BLOCO PRECISA SER CONFERIDO contra docs/pesquisa-alemanha-en.md quando a pesquisa fechar; o que estiver aqui e não estiver lá com fonte não entra em episódio.",
+  "guideModel": "eleven_flash_v2_5",
+  "targetModel": "eleven_multilingual_v2",
+  "roles": {
+    "guide_en_us_f": {
+      "voiceId": "DrXMEEZ3ZiRzhi81CK7I",
+      "languageCode": "it",
+      "name": "GuiaFem"
+    },
+    "guide_en_us_m": {
+      "voiceId": "eOn95oFslB2Bc07vuxXT",
+      "languageCode": "it",
+      "name": "GuiaMasc"
+    },
+    "target_de_f": {
+      "voiceId": "le3O97c6UClnRdpxkDTb",
+      "languageCode": "de",
+      "name": "Rhea"
+    },
+    "target_de_m": {
+      "voiceId": "1YST1S3BrkT7E0wcLKQD",
+      "languageCode": "de",
+      "name": "Roman"
+    },
+    "ear_de_f": {
+      "voiceId": "lMjHgR0mlECMlSEhnD6j",
+      "languageCode": "de",
+      "name": "Lara Sophie"
+    },
+    "ear_de_m": {
+      "voiceId": "5faieqDE3osz75KiOI2M",
+      "languageCode": "de",
+      "name": "Thomas"
+    }
+  },
+  "_ear_module": "ear_de_f e ear_de_m são EXCLUSIVAS de A01. Reusar a voz-modelo como voz de variação contamina o modelo — o aluno passa a ouvir o padrão como se fosse variação.",
+  "_g14": {
+    "guiaLingua": "it",
+    "guia": [
+      "guide_en_us_f",
+      "guide_en_us_m"
+    ],
+    "alvo": [
+      "target_de_f",
+      "target_de_m",
+      "ear_de_f",
+      "ear_de_m"
+    ],
+    "alvoLingua": "de"
+  }
+}

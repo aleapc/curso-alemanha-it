@@ -1,0 +1,374 @@
+{
+  "id": "a07",
+  "nivel": "avancado",
+  "numero": 35,
+  "parte": "A07",
+  "titulo": "L'offerta che non fai mai, e devi solo accettare",
+  "subtitulo": "Il Sie porta l'intero viaggio; il passaggio al du arriva dall'altro lato del tavolo, il tuo nome di battesimo può spuntare attaccato al Sie, e le ore di quiete sono scritte",
+  "cena": "Quarta sera nella stessa Kneipe. L'uomo che ti ha servito tre volte si sporge sul bancone e dice una frase con dentro il tuo nome di battesimo — e più tardi, di sopra, qualcuno bussa alle dieci e dieci.",
+  "moldura": "ganha",
+  "frasePiso": "Usi il Sie per l'intero viaggio e riconosci l'offerta quando arriva. È tutto il sistema, e ha una parola sola dentro.",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-a07-du-angebot",
+      "afirmacao": "Il tedesco ha due modi di dire «tu», e il viaggiatore ne ha sempre bisogno solo di uno. La guida d'uso del Duden afferma che nella vita professionale e con i contatti nuovi il Sie è inizialmente la forma di rivolgersi corretta, e descrive il du come qualcosa offerto verso il basso — il capo lo offre all'impiegato, il collega più anziano al più giovane — con il du non richiesto da un superiore a un subordinato trattato come cattive maniere. Il linguista Horst Simon della Freie Universität Berlin, intervistato da Spektrum der Wissenschaft il 27 marzo 2023, relativizza la gerarchia — chiunque può offrirlo — e colloca la vera asimmetria altrove: chi riceve l'offerta può a malapena rifiutarla. Il passaggio è unidirezionale e in pratica irreversibile. Simon afferma anche che l'idea che il Sie stia scomparendo non è dimostrata; l'unico dato quantitativo reperito, un'indagine Appinio del 7 gennaio 2026 con 4.877 intervistati tra i 16 e i 54 anni, ha il 54 per cento che usa il Sie con il capo e sotto il dieci per cento in ogni fascia d'età a favore dell'abolizione del Sie.",
+      "fonte": "Duden, Sprachratgeber «Duzen oder Siezen?», verbatim: «Grundsätzlich ist im Geschäftsleben oder bei neuen Kontakten aber zunächst das Sie die korrekte Ansprache» e «das Du wird von oben nach unten angeboten». Horst Simon (FU Berlin), entrevista à Spektrum der Wissenschaft, 27/3/2023 [RESUMO]. Irreversibilidade: Finkenstaedt 1963: 232, citado num trabalho da Univ. Oldenburg — o original NÃO foi acessado. Appinio, «Siezen oder Duzen», 7/1/2026, N=4.877, 16–54 anos [RESUMO]: instituto comercial, representatividade não declarada, faixa etária para em 54. Besch (1998) e Simon (2003): FONTES NÃO ACESSADAS. A assimetria de custo (o Sie a mais é barato, o du não solicitado não é) é raciocínio, não achado medido — não há fonte que meça consequência de erro de tratamento por estrangeiro.",
+      "ano": 2026,
+      "revisarAte": "2028-08-05",
+      "evidencia": "CONSENSO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-a07-n02",
+        "de-a07-n03"
+      ]
+    },
+    {
+      "id": "de-a07-hamburger-sie",
+      "afirmacao": "Il tuo nome di battesimo e il Sie possono spuntare nella stessa frase, e non è una svista. L'Atlas zur deutschen Alltagssprache, un progetto d'indagine con mappe pubblicate, ha chiesto esattamente di queste forme miste nella sua ottava tornata. Nome di battesimo più Sie — «Thomas, wann kommen Sie morgen?», noto come Hamburger Sie — è più frequente nella Germania settentrionale e raro al sud, nell'Austria occidentale e in Svizzera. Cognome più du è riferito come occasionale in tutta l'area e non comune al nord e all'est, mentre Herr o Frau più cognome più du, che l'atlante stesso etichetta come Münchner Du, è per lo più non comune ovunque e solo occasionale nell'Austria orientale e nella Germania orientale.",
+      "fonte": "Atlas zur deutschen Alltagssprache (AdA), Elspaß (Salzburg) / Möller (Liège), Rodada 8, questões 6c–6e [RESUMO — página lida por fetch]. RESSALVA DE MÉTODO: o AdA publica categorias ordinais (üblich / ab und zu / unüblich) por localidade e NÃO percentuais — qualquer número percentual atribuído ao AdA seria invenção. Há divergência de rótulo: a tradição popular chama sobrenome+du de «Münchner Du»; o AdA aplica o rótulo à variante Herr/Frau+sobrenome+du.",
+      "ano": 2026,
+      "revisarAte": "2028-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-a07-n05"
+      ]
+    },
+    {
+      "id": "de-a07-ruhezeit",
+      "afirmacao": "Le ore di quiete in Germania sono una regola scritta più che un umore, ma quella federale è più ristretta della versione che circola. Il § 7 della 32ª ordinanza federale sul controllo delle immissioni prevede che gli apparecchi e le macchine elencati nel suo allegato non possano essere azionati nelle zone residenziali la domenica e i festivi affatto, e nei giorni feriali tra le 8 di sera e le 7 del mattino. Quella norma copre le macchine dell'allegato — tosaerba, soffiatori di foglie e simili — e non il rumore in generale. La quiete notturna generale dalle 10 di notte alle 6 del mattino, e la piena quiete domenicale, vengono dalla legge di Land, dal regolamento comunale e dal regolamento interno del singolo edificio.",
+      "fonte": "§ 7 da 32. BImSchV, aberto em gesetze-im-internet.de, verbatim quanto ao escopo: «an Sonn- und Feiertagen ganztägig sowie an Werktagen in der Zeit von 20.00 Uhr bis 07.00 Uhr». DELIMITAÇÃO OBRIGATÓRIA: a norma federal cobre as máquinas do anexo, não «barulho» em geral; a Nachtruhe genérica (22h–6h) e a Sonntagsruhe integral vêm de lei estadual, regulamento municipal e Hausordnung. Não escrever «é proibido por lei fazer barulho no domingo na Alemanha» sem essa qualificação.",
+      "ano": 2026,
+      "revisarAte": "2028-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-a07-n07"
+      ]
+    },
+    {
+      "id": "de-a07-daumen",
+      "afirmacao": "Esiste uno studio pubblicato che documenta che la mano che conta comincia in un punto diverso qui. Pika, Nicoladis e Marentette, «How to order a beer: Cultural differences in the use of conventional gestures for numbers», Journal of Cross-Cultural Psychology 40(1), 2009, riferiscono nell'abstract, alla lettera: «only the Germans use the thumb to indicate the number 1, whereas the two North American cultures use the index finger.» Lo studio è piccolo — sessanta partecipanti in tutto — e ha usato scenari ipotetici anziché osservazione naturalistica, quindi questo è un pattern documentato più che qualcosa di provato su ogni bancone del paese. Ciò che lo studio non misura affatto è cosa faccia poi il barista, quindi la nota storia sul mostrare un indice e ricevere due birre è un aneddoto e tale resta.",
+      "fonte": "Pika, Nicoladis & Marentette, JCCP 40(1), 2009 — abstract verbatim. n=60 no total, cenários hipotéticos, não observação naturalística: dizer «há um estudo publicado que documenta esse padrão», não «está provado». O corolário «…e você recebe duas cervejas» é FOLCLORE e foi recusado: o estudo mede a FORMA do gesto, não a consequência comunicativa.",
+      "ano": 2026,
+      "revisarAte": "2029-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-a07-n09"
+      ]
+    },
+    {
+      "id": "de-a07-fussgaenger",
+      "afirmacao": "Aspettare a un incrocio vuoto finché l'omino diventa verde è una regola di legge, non una stranezza locale: il § 25 del codice della strada tedesco disciplina i pedoni e i segnali luminosi, e attraversare contro il segnale è un illecito con una piccola sanzione immediata. La cifra che compare nei cataloghi sanzionatori tedeschi è cinque euro, che sale in caso di incidente — ma quel valore viene da un sito catalogo commerciale, e l'allegato ufficiale all'ordinanza sanzionatoria non è stato possibile aprirlo, quindi è citato come lo indicano i cataloghi e non come legge verificata.",
+      "fonte": "§ 25 StVO, gesetze-im-internet.de. VALOR NÃO VERIFICADO EM FONTE OFICIAL: o Verwarnungsgeld de 5 € (10 € com consequência de acidente) vem de bussgeldkatalog.de, site comercial; a Anlage do BKatV devolveu 404. Apresentar como «Verwarnungsgeld de 5 €, conforme catálogos alemães».",
+      "ano": 2026,
+      "revisarAte": "2027-08-05",
+      "evidencia": "CONSENSO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-a07-n08"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a07-n01",
+      "gesto": 4,
+      "bloco": "aquecimento",
+      "pt": "Quarta sera nello stesso bar. L'uomo che ti ha servito tre volte si sporge e dice qualcosa di nuovo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a07-n02",
+      "bloco": "corpo",
+      "pt": "Il Sie è la forma d'ingresso per ogni adulto che non conosci, e porta l'intero viaggio. Non scegli mai."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-a07-r01",
+      "receptivo": true,
+      "es": "Wir können uns gerne duzen.",
+      "pinyin": "veer KURN-en oons GAIR-nuh DOO-tsen",
+      "pt": "Se vuole possiamo darci del tu.",
+      "tts": "Wir können uns gerne duzen.",
+      "acao": "Quella è l'offerta, e arriva dal loro lato del bancone. Una parola in risposta è tutta la risposta."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a07-n03",
+      "pt": "È offerto, mai preso. Chiunque può offrirlo, e chi lo riceve può a malapena dire di no."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa",
+        "chegar/tu-usted"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a07-p01",
+      "promptPt": "Ha appena aperto la porta e aspetta. Accettala, e consegna l'unica informazione che ancora gli manca. Parla adesso.",
+      "audioKey": "de-a07-t01",
+      "es": "Gerne! Ich bin Alex.",
+      "pinyin": "GAIR-nuh! ikh bin AH-lex",
+      "pt": "Volentieri! Sono Alex.",
+      "tts": "Gerne! Ich bin Alex."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-a07-r02",
+      "receptivo": true,
+      "es": "Sag doch einfach Thomas zu mir.",
+      "pinyin": "zahk dokh INE-fakh TOH-mas tsoo meer",
+      "pt": "Chiamami semplicemente Thomas.",
+      "tts": "Sag doch einfach Thomas zu mir.",
+      "acao": "Stessa offerta, forma diversa. Ti si porge un nome, non ti si chiede di fare qualcosa di ingegnoso con la grammatica."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a07-n04",
+      "pt": "Gerne, e poi il tuo nome di battesimo. È più caldo di qualsiasi frase più lunga tu possa mettere insieme in tempo."
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "DANKE",
+      "encaixe": "vielen Dank",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a07-p02",
+      "promptPt": "Qualcuno ha appena reso una serata più facile di quanto avesse diritto di essere. Chiudi il momento come si deve. Parla adesso.",
+      "audioKey": "de-a07-t02",
+      "es": "Vielen Dank, das ist sehr nett.",
+      "pinyin": "FEE-len dahnk, das ist zair net",
+      "pt": "Grazie mille, è molto gentile.",
+      "tts": "Vielen Dank, das ist sehr nett."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-a07-r03",
+      "receptivo": true,
+      "es": "Thomas, wann kommen Sie morgen?",
+      "pinyin": "TOH-mas, van KOM-en zee MOR-gen",
+      "pt": "Thomas, domani a che ora viene?",
+      "tts": "Thomas, wann kommen Sie morgen?",
+      "acao": "Nome di battesimo e Sie in una frase è ordinario al nord. È calore, non un'offerta — resta sul Sie."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a07-n05",
+      "bloco": "capsula",
+      "pt": "Il tuo nome di battesimo può arrivare attaccato al Sie, e al nord è normale anziché una svista."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa",
+        "reparo/apontar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a07-p03",
+      "promptPt": "Due persone al tavolo accanto sono nel mezzo di una conversazione e tu vuoi il posto vicino a loro. Controlla prima di sederti. Parla adesso.",
+      "audioKey": "de-a07-t03",
+      "es": "Entschuldigung, störe ich?",
+      "pinyin": "ent-SHOOL-di-goong, SHTUR-uh ikh",
+      "pt": "Scusi, disturbo?",
+      "tts": "Entschuldigung, störe ich?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a07-n06",
+      "pt": "Ö è la borsa: di' la e di «bene», poi arrotonda le labbra e lascia la lingua esattamente dov'è."
+    },
+    {
+      "consulta": [
+        "mesa/bebida",
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a07-p04",
+      "promptPt": "In piedi al bancone, in tre file, con una mano libera e nessun tempo per una frase. Ordina, e tieni su il pollice. Parla adesso.",
+      "audioKey": "de-a07-t04",
+      "es": "Einmal Bier, bitte.",
+      "pinyin": "INE-mahl beer, BIT-tuh",
+      "pt": "Una birra, per favore.",
+      "tts": "Einmal Bier, bitte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a07-n09",
+      "pt": "Una per il bancone: una birra qui comincia col pollice, non con l'indice. C'è uno studio su questo."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-a07-r04",
+      "receptivo": true,
+      "es": "Könnten Sie das bitte etwas leiser machen? Es ist nach zehn.",
+      "pinyin": "KURN-ten zee das BIT-tuh ET-vas LY-zer MAKH-en? es ist nakh tsayn",
+      "pt": "Potrebbe abbassare un po', per favore? Sono passate le dieci.",
+      "tts": "Könnten Sie das bitte etwas leiser machen? Es ist nach zehn.",
+      "acao": "Una bussata con un orario dentro è una richiesta, non un verdetto. Rispondi e abbassa; non si vuole altro."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a07-n07",
+      "pt": "Le ore di quiete qui sono scritte. Le macchine elencate si fermano alle otto di sera in un giorno feriale."
+    },
+    {
+      "consulta": [
+        "quarto/nao-funciona",
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a07-p05",
+      "promptPt": "La tua finestra è aperta, il cortile porta tutto, e una luce si è appena accesa dall'altra parte. Chiedi prima che qualcuno bussi. Parla adesso.",
+      "audioKey": "de-a07-t05",
+      "es": "Entschuldigung, sind wir zu laut?",
+      "pinyin": "ent-SHOOL-di-goong, zint veer tsoo lowt",
+      "pt": "Scusi, siamo troppo rumorosi?",
+      "tts": "Entschuldigung, sind wir zu laut?"
+    },
+    {
+      "consulta": [
+        "quarto/nao-funciona"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a07-p06",
+      "promptPt": "Qualcuno ha bussato, con garbo, ed è ancora lì in piedi. Di' le quattro parole che chiudono la cosa. Parla adesso.",
+      "audioKey": "de-a07-t06",
+      "es": "Ja, ich mache es leiser.",
+      "pinyin": "yah, ikh MAKH-uh es LY-zer",
+      "pt": "Sì, abbasso.",
+      "tts": "Ja, ich mache es leiser."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a07-n08",
+      "pt": "E l'incrocio: aspetti l'omino verde anche in una via vuota, perché la regola è una regola."
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer",
+        "chegar/sair"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a07-p07",
+      "promptPt": "Cappotto addosso, bicchiere vuoto, e il tavolo sta ancora parlando. Lascia la serata aperta dietro di te. Parla adesso.",
+      "audioKey": "de-a07-t07",
+      "es": "Schönen Abend noch!",
+      "pinyin": "SHUR-nen AH-bent nokh",
+      "pt": "Buona serata!",
+      "tts": "Schönen Abend noch!"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-a07-s01",
+      "molde": "DANKE",
+      "es": "Gerne! Ich bin Alex. Vielen Dank, das ist sehr nett. Schönen Abend noch!",
+      "pinyin": "GAIR-nuh! ikh bin AH-lex. FEE-len dahnk, das ist zair net. SHUR-nen AH-bent nokh",
+      "pt": "Ripeti le tre che rispondono a una stanza calorosa: accetta l'offerta, ringrazia, e lasciala aperta.",
+      "tts": "Gerne! Ich bin Alex. Vielen Dank, das ist sehr nett. Schönen Abend noch!"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a07-n10",
+      "bloco": "recap",
+      "pt": "A07 fatto. Sie per tutto il tragitto, gerne quando è offerto, e una frase breve quando la stanza chiede."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Una forma di rivolgersi, un'offerta, e le ore che sono scritte",
+    "secoes": [
+      {
+        "titulo": "Perché questo è il sistema più facile del corso",
+        "corpo": "Cinque destinazioni in questo catalogo chiedono a un visitatore di scegliere tra un «tu» formale e uno familiare, sotto pressione, a un bancone. Il tedesco no. Il Sie è la forma d'ingresso per qualsiasi adulto che non conosci — in un negozio, con un funzionario, al lavoro — e resta corretta per l'intero viaggio, il che vuol dire che non c'è alcuna decisione da sbagliare. Il passaggio al du è un'offerta, e le offerte vengono dall'altro lato. La guida del Duden lo mette con chiarezza: il Sie è il modo corretto di rivolgersi negli affari e con i contatti nuovi, e il du è offerto verso il basso, dal superiore al subordinato, con il du non richiesto nell'altra direzione trattato come cattive maniere. Un linguista della Freie Universität Berlin ammorbidisce la gerarchia — chiunque può in realtà offrirlo — e indica la parte che conta di più: chi lo riceve può a malapena rifiutarlo. Che è la ragione per cui non sei mai tu a offrirlo."
+      },
+      {
+        "titulo": "Come suona l'offerta, e l'unica parola che le risponde",
+        "corpo": "Wir können uns gerne duzen è la forma standard. Sag doch einfach Thomas zu mir è la stessa cosa fatta di lato, con il nome porto anziché la regola enunciata. In entrambi i casi la risposta è breve: gerne, e il tuo nome di battesimo. Non ci si aspetta che tu produca una frase fluente in quel momento, e nulla dell'offerta ti obbliga a cambiare il modo in cui parli da quel punto in poi — gran parte di chi la accetta la sbaglia per il resto della serata, e nessuno che abbia appena fatto l'offerta sta contando. L'unica cosa che vale la pena sapere è che il passaggio non torna indietro. È unidirezionale e, in pratica, irreversibile, che è esattamente perché è lasciato alla persona che ci vive."
+      },
+      {
+        "titulo": "Il tuo nome di battesimo più il Sie, che non è un errore",
+        "corpo": "Thomas, wann kommen Sie morgen. Nome di battesimo, «tu» formale, stesso fiato. L'atlante d'indagine del tedesco quotidiano ha chiesto esattamente di questo e l'ha trovato più frequente nella Germania settentrionale, raro al sud, nell'Austria occidentale e in Svizzera; è noto come Hamburger Sie. L'immagine speculare — Herr o Frau più cognome più du, che l'atlante etichetta come Münchner Du — è per lo più non comune ovunque. Ciò che ne fai è nulla, tranne riconoscerlo: sentire il tuo nome di battesimo da qualcuno che usa ancora il Sie è un piccolo passo verso di te, non una svista e non un'offerta, e la risposta giusta è continuare a fare ciò che stavi già facendo. Un avvertimento metodologico, perché cambia ciò che si può dire: l'atlante pubblica categorie ordinali per località e nessuna percentuale, quindi qualsiasi cifra attaccata a questo è inventata."
+      },
+      {
+        "titulo": "Le ore di quiete, e la precisazione che deve viaggiare con esse",
+        "corpo": "Esiste una vera regola federale sul rumore ed è più ristretta della sua reputazione. La trentaduesima ordinanza sul controllo delle immissioni vieta di azionare le macchine elencate nel suo allegato nelle zone residenziali la domenica e i festivi tutto il giorno, e nei giorni feriali tra le otto di sera e le sette del mattino. Cioè tosaerba e soffiatori di foglie, non conversazione e non musica. La nota quiete notturna dalle dieci alle sei, e la piena quiete domenicale, vengono dalla legge di Land, dai regolamenti comunali e dal regolamento interno del singolo edificio — motivo per cui la bussata alla tua porta alle dieci e dieci è del tutto ordinaria e anche perché nessuno può citarti un'unica legge nazionale per essa. Tratta la bussata per ciò che è: una richiesta con un orario attaccato, a cui si risponde in una frase.",
+        "exemplos": [
+          {
+            "es": "Entschuldigung, sind wir zu laut?",
+            "pt": "Scusi, siamo troppo rumorosi?"
+          },
+          {
+            "es": "Ja, ich mache es leiser.",
+            "pt": "Sì, abbasso."
+          }
+        ]
+      },
+      {
+        "titulo": "Il pollice, l'omino verde, e cosa non viene affermato qui",
+        "corpo": "Due piccole cose viaggiano bene. La mano che conta comincia col pollice: uno studio pubblicato nel 2009 registra che solo i partecipanti tedeschi usavano il pollice per il numero uno, dove i due gruppi nordamericani usavano l'indice. Prendilo come un pattern documentato più che come una legge — sessanta partecipanti, scenari ipotetici — e lascia perdere la storia che gli gira attorno, sull'ordinare una birra con l'indice e riceverne due. Lo studio ha misurato la forma del gesto e nulla su cosa abbia poi fatto il barista. L'altra è l'incrocio: il codice della strada disciplina i pedoni ai segnali luminosi, e attraversare contro di esso è un illecito con una piccola sanzione immediata, indicata in cinque euro nei cataloghi tedeschi anche se l'allegato ufficiale non è stato possibile aprirlo per confermarla. Ed ecco cosa questo corso non afferma, perché non ci sono dati: nulla sulle strette di mano — la loro fermezza, il loro ordine, o se siano tornate dopo il 2020 — e nulla sul contatto visivo quando si brinda. Quelle regole circolano ampiamente e poggiano su manuali di galateo anziché su una qualsiasi osservazione."
+      }
+    ]
+  },
+  "slot": "A07",
+  "permissao": "Ti è permesso restare sul Sie per l'intero viaggio e non spostartene mai. Non verrà letto come freddezza — è la forma d'ingresso ordinaria per un adulto che non hai conosciuto, e l'errore che previene è quello costoso più che quello economico. Ti è anche permesso accettare un'offerta di du con una sola parola e poi sbagliarla per il resto della serata; la persona che ha fatto l'offerta non la sta valutando. E quando qualcuno bussa per il rumore, ti è permesso rispondere in quattro parole e tornare a ciò che stavi facendo — una richiesta con un orario dentro è finita nel momento in cui dici sì.",
+  "permissaoAudioKey": "de-a07-n02",
+  "espelho": "L'abitudine del visitatore che qui suona strana è quella che a casa sembra amichevole: passare ai nomi di battesimo un minuto dopo aver conosciuto qualcuno, perché la formalità sembra distanza tenuta di proposito. Qui la mossa non ha modo di tornare indietro una volta fatta, che è precisamente perché è lasciata alla persona che deve conviverci — e perché essere l'ospite che ha aspettato di riceverla non ti costa nulla.",
+  "fichasCulturais": [
+    {
+      "sinal": "Qualcuno con cui hai parlato tre o quattro volte dice wir können uns gerne duzen, e il tavolo aspetta te.",
+      "suaLeitura": "È appena stata tirata fuori una regola che non conosco, e sto per fallire un test di cortesia.",
+      "oQueEAli": "È un'offerta, non un esame. Il Sie è la forma d'ingresso corretta con i contatti nuovi, il du è offerto anziché preso, e chi lo riceve può a malapena rifiutarlo — che è perché la mossa è lasciata al residente e perché riceverla è un piccolo complimento più che una trappola.",
+      "oQueVoceFaz": "Di' gerne e dai il tuo nome di battesimo. È tutta la risposta, e non ti si chiede stasera alcun ulteriore cambiamento del tuo tedesco.",
+      "oQueMelhora": "Smetti di trattare un gesto caloroso ordinario come un esame di grammatica, e la serata va avanti in un secondo anziché incepparsi dal tuo lato del tavolo.",
+      "ondeNaoVale": "La letteratura dietro questo è scarsa e il corso lo dice: l'irreversibilità poggia su un lavoro del 1963 noto solo tramite terzi, i libri standard sul rivolgersi non erano accessibili, e l'idea che un Sie di troppo sia economico mentre un du non richiesto sia costoso è ragionamento più che un riscontro misurato — nessuno ha studiato cosa costi a uno straniero. L'unica cifra d'indagine viene da un istituto commerciale il cui campione si ferma a 54. E la regola che circola su chi offre per primo, per genere, non ha alcun fondamento nella letteratura qui raggiunta, che punta nella direzione opposta.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "de-a07-n02",
+        "de-a07-n03"
+      ]
+    },
+    {
+      "sinal": "Alle dieci e dieci qualcuno bussa alla tua porta e chiede, con garbo e con l'orario nella frase, se si possa fare più piano.",
+      "suaLeitura": "È stata fatta una lamentela su di me, e questo diventerà una faccenda con l'edificio.",
+      "oQueEAli": "Le ore di quiete qui sono scritte anziché negoziate, e la bussata è il modo ordinario in cui vengono fatte rispettare — un vicino, una frase, fatto. L'ordinanza federale mette le macchine elencate fuori uso nelle zone residenziali la domenica e i festivi interamente, e nei giorni feriali dalle otto di sera alle sette del mattino.",
+      "oQueVoceFaz": "Di' ja e abbassa. Ja, ich mache es leiser chiude la cosa. Se lo vedi arrivare, chiedi prima: Entschuldigung, sind wir zu laut.",
+      "oQueMelhora": "Una bussata smette di sembrare un'accusa e diventa ciò che è, una breve faccenda di ordine domestico — e chiedere prima trasforma il vicino in qualcuno che ti fa un cenno per le scale.",
+      "ondeNaoVale": "La regola federale che è stata effettivamente letta copre le macchine del suo allegato — tosaerba, soffiatori — non il rumore in generale. La quiete notturna generale dalle dieci alle sei e la piena quiete domenicale vengono dalla legge di Land, dal regolamento comunale e dal regolamento interno dell'edificio, quindi nessuno dovrebbe ripetere questo come un'unica legge nazionale sul rumore. Ed è una faccenda residenziale: non dice nulla sui bar, e nulla su cosa succede all'aperto in un centro cittadino.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-a07-n07"
+      ]
+    }
+  ]
+}

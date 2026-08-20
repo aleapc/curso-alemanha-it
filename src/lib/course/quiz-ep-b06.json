@@ -1,0 +1,96 @@
+{
+  "id": "q-b06",
+  "nivel": "basico",
+  "titulo": "Quiz — Haben Sie, e poi qualunque cosa serva nella prima ora",
+  "subtitulo": "Una sola formula su quattro sportelli, e lo scarto tra l'etichetta e la cassa",
+  "introAudioKey": "de-b06-q-i",
+  "introPt": "Un viaggiatore attraversa la sala arrivi con una sola apertura e otto bisogni diversi.",
+  "cenario": "Arrivi tedeschi, la prima ora.",
+  "dialogo": [
+    {
+      "audioKey": "de-b06-q01",
+      "voz": "target_de_f",
+      "es": "Guten Tag, haben Sie eine SIM-Karte?",
+      "pt": "Buongiorno, avete una SIM?",
+      "tts": "Guten Tag, haben Sie eine SIM-Karte?"
+    },
+    {
+      "audioKey": "de-b06-q02",
+      "voz": "target_de_m",
+      "es": "Ja, natürlich. Mit oder ohne Vertrag?",
+      "pt": "Sì, certo. Con o senza contratto?",
+      "tts": "Ja, natürlich. Mit oder ohne Vertrag?"
+    },
+    {
+      "audioKey": "de-b06-q03",
+      "voz": "target_de_f",
+      "es": "Haben Sie Wechselgeld?",
+      "pt": "Avete degli spiccioli?",
+      "tts": "Haben Sie Wechselgeld?"
+    },
+    {
+      "audioKey": "de-b06-q04",
+      "voz": "target_de_m",
+      "es": "Nein, aber der Automat da drüben gibt Münzen.",
+      "pt": "No, ma il distributore laggiù dà monete.",
+      "tts": "Nein, aber der Automat da drüben gibt Münzen."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Cosa va dopo «Haben Sie»?",
+      "opcoes": [
+        "Un verbo",
+        "La cosa che vuoi che abbiano",
+        "Un numero",
+        "Il tuo nome"
+      ],
+      "correta": 1,
+      "explica": "La formula è Haben Sie più una cosa: eine SIM-Karte, WLAN, Wechselgeld, Wasser, Fahrkarten. L'apertura stessa non cambia mai forma, e la forma di cortesia è già dentro di essa."
+    },
+    {
+      "pergunta": "Il tedesco segna la funzione di un sostantivo sulla piccola parola che lo precede. Cosa significa questo per questa formula?",
+      "opcoes": [
+        "Devi ricavare la piccola parola allo sportello",
+        "Niente — la cosa arriva già vestita, e impari la coppia intera",
+        "Dovresti usare sempre la forma del dizionario",
+        "La formula funziona solo con parole che non cambiano mai"
+      ],
+      "correta": 1,
+      "explica": "La scheda dice einen Tisch, mai Tisch. Che la forma del dizionario sia der Tisch è vero e si può ignorare per tutto il viaggio. Plurali e sostanze arrivano davvero nudi — Haben Sie Fahrkarten, Haben Sie Wasser — esattamente come in inglese."
+    },
+    {
+      "pergunta": "«Nein, aber der Automat da drüben gibt Münzen.» Cosa dovresti fare?",
+      "opcoes": [
+        "Ringraziarli e andartene",
+        "Chiedere di nuovo più lentamente",
+        "Restare un istante — il no porta con sé l'indirizzo del sì",
+        "Provare la domanda in inglese"
+      ],
+      "correta": 2,
+      "explica": "La prima parola è solo la prima metà. La parte utile è il distributore laggiù, il chiosco di fronte, lo sportello che spezza un pezzo da cinquanta."
+    },
+    {
+      "pergunta": "La bottiglia è etichettata 0,99 e la cassa dice 1,24. Cos'è successo?",
+      "opcoes": [
+        "L'IVA è stata aggiunta alla cassa, come a casa tua",
+        "Un sovrapprezzo per turisti",
+        "Il deposito cauzionale, che la legge vieta di includere nel prezzo a scaffale",
+        "Un errore che vale la pena contestare"
+      ],
+      "correta": 2,
+      "explica": "L'imballaggio monouso delle bevande porta un deposito cauzionale di almeno venticinque centesimi IVA inclusa, e il commerciante deve mostrarlo accanto al prezzo totale e espressamente non includerlo. È l'unica eccezione alla regola che ciò che vedi è ciò che paghi — e lo riavrai indietro."
+    },
+    {
+      "pergunta": "Il negozio del terminal è aperto alle nove e mezza di sera. Perché?",
+      "opcoes": [
+        "Gli aeroporti sono del tutto esenti dagli orari dei negozi",
+        "Possono aprire tutti i giorni e tutto il giorno, ma fuori dagli orari normali possono vendere solo articoli da viaggio ai viaggiatori",
+        "L'apertura serale è normale in tutto il paese",
+        "È una regola del duty-free"
+      ],
+      "correta": 1,
+      "explica": "I negozi negli aeroporti e nelle stazioni ferroviarie passeggeri hanno un'eccezione per l'intera giornata con una condizione ristretta annessa. La regola generale chiude i negozi la domenica e nei giorni festivi e dalle otto di sera negli altri giorni."
+    }
+  ]
+}

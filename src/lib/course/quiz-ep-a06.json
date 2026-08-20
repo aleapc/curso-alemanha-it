@@ -1,0 +1,96 @@
+{
+  "id": "q-a06",
+  "nivel": "avancado",
+  "titulo": "Quiz — Il tre di ottobre, e altri quindici calendari",
+  "subtitulo": "Cinque domande su una data federale, una strada che si chiude da sola, e il mese che non esiste",
+  "introAudioKey": "de-a06-q-i",
+  "introPt": "Un ospite smette di cercare i giorni festivi tedeschi e inizia a chiedere della cittadina che ha davanti.",
+  "cenario": "Un giovedì sera in una cittadina raggiunta in treno un'ora fa, e quattro risposte che non concordano del tutto.",
+  "dialogo": [
+    {
+      "audioKey": "de-a06-q01",
+      "voz": "target_de_f",
+      "es": "Morgen ist Feiertag, da haben wir zu.",
+      "pt": "Domani è festa, quindi siamo chiusi.",
+      "tts": "Morgen ist Feiertag, da haben wir zu."
+    },
+    {
+      "audioKey": "de-a06-q02",
+      "voz": "target_de_m",
+      "es": "Bei uns nicht. Wir sind ein anderes Bundesland.",
+      "pt": "Da noi no. Siamo un altro Land.",
+      "tts": "Bei uns nicht. Wir sind ein anderes Bundesland."
+    },
+    {
+      "audioKey": "de-a06-q03",
+      "voz": "target_de_f",
+      "es": "Sonntags ist geschlossen. Der Bahnhof hat auf.",
+      "pt": "La domenica siamo chiusi. La stazione è aperta.",
+      "tts": "Sonntags ist geschlossen. Der Bahnhof hat auf."
+    },
+    {
+      "audioKey": "de-a06-q04",
+      "voz": "target_de_m",
+      "es": "Rosenmontag ist kein Feiertag, aber hier macht fast alles zu.",
+      "pt": "Il lunedì di carnevale non è festivo, ma qui chiude quasi tutto.",
+      "tts": "Rosenmontag ist kein Feiertag, aber hier macht fast alles zu."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Quanti giorni festivi in Germania sono fissati dalla legge federale?",
+      "opcoes": [
+        "Nessuno — appartengono tutti ai Länder",
+        "Uno, il tre di ottobre",
+        "Nove, compresi Natale e il lunedì di Pasqua",
+        "Dieci, elencati nella Legge Fondamentale"
+      ],
+      "correta": 1,
+      "explica": "Il Trattato di unificazione lo dice in una sola frase: il tre di ottobre è il Giorno dell'Unità Tedesca, festività di legge. Ogni altra data è stabilita dalla legge di un singolo Land: nove date valgono in tutti e sedici, e una volta tolto il tre di ottobre, le restanti otto sono uniformi solo perché sedici leggi statali coincidono per caso."
+    },
+    {
+      "pergunta": "Il lunedì di carnevale svuota metà di Colonia. Qual è il suo status giuridico?",
+      "opcoes": [
+        "Festivo solo nel Nord Reno-Vestfalia",
+        "Festivo nei comuni della Renania",
+        "Un normale giorno lavorativo, in ogni Land",
+        "Una mezza giornata festiva a partire da mezzogiorno"
+      ],
+      "correta": 2,
+      "explica": "Non è festività di legge da nessuna parte. La prova più netta è che la città di Colonia deve pubblicare un avviso in cui dice che i propri uffici anagrafe e stato civile quel giorno sono chiusi — cosa che sarebbe superflua se il giorno si chiudesse da sé."
+    },
+    {
+      "pergunta": "È domenica e il distributore è aperto. Che cosa può venderti legittimamente?",
+      "opcoes": [
+        "Qualsiasi cosa sugli scaffali — le regole di chiusura non lo riguardano",
+        "Ricambi per veicoli, carburante e articoli da viaggio",
+        "Cibo e bevande ma nient'altro",
+        "Ciò che vuole fino alle otto di sera"
+      ],
+      "correta": 1,
+      "explica": "La legge sulla chiusura dei negozi consente ai distributori di aprire a qualsiasi ora, ma durante gli orari di chiusura e nelle domeniche e festività li limita ai ricambi necessari a far funzionare un veicolo, al carburante e agli articoli da viaggio. Non è un supermercato domenicale legittimo. I negozi di stazione e aeroporto sono limitati allo stesso modo, agli articoli da viaggio venduti ai viaggiatori."
+    },
+    {
+      "pergunta": "Quale di queste è l'affermazione corretta sulla chiusura dei negozi oggi?",
+      "opcoes": [
+        "È legge federale, identica in tutti e sedici i Länder",
+        "La Baviera è l'ultimo Land che segue ancora la legge federale",
+        "È di competenza dei Länder dal 2006, e la Baviera ha approvato una propria legge nel 2025",
+        "È stata abolita per i turisti nei centri città"
+      ],
+      "correta": 2,
+      "explica": "La riforma federale del 2006 ha spostato la competenza ai Länder, e la Legge Fondamentale ora esclude a chiare lettere la chiusura dei negozi dal diritto economico federale. La legge propria della Baviera è entrata in vigore il 1° agosto 2025 — mantiene la linea delle otto ma consente ai negozi senza personale fino a 150 metri quadri di aprire a ogni ora, domeniche comprese."
+    },
+    {
+      "pergunta": "Che cosa è vero riguardo alla stagione delle vacanze estive tedesca?",
+      "opcoes": [
+        "Il Paese chiude per gran parte di agosto, come nell'Europa meridionale",
+        "Le vacanze scolastiche sono scaglionate tra i Länder di proposito",
+        "Tutti e sedici i Länder fanno pausa nello stesso momento a luglio",
+        "Nei Länder meridionali non ci sono vacanze scolastiche"
+      ],
+      "correta": 1,
+      "explica": "Non c'è alcun mese in cui il Paese chiude, e non è stato trovato nulla a sostegno di quell'idea. I ministri dell'istruzione ruotano le vacanze estive su cinque gruppi di Länder proprio per evitare che partano tutti insieme — e Baden-Württemberg e Baviera sono strutturalmente ultimi, il che distende la stagione da fine giugno a metà settembre."
+    }
+  ]
+}

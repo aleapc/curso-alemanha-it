@@ -1,0 +1,410 @@
+{
+  "id": "b17",
+  "nivel": "basico",
+  "numero": 17,
+  "parte": "B17",
+  "titulo": "Apotheke — il banco che lo risolve prima che debba farlo un medico",
+  "subtitulo": "Di' contro cosa ti serve qualcosa, di' dove fa male, e sappi quale porta è aperta alle quattro del mattino",
+  "moldura": "protege",
+  "cena": "Una via principale tedesca alle nove e mezza di sera: la farmacia è buia, c'è un foglio stampato attaccato all'interno della vetrina, e qualcosa che hai mangiato ha deciso di essere un problema.",
+  "frasePiso": "Etwas gegen, più la cosa che fa male. Quella frase ti fa servire a un banco di farmacia in qualsiasi parte del paese.",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-b17-notdienst",
+      "afirmacao": "Il turno di notte e domenicale delle farmacie in Germania è un obbligo legale, non un accordo volontario. Il § 4 Abs. 1 LadSchlG consente alle farmacie di aprire «an allen Tagen während des ganzen Tages», e l'Abs. 2 richiede all'autorità di ordinare che, in un comune con più farmacie, una parte chiuda a rotazione durante gli orari generali di chiusura dei negozi. Il § 23 ApBetrO impone la «ständige Dienstbereitschaft» e consente all'autorità di liberare una farmacia in finestre definite — da mezzanotte alle 8 dal lunedì al sabato, dalle 18.30 a mezzanotte dal lunedì al venerdì, dalle 14 a mezzanotte il sabato, il 24 e 31 dicembre, e domeniche e festivi. Una farmacia chiusa deve esporre un avviso visibile che indichi le più vicine aperte: è il foglio in vetrina. I turni sono organizzati dalle Landesapothekerkammern, e la ricerca ufficiale è aponet.de/apotheke/notdienstsuche. In città circa una farmacia su dieci è di turno per notte.",
+      "fonte": "gesetze-im-internet.de (§ 4 Abs. 1 e 2 LadSchlG e § 23 ApBetrO, abertos em 5/8/2026; o trecho «ständige Dienstbereitschaft» verbatim, o resto parafraseado); abda.de, Faktenblatt Notdienst, Stand junho/2026 [RESUMO] — pesquisa § 6.3.",
+      "ano": 2026,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["de-b17-n04", "de-b17-n05"]
+    },
+    {
+      "id": "de-b17-notdienstgebuehr",
+      "afirmacao": "Il supplemento della farmacia fuori orario è fissato per regolamento ed è piccolo. Il § 6 AMPreisV consente alla farmacia di addebitare «einen zusätzlichen Betrag von 2,50 Euro einschließlich Umsatzsteuer» tra le 20 e le 6, la domenica e nei festivi, e il 24 dicembre. Un anglofono in visita lo paga, perché un visitatore acquista come cliente privato. Due correzioni da tenere a mente: il supplemento è nel § 6, non nel § 7 — il § 7 copre i farmaci controllati a 4,26 € — e la Praxisgebühr di 10 € a trimestre per vedere un medico è stata abolita con voto unanime del Bundestag il 9/11/2012 con effetto dal 1/1/2013, quindi qualsiasi guida che la menzioni ancora sbaglia da tredici anni.",
+      "fonte": "gesetze-im-internet.de (§ 6 e § 7 AMPreisV, abertos, com o valor verbatim); abolição da Praxisgebühr [RESUMO de bundestag.de] — pesquisa § 6.3 e § 6.5. Os valores 0,69 €/min e 0,69 €/SMS do serviço 22833 são recusados: não vêm da ABDA.",
+      "ano": 2026,
+      "revisarAte": "2027-01-31",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["de-b17-n06"]
+    },
+    {
+      "id": "de-b17-numeros",
+      "afirmacao": "La Germania ha due numeri di emergenza, e la divisione non è l'abitudine anglofona. Il 112 raggiunge i vigili del fuoco e il Rettungsdienst; il 110 raggiunge la polizia. I due numeri unificati furono concordati da Bund e Länder il 20/9/1973, e il 112 fu adottato come numero unico europeo dal Consiglio dei ministri dell'UE nel 1991. Il travel advice per la Germania del FCDO britannico dice, testualmente, «Dial 112 and ask for an ambulance.» A parte, il 116117 è il servizio medico fuori orario gestito dalla Kassenärztliche Bundesvereinigung: 24 ore su 24, per disturbi che porteresti da un ambulatorio quando l'ambulatorio è chiuso, non per un'emergenza che mette in pericolo la vita, e non per le cure odontoiatriche. La sua pagina in inglese afferma che «This service is only available in German» — il sito ha una versione in inglese, la linea telefonica no. La linea è dichiarata gratuita «mit deutschem Telefonvertrag», quindi il costo da una SIM straniera o in roaming è sconosciuto e non va descritto come gratuito.",
+      "fonte": "bbk.bund.de, bundesregierung.de e polizei-beratung.de [RESUMO]; BMI, comunicado de setembro/2023; gov.uk «Germany travel advice — Health», aberta em 5/8/2026, verbatim; 116117.de e 116117.de/de/englisch.php, abertas em 5/8/2026, verbatim — pesquisa § 6.1 e § 6.2.",
+      "ano": 2026,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": ["de-b17-n07", "de-b17-n08"]
+    },
+    {
+      "id": "de-b17-cobertura",
+      "afirmacao": "Quanto costa la visita dipende da quale lato dell'Atlantico vieni. Per i residenti nel Regno Unito, gov.uk afferma che «To get medically necessary state healthcare in Germany, you need a Global Health Insurance Card (GHIC) or a European Health Insurance Card (EHIC)», e nella stessa pagina che «A GHIC or EHIC is not an alternative to travel insurance»: la tessera dà le stesse condizioni di un residente tedesco, il che può significare gratis o può significare lo stesso ticket che paga un locale, e non copre né cure private né rimpatrio né soccorso alpino. I ticket tedeschi stessi sono nel codice sociale: il § 39 Abs. 4 SGB V con il § 61 Satz 2 fissa 10 € per giorno solare di ricovero ospedaliero fino a 28 giorni in un anno solare, e lo stesso § 61 fissa il 10% del prezzo per i farmaci con un minimo di 5 € e un massimo di 10 €. Per i visitatori statunitensi, Medicare normalmente non copre le cure fuori dagli Stati Uniti, con eccezioni molto ristrette, e non paga i farmaci acquistati all'estero.",
+      "fonte": "gov.uk «Germany travel advice — Health» e «Healthcare for UK nationals visiting the EU», NHSBSA, abertas em 5/8/2026, verbatim; gesetze-im-internet.de (§ 39 Abs. 4 e § 61 Satz 2 SGB V, verbatim); medicare.gov devolveu 403, item [RESUMO] sem citação atribuível — pesquisa § 6.4, 6.5 e 6.6. A DVKA não foi acessada: o lado britânico apoia-se exclusivamente em fontes britânicas.",
+      "ano": 2026,
+      "revisarAte": "2027-04-30",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": ["de-b17-n09"]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b17-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "pt": "È l'unica parte del modulo che pianifica per un'ora brutta. Dieci minuti adesso ricomprano quell'ora."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b17-n02",
+      "bloco": "molde",
+      "pt": "L'Apotheke è la prima porta qui, non l'ultima. Il banco sotto la A rossa fa gran parte del lavoro."
+    },
+    {
+      "consulta": ["saude/algo-para", "chegar/balcao"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-SUCHE",
+      "encaixe": "eine Apotheke",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b17-p01",
+      "promptPt": "Sei in una via che non conosci e ti serve il negozio con la grande lettera rossa. Chiedi a un passante. Parla adesso.",
+      "audioKey": "de-b17-t01",
+      "es": "Ich suche eine Apotheke.",
+      "pinyin": "ikh ZOO-khe AI-ne a-po-TAY-ke",
+      "pt": "Cerco una farmacia.",
+      "tts": "Ich suche eine Apotheke."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b17-r01",
+      "es": "Die hier ist zu. Der Notdienst steht am Fenster.",
+      "pinyin": "dee heer ist tsoo. dair NOHT-deenst shtayt am FEN-stah",
+      "pt": "Questa è chiusa. Il turno di guardia è in vetrina.",
+      "tts": "Die hier ist zu. Der Notdienst steht am Fenster.",
+      "receptivo": true,
+      "acao": "Non andartene. Va' al vetro e leggi il foglio attaccato all'interno — indica quella aperta."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b17-n03",
+      "bloco": "corpo",
+      "pt": "Una farmacia buia ti dice dov'è quella illuminata. Esporre quel foglio è un obbligo, non una gentilezza."
+    },
+    {
+      "consulta": ["saude/guardia", "chegar/balcao"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "die nächste Apotheke",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b17-p02",
+      "promptPt": "Il foglio nel vetro è in caratteri piccoli e vuoi che l'indirizzo venga detto ad alta voce. Chiedi all'uomo che passa. Parla adesso.",
+      "audioKey": "de-b17-t02",
+      "es": "Wo ist die nächste Apotheke?",
+      "pinyin": "voh ist dee NEKH-ste a-po-TAY-ke",
+      "pt": "Dov'è la farmacia più vicina?",
+      "tts": "Wo ist die nächste Apotheke?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b17-n04",
+      "pt": "Una farmacia su dieci è di turno stanotte, a rotazione, e sono le camere dei farmacisti a stilarlo."
+    },
+    {
+      "consulta": ["saude/algo-para"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b17-p03",
+      "promptPt": "È iniziato dietro gli occhi sul treno e non ha mollato. Di' contro cosa vuoi qualcosa. Parla adesso.",
+      "audioKey": "de-b17-t03",
+      "es": "Ich brauche etwas gegen Kopfschmerzen.",
+      "pinyin": "ikh BROW-khe ET-vas GAY-gen KOPF-shmer-tsen",
+      "pt": "Mi serve qualcosa per il mal di testa.",
+      "tts": "Ich brauche etwas gegen Kopfschmerzen."
+    },
+    {
+      "consulta": ["saude/algo-para"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b17-p04",
+      "promptPt": "Ti sei svegliato senza riuscire a deglutire bene e hai altri due giorni di parlato davanti. Stessa forma, nuovo disturbo. Parla adesso.",
+      "audioKey": "de-b17-t04",
+      "es": "Ich brauche etwas gegen Halsschmerzen.",
+      "pinyin": "ikh BROW-khe ET-vas GAY-gen HALS-shmer-tsen",
+      "pt": "Mi serve qualcosa per il mal di gola.",
+      "tts": "Ich brauche etwas gegen Halsschmerzen."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b17-r02",
+      "es": "Haben Sie ein Rezept?",
+      "pinyin": "HAH-ben zee ain re-TSEPT",
+      "pt": "Ha una ricetta?",
+      "tts": "Haben Sie ein Rezept?"
+    },
+    {
+      "consulta": ["saude/receita"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b17-p05",
+      "promptPt": "Non hai idea se la cosa che vuoi qui sia da banco o no. Trasformalo in una domanda. Parla adesso.",
+      "audioKey": "de-b17-t05",
+      "es": "Brauche ich ein Rezept?",
+      "pinyin": "BROW-khe ikh ain re-TSEPT",
+      "pt": "Mi serve una ricetta?",
+      "tts": "Brauche ich ein Rezept?"
+    },
+    {
+      "consulta": ["dieta/dizer", "saude/minha-alergia"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b17-p06",
+      "promptPt": "Prima che qualcosa venga passato oltre il banco, di' l'unico fatto medico su di te che cambia ciò che scelgono. Parla adesso.",
+      "audioKey": "de-b17-t06",
+      "es": "Ich bin allergisch gegen Penicillin.",
+      "pinyin": "ikh bin a-LER-gish GAY-gen pe-ni-tsi-LEEN",
+      "pt": "Sono allergico alla penicillina.",
+      "tts": "Ich bin allergisch gegen Penicillin."
+    },
+    {
+      "consulta": ["saude/algo-para", "reparo/apontar"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b17-p07",
+      "promptPt": "Non hai una parola per la parte di te che fa male, quindi mettici una mano e lascia che sia la mano a fare il sostantivo. Parla adesso.",
+      "audioKey": "de-b17-t07",
+      "es": "Ich habe hier Schmerzen.",
+      "pinyin": "ikh HAH-be heer SHMER-tsen",
+      "pt": "Mi fa male qui.",
+      "tts": "Ich habe hier Schmerzen."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b17-n05",
+      "pt": "Tutto finora avviene a un banco. Nulla finora ha bisogno di un medico, di una tessera o di un appuntamento."
+    },
+    {
+      "consulta": ["reparo/escreve", "saude/receita"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "das aufschreiben",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b17-p08",
+      "promptPt": "Ha detto la dose due volte e non ne hai afferrata nessuna. La carta sopravvive a ciò che il tuo orecchio no. Parla adesso.",
+      "audioKey": "de-b17-t08",
+      "es": "Können Sie das aufschreiben?",
+      "pinyin": "KURN-nen zee dass OWF-shrai-ben",
+      "pt": "Può scriverlo?",
+      "tts": "Können Sie das aufschreiben?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b17-r03",
+      "es": "Dreimal täglich, nach dem Essen. Das macht neun Euro fünfzig, mit Notdienstgebühr.",
+      "pinyin": "DRAI-mahl TAYK-likh, nahkh daym ESS-en. das makht noyn OY-ro FEWNF-tsikh, mit NOHT-deenst-ge-bewr",
+      "pt": "Tre volte al giorno, dopo i pasti. Fanno nove euro e cinquanta, con il supplemento fuori orario.",
+      "tts": "Dreimal täglich, nach dem Essen. Das macht neun Euro fünfzig, mit Notdienstgebühr.",
+      "receptivo": true,
+      "acao": "Notdienstgebühr è il supplemento notturno ed è limitato a due e cinquanta. Pagalo e vai avanti."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b17-n06",
+      "pt": "Quel supplemento è fissato per regolamento a due euro e cinquanta, di notte, la domenica e nei festivi. È tutto l'extra."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b17-n07",
+      "bloco": "capsula",
+      "pt": "Due numeri, non uno. Uno uno due porta un'ambulanza. Uno uno zero porta la polizia."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b17-n08",
+      "pt": "Uno uno sei uno uno sette è la linea del medico fuori orario, e risponde solo in tedesco."
+    },
+    {
+      "consulta": ["reparo/ingles", "saude/112"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b17-p09",
+      "promptPt": "Prima di spendere le tue cinque parole sul sintomo, scopri se puoi spenderle nella tua lingua. Parla adesso.",
+      "audioKey": "de-b17-t09",
+      "es": "Sprechen Sie Englisch?",
+      "pinyin": "SHPREKH-en zee ENG-lish",
+      "pt": "Parla inglese?",
+      "tts": "Sprechen Sie Englisch?"
+    },
+    {
+      "consulta": ["saude/112", "reparo/apontar"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "mir helfen",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b17-p10",
+      "promptPt": "Qualcuno è a terra sul binario e ci sono quattro persone accanto a te che non fanno nulla. Rivolgiti a una. Parla adesso.",
+      "audioKey": "de-b17-t10",
+      "es": "Können Sie mir helfen?",
+      "pinyin": "KURN-nen zee meer HEL-fen",
+      "pt": "Può aiutarmi?",
+      "tts": "Können Sie mir helfen?"
+    },
+    {
+      "consulta": ["saude/112", "apuro/112"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "einen Krankenwagen rufen",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b17-p11",
+      "promptPt": "Il tuo tedesco non sopravvivrà a una telefonata, ma la donna dietro il banco ha un telefono e la lingua. Parla adesso.",
+      "audioKey": "de-b17-t11",
+      "es": "Können Sie einen Krankenwagen rufen?",
+      "pinyin": "KURN-nen zee AI-nen KRANG-ken-vah-gen ROO-fen",
+      "pt": "Può chiamare un'ambulanza?",
+      "tts": "Können Sie einen Krankenwagen rufen?"
+    },
+    {
+      "consulta": ["saude/112", "chegar/balcao"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "das Krankenhaus",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b17-p12",
+      "promptPt": "Non è un caso da ambulanza, ma è più di quanto un banco possa risolvere, e a un tassista basta il sostantivo. Parla adesso.",
+      "audioKey": "de-b17-t12",
+      "es": "Wo ist das Krankenhaus?",
+      "pinyin": "voh ist dass KRANG-ken-hows",
+      "pt": "Dov'è l'ospedale?",
+      "tts": "Wo ist das Krankenhaus?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b17-n09",
+      "pt": "Una tessera britannica compra condizioni tedesche, non cure gratis, e non è un'assicurazione di viaggio. La copertura USA per lo più si ferma alla frontiera."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b17-r04",
+      "es": "Haben Sie eine europäische Krankenversicherungskarte?",
+      "pinyin": "HAH-ben zee AI-ne oy-ro-PAY-i-she KRANG-ken-fair-ZIKH-e-roongs-kar-te",
+      "pt": "Ha una tessera europea di assicurazione malattia?",
+      "tts": "Haben Sie eine europäische Krankenversicherungskarte?",
+      "receptivo": true,
+      "acao": "È la GHIC o la EHIC. Tienila nella stessa tasca del passaporto prima di aver bisogno di una delle due."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-b17-s01",
+      "es": "Können Sie mir helfen? Können Sie das aufschreiben? Können Sie einen Krankenwagen rufen?",
+      "pinyin": "KURN-nen zee meer HEL-fen. KURN-nen zee dass OWF-shrai-ben. KURN-nen zee AI-nen KRANG-ken-vah-gen ROO-fen",
+      "pt": "Ripeti in ombra un'unica apertura attraverso l'aiuto, un pezzo di carta e un'ambulanza.",
+      "tts": "Können Sie mir helfen? Können Sie das aufschreiben? Können Sie einen Krankenwagen rufen?",
+      "molde": "KONNEN-SIE"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b17-n10",
+      "bloco": "recap",
+      "pt": "B17 fatto. Etwas gegen, una mano sul punto, due numeri, e un foglio in una vetrina buia che indica la porta aperta."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Il banco, il turno e i due numeri",
+    "secoes": [
+      {
+        "titulo": "Etwas gegen, e poi il dolore",
+        "corpo": "Ich brauche etwas gegen è la frase che ti fa servire a un banco di farmacia tedesco, e tutto ciò che viene dopo è un sostantivo che puoi indicare in un telefono se devi: Kopfschmerzen, Halsschmerzen, Husten, Durchfall, Sonnenbrand, Insektenstiche. Le parole sono lunghe ma sono trasparenti una volta che vedi le giunture — Kopf è testa, Hals è gola e collo, Schmerzen sono dolori. Nulla nell'apertura cambia per nessuna di esse.",
+        "exemplos": [
+          { "es": "Ich brauche etwas gegen Kopfschmerzen.", "pt": "Mi serve qualcosa per il mal di testa." },
+          { "es": "Ich brauche etwas gegen Halsschmerzen.", "pt": "Mi serve qualcosa per il mal di gola." }
+        ]
+      },
+      {
+        "titulo": "Il foglio nella vetrina buia",
+        "corpo": "Le farmacie qui possono aprire qualsiasi giorno a qualsiasi ora, e il compromesso scritto nella stessa legge è che l'autorità ordina loro di chiudere a rotazione in modo che alcune siano sempre aperte. Una farmacia al buio ha quindi l'obbligo legale di esporre, in modo visibile, quali farmacie vicine sono di turno — il foglio stampato attaccato all'interno del vetro è quell'obbligo che viene adempiuto. Circa una su dieci è di turno in città in una data notte, i turni sono stilati dalla camera dei farmacisti di ciascun Land, e c'è una ricerca ufficiale su aponet.de. La conseguenza per te è che una farmacia chiusa non è la fine della serata; è una serie di indicazioni.",
+        "exemplos": [
+          { "es": "Wo ist die nächste Apotheke?", "pt": "Dov'è la farmacia più vicina?" }
+        ]
+      },
+      {
+        "titulo": "Due euro e cinquanta, e ciò che non è",
+        "corpo": "Comprando di notte, la domenica o in un giorno festivo, la farmacia può aggiungere un supplemento fissato per regolamento a due euro e cinquanta IVA compresa. Un visitatore lo paga, perché un visitatore acquista come cliente privato. Vale la pena conoscere il numero esatto affinché il totale smetta di essere misterioso, e vale la pena conoscere due cose collegate: il supplemento sta nella sezione sei del regolamento sui prezzi dei farmaci anziché nella sezione sette, che copre i farmaci controllati a quattro e ventisei, e il ticket trimestrale di dieci euro per vedere un medico che le guide più vecchie menzionano ancora è stato abolito con effetto dall'inizio del 2013.",
+        "exemplos": [
+          { "es": "Brauche ich ein Rezept?", "pt": "Mi serve una ricetta?" }
+        ]
+      },
+      {
+        "titulo": "112, 110, e la linea che parla solo tedesco",
+        "corpo": "La Germania ha tenuto due numeri dove gli Stati Uniti ne hanno tenuto uno e il Regno Unito di fatto uno. Il 112 è vigili del fuoco e ambulanza; il 110 è polizia. Comporre il 112 per un furto non ti instrada oltre come farebbe il 911, e quest'unico fatto è la cosa più utile di questa parte. Accanto a essi c'è il 116117, la linea medica fuori orario per le cose che porteresti da un ambulatorio se un ambulatorio fosse aperto: disponibile 24 ore su 24, non per emergenze che mettono in pericolo la vita, non per l'odontoiatria. La sua pagina in inglese dice che il servizio è disponibile solo in tedesco — il sito è tradotto, la linea telefonica no. Ed è dichiarata gratuita solo con un contratto telefonico tedesco, quindi quanto costi da una SIM straniera è davvero sconosciuto.",
+        "exemplos": [
+          { "es": "Können Sie einen Krankenwagen rufen?", "pt": "Può chiamare un'ambulanza?" },
+          { "es": "Sprechen Sie Englisch?", "pt": "Parla inglese?" }
+        ]
+      },
+      {
+        "titulo": "Quanto costa, da entrambi i lati dell'Atlantico",
+        "corpo": "Per un residente nel Regno Unito la GHIC o la EHIC è ciò che apre il sistema pubblico, alle stesse condizioni di un residente tedesco — il che può significare niente da pagare, o può significare pagare lo stesso ticket che paga un locale. L'avviso ufficiale è netto nel dire che la tessera non è un'alternativa all'assicurazione di viaggio: non copre né cure private né rimpatrio né soccorso alpino. I ticket tedeschi sono dieci euro al giorno di ricovero ospedaliero, per un massimo di ventotto giorni in un anno solare, e il dieci per cento sui farmaci con un minimo di cinque euro e un massimo di dieci. Per un visitatore statunitense la situazione è più semplice e più dura: Medicare normalmente non copre le cure fuori dagli Stati Uniti e non paga i farmaci acquistati all'estero, quindi è l'assicurazione medica di viaggio a fare il lavoro.",
+        "exemplos": [
+          { "es": "Ich bin allergisch gegen Penicillin.", "pt": "Sono allergico alla penicillina." }
+        ]
+      }
+    ]
+  },
+  "slot": "B17",
+  "permissao": "Ti è permesso entrare in una farmacia con un sintomo e nessuna diagnosi, e descriverlo con una mano e un sostantivo. Ich brauche etwas gegen, o un palmo sul punto che fa male, è una richiesta completa e normale a quel banco — nessuno si aspetta che un visitatore nomini una parte del corpo in tedesco, e nessuno valuta il tentativo. Ti è anche permesso chiedere a uno sconosciuto di fare la telefonata per te: können Sie einen Krankenwagen rufen è una frase con una risposta giusta, e usarla non è impotenza, è la via più rapida all'ambulanza. E puoi pagare il supplemento notturno senza una parola: a due euro e cinquanta è la cosa più economica di questa parte.",
+  "permissaoAudioKey": "de-b17-n02",
+  "espelho": "Chiunque abbia mai fatto la fila in farmacia a casa tenendo una scatola che non sa leggere fa già questo: indica, descrivi, chiedi a cosa serve. L'unica parte nuova è che qui la farmacia è la prima tappa anziché l'ultima, e che quella chiusa ti dice dov'è quella aperta.",
+  "fichasCulturais": [
+    {
+      "sinal": "Sono le nove e mezza di sera, la farmacia è buia, e c'è un foglio stampato attaccato all'interno della vetrina.",
+      "suaLeitura": "Tutto è chiuso fino al mattino e passerai una brutta notte con qualunque cosa ci sia nella tua borsa.",
+      "oQueEAli": "Il turno è un obbligo legale. Le farmacie possono aprire qualsiasi giorno a qualsiasi ora, e l'autorità ordina che in una città con più farmacie una parte chiuda a rotazione, in modo che una quota sia sempre di turno — circa una su dieci in città in una data notte. Una farmacia chiusa deve esporre, in modo visibile, quali vicine sono aperte. Quel foglio nel vetro è la legge che viene rispettata, e sopra ha un indirizzo.",
+      "oQueVoceFaz": "Leggi il foglio prima di lasciare la soglia, oppure cerca il turno ufficiale su aponet.de. Se i caratteri ti sconfiggono, chiedi a chiunque passi: wo ist die nächste Apotheke. Aspettati un supplemento di due euro e cinquanta su un acquisto notturno, domenicale o festivo, e aspettati che sia tutto l'extra.",
+      "oQueMelhora": "Una vetrina buia si trasforma in una serie di indicazioni, e la notte smette di essere una cosa da sopportare fino alle nove del mattino.",
+      "ondeNaoVale": "È un turno, non una garanzia che la farmacia più vicina sia vicina: in una cittadina quella di turno può essere nella città accanto. La cifra di una su dieci e l'organizzazione da parte della camera dei farmacisti sono riassunte da una scheda informativa di associazione anziché citate dalla legge, e le finestre di rilascio nel regolamento sono parafrasate. E una farmacia non è un ospedale — per qualsiasi cosa con respiro, sangue o torace il numero è il 112, non un banco.",
+      "evidencia": "FATO",
+      "audioKeys": ["de-b17-n04", "de-b17-n05", "de-b17-n06"]
+    },
+    {
+      "sinal": "È successo qualcosa per strada, cerchi il numero di emergenza con cui sei cresciuto, e devi decidere quale premere.",
+      "suaLeitura": "Un numero copre tutto, come il 911 o il 999, e l'operatore ti passerà a chiunque ti serva davvero.",
+      "oQueEAli": "La Germania ha tenuto la divisione. Il 112 raggiunge vigili del fuoco e ambulanza; il 110 raggiunge la polizia; i due furono unificati a livello nazionale nel 1973 e il 112 divenne il numero unico europeo nel 1991. Un terzo numero, il 116117, gestisce i problemi medici che andrebbero da un ambulatorio quando l'ambulatorio è chiuso — 24 ore su 24, non per casi che mettono in pericolo la vita, non per l'odontoiatria — e la sua pagina in inglese afferma che il servizio è disponibile solo in tedesco.",
+      "oQueVoceFaz": "Impara la coppia come coppia: ambulanza e vigili del fuoco, uno uno due; polizia, uno uno zero. Se il tuo tedesco non sopravvive alla chiamata, passala a qualcuno il cui sopravviva — können Sie einen Krankenwagen rufen — e restagli accanto per poter rispondere a ciò che riferisce.",
+      "oQueMelhora": "Non perdi nulla con un primo numero sbagliato, e smetti di dare per scontato che comparirà un operatore anglofono su una linea che non ne ha mai promesso uno.",
+      "ondeNaoVale": "Questo non dice nulla su quanto sia probabile che tu raggiunga l'inglese sul 112 stesso — non è stata trovata alcuna fonte in un senso o nell'altro, e l'avviso ufficiale britannico dice semplicemente di comporre il 112 e chiedere un'ambulanza. La linea 116117 è dichiarata gratuita solo con un contratto telefonico tedesco, quindi il costo da una SIM straniera o in roaming è sconosciuto e non va dato per scontato che sia nullo.",
+      "evidencia": "FATO",
+      "audioKeys": ["de-b17-n07", "de-b17-n08"]
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "id": "a04",
+  "nivel": "avancado",
+  "numero": 32,
+  "parte": "A04",
+  "titulo": "La vecchia discussione",
+  "subtitulo": "Una linea corre da est a ovest ed è sui salari; l'altra è un articolo del codice penale, e nessuna delle due vuole la tua opinione",
+  "cena": "Un tavolo in una città che un tempo stava dall'altra parte di un confine, e qualcuno ha appena detto dov'è cresciuto e ha smesso di parlare.",
+  "moldura": "ganha",
+  "frasePiso": "Nomina la città, chiedi cosa è cambiato, e di' che ne sai troppo poco. Tre mosse, e a mezzanotte sei ancora a tavola.",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-a04-ost-west",
+      "afirmacao": "Le date sono assodate e il divario è misurato. Il Muro di Berlino fu eretto il 13 agosto 1961 e aperto il 9 novembre 1989 (stiftung-berliner-mauer.de, alla lettera: «Am 13. August 1961 entschied die Regierung im Osten…» e «Am 9. November 1989 kamen sehr viele Menschen zur Berliner Mauer»); la riunificazione ebbe effetto il 3 ottobre 1990 (bpb.de). Per il divario economico i dati vengono dal dossier del Statistisches Bundesamt «35 Jahre Deutsche Einheit», anno di riferimento 2024: la retribuzione lorda mensile media a tempo pieno era di 4.810 euro all'ovest incluso Berlino e 3.973 euro all'est, con la frase dello stesso ufficio alla lettera: «Damit lag der Verdienst im Westen im Jahr 2024 immer noch um gut ein Fünftel höher als im Osten»; nel 1991 la stessa coppia era 924 euro all'est contro 1.987 euro all'ovest. Il PIL pro capite in Germania nel 2024 era di 50.819 euro, alla lettera: «Im Jahr 2024 betrug das BIP je Einwohnerin und Einwohner in Deutschland 50 819 Euro», con i valori più bassi in Sassonia-Anhalt a 36.517 euro, Turingia a 36.942 e Meclemburgo-Pomerania Anteriore a 37.656, e i più alti ad Amburgo a 84.486. Un riscontro negativo va incluso: le relazioni annuali del governo federale sullo stato dell'unità tedesca per il 2024 (176 pp.) e il 2025 (138 pp., pubblicata il 30 settembre 2025) sono state scaricate ed estratte integralmente in testo, e nessuna delle due contiene la classica cifra del «PIL pro capite dell'est come percentuale dell'ovest». L'assenza è reale anziché un problema di accesso, e le percentuali che circolano — 72, 78, 71 — sono non istituzionali o risalgono al 2015 e non vengono usate.",
+      "fonte": "stiftung-berliner-mauer.de e bpb.de, verbatim, para as datas; Destatis, dossiê «35 Jahre Deutsche Einheit», ano de referência 2024, verbatim para o par salarial e para o PIB per capita. Jahresberichte der Bundesregierung zum Stand der Deutschen Einheit 2024 e 2025, PDFs baixados e extraídos integralmente — achado negativo confirmado. Pesquisa §10.3 e item 40 da lista de exclusão.",
+      "ano": 2024,
+      "revisarAte": "2028-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-a04-n02",
+        "de-a04-n03",
+        "de-a04-n04"
+      ]
+    },
+    {
+      "id": "de-a04-ossi-wessi",
+      "afirmacao": "Il corso non mette i due soprannomi in bocca a un visitatore, e la ragione è documentata anziché asserita. La voce del Duden per «Ossi» porta le etichette «umgangssprachlich» e, nel suo primo senso, «oft abwertend»; la voce del DWDS, del 2018, lo marca solo come «salopp» — i due dizionari non concordano sull'etichetta e quel disaccordo è registrato anziché risolto. Un caso giudiziario è confermato: Arbeitsgericht Stuttgart, 15 aprile 2010, causa 17 Ca 8907/09, il «Minus-Ossi-Fall», in cui a una candidata fu restituito il curriculum con l'annotazione a mano «(-) Ossi» e «DDR» e che chiese almeno 5.000 euro ai sensi della legge generale sulla parità di trattamento; la domanda fu respinta, sul ragionamento che i tedeschi dell'est non costituiscono un'«ethnische Herkunft» ai sensi del § 1 AGG. Avvertenza: il caso è stato letto su un portale giuridico privato, il comunicato stampa del tribunale ha restituito 404, e un eventuale appello non è stato verificato. Fondamentale, non esiste alcuna dichiarazione istituzionale tedesca che dichiari offensive queste parole o ne sconsigli l'uso. La regola che il corso applica è quindi enunciata per ciò che è: un dizionario marca la parola come spesso spregiativa e un caso documentato la mostra usata come marchio negativo in un'assunzione, e questo basta per tenerla fuori dal lessico di un visitatore straniero — nulla di più è affermato.",
+      "fonte": "Duden, verbete «Ossi» (marcações «umgangssprachlich» e «oft abwertend»); DWDS, verbete de 2018 («salopp»); Arbeitsgericht Stuttgart, 15/4/2010, autos 17 Ca 8907/09. Pesquisa §10.3. ⚠ Ressalva registrada: caso lido em portal jurídico privado, comunicado do próprio tribunal devolveu 404, recurso não verificado. NÃO existe declaração institucional alemã dizendo que os termos são ofensivos.",
+      "ano": 2010,
+      "revisarAte": "2029-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-a04-n06",
+        "de-a04-n07",
+        "de-a04-n08"
+      ]
+    },
+    {
+      "id": "de-a04-86a",
+      "afirmacao": "Il saluto è diritto penale, e la norma operativa è il § 86a StGB, «Verwenden von Kennzeichen verfassungswidriger und terroristischer Organisationen», non il § 130. L'Abs. 1, alla lettera: «Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer 1. im Inland Kennzeichen einer der in § 86 Abs. 1 Nr. 1, 2 und 4 oder Absatz 2 bezeichneten Parteien oder Vereinigungen verbreitet oder öffentlich, in einer Versammlung oder in einem von ihm verbreiteten Inhalt (§ 11 Absatz 3) verwendet…» L'Abs. 2, alla lettera, è ciò che fa cadere il gesto sotto la norma: «Kennzeichen im Sinne des Absatzes 1 sind namentlich Fahnen, Abzeichen, Uniformstücke, Parolen und Grußformen. Den in Satz 1 genannten Kennzeichen stehen solche gleich, die ihnen zum Verwechseln ähnlich sind.» Le eccezioni sono nel § 86 Abs. 4, alla lettera: «Die Absätze 1 und 2 gelten nicht, wenn die Handlung der staatsbürgerlichen Aufklärung, der Abwehr verfassungswidriger Bestrebungen, der Kunst oder der Wissenschaft, der Forschung oder der Lehre, der Berichterstattung über Vorgänge des Zeitgeschehens oder der Geschichte oder ähnlichen Zwecken dient.» Né uno scherzo né una fotografia compaiono in quella lista. Una norma separata, il § 130 Abs. 3, punisce con fino a cinque anni chi pubblicamente o in una riunione, in un modo idoneo a turbare la pace pubblica, approva, nega o banalizza un atto del tipo descritto nel § 6 Abs. 1 del codice penale internazionale commesso sotto il nazionalsocialismo — i verbi essendo billigen, leugnen e verharmlosen, cosicché banalizzare da solo basta; l'Abs. 4 punisce l'approvare, glorificare o giustificare il regime di violenza e arbitrio nazionalsocialista, e non richiede la negazione dell'Olocausto. Due assenze che il corso enuncia ad alta voce: l'esito processuale dei riferiti fermi di turisti del 2017 a Berlino, il 5 agosto, dove due visitatori cinesi furono rilasciati su cauzione di 500 euro ciascuno, e a Dresda il 12-13 agosto, non è nella copertura; e nessun caso di turista straniero ai sensi del § 86a è stato trovato tra il 2023 e il 2026. Il corso dice quindi che è un reato, enuncia la pena, e si ferma lì anziché suggerire che sia un evento comune.",
+      "fonte": "§ 86a StGB e § 86 Abs. 4 StGB, gesetze-im-internet.de, verbatim. § 130 Abs. 3 e Abs. 4 StGB — ⚠ nota de proveniência honesta: a extração verbatim da página oficial foi bloqueada pelo limite de citação da ferramenta e o texto foi lido na mesma página oficial por outra via; conferir uma vez antes de imprimir. Casos de 2017: BBC, NPR, TIME, LA Times, 6-7/8/2017 e CNN — COBERTURA JORNALÍSTICA, MODERADA, veículos bloquearam o fetch. Pesquisa §10.2 e §10.6, itens 42 e 43 da lista de exclusão.",
+      "ano": 2026,
+      "revisarAte": "2029-08-05",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": [
+        "de-a04-n09",
+        "de-a04-n10",
+        "de-a04-n11",
+        "de-a04-n12"
+      ]
+    },
+    {
+      "id": "de-a04-gedenken",
+      "afirmacao": "Il secondo dei due fatti che il corso registra — che il tema è oggetto della memoria ufficiale dello Stato — ha un indirizzo e una data. Il Denkmal für die ermordeten Juden Europas a Berlino, il campo di 2.711 stele di Peter Eisenman, fu inaugurato il 10 maggio 2005 e aperto al pubblico il 12 maggio 2005 (stiftung-denkmal.de). Accanto al monumento nazionale corre uno strato decentrato di Gedenkstätten e le Stolpersteine, la cui pagina di progetto riferisce «Bislang liegen 116.000 STOLPERSTEINE in über 1860 Kommunen in 31 europäischen Ländern» senza timbro di data sul conteggio. Due date sono quindi deliberatamente assenti qui: l'anno di inizio delle Stolpersteine, dove le fonti divergono tra il 1992 e il 1993 e la pagina istituzionale del progetto dice solo «Vor über 30 Jahren», e la data della cifra di 116.000, che non è mai stata stabilita. Solo le date proprie del monumento sono enunciate come fatto datato.",
+      "fonte": "stiftung-denkmal.de, tabela de datas neutras confirmadas em fonte institucional (inauguração 10/5/2005, abertura 12/5/2005, 2.711 estelas, Peter Eisenman). Pesquisa §10.2 (quadro «Datas neutras») e §10.6, que fixa a regra editorial dos dois fatos e nenhuma opinião. ⚠ Item 44 da lista de exclusão: o ano de início dos Stolpersteine e a data da cifra de 116.000 pedras NÃO entram.",
+      "ano": 2005,
+      "revisarAte": "2031-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-a04-n09"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a04-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "pt": "Ogni paese ha la discussione da cui un visitatore resta fuori. Qui ce ne sono due, e funzionano in modo diverso."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a04-n02",
+      "bloco": "corpo",
+      "pt": "La prima è una linea sulla mappa. Il muro fu eretto nel 1961, aperto nel 1989, e il paese si riunì nel 1990."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-a04-r01",
+      "receptivo": true,
+      "acao": "È lì che è cresciuto, detto con semplicità. Prendilo come geografia, e lascia decidere a lui se segue altro.",
+      "es": "Ich komme aus Leipzig. Das war früher die DDR.",
+      "pt": "Vengo da Lipsia. Un tempo era la Germania dell'Est.",
+      "tts": "Ich komme aus Leipzig. Das war früher die DDR."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a04-n03",
+      "pt": "Ciò che è misurato è la paga. Nel 2024 il salario medio a tempo pieno all'ovest era di quattromilaottocentodieci euro."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a04-n04",
+      "pt": "All'est, tremilanovecentosettantatré. L'ufficio di statistica: ancora un buon quinto più alto."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a04-n05",
+      "pt": "Nel 1991 erano novecento contro quasi duemila. Sulla direzione si concorda; sul ritmo si discute."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a04-p01",
+      "promptPt": "Ti ha appena detto da che lato del vecchio confine stava questa via, e ha lasciato un vuoto. Chiedigli della via, non del paese. Parla adesso.",
+      "audioKey": "de-a04-t01",
+      "es": "Wie hat sich die Stadt verändert?",
+      "pinyin": "vee hatt zikh dee SHTATT fair-EN-dert",
+      "pt": "Come è cambiata la città?",
+      "tts": "Wie hat sich die Stadt verändert?"
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a04-p02",
+      "promptPt": "Vuoi sapere se ha visto tutto accadere o se è arrivato dopo, e c'è un modo cortese per scoprirlo. Parla adesso.",
+      "audioKey": "de-a04-t02",
+      "es": "Wie lange wohnen Sie schon hier?",
+      "pinyin": "vee LANG-uh VOH-nen zee shone heer",
+      "pt": "Da quanto tempo abita qui?",
+      "tts": "Wie lange wohnen Sie schon hier?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a04-n06",
+      "pt": "Esistono due soprannomi per le due metà. Li sentirai. Restano fuori dalla tua bocca, ed ecco perché."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-a04-r02",
+      "receptivo": true,
+      "acao": "Detto tra due persone che portano entrambe quella storia. È loro da usare, e a te non si trasferisce.",
+      "es": "Ossi, Wessi — das sagen wir schon untereinander.",
+      "pt": "Ossi, Wessi — tra di noi lo diciamo pure.",
+      "tts": "Ossi, Wessi — das sagen wir schon untereinander."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a04-n07",
+      "pt": "Un dizionario marca quello orientale come spesso spregiativo. Un secondo lo marca come semplicemente informale. Non concordano."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a04-n08",
+      "pt": "E nel 2010 un tribunale trattò un caso su un curriculum restituito con quella parola scritta a matita sopra. Ragione sufficiente."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a04-n09",
+      "bloco": "capsula",
+      "pt": "La seconda non è affatto una discussione. È un articolo del codice penale, ed è breve."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a04-n10",
+      "pt": "L'articolo ottantasei a elenca bandiere, distintivi, pezzi di uniforme, slogan e formule di saluto. Fino a tre anni."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a04-n11",
+      "pt": "Le eccezioni scritte sono educazione civica, arte, scienza, insegnamento e cronaca. Una fotografia non è in nessuna."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a04-n12",
+      "pt": "Un secondo articolo copre l'approvare, il negare e il minimizzare. Minimizzare, da solo, è già sufficiente."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-a04-r03",
+      "receptivo": true,
+      "acao": "L'argomento è appena stato chiuso dalla persona a cui appartiene. Lascialo chiuso e sposta il terreno.",
+      "es": "Darüber reden wir hier nicht so gern.",
+      "pt": "Di questo qui non ci piace molto parlare.",
+      "tts": "Darüber reden wir hier nicht so gern."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a04-p03",
+      "promptPt": "La tavolata si è girata verso di te per un giudizio su qualcosa di discusso da prima che tu nascessi. Rispondi con onestà sulla tua posizione. Parla adesso.",
+      "audioKey": "de-a04-t03",
+      "es": "Davon weiß ich zu wenig.",
+      "pinyin": "dah-FON vice ikh tsoo VAY-nikh",
+      "pt": "Ne so troppo poco.",
+      "tts": "Davon weiß ich zu wenig."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a04-p04",
+      "promptPt": "Insistono di nuovo, allegramente, bicchieri in mano. Chiudi la porta con garbo anziché socchiuderla. Parla adesso.",
+      "audioKey": "de-a04-t04",
+      "es": "Dazu möchte ich lieber nichts sagen.",
+      "pinyin": "DAH-tsoo MURKH-tuh ikh LEE-ber nikhts ZAH-gen",
+      "pt": "Preferirei non dire niente a riguardo.",
+      "tts": "Dazu möchte ich lieber nichts sagen."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a04-n13",
+      "pt": "Nessuno ti sta chiedendo una posizione. Dire che ne sai troppo poco è sentito come rispetto, e chiude l'argomento."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a04-p05",
+      "promptPt": "Sei davanti a un memoriale con un gruppo e qualcuno ti chiede cosa ti porta qui. Di' perché sei venuto, in cinque parole. Parla adesso.",
+      "audioKey": "de-a04-t05",
+      "es": "Ich bin hier, um zuzuhören.",
+      "pinyin": "ikh bin heer, oom TSOO-tsoo-hur-en",
+      "pt": "Sono qui per ascoltare.",
+      "tts": "Ich bin hier, um zuzuhören."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a04-p06",
+      "promptPt": "La serata è finita dove nessuno voleva e tutti prenderebbero un'uscita. Offrine una, senza incolpare nessuno. Parla adesso.",
+      "audioKey": "de-a04-t06",
+      "es": "Können wir über etwas anderes sprechen?",
+      "pinyin": "KUR-nen veer UE-ber ET-vass AN-der-ess SHPREH-khen",
+      "pt": "Possiamo parlare di qualcos'altro?",
+      "tts": "Können wir über etwas anderes sprechen?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a04-n14",
+      "pt": "Poi porgi loro qualcosa a cui gli piace rispondere. Cosa hai fatto ieri funziona, e così anche dove mangiano."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa",
+        "simpatia/elogiar-lugar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a04-p07",
+      "promptPt": "Dai loro la tua giornata invece di un'opinione — hai passato la mattina da qualche parte ed è andata bene. Parla adesso.",
+      "audioKey": "de-a04-t07",
+      "es": "Ich war gestern im Museum.",
+      "pinyin": "ikh var GESS-tern im moo-ZAY-oom",
+      "pt": "Ieri sono stato al museo.",
+      "tts": "Ich war gestern im Museum."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa",
+        "mesa/carta"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a04-p08",
+      "promptPt": "Quattro persone a questo tavolo conoscono questa città meglio di qualsiasi mappa, e la serata ha ancora due ore dentro. Usale. Parla adesso.",
+      "audioKey": "de-a04-t08",
+      "es": "Wo essen Sie hier gern?",
+      "pinyin": "vo ESS-en zee heer gairn",
+      "pt": "Dove vi piace mangiare da queste parti?",
+      "tts": "Wo essen Sie hier gern?"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-a04-s01",
+      "es": "Davon weiß ich zu wenig. Können wir über etwas anderes sprechen? Wo essen Sie hier gern?",
+      "pinyin": "dah-FON vice ikh tsoo VAY-nikh · KUR-nen veer UE-ber ET-vass AN-der-ess SHPREH-khen · vo ESS-en zee heer gairn",
+      "pt": "Ripeti le tre che declinano il giudizio e tengono viva la serata.",
+      "tts": "Davon weiß ich zu wenig. Können wir über etwas anderes sprechen? Wo essen Sie hier gern?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a04-n15",
+      "bloco": "recap",
+      "pt": "A04 fatto. Nomina la città, chiedi cosa è cambiato, tieni due soprannomi fuori dalla tua bocca, e non fare mai il gesto."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Una linea sui salari, un articolo di legge, e le frasi che ti tengono a tavola",
+    "secoes": [
+      {
+        "titulo": "La linea sulla mappa, e il numero che è reale",
+        "corpo": "Le date non sono contestate da nessuno: il muro fu eretto il 13 agosto 1961, aperto il 9 novembre 1989, e il paese fu riunificato il 3 ottobre 1990. La differenza misurata che esiste ancora è la paga. Nel 2024 la retribuzione lorda mensile media a tempo pieno era di 4.810 euro all'ovest, contando Berlino, contro 3.973 all'est, e l'ufficio federale di statistica lo dice in una frase — l'ovest guadagnava ancora un buon quinto in più. L'entità del cambiamento sta nella coppia più vecchia: nel 1991 le stesse cifre erano 924 euro all'est e 1.987 all'ovest. Il PIL pro capite racconta la stessa storia per Land, con la cifra nazionale a 50.819 euro, i valori più bassi in Sassonia-Anhalt, Turingia e Meclemburgo-Pomerania Anteriore tra i trentaseimila e i trentottomila, e Amburgo a 84.486. Una cosa da sapere sui numeri che tutti citano: la nota cifra del «l'est è al settanta-e-qualcosa per cento dell'ovest» non compare nelle relazioni annuali del governo federale sull'unità tedesca per il 2024 o il 2025 — entrambe lette per intero — e le versioni che circolano sono o non istituzionali o vecchie di un decennio. La coppia salariale è il numero onesto.",
+        "exemplos": [
+          {
+            "es": "Wie hat sich die Stadt verändert?",
+            "pt": "Come è cambiata la città?"
+          },
+          {
+            "es": "Wie lange wohnen Sie schon hier?",
+            "pt": "Da quanto tempo abita qui?"
+          }
+        ]
+      },
+      {
+        "titulo": "Due soprannomi, e la ragione per lasciarli stare",
+        "corpo": "Sentirai le due parole, spesso affettuosamente, tra persone che portano entrambe quella storia. La ragione per cui un visitatore non le prende in prestito è documentata anziché moralizzata. Un grande dizionario etichetta il soprannome orientale come colloquiale e, nel suo primo senso, spesso spregiativo; un secondo lo marca come semplicemente informale, e i due non concordano — il che il corso registra anziché risolvere. Accanto a questo sta un caso confermato: nell'aprile 2010 un tribunale del lavoro di Stoccarda trattò la domanda di una candidata a cui il curriculum tornò con la parola scritta a matita accanto a un segno meno, insieme alle lettere del vecchio Stato. La domanda fu respinta, sul motivo che i tedeschi dell'est non costituiscono un'origine etnica ai sensi della legge sulla parità di trattamento, e un appello non fu verificato. Ciò che non esiste è una qualsiasi istituzione tedesca che dica che le parole sono offensive e non vadano usate. Quindi la regola è enunciata per ciò che è: un'etichetta di dizionario e un caso documentato della parola usata come marchio negativo, il che basta a tenerla fuori dal lessico di qualcuno che è nel paese da una settimana."
+      },
+      {
+        "titulo": "L'articolo, e perché è la regola più facile del corso",
+        "corpo": "Questa non è un'opinione, una sensibilità o una questione di gusto, ed è ciò che la rende semplice. Il § 86a del codice penale punisce il distribuire o usare pubblicamente i simboli di organizzazioni vietate con fino a tre anni di reclusione o un'ammenda, e il suo secondo comma specifica cosa conta come simbolo: bandiere, distintivi, pezzi di uniforme, slogan — e formule di saluto. È quest'ultima locuzione a collocare il saluto a braccio teso dentro l'articolo, incluso tutto ciò che gli è confondibilmente simile. Le eccezioni scritte vivono nel § 86, comma 4, e sono educazione civica, contrasto di scopi anticostituzionali, arte, scienza, ricerca, insegnamento e cronaca di eventi attuali o storici. Uno scherzo non c'è. Una fotografia non c'è. Un articolo separato, il 130, punisce con fino a cinque anni l'approvare, negare o minimizzare atti commessi sotto il regime nazionalsocialista in un modo idoneo a turbare la pace pubblica — e minimizzare, da solo, è la soglia. Due cose che il corso enuncia ad alta voce perché sono vere: cosa sia accaduto ai turisti fermati a Berlino e Dresda nell'agosto 2017 dopo l'intervento dei tribunali non è nella cronaca, e nessun caso che coinvolga un turista straniero è stato trovato tra il 2023 e il 2026. Questo non è un evento comune. È semplicemente una legge con una pena annessa, e il comportamento che richiede non ti costa nulla."
+      },
+      {
+        "titulo": "Le frasi che declinano senza offendere",
+        "corpo": "Qui non ti viene dato alcun lessico dell'opinione, in nessuna direzione — non per condannare, non per relativizzare, e non per dimostrare da che parte stai. Il lessico dell'opinione in una lingua che non controlli è esattamente il meccanismo dell'incidente. Ciò che ottieni invece sono quattro uscite, tutte neutre e tutte brevi. Davon weiß ich zu wenig chiude l'argomento senza offendere nessuno e, dopo una settimana nel paese, è semplicemente accurato. Dazu möchte ich lieber nichts sagen è cortese e definitiva, per quando la prima non viene accolta. Ich bin hier, um zuzuhören sta a un memoriale, dove è al contempo vero e nel registro giusto. Können wir über etwas anderes sprechen è diretta, e la franchezza qui non è maleducazione. E se qualcuno fa la battuta, la mossa è il silenzio e un cambio di argomento — mai unirsi, e mai correggere nessuno in una lingua che stai ancora imparando."
+      },
+      {
+        "titulo": "Cosa porgere loro invece",
+        "corpo": "Declinare un verdetto funziona molto meglio quando qualcos'altro arriva al suo posto. Ich war gestern im Museum risponde con la tua giornata anziché con una posizione, che è lo stesso trucco che funziona su qualsiasi discussione nazionale ovunque. Wie hat sich die Stadt verändert sposta la conversazione dal paese, dove non hai alcuna autorità, alla strada là fuori, dove la persona di fronte è l'unico esperto disponibile e di solito felicissimo di essere interpellato. Wo essen Sie hier gern converte quattro persone nel mezzo di una discussione in quattro persone che pianificano la tua serata. Tutte e tre sono domande, nessuna è un verdetto, e ognuna di esse ti lascia più informato dell'opinione che non hai dato."
+      }
+    ]
+  },
+  "slot": "A04",
+  "permissao": "Ti è permesso non avere alcuna opinione e dirlo in una frase breve. Davon weiß ich zu wenig non è un'evasione dopo una settimana nel paese — è la risposta accurata, ed è sentita come rispetto più che come reticenza. Ti è anche permesso essere curioso ad alta voce: chiedere come è cambiata una città, o da quanto qualcuno vi abita, è benvenuto in un modo in cui un verdetto non lo è mai. E ti è permesso essere entrato in qualcosa senza sapere che era lì. Nominarlo e cambiare argomento lo chiude, e un ospite che lo fa non viene tenuto a un primo errore.",
+  "permissaoAudioKey": "de-a04-n13",
+  "espelho": "Ogni paese ha la discussione da cui gli estranei dovrebbero stare fuori, e tutti hanno visto un visitatore risolvere la loro con sicurezza a cena in venti minuti. Sai già esattamente come appare dall'interno — il silenzio cortese, l'argomento cambiato, l'accoglienza leggermente più fredda dopo. Quel ricordo è l'unica qualifica che questa parte richiede, e si trasferisce esattamente.",
+  "fichasCulturais": [
+    {
+      "sinal": "Qualcuno menziona da che lato del vecchio confine è cresciuto, poi si ferma, e la pausa è lasciata a te da riempire.",
+      "suaLeitura": "Mi si invita a dire qualcosa di comprensivo sulla riunificazione, o a mostrare che conosco un po' di storia.",
+      "oQueEAli": "Quasi sempre è un pezzo di geografia che ti viene porto, niente di più. Ciò che è misurato e incontestato è il divario salariale: 4.810 euro al mese all'ovest contro 3.973 all'est nel 2024, con l'ufficio di statistica che dice che l'ovest guadagna ancora un buon quinto in più, contro 1.987 e 924 nel 1991. Se quel divario si stia chiudendo abbastanza in fretta, e di chi sia la colpa del ritmo, si discute dentro il paese ed è una posizione più che un fatto.",
+      "oQueVoceFaz": "Prendi la geografia e chiedi del luogo anziché della nazione: come è cambiata la città, da quanto ci abitano. Nomina le città anziché le metà di un paese quando dici dove stai andando.",
+      "oQueMelhora": "Ottieni la versione locale di una storia nazionale da qualcuno che l'ha vissuta, che è molto più interessante del riassunto che altrimenti gli avresti offerto.",
+      "ondeNaoVale": "Non è una regola che l'argomento sia delicato o vada sfiorato in punta di piedi — molte persone ne parleranno volentieri e a lungo, e rifiutarsi del tutto di entrarci suona più strano che unirsi. E non è un'affermazione che le due metà siano due culture: i dati sono regionali ed economici, e la persona che hai davanti non è una regione.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-a04-n03",
+        "de-a04-n04",
+        "de-a04-n05"
+      ]
+    },
+    {
+      "sinal": "Il discorso vira al Novecento, il tavolo diventa più silenzioso di prima, e qualcuno ti guarda.",
+      "suaLeitura": "Dovrei dire qualcosa di rispettoso per mostrare da che parte sto, o fare un commento leggero per risollevare l'umore.",
+      "oQueEAli": "Due fatti e nessuna opinione. Il tema è oggetto della memoria ufficiale dello Stato, con un monumento nazionale a Berlino inaugurato nel maggio 2005 e siti commemorativi in tutto il paese. Ed è oggetto di diritto penale in vigore: il § 86a mette bandiere, distintivi, slogan e formule di saluto a fino a tre anni o un'ammenda, e il § 130 mette l'approvare, negare o minimizzare a fino a cinque, con il minimizzare da solo che basta. Le eccezioni scritte sono arte, scienza, insegnamento e cronaca, e nessuna di esse copre un visitatore con una macchina fotografica.",
+      "oQueVoceFaz": "Usa un'uscita anziché una frase tua: Davon weiß ich zu wenig, oppure Dazu möchte ich lieber nichts sagen se insistono, oppure Ich bin hier, um zuzuhören a un memoriale. Se qualcuno fa la battuta, resta in silenzio e cambia il terreno. E non fare mai il gesto — non per una foto, non in gruppo, non dopo una lunga serata.",
+      "oQueMelhora": "Resti un ospite anziché diventare un delegato per una posizione, la conversazione va avanti senza costo, e l'unica cosa in questo corso che potrebbe davvero far finire il tuo viaggio non ti si avvicina mai.",
+      "ondeNaoVale": "Questo non è un avvertimento che i visitatori vengano regolarmente arrestati — nessun caso che coinvolga un turista straniero ai sensi del § 86a è stato trovato tra il 2023 e il 2026, e nemmeno l'esito dei due fermi riferiti dell'agosto 2017 è nella copertura. E non è nemmeno un'affermazione che un qualsiasi argomento sia proibito: musei, memoriali e storia sono terreno aperto e sono visitati da tutti. Ciò che viene declinato è il verdetto, non il tema.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-a04-n09",
+        "de-a04-n10",
+        "de-a04-n11",
+        "de-a04-n12"
+      ]
+    }
+  ]
+}

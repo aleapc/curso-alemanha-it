@@ -1,0 +1,455 @@
+{
+  "id": "b18",
+  "nivel": "basico",
+  "numero": 18,
+  "parte": "B18",
+  "titulo": "Der letzte Morgen — was kostet, le valigie, e il saluto che ti fa reinvitare",
+  "subtitulo": "Il check-out è alle undici e il volo è alle nove, e ogni ora nel mezzo è ancora tua da spendere",
+  "cena": "La hall di un albergo alle dieci del mattino dell'ultimo giorno, due valigie accanto all'ascensore, una busta del supermercato piena di bottiglie vuote in una mano, e un treno per l'aeroporto che parte quando decidi tu.",
+  "moldura": "ganha",
+  "frasePiso": "Was kostet, più la cosa. Ogni numero del tuo ultimo giorno arriva prima che tu l'abbia accettato.",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-b18-entwertung",
+      "afirmacao": "Un biglietto cartaceo diventa valido solo quando è timbrato. Il § 9 Abs. 1 BefBedV elenca tra i motivi di una maggiorazione della tariffa il fatto che il passeggero «den Fahrausweis nicht oder nicht unverzüglich im Sinne des § 6 Abs. 3 entwertet hat oder entwerten ließ», e le condizioni di trasporto della Deutsche Bahn, Stand 1/1/2026, affermano che un biglietto non è valido dove «sie vorgeschriebene Entwertungen nicht aufweist». Un biglietto comprato in un'app è già timbrato: usare il Komfort Check-in lo convalida elettronicamente. I due importi vanno in direzioni opposte e la differenza vale la pena tenerla a mente: nel trasporto urbano il § 9 Abs. 2 BefBedV consente una maggiorazione «bis zu 60 Euro» — un tetto — mentre sulla ferrovia il § 6 Abs. 2 EVO fissa il doppio della tariffa ordinaria, «mindestens jedoch 60 Euro» — un minimo che sale su un lungo viaggio. Entrambi si riducono a 7 € se il passeggero dimostra entro una settimana di aver avuto un biglietto valido. Il § 6 Abs. 4 EVO elimina del tutto l'addebito dove la stazione di partenza non aveva né una biglietteria aperta né una macchina funzionante.",
+      "fonte": "gesetze-im-internet.de (§ 9 BefBedV e § 6 EVO, versão consolidada de 2023, abertos em 5/8/2026, verbatim); Beförderungsbedingungen der Deutschen Bahn AG, Neuausgabe de 14/12/2025, Stand 1/1/2026, Tarifbekanntmachung 1/2026, PDF extraído — pesquisa § 5.4 e § 5.6. Os dispositivos «§ 9 Abs. 3 EVO» e «§ 12 Abs. 1 VO-ABB», que circulam como base legal, estão errados e não são usados aqui. Existe versão «Stand 31.07.2026» das Beförderungsbedingungen que não foi verificada.",
+      "ano": 2026,
+      "revisarAte": "2027-01-31",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": ["de-b18-n08"]
+    },
+    {
+      "id": "de-b18-puenktlichkeit",
+      "afirmacao": "Le cifre stesse della ferrovia sono la risposta onesta a quanto tempo lasciare per un volo. Il Geschäftsbericht 2025 della Deutsche Bahn definisce la misura testualmente: «Pünktlich sind Ankünfte mit einer Abweichung kleiner + 6 Minuten», misurata a ogni fermata anziché solo alla destinazione. Con questa definizione, la Presseinformation del 27/3/2026 riporta che «60,1 Prozent der DB-Fernverkehrszüge erreichten 2025 pünktlich das Ziel (Vorjahr: 62,5 Prozent)». La misura rivolta al passeggero, la Reisendenpünktlichkeit, che conteggia le coincidenze perse e le cancellazioni a una soglia di 14:59 minuti, era del 65,5% per la lunga percorrenza nel 2025; DB Regio Schiene è stata all'89,2%. Il 2026 parziale è peggiore in estate: la puntualità operativa a lunga percorrenza è stata del 52,6% a giugno e luglio 2026. L'azienda si è posta un obiettivo del 60% per il 2026 e chiama l'anno un Superbaujahr. È il contrappeso fattuale allo stereotipo della puntualità, e viene dall'operatore.",
+      "fonte": "Deutsche Bahn, Geschäftsbericht 2025 (PDF oficial publicado 27/3/2026) e Presseinformation «Bilanz 2025», ambos baixados e extraídos, verbatim; página oficial de Pünktlichkeitswerte em deutschebahn.com, tabela mensal com referência julho/2026, acessada 5/8/2026 — pesquisa § 5.1. Não misturar com o recorte «Regionalverkehr 88,7%» do LOK Report, que é outro agregado.",
+      "ano": 2026,
+      "revisarAte": "2027-04-30",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["de-b18-n05", "de-b18-n06"]
+    },
+    {
+      "id": "de-b18-reservierung",
+      "afirmacao": "La prenotazione del posto su un treno tedesco a lunga percorrenza è facoltativa. Le condizioni di trasporto della Deutsche Bahn intitolano la clausola «Reservierungsmöglichkeit» — possibilità, non obbligo — e prevedono che i posti su ICE e IC/EC possano essere prenotati fino a 12 mesi prima secondo disponibilità, che l'operatore possa imporre la prenotazione obbligatoria su determinati treni, e che «Die reservierungspflichtigen Züge sind im Fahrplan mit R gekennzeichnet». Il diritto su un posto prenotato decade se non viene occupato entro 15 minuti dalla partenza dalla stazione in cui inizia la prenotazione. La tariffa, Stand 1/1/2026, è di 5,50 € a persona e a tratta in seconda classe e 6,90 € in prima. Eccezioni confermate: il Nightjet ÖBB richiede una prenotazione e la include nella prenotazione, mentre i servizi notturni IC e ICE no.",
+      "fonte": "Beförderungsbedingungen der Deutschen Bahn AG, cláusula A.5 / 5.1 a 5.3, Neuausgabe de 14/12/2025, Stand 1/1/2026, PDF baixado e extraído, verbatim; FAQ do bahn.de aberto em 5/8/2026 — pesquisa § 5.2. Ressalva de versão: o bahn.de indicava «Stand 31.07.2026», e as eventuais mudanças nos valores 5,50 € / 6,90 € não foram verificadas.",
+      "ano": 2026,
+      "revisarAte": "2027-01-31",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["de-b18-n07"]
+    },
+    {
+      "id": "de-b18-taxfree",
+      "afirmacao": "Lo shopping tax-free all'uscita dall'UE ha tre condizioni e una sorpresa. Il Merkblatt del BMF distribuito da zoll.de, Stand März 2025, dà le condizioni testualmente: l'acquirente deve risiedere in un paese terzo, la merce deve raggiungere quel paese terzo entro tre mesi dall'acquisto, e il valore totale IVA compresa deve superare i 50 euro. Decide la residenza, non la nazionalità — gli esempi svolti del Merkblatt stesso fanno di un cittadino britannico residente in Inghilterra un acquirente di paese terzo e di un cittadino britannico residente in Irlanda del Nord no. Alla frontiera il viaggiatore presenta passaporto, documento di esportazione e «die auszuführende Ware» — la merce stessa, motivo per cui imbarcare l'acquisto in stiva prima del timbro è l'errore classico. La sorpresa: «Die Steuerbefreiung gilt ausschließlich für den Unternehmer.» L'esenzione appartiene al commerciante, non al viaggiatore, che non ha diritto a un rimborso e riceve invece una riduzione di prezzo che il commerciante può concedere, motivo per cui gli operatori aeroportuali pagano «nach Abzug eines Bearbeitungsentgelts». Nessuno riceve indietro l'intero 19%, ed è lecito e previsto.",
+      "fonte": "BMF, «Merkblatt zur Umsatzsteuerbefreiung für Ausfuhrlieferungen im nichtkommerziellen Reiseverkehr», Stand März 2025, distribuído por zoll.de, PDF de 15 páginas aberto, verbatim — pesquisa § 4.7. Alíquotas do § 12 UStG, verbatim.",
+      "ano": 2025,
+      "revisarAte": "2027-03-31",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["de-b18-n10", "de-b18-n11"]
+    },
+    {
+      "id": "de-b18-pfandrueckgabe",
+      "afirmacao": "La cauzione torna indietro, e c'è un obbligo di riprendere i vuoti. Il § 31 Abs. 2 VerpackG impone una Rücknahmepflicht: il distributore deve riprendere l'imballaggio vuoto presso o vicino al punto vendita, durante l'orario di apertura, e rimborsare la cauzione gratuitamente. Un negozio con una superficie di vendita sotto i 200 metri quadri può limitarsi ai marchi che vende, e il criterio legale è il materiale anziché il marchio — un commerciante deve accettare imballaggi monouso dello stesso materiale che vende, indipendentemente da dove sono stati comprati. Il vetro a rendere funziona all'opposto ed è la confusione che frega i visitatori: non c'è alcun obbligo legale di riprenderlo, e la Verbraucherzentrale registra che la maggior parte dei negozi lo rimborsa comunque «für Mehrwegflaschen ihrer Marken», per cortesia commerciale. Regola pratica: una bottiglia di plastica o una lattina con il logo della cauzione va praticamente in qualsiasi supermercato; il vetro a rendere torna al negozio che l'ha venduto.",
+      "fonte": "gesetze-im-internet.de (§ 31 Abs. 2 VerpackG, com o trecho dos 200 m² verbatim); Verbraucherzentrale, página aberta, verbatim; dpg-pfandsystem.de, aberta — pesquisa § 9.4 e § 9.6. O termo «Pfandbon» não aparece verbatim em fonte oficial e não é usado.",
+      "ano": 2026,
+      "revisarAte": "2027-06-30",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["de-b18-n09"]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b18-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "pt": "L'ultima mattina ha due orologi: il loro alle undici, il tuo alle nove di stasera. Entrambi si gestiscono."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b18-n02",
+      "bloco": "molde",
+      "pt": "Was kostet, e poi la cosa. Un'unica apertura, e nessun numero di quest'ultimo giorno arriva dopo che l'hai accettato."
+    },
+    {
+      "consulta": ["quarto/checkout"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b18-p01",
+      "promptPt": "Sei alla reception con la chiave magnetica in mano e una coda dietro. Saluta, poi di' la commissione. Parla adesso.",
+      "audioKey": "de-b18-t01",
+      "es": "Guten Morgen, ich möchte auschecken.",
+      "pinyin": "GOO-ten MOR-gen, ikh MURKH-te OWS-chek-en",
+      "pt": "Buongiorno, vorrei fare il check-out.",
+      "tts": "Guten Morgen, ich möchte auschecken."
+    },
+    {
+      "consulta": ["quarto/mala"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "Gepäckaufbewahrung",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b18-p02",
+      "promptPt": "La stanza scade alle undici e l'aereo parte alle nove, e preferiresti non passare dieci ore da bestia da soma. Parla adesso.",
+      "audioKey": "de-b18-t02",
+      "es": "Haben Sie Gepäckaufbewahrung?",
+      "pinyin": "HAH-ben zee ge-PECK-owf-be-VAH-roong",
+      "pt": "Avete un deposito bagagli?",
+      "tts": "Haben Sie Gepäckaufbewahrung?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b18-n03",
+      "bloco": "corpo",
+      "pt": "Le tue valigie non devono seguirti dappertutto. La reception le tiene, e chiederlo è una frase."
+    },
+    {
+      "consulta": ["quarto/mala"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b18-p03",
+      "promptPt": "Non c'è un magazzino, ma c'è uno spazio dietro il bancone e una donna che ha chiaramente già fatto questo. Parla adesso.",
+      "audioKey": "de-b18-t03",
+      "es": "Kann ich mein Gepäck hier lassen?",
+      "pinyin": "kan ikh main ge-PECK heer LASS-en",
+      "pt": "Posso lasciare qui le valigie?",
+      "tts": "Kann ich mein Gepäck hier lassen?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b18-r01",
+      "es": "Klar. Sie können das Gepäck bis achtzehn Uhr hierlassen.",
+      "pinyin": "klahr. zee KURN-nen dass ge-PECK biss AKHT-tsayn OO-ah HEER-lass-en",
+      "pt": "Certo. Può lasciare le valigie qui fino alle sei.",
+      "tts": "Klar. Sie können das Gepäck bis achtzehn Uhr hierlassen.",
+      "receptivo": true,
+      "acao": "C'è un'ora dentro il sì. Scrivitela sulla mano e pianifica il pomeriggio a ritroso da quella."
+    },
+    {
+      "consulta": ["pagar/pedir", "quarto/checkout"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b18-p04",
+      "promptPt": "A casa qualcuno vorrà un documento con il nome dell'albergo prima di restituirti dei soldi. Parla adesso.",
+      "audioKey": "de-b18-t04",
+      "es": "Ich brauche eine Rechnung, bitte.",
+      "pinyin": "ikh BROW-khe AI-ne REKH-noong, BIT-te",
+      "pt": "Mi serve una ricevuta, per favore.",
+      "tts": "Ich brauche eine Rechnung, bitte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b18-n04",
+      "pt": "Chiedi prima di impegnarti. La risposta torna come un numero, e un numero è la cosa più facile da afferrare."
+    },
+    {
+      "consulta": ["transporte/bilhete", "compras/quanto"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WAS-KOSTET",
+      "encaixe": "die Fahrkarte",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b18-p05",
+      "promptPt": "Sei allo sportello nell'atrio della stazione e lo schermo dietro di lei ha quattro opzioni. Prendi prima il numero. Parla adesso.",
+      "audioKey": "de-b18-t05",
+      "es": "Was kostet die Fahrkarte?",
+      "pinyin": "vass KOS-tet dee FAHR-kar-te",
+      "pt": "Quanto costa il biglietto?",
+      "tts": "Was kostet die Fahrkarte?"
+    },
+    {
+      "consulta": ["transporte/qual-trem", "compras/quanto"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WAS-KOSTET",
+      "encaixe": "die Reservierung",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b18-p06",
+      "promptPt": "Ti ha offerto un posto con un numero e non hai idea se sia incluso o extra. Parla adesso.",
+      "audioKey": "de-b18-t06",
+      "es": "Was kostet die Reservierung?",
+      "pinyin": "vass KOS-tet dee re-zer-VEE-roong",
+      "pt": "Quanto costa la prenotazione del posto?",
+      "tts": "Was kostet die Reservierung?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b18-n05",
+      "pt": "L'anno scorso i treni a lunga percorrenza sono stati in orario sei volte su dieci, e in orario qui significa sotto i sei minuti."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b18-n06",
+      "pt": "La parola per puntuale qui è generosa, e lo dice l'operatore stesso. Metti a budget un'ora, non un minuto."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b18-n07",
+      "pt": "Un posto prenotato è una possibilità, non una regola. Solo i treni contrassegnati con la R nell'orario ne richiedono uno."
+    },
+    {
+      "consulta": ["taxi/destino", "compras/quanto"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WAS-KOSTET",
+      "encaixe": "die Fahrt zum Flughafen",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b18-p07",
+      "promptPt": "Il tassista tiene il bagagliaio aperto e non hai mai fatto questo tragitto prima. Fissa la cifra sul marciapiede. Parla adesso.",
+      "audioKey": "de-b18-t07",
+      "es": "Was kostet die Fahrt zum Flughafen?",
+      "pinyin": "vass KOS-tet dee fahrt tsoom FLOOK-hah-fen",
+      "pt": "Quanto costa la corsa fino all'aeroporto?",
+      "tts": "Was kostet die Fahrt zum Flughafen?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b18-n08",
+      "bloco": "capsula",
+      "pt": "Timbra un biglietto cartaceo nella macchinetta prima di salire. Quello dell'app è timbrato nel momento in cui fai il check-in."
+    },
+    {
+      "consulta": ["transporte/bilhete", "transporte/placas"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "der Entwerter",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b18-p08",
+      "promptPt": "Hai in mano una striscia di cartoncino dalla macchina e il binario ha tre macchinette su pali. Chiedi quale. Parla adesso.",
+      "audioKey": "de-b18-t08",
+      "es": "Wo ist der Entwerter?",
+      "pinyin": "voh ist dair ent-VAIR-tah",
+      "pt": "Dov'è la macchina obliteratrice?",
+      "tts": "Wo ist der Entwerter?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b18-r02",
+      "es": "Bitte den Fahrschein vor der Fahrt entwerten.",
+      "pinyin": "BIT-te dayn FAHR-shain fohr dair fahrt ent-VAIR-ten",
+      "pt": "Si prega di obliterare il biglietto prima del viaggio.",
+      "tts": "Bitte den Fahrschein vor der Fahrt entwerten.",
+      "receptivo": true,
+      "acao": "Fallo sul binario, non sul treno. Un biglietto cartaceo senza il timbro non è ancora un biglietto."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b18-n09",
+      "pt": "Le bottiglie nella tua stanza sono denaro che hai già pagato. La macchina accanto alla porta del supermercato te lo restituisce."
+    },
+    {
+      "consulta": ["compras/devolver", "compras/balcao"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b18-p09",
+      "promptPt": "Porti una busta di vuoti nel negozio e in fondo ci sono tre porte senza indicazioni. Chiedi. Parla adesso.",
+      "audioKey": "de-b18-t09",
+      "es": "Wo kann ich die Flaschen zurückgeben?",
+      "pinyin": "voh kan ikh dee FLA-shen tsoo-REWK-gay-ben",
+      "pt": "Dove posso restituire le bottiglie?",
+      "tts": "Wo kann ich die Flaschen zurückgeben?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b18-n10",
+      "pt": "Residenza fuori dall'UE, oltre cinquanta euro, tre mesi, e la merce in mano al banco della dogana."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b18-n11",
+      "pt": "L'esenzione appartiene al negozio per legge, quindi ottieni lo sconto che concedono, meno una commissione di gestione."
+    },
+    {
+      "consulta": ["taxi/destino", "chegar/sair"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "mir ein Taxi rufen",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b18-p10",
+      "promptPt": "Piove, le valigie hanno ruote che odiano il selciato, e la donna alla reception ha un telefono. Parla adesso.",
+      "audioKey": "de-b18-t10",
+      "es": "Können Sie mir ein Taxi rufen?",
+      "pinyin": "KURN-nen zee meer ain TAK-see ROO-fen",
+      "pt": "Può chiamarmi un taxi?",
+      "tts": "Können Sie mir ein Taxi rufen?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b18-r03",
+      "es": "Der ICE nach Frankfurt hat heute etwa zwanzig Minuten Verspätung.",
+      "pinyin": "dair ee-tsay-AY nahkh FRANK-foort hat HOY-te ET-va TSVAN-tsikh mi-NOO-ten fair-SHPAY-toong",
+      "pt": "L'ICE per Francoforte oggi ha circa venti minuti di ritardo.",
+      "tts": "Der ICE nach Frankfurt hat heute etwa zwanzig Minuten Verspätung.",
+      "receptivo": true,
+      "acao": "Verspätung è la parola da afferrare. In un giorno di volo prendi il treno prima e leggi un libro al gate."
+    },
+    {
+      "consulta": ["simpatia/agradecer", "chegar/sair"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "DANKE",
+      "encaixe": "Vielen Dank",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b18-p11",
+      "promptPt": "Ti hanno tenuto le valigie, chiamato l'auto e disegnato una mappa sul retro di un biglietto. Chiudi la settimana come si deve. Parla adesso.",
+      "audioKey": "de-b18-t11",
+      "es": "Vielen Dank für alles!",
+      "pinyin": "FEE-len dank fewr AL-les",
+      "pt": "Grazie di tutto!",
+      "tts": "Vielen Dank für alles!"
+    },
+    {
+      "consulta": ["simpatia/elogiar-lugar"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b18-p12",
+      "promptPt": "Una frase sulla settimana, non sulla stanza. È la battuta che viene ricordata quando scrivi l'anno prossimo. Parla adesso.",
+      "audioKey": "de-b18-t12",
+      "es": "Es war sehr schön hier.",
+      "pinyin": "es vahr zair shurn heer",
+      "pt": "Ci siamo trovati benissimo qui.",
+      "tts": "Es war sehr schön hier."
+    },
+    {
+      "consulta": ["chegar/sair", "simpatia/agradecer"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b18-p13",
+      "promptPt": "L'auto è al marciapiede e il conducente ha il bagagliaio aperto. Lascia la stanza con quello formale. Parla adesso.",
+      "audioKey": "de-b18-t13",
+      "es": "Auf Wiedersehen!",
+      "pinyin": "owf VEE-dah-zay-en",
+      "pt": "Arrivederci!",
+      "tts": "Auf Wiedersehen!"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b18-r04",
+      "es": "Kommen Sie gut nach Hause! Und schönen Urlaub im nächsten Jahr.",
+      "pinyin": "KOM-men zee goot nahkh HOW-ze! oont SHUR-nen OOR-lowp im NEKH-sten yahr",
+      "pt": "Buon rientro a casa! E buone vacanze l'anno prossimo.",
+      "tts": "Kommen Sie gut nach Hause! Und schönen Urlaub im nächsten Jahr."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-b18-s01",
+      "es": "Was kostet die Fahrkarte? Was kostet die Reservierung? Was kostet die Fahrt zum Flughafen?",
+      "pinyin": "vass KOS-tet dee FAHR-kar-te. vass KOS-tet dee re-zer-VEE-roong. vass KOS-tet dee fahrt tsoom FLOOK-hah-fen",
+      "pt": "Ripeti in ombra le stesse tre parole attraverso uno sportello dei biglietti, un posto e un'auto.",
+      "tts": "Was kostet die Fahrkarte? Was kostet die Reservierung? Was kostet die Fahrt zum Flughafen?",
+      "molde": "WAS-KOSTET"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b18-n12",
+      "bloco": "recap",
+      "pt": "B18 fatto. Was kostet per il numero, una frase per le valigie, e un saluto che ti fa reinvitare."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "L'ultima mattina, con i prezzi decisi in anticipo",
+    "secoes": [
+      {
+        "titulo": "Was kostet, e una cosa alla volta",
+        "corpo": "L'apertura non cambia mai e la cosa dopo arriva come un blocco: die Fahrkarte, die Reservierung, die Fahrt zum Flughafen. Limite voluto, ed è una scelta di progetto anziché un buco: tutto ciò che metti dopo was kostet è singolare, perché chiedere di più cose insieme ti farebbe decidere l'accordo nel mezzo di un atrio di stazione. Un articolo per domanda è tutto il metodo qui, e la risposta torna sempre come un numero.",
+        "exemplos": [
+          { "es": "Was kostet die Fahrkarte?", "pt": "Quanto costa il biglietto?" },
+          { "es": "Was kostet die Fahrt zum Flughafen?", "pt": "Quanto costa la corsa fino all'aeroporto?" }
+        ]
+      },
+      {
+        "titulo": "Le valigie sono tutto l'ultimo giorno",
+        "corpo": "Due frasi ricomprano otto ore: haben Sie Gepäckaufbewahrung in un albergo che ha un magazzino, kann ich mein Gepäck hier lassen in uno che ha un angolo dietro la reception. La risposta di solito contiene un'ora — bis achtzehn Uhr — e quell'ora è l'unico vero vincolo sul resto della giornata. Afferrala e pianifica a ritroso da essa.",
+        "exemplos": [
+          { "es": "Haben Sie Gepäckaufbewahrung?", "pt": "Avete un deposito bagagli?" },
+          { "es": "Kann ich mein Gepäck hier lassen?", "pt": "Posso lasciare qui le valigie?" }
+        ]
+      },
+      {
+        "titulo": "Quanto tempo lasciare per l'aeroporto",
+        "corpo": "Usa i numeri dell'operatore stesso anziché una reputazione qualsiasi. I treni a lunga percorrenza hanno raggiunto la destinazione in orario nel 60,1% dei casi nel 2025, in calo dal 62,5% dell'anno prima, e in orario in quella misura significa meno di sei minuti di ritardo, conteggiato a ogni fermata. La misura rivolta al passeggero, che conteggia le coincidenze perse a una soglia di poco meno di quindici minuti, era del 65,5%. I servizi regionali sono molto migliori, intorno all'89%. Nell'estate del 2026 la cifra a lunga percorrenza è scesa al 52,6% a giugno e luglio, e l'azienda stessa chiama il 2026 un anno record di lavori e prevede una pressione continua. La conclusione pratica non è che la ferrovia sia pessima ma che il margine che useresti a casa non basta: prendi il treno prima di quello che ti serve, soprattutto in un giorno di volo, e usa un servizio regionale per l'aeroporto dove ce n'è uno.",
+        "exemplos": [
+          { "es": "Was kostet die Reservierung?", "pt": "Quanto costa la prenotazione del posto?" }
+        ]
+      },
+      {
+        "titulo": "Il posto, e il timbro",
+        "corpo": "Prenotare un posto su un treno tedesco a lunga percorrenza è una possibilità, non un obbligo: la clausola nelle condizioni di trasporto è letteralmente intitolata Reservierungsmöglichkeit, i treni obbligatori sono contrassegnati con una R nell'orario, e la tariffa è di 5,50 € in seconda classe e 6,90 € in prima, a persona e a tratta. Il tuo diritto sul posto decade se non l'hai occupato quindici minuti dopo la partenza. Il timbro è l'altra metà. Un biglietto cartaceo dalla macchina deve andare nell'Entwerter prima di salire; un biglietto nell'app è convalidato elettronicamente quando fai il check-in. Viaggiare con un biglietto cartaceo non timbrato è trattato come viaggiare senza, e gli importi vanno in direzioni opposte — nel trasporto urbano la maggiorazione è limitata a 60 €, sulla ferrovia 60 € è il minimo e sale con la distanza. Entrambi scendono a 7 € se dimostri entro una settimana di aver avuto un biglietto valido, e sulla ferrovia l'addebito cade del tutto se la stazione di partenza non aveva né uno sportello aperto né una macchina funzionante.",
+        "exemplos": [
+          { "es": "Wo ist der Entwerter?", "pt": "Dov'è la macchina obliteratrice?" }
+        ]
+      },
+      {
+        "titulo": "Denaro che torna a casa con te",
+        "corpo": "Due rimborsi valgono la camminata. Prima le bottiglie: il negozio ha l'obbligo legale di riprendere l'imballaggio vuoto presso o vicino al punto vendita e rimborsare la cauzione gratuitamente, un piccolo negozio sotto i duecento metri quadri può limitarsi ai marchi che vende, e il criterio legale è il materiale anziché il marchio. Il vetro a rendere è l'eccezione — nessuno è obbligato a riprenderlo, la maggior parte dei negozi lo fa per cortesia, quindi riporta il vetro dove l'hai comprato. Poi l'IVA: uscendo dall'UE ti serve la residenza fuori di essa, un acquisto oltre i cinquanta euro tasse comprese, l'esportazione entro tre mesi, e la merce in mano al banco della dogana anziché in stiva. La sorpresa è legale: l'esenzione appartiene al commerciante, non a te. Non hai diritto a un rimborso; ricevi una riduzione di prezzo che il commerciante accetta di concedere, e gli operatori aeroportuali detraggono una commissione di gestione. Nessuno ottiene l'intero diciannove per cento, ed è il sistema che funziona come scritto.",
+        "exemplos": [
+          { "es": "Wo kann ich die Flaschen zurückgeben?", "pt": "Dove posso restituire le bottiglie?" }
+        ]
+      },
+      {
+        "titulo": "Due congedi e nient'altro",
+        "corpo": "Tschüss è quello neutro e funziona con chiunque tu abbia sentito più di una volta. Auf Wiedersehen è quello formale ed è ciò che dici lasciando una reception, un negozio o un ristorante. Esistono saluti regionali e sono belli, ma le carte d'indagine che ti direbbero dove vive ciascuno non hanno testo pubblicato, quindi questo corso insegna i due che funzionano ovunque e lascia il resto al tuo orecchio. Vielen Dank für alles è la frase che trasforma una transazione in una settimana che qualcuno ricorda.",
+        "exemplos": [
+          { "es": "Vielen Dank für alles!", "pt": "Grazie di tutto!" },
+          { "es": "Auf Wiedersehen!", "pt": "Arrivederci!" }
+        ]
+      }
+    ]
+  },
+  "slot": "B18",
+  "permissao": "Ti è permesso chiedere il prezzo di tutto nel tuo ultimo giorno, a voce alta, prima di accettare qualsiasi cosa — was kostet più un sostantivo è una domanda completa e ordinaria a uno sportello dei biglietti, a una portiera di taxi e a una reception, e chiedere non è mercanteggiare né maleducazione. Ti è permesso affidare le valigie a un albergo da cui hai già fatto il check-out, e tornare a prenderle alle sei. E ti è permesso lasciare un posto con due parole: Tschüss per chiunque tu abbia conosciuto, Auf Wiedersehen quando deve suonare concluso. Nessuno si aspetta che un visitatore produca un saluto regionale, e nessuno valuta il congedo.",
+  "permissaoAudioKey": "de-b18-n02",
+  "espelho": "Chiunque abbia mai avuto un volo tardivo da una città che gli piaceva conosce già questa forma: molla le valigie, compra il biglietto presto, spendi le ore ritrovate in un posto con una sedia. L'unica parte nuova è fare il chiedere in tre parole che non cambiano mai.",
+  "fichasCulturais": [
+    {
+      "sinal": "Il tuo treno per l'aeroporto è a lunga percorrenza, il tabellone dice in orario, e arriva con quattro minuti di ritardo — e più tardi, uno su cui contavi è venti minuti indietro.",
+      "suaLeitura": "Oggi è andato storto qualcosa di insolito, o la reputazione con cui sei arrivato era semplicemente pubblicità ingannevole.",
+      "oQueEAli": "Nessuna delle due. La misura è generosa per progetto e l'operatore la pubblica: un arrivo conta come puntuale se ha meno di sei minuti di ritardo, ed è conteggiato a ogni fermata anziché alla tua destinazione. Con quella definizione il 60,1% dei treni a lunga percorrenza è stato puntuale nel 2025, contro il 62,5% del 2024, e la misura rivolta al passeggero che conteggia le coincidenze perse a poco meno di quindici minuti era del 65,5%. I treni regionali hanno viaggiato intorno all'89%. A giugno e luglio 2026 la cifra a lunga percorrenza era del 52,6%, e l'azienda chiama il 2026 un anno record di lavori con pressione continua sulla puntualità.",
+      "oQueVoceFaz": "In un giorno di volo, prendi il treno prima di quello che ti serve, e preferisci un servizio regionale per l'aeroporto dove c'è. Impara la parola Verspätung e ascoltala nell'annuncio sul binario anziché fissare il tabellone.",
+      "oQueMelhora": "Smetti di fare il budget su una reputazione e cominci a farlo sul numero dell'operatore stesso, il che significa che il ritardo che capita ti costa un capitolo di libro anziché un volo.",
+      "ondeNaoVale": "È un'affermazione su una ferrovia, non su un paese o sul carattere di qualcuno — e lo stereotipo della puntualità qui non viene esplicitamente insegnato, perché lo studio che la gente cita per esso misura il ritmo di vita di una città all'inizio degli anni Novanta e mette la Germania ottava per precisione degli orologi pubblici, dietro Italia e Austria. Né le cifre si trasferiscono al trasporto urbano: zone urbane, prezzi e collegamenti aeroportuali non sono stati verificati per alcuna città tedesca in questa ricerca.",
+      "evidencia": "FATO",
+      "audioKeys": ["de-b18-n05", "de-b18-n06"]
+    },
+    {
+      "sinal": "Il negozio ti offre un modulo tax-free per il cappotto che hai comprato, e in aeroporto ti restituiscono piuttosto meno della tassa che ti aspettavi.",
+      "suaLeitura": "Ti hanno dato meno del dovuto, o hai compilato il modulo sbagliato da qualche parte.",
+      "oQueEAli": "La legge è costruita al contrario di come i viaggiatori presumono. L'esenzione è concessa al commerciante, non all'acquirente: il viaggiatore non ha affatto diritto a un rimborso dall'ufficio delle imposte, e ciò che ricevi è una riduzione di prezzo che il commerciante accetta di concedere, che fa parte del contratto di vendita. Gli operatori di rimborso in aeroporto pagano quindi dopo aver detratto una commissione di gestione. Le condizioni sono la residenza fuori dall'UE, un totale oltre i cinquanta euro IVA compresa, e l'esportazione entro tre mesi — e alla frontiera devi presentare passaporto, documento di esportazione e la merce stessa.",
+      "oQueVoceFaz": "Tieni l'acquisto nel bagaglio a mano fino al timbro doganale, non in stiva. Chiedi il modulo alla cassa nel momento dell'acquisto. Tratta ciò che torna come uno sconto anziché come un rimborso dovuto, e salta l'intera procedura per gli acquisti piccoli.",
+      "oQueMelhora": "Un importo che sembrava una truffa si trasforma in un importo che avevi previsto, e smetti di imbarcare un cappotto in stiva prima dell'unico banco che doveva vederlo.",
+      "ondeNaoVale": "Decide la residenza, non la nazionalità — un possessore di passaporto britannico che vive in Inghilterra è idoneo, uno che vive in Irlanda del Nord no — quindi non è un consiglio legato al tuo passaporto. E si applica all'uscita dall'UE, non allo spostamento al suo interno.",
+      "evidencia": "FATO",
+      "audioKeys": ["de-b18-n10", "de-b18-n11"]
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "id": "i09",
+  "nivel": "intermediario",
+  "numero": 27,
+  "parte": "I09",
+  "titulo": "La mattina di mercato, la macchina del vuoto e la festa che capita questa settimana",
+  "subtitulo": "Contanti alle bancarelle, venticinque centesimi indietro per ogni lattina e una domanda che dentro ha un'ora intera",
+  "cena": "Sabato, le nove e mezza: un Wochenmarkt aperto fino alle due, l'atrio di un supermercato con una macchina del vuoto nell'angolo e un manifesto di qualcosa che comincia più avanti nel mese.",
+  "moldura": "ganha",
+  "frasePiso": "Una domanda con dentro un'ora, e un pomeriggio nato da un manifesto invece che da un motore di ricerca.",
+  "decisao": "passare il pomeriggio dove lo passano loro — il mercato, la piazza, la festa della settimana — sapendo l'orario prima di uscire e portando contanti per le bancarelle",
+  "emJogo": "ambos",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-i09-bargeld-markt",
+      "afirmacao": "Alla bancarella di un mercato tedesco il contante non è un ripiego, è la norma. Lo studio della Bundesbank sui comportamenti di pagamento del 2025, pubblicato il 17 giugno 2026, registra che per la prima volta più della metà dei pagamenti quotidiani è avvenuta senza contanti (55 per cento, contro il 49 per cento del 2023), mentre il contante resta il mezzo più usato per numero di transazioni, al 45 per cento. Ai mercati e nelle vendite di strada, però, nove pagamenti su dieci e quasi l'80 per cento del giro d'affari sono in contanti, e solo il 43 per cento di quei venditori accetta altro. E sotto a tutto questo: le banconote in euro sono l'unico mezzo di pagamento a corso legale illimitato, e nessun commerciante è obbligato ad accettare la carta.",
+      "fonte": "Deutsche Bundesbank, Zahlungsverhalten in Deutschland 2025 (publicado 17/6/2026; campo forsa de 8/9 a 2/12/2025, 6.070 entrevistas, 10.394 transações POS); §14 Abs. 1 BBankG para o curso legal ilimitado. Próxima edição prevista para 2028.",
+      "ano": 2026,
+      "revisarAte": "2028-06-30",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-i09-n04",
+        "de-i09-n05"
+      ]
+    },
+    {
+      "id": "de-i09-pfand",
+      "afirmacao": "La legge sugli imballaggi fissa una cauzione di almeno 25 centesimi IVA inclusa su ogni contenitore monouso per bevande, e le regole sull'indicazione dei prezzi impongono che la cauzione sia indicata accanto al prezzo totale e espressamente non inclusa in esso — ed è esattamente per questo che sullo scaffale c'è scritto 0,99 € e alla cassa te ne chiedono 1,24 €. Il distributore deve riprendere il contenitore vuoto nel punto vendita o nelle vicinanze durante l'orario di apertura e restituire la cauzione gratuitamente; un negozio con una superficie di vendita inferiore a 200 metri quadrati può limitarsi ai materiali che vende, senza per questo esserne esentato. Il vetro a rendere funziona su un'altra base: quelle cauzioni (di solito 8 centesimi su una bottiglia di birra, 15 su una bottiglia da un litro, 1,50 € su una cassa) sono accordi civili tra imbottigliatore e acquirente, non il sistema previsto per legge, e non c'è alcun obbligo legale di riprenderle.",
+      "fonte": "VerpackG §31 Abs. 1 (mínimo de 0,25 € «einschließlich Umsatzsteuer»), §31 Abs. 2 (Rücknahmepflicht, limite de 200 m²); PAngV 2022 §7 (o Pfand é indicado ao lado do preço total e «nicht in diesen einzubeziehen»); Verbraucherzentrale para o caráter civil do Mehrwegpfand — valores de mercado, não norma.",
+      "ano": 2026,
+      "revisarAte": "2028-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-i09-n06",
+        "de-i09-n07"
+      ]
+    },
+    {
+      "id": "de-i09-oktoberfest",
+      "afirmacao": "L'Oktoberfest comincia a settembre: la città di Monaco indica per il 2026 dal 19 settembre al 4 ottobre, sedici giorni sulla Theresienwiese. La Maß costa tra 14,80 € e 15,90 € nel 2026, contro i 14,50 €–15,80 € del 2025, un aumento medio del 2,38 per cento — e non è la città a fissare quel prezzo. Lo fissano gli osti e la città verifica se sia ragionevole confrontandolo con la ristorazione del centro di Monaco.",
+      "fonte": "muenchen.de (portal da Landeshauptstadt München) para as datas; faixa de preço publicada pelo Referat für Arbeit und Wirtschaft (PDF «Bierpreis_Oktoberfest2026» em stadt.muenchen.de) — ressalva: o PDF oficial não abriu em texto legível e os valores foram lidos por via secundária que remete a ele. Datas de 2027: não obtidas.",
+      "ano": 2026,
+      "revisarAte": "2027-06-30",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": [
+        "de-i09-n09"
+      ]
+    },
+    {
+      "id": "de-i09-weihnachtsmarkt",
+      "afirmacao": "La regola ordinata secondo cui i mercatini di Natale vanno dalla prima domenica d'Avvento al 23 dicembre non regge in nessuno dei due casi che è stato possibile verificare. Lo Striezelmarkt di Dresda è indicato per il 2026 dal 26 novembre al 24 dicembre, mentre la prima domenica d'Avvento cade il 29 novembre; Colonia apre intorno al 16 novembre. Ciò che resta è l'intervallo osservato — da metà a fine novembre fino al 23 o 24 dicembre, deciso città per città.",
+      "fonte": "Agregadores de horários para Dresden 2026 (26/11 a 24/12, 10h–21h, 24/12 até 14h) e Colônia (abertura por volta de 16/11) — nenhuma página oficial de cidade grande abriu; dresden.de devolveu HTTP 503. Portanto: faixa observada, não regra.",
+      "ano": 2026,
+      "revisarAte": "2026-11-15",
+      "evidencia": "CONSENSO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-i09-n08"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i09-n01",
+      "gesto": 3,
+      "bloco": "aquecimento",
+      "pt": "Sabato, mattina di mercato. Due cose decidono come andrà: i contanti in tasca e una domanda."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i09-n02",
+      "bloco": "corpo",
+      "pt": "Wann ist — lo stampo di prima in questo modulo, puntato ora su qualsiasi cosa abbia un'ora attaccata."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-i09-t01",
+      "es": "Wann ist der Markt?",
+      "pinyin": "van ist dair markt",
+      "pt": "Quando c'è il mercato?",
+      "tts": "Wann ist der Markt?"
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa",
+        "chegar/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WANN-IST",
+      "encaixe": "der Markt",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i09-p01",
+      "promptPt": "Alla reception dell'hotel, prima di organizzare la giornata intorno a una piazza di cui hai visto solo un manifesto. Parla adesso.",
+      "audioKey": "de-i09-t01",
+      "es": "Wann ist der Markt?",
+      "pinyin": "van ist dair markt",
+      "pt": "Quando c'è il mercato?",
+      "tts": "Wann ist der Markt?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i09-r01",
+      "receptivo": true,
+      "es": "Dienstags und samstags, bis vierzehn Uhr.",
+      "pt": "Il martedì e il sabato, fino alle due del pomeriggio.",
+      "tts": "Dienstags und samstags, bis vierzehn Uhr.",
+      "acao": "Gli orari arrivano sull'orologio di ventiquattro ore. Vierzehn Uhr sono le due, e vuol dire che a quel punto le bancarelle chiudono."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i09-n03",
+      "pt": "Ei si pronuncia con la sua seconda lettera, così nein suona come «nain». Ie fa lo stesso, così vier viene fuori come «fir» con la f."
+    },
+    {
+      "consulta": [
+        "chegar/balcao",
+        "reparo/apontar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-SUCHE",
+      "encaixe": "den Wochenmarkt",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i09-p02",
+      "promptPt": "Sei a tre isolati di distanza e la piazza non è sui cartelli. Comincia la ricerca con uno sconosciuto. Parla adesso.",
+      "audioKey": "de-i09-t02",
+      "es": "Ich suche den Wochenmarkt.",
+      "pinyin": "ikh ZOO-khuh dayn VO-khen-markt",
+      "pt": "Sto cercando il mercato settimanale.",
+      "tts": "Ich suche den Wochenmarkt."
+    },
+    {
+      "consulta": [
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "eine Tüte",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i09-p03",
+      "promptPt": "Hai entrambe le mani piene di mele sfuse e niente in cui metterle. Chiedilo al bancarellaro. Parla adesso.",
+      "audioKey": "de-i09-t03",
+      "es": "Haben Sie eine Tüte?",
+      "pinyin": "HAH-ben zee INE-uh TUE-tuh",
+      "pt": "Ha un sacchetto?",
+      "tts": "Haben Sie eine Tüte?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i09-n04",
+      "pt": "Qui le bancarelle vanno a banconote e monete: nove pagamenti su dieci ai mercati e nelle vendite di strada sono in contanti."
+    },
+    {
+      "consulta": [
+        "compras/quanto"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WAS-KOSTET",
+      "encaixe": "das Stück",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i09-p04",
+      "promptPt": "Il formaggio è in forme senza alcun cartellino davanti e tu ne vuoi un pezzo. Chiedi prima di indicare. Parla adesso.",
+      "audioKey": "de-i09-t04",
+      "es": "Was kostet das Stück?",
+      "pinyin": "vas KOS-tet das shtuek",
+      "pt": "Quanto costa un pezzo?",
+      "tts": "Was kostet das Stück?"
+    },
+    {
+      "consulta": [
+        "compras/balcao",
+        "compras/pagar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-MOCHTE",
+      "encaixe": "ein Kilo Kartoffeln",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i09-p05",
+      "promptPt": "La bancarella tiene le cassette dietro il banco e aspetta una quantità. Dagliela. Parla adesso.",
+      "audioKey": "de-i09-t05",
+      "es": "Ich möchte ein Kilo Kartoffeln, bitte.",
+      "pinyin": "ikh MURKH-tuh ine KEE-lo kar-TOF-eln, BIT-tuh",
+      "pt": "Vorrei un chilo di patate, per favore.",
+      "tts": "Ich möchte ein Kilo Kartoffeln, bitte."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i09-r02",
+      "receptivo": true,
+      "es": "Zusammen sieben Euro achtzig. Nur Bargeld, bitte.",
+      "pt": "In tutto sette e ottanta. Solo contanti, per favore.",
+      "tts": "Zusammen sieben Euro achtzig. Nur Bargeld, bitte.",
+      "acao": "Nur Bargeld è legale e normalissimo a una bancarella. Tieni i contanti in tasca prima di metterti in fila."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i09-n05",
+      "bloco": "capsula",
+      "pt": "Qui le banconote sono l'unico mezzo a corso legale illimitato, e nessun venditore è obbligato ad accettare la tua carta."
+    },
+    {
+      "consulta": [
+        "pagar/cartao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i09-p06",
+      "promptPt": "Alla bancarella successiva, prima di lasciare che pesino qualcosa, vuoi sapere in quale tasca infilare la mano. Parla adesso.",
+      "audioKey": "de-i09-t06",
+      "es": "Nehmen Sie Karte?",
+      "pinyin": "NAY-men zee KAR-tuh",
+      "pt": "Accettate la carta?",
+      "tts": "Nehmen Sie Karte?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i09-n06",
+      "pt": "Al supermercato lo scaffale dice 0,99 e la cassa ne chiede 1,24. Quella differenza è la legge, non una sorpresa."
+    },
+    {
+      "consulta": [
+        "compras/devolver",
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ENTSCHULDIGUNG",
+      "encaixe": "wo ist der Pfandautomat",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i09-p07",
+      "promptPt": "Porti sei vuoti in una borsa di tela e l'atrio ha tre porte senza indicazioni. Chiedi al personale. Parla adesso.",
+      "audioKey": "de-i09-t07",
+      "es": "Entschuldigung, wo ist der Pfandautomat?",
+      "pinyin": "ent-SHOOL-di-goong, vo ist dair PFANT-ow-to-maht",
+      "pt": "Mi scusi, dov'è la macchina per la restituzione del vuoto?",
+      "tts": "Entschuldigung, wo ist der Pfandautomat?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-i09-r03",
+      "receptivo": true,
+      "es": "Hinten links, neben dem Eingang. Den Bon bitte an der Kasse abgeben.",
+      "pt": "In fondo a sinistra, accanto all'ingresso. Consegni lo scontrino alla cassa.",
+      "tts": "Hinten links, neben dem Eingang. Den Bon bitte an der Kasse abgeben.",
+      "acao": "La macchina stampa uno scontrino. Consegnalo alla cassa e la cauzione viene tolta da quello che paghi."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i09-n07",
+      "pt": "La cauzione è di almeno venticinque centesimi, e la regola è mostrarla accanto al prezzo, mai al suo interno."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WANN-IST",
+      "encaixe": "der Weihnachtsmarkt",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i09-p08",
+      "promptPt": "Il manifesto nell'atrio ha una data che da qui non riesci a leggere, e la donna alla cassa è libera. Parla adesso.",
+      "audioKey": "de-i09-t08",
+      "es": "Wann ist der Weihnachtsmarkt?",
+      "pinyin": "van ist dair VY-nakhts-markt",
+      "pt": "Quando c'è il mercatino di Natale?",
+      "tts": "Wann ist der Weihnachtsmarkt?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i09-r04",
+      "receptivo": true,
+      "es": "Der macht Ende November auf, bis zum vierundzwanzigsten.",
+      "pt": "Apre a fine novembre, fino al ventiquattro.",
+      "tts": "Der macht Ende November auf, bis zum vierundzwanzigsten.",
+      "acao": "Da metà a fine novembre fino al 23 o 24, e ogni città fissa le proprie date. Chiedi nella città in cui ti trovi."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i09-n08",
+      "pt": "Weihnachten: la w è una v, ei suona come «ai», e la ch dopo una a è quella prodotta in fondo alla bocca."
+    },
+    {
+      "consulta": [
+        "compras/quanto",
+        "mesa/bebida"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WAS-KOSTET",
+      "encaixe": "eine Maß",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i09-p09",
+      "promptPt": "Dentro il tendone a Monaco, prima di impegnarti sul litro che hanno in mano tutti intorno a te. Parla adesso.",
+      "audioKey": "de-i09-t09",
+      "es": "Was kostet eine Maß?",
+      "pinyin": "vas KOS-tet INE-uh mahss",
+      "pt": "Quanto costa un boccale da un litro?",
+      "tts": "Was kostet eine Maß?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i09-n09",
+      "pt": "Tra quattordici e ottanta e quindici e novanta quest'anno, e sono i tendoni a fissare quella cifra, non la città."
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "DANKE",
+      "encaixe": "vielen Dank",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i09-p10",
+      "promptPt": "Borsa piena, monete contate, e il bancarellaro sta già guardando oltre te. Chiudila mentre te ne vai. Parla adesso.",
+      "audioKey": "de-i09-t10",
+      "es": "Vielen Dank, schönen Tag noch!",
+      "pinyin": "FEE-len dahnk, SHUR-nen tahk nokh",
+      "pt": "Grazie mille, buona giornata!",
+      "tts": "Vielen Dank, schönen Tag noch!"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-i09-s01",
+      "molde": "WANN-IST",
+      "es": "Wann ist der Markt? Was kostet das Stück? Vielen Dank, schönen Tag noch!",
+      "pinyin": "van ist dair markt. vas KOS-tet das shtuek. FEE-len dahnk, SHUR-nen tahk nokh",
+      "pt": "Ripeti in ombra tutta la mattinata: l'ora, il prezzo, il saluto.",
+      "tts": "Wann ist der Markt? Was kostet das Stück? Vielen Dank, schönen Tag noch!"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i09-n10",
+      "bloco": "recap",
+      "pt": "I09 fatto. Una domanda con dentro un'ora, i contanti in tasca e i vuoti che ti ripagano."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Un pomeriggio passato dove lo passano loro",
+    "secoes": [
+      {
+        "titulo": "Chiedi l'ora prima di organizzare la giornata",
+        "corpo": "Wann ist der Markt, wann ist der Weihnachtsmarkt, wann ist die Führung. Il verbo è già dentro lo stampo, così non c'è niente da costruire nel momento in cui ti serve, e la risposta arriva sull'orologio di ventiquattro ore: vierzehn Uhr sono le due del pomeriggio, achtzehn Uhr sono le sei. Un mercato settimanale aperto bis vierzehn Uhr viene smontato già dall'una e mezza circa.",
+        "exemplos": [
+          {
+            "es": "Wann ist der Markt?",
+            "pt": "Quando c'è il mercato?"
+          },
+          {
+            "es": "Wann ist der Weihnachtsmarkt?",
+            "pt": "Quando c'è il mercatino di Natale?"
+          }
+        ]
+      },
+      {
+        "titulo": "Contanti, non carte, alle bancarelle",
+        "corpo": "A livello nazionale il quadro è cambiato: per la prima volta più della metà dei pagamenti quotidiani è avvenuta senza contanti nel 2025, e il contante è ormai il 45 per cento delle transazioni. I mercati e le vendite di strada sono la tasca in cui questo non è successo — lì nove pagamenti su dieci sono in contanti, quasi l'80 per cento del giro d'affari, e solo il 43 per cento di quei venditori accetta altro. Sotto c'è un fatto giuridico che sorprende la maggior parte dei visitatori: le banconote sono l'unico mezzo a corso legale illimitato, e nessuno è obbligato ad accettare la carta. Nur Bargeld su un cartello scritto a mano non è un'attività rimasta indietro, è un'attività dentro la legge."
+      },
+      {
+        "titulo": "Perché la cassa chiede più di quanto diceva lo scaffale",
+        "corpo": "La cauzione su una bottiglia o lattina monouso è di almeno 25 centesimi IVA inclusa, e le regole sui prezzi impongono che sia mostrata accanto al totale e espressamente non inglobata in esso. Così lo scaffale legge 0,99 € e la cassa legge 1,24 €, e entrambi i numeri sono corretti. Inserisci i vuoti nella macchina in qualsiasi supermercato che venda quel materiale, consegna lo scontrino alla cassa e il denaro viene tolto dalla spesa.",
+        "exemplos": [
+          {
+            "es": "Entschuldigung, wo ist der Pfandautomat?",
+            "pt": "Mi scusi, dov'è la macchina per la restituzione del vuoto?"
+          },
+          {
+            "es": "Haben Sie eine Tüte?",
+            "pt": "Ha un sacchetto?"
+          }
+        ]
+      },
+      {
+        "titulo": "Quale festa c'è davvero",
+        "corpo": "L'Oktoberfest comincia a settembre — dal 19 settembre al 4 ottobre nel 2026, sedici giorni — e la Maß va tra 14,80 € e 15,90 € quest'anno, una cifra fissata dagli osti e che la città verifica solo per ragionevolezza. I mercatini di Natale non seguono l'ordinata regola dell'Avvento: quello di Dresda va dal 26 novembre al 24 dicembre nel 2026 mentre la prima domenica d'Avvento è il 29, e Colonia apre intorno al 16 novembre. La versione onesta è un intervallo — da metà a fine novembre fino al 23 o 24 dicembre — deciso città per città, ed è per questo che vale la pena porre la domanda ad alta voce lì dove ti trovi."
+      },
+      {
+        "titulo": "Tre lettere che decidono metà di ciò che leggi",
+        "corpo": "Weihnachtsmarkt è tutta la lezione di lettura in una parola: la w è la tua v, ei si pronuncia con la sua seconda lettera e viene fuori come «ai», e la ch dopo una vocale posteriore si produce in fondo alla bocca. Wochenmarkt ha la stessa ch. Stück e Tüte hanno la ü — di' «i», poi arrotonda le labbra e lascia la lingua dov'è."
+      }
+    ]
+  },
+  "slot": "I09",
+  "permissao": "Hai il diritto di chiedere a uno sconosciuto quando c'è il mercato, e hai il diritto di presentarti a una bancarella con contanti e senza carta. Lì il contante è il modo normale di pagare, non un ripiego, e un cartello nur Bargeld scritto a mano non è né una mancanza di rispetto né un'irregolarità — è un'attività che fa qualcosa che la legge permette espressamente.",
+  "permissaoAudioKey": "de-i09-n05",
+  "espelho": "Chiunque abbia fatto la fila a un mercato contadino a casa propria conosce già le due mosse che decidono tutto: avere i contanti prima di arrivare, e dire la quantità ad alta voce invece di allungare la mano. Indicare più una quantità è tutta la transazione, ed è la stessa transazione in entrambe le lingue.",
+  "fichasCulturais": [
+    {
+      "sinal": "L'etichetta sullo scaffale dice 0,99 € e la cassa ti chiede 1,24 €, senza che nulla venga detto sulla differenza.",
+      "suaLeitura": "Venticinque centesimi sono stati aggiunti all'ultimo secondo e nessuno te lo spiegherà.",
+      "oQueEAli": "La legge sugli imballaggi impone sul contenitore una cauzione di almeno 25 centesimi IVA inclusa, e le regole sui prezzi impongono che la cauzione sia mostrata accanto al prezzo totale e espressamente non inclusa in esso. Il commerciante è obbligato a non sommarla. La differenza tra i due numeri è la regola che viene rispettata.",
+      "oQueVoceFaz": "Conserva i vuoti. Riporta qualsiasi cosa con il logo della cauzione a un supermercato che venda quel materiale, inseriscilo nella macchina e consegna lo scontrino stampato alla cassa.",
+      "oQueMelhora": "Un addebito che sembrava un gioco di prestigio diventa un piccolo anticipo che riavrai indietro, e una cassa da venti birre si scopre portare con sé tre euro e dieci di soldi tuoi.",
+      "ondeNaoVale": "Il vetro a rendere è un sistema diverso: quelle cauzioni sono accordi civili tra imbottigliatore e acquirente, i soliti 8 centesimi, 15 centesimi e 1,50 € su una cassa sono uso di mercato e non legge, e non c'è alcun obbligo legale di riprenderli — la maggior parte dei negozi lo fa per i propri marchi come cortesia. Cartoni, bottiglie di vino e tutto ciò che è sotto 0,1 litri o sopra 3 litri non ha alcuna cauzione.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-i09-n06",
+        "de-i09-n07"
+      ]
+    },
+    {
+      "sinal": "La bancarella non ha alcun terminale, e quella accanto ha nur Bargeld scritto su un pezzo di cartone.",
+      "suaLeitura": "Questo posto è rimasto indietro, e da qualche parte qui una carta deve pur essere accettata.",
+      "oQueEAli": "Le banconote in euro sono l'unico mezzo a corso legale illimitato e non c'è alcun obbligo di accettare la carta. Lo studio della Bundesbank del 2025 colloca nove pagamenti su dieci ai mercati e nelle vendite di strada in contanti, quasi l'80 per cento del giro d'affari, con solo il 43 per cento di quei venditori che accetta altro — questa è l'unica tasca dell'economia in cui il punto di svolta verso il senza contanti non è arrivato.",
+      "oQueVoceFaz": "Preleva i contanti prima del mercato invece che sul posto, tieni le monete per i singoli articoli, e chiedi Nehmen Sie Karte prima che qualcosa venga pesato, non dopo.",
+      "oQueMelhora": "Compri alla bancarella che volevi invece che a quella con il terminale, e non blocchi mai una fila alla fine.",
+      "ondeNaoVale": "Questo è un fatto del mercato, non del Paese: a livello nazionale più della metà dei pagamenti quotidiani è avvenuta senza contanti nel 2025. E la libertà vale in entrambi i sensi — un negozio può accettare solo carte, purché lo dichiari in anticipo, quindi nur Karte su una porta è ugualmente legale e ugualmente non degno di discussione.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-i09-n04",
+        "de-i09-n05"
+      ]
+    }
+  ]
+}

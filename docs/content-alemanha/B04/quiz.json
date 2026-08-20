@@ -1,0 +1,96 @@
+{
+  "id": "q-b04",
+  "nivel": "basico",
+  "titulo": "Quiz — Cinque decisioni che il tuo tavolo di cucina può ancora prendere",
+  "subtitulo": "Il contante, la domenica, il posto a sedere, il modulo per l'export e la tessera sanitaria",
+  "introAudioKey": "de-b04-q-i",
+  "introPt": "Una telefonata, dieci giorni prima, e quattro numeri che è più economico imparare stasera che a uno sportello.",
+  "cenario": "Il tuo tavolo di cucina, la prenotazione aperta sul portatile, la pensione al telefono.",
+  "dialogo": [
+    {
+      "audioKey": "de-b04-q01",
+      "voz": "target_de_f",
+      "es": "Guten Tag, ich habe eine Frage zur Buchung.",
+      "pt": "Buongiorno, ho una domanda sulla prenotazione.",
+      "tts": "Guten Tag, ich habe eine Frage zur Buchung."
+    },
+    {
+      "audioKey": "de-b04-q02",
+      "voz": "target_de_m",
+      "es": "Königstraße vierzehn, dritter Stock.",
+      "pt": "Königstraße quattordici, terzo piano.",
+      "tts": "Königstraße vierzehn, dritter Stock."
+    },
+    {
+      "audioKey": "de-b04-q03",
+      "voz": "target_de_f",
+      "es": "Nehmen Sie Karte?",
+      "pt": "Accettate la carta?",
+      "tts": "Nehmen Sie Karte?"
+    },
+    {
+      "audioKey": "de-b04-q04",
+      "voz": "target_de_m",
+      "es": "Nur Bargeld, bitte.",
+      "pt": "Solo contanti, per favore.",
+      "tts": "Nur Bargeld, bitte."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Un negozio in Germania rifiuta la tua carta. Cosa dice la legge?",
+      "opcoes": [
+        "Devono accettarla sopra un importo minimo",
+        "Niente li obbliga — le banconote sono l'unico mezzo di pagamento a corso legale illimitato qui",
+        "Devono accettarla se possiedono un terminale",
+        "Rifiutare una carta è un reato"
+      ],
+      "correta": 1,
+      "explica": "In Germania non c'è alcun obbligo di accettare le carte. Le banconote in euro sono l'unico mezzo di pagamento a corso legale illimitato, e un commerciante può rifiutare il contante solo se è stato concordato prima un altro mezzo — così «nur Bargeld» e «nur Karte» sono entrambi legali."
+    },
+    {
+      "pergunta": "Atterri una domenica pomeriggio con il frigo vuoto. Cosa è aperto, secondo la norma federale residua?",
+      "opcoes": [
+        "Tutto, con orari ridotti",
+        "I supermercati solo nelle grandi città",
+        "Niente — la domenica di apertura è un accordo da giorno festivo",
+        "La farmacia di turno, un distributore di benzina per gli articoli da viaggio, un panificio al mattino, e i negozi in stazione e in aeroporto"
+      ],
+      "correta": 3,
+      "explica": "I negozi sono chiusi la domenica e nei giorni festivi e dalle otto di sera negli altri giorni. Le eccezioni sono ristrette e scritte nella legge, e la tutela della domenica è ancorata nella costituzione."
+    },
+    {
+      "pergunta": "Hai un biglietto a lunga percorrenza. Ti serve la prenotazione del posto?",
+      "opcoes": [
+        "Sì — il biglietto non è valido senza",
+        "Solo in prima classe",
+        "No. La clausola stessa del vettore la definisce una possibilità; i treni a prenotazione obbligatoria portano una R nell'orario",
+        "Solo nei fine settimana"
+      ],
+      "correta": 2,
+      "explica": "Prenotare costa 5,50 euro in seconda classe e 6,90 in prima, e si può fare fino a dodici mesi prima. E un posto prenotato smette di essere tuo quindici minuti dopo che il treno è partito dalla stazione in cui iniziava la prenotazione."
+    },
+    {
+      "pergunta": "Esenzione fiscale in uscita dall'UE. A chi appartiene davvero l'esenzione?",
+      "opcoes": [
+        "Al viaggiatore, che la richiede indietro all'ufficio delle imposte",
+        "Al commerciante — il viaggiatore ottiene una riduzione di prezzo che il negozio può concedere, meno una commissione di gestione",
+        "Alla compagnia aerea",
+        "A nessuno, a meno che tu non spenda più di 500 euro"
+      ],
+      "correta": 1,
+      "explica": "Le regole richiedono la residenza fuori dall'UE, l'esportazione entro tre mesi e un totale superiore a 50 euro — e la merce deve essere nelle tue mani al confine, non nella stiva. Non ricevi mai l'intero diciannove per cento, e questo è il sistema che funziona come scritto."
+    },
+    {
+      "pergunta": "«Königstraße» — qual è quell'ultima lettera prima della e?",
+      "opcoes": [
+        "Una B maiuscola",
+        "Una doppia t",
+        "Una s, e niente da pronunciare diversamente",
+        "Una lettera muta"
+      ],
+      "correta": 2,
+      "explica": "La ß è semplicemente una s sorda. Non è mai una B, e non c'è nulla di extra da dire. Scrivila come ss se non riesci a digitarla e sarai dentro la regola, non fuori."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "q-b01",
+  "nivel": "basico",
+  "titulo": "Quiz — I suoni sono già tuoi",
+  "subtitulo": "Lo scambio tra w e v, la seconda lettera di ei e ie, il colpetto sulla z, le labbra arrotondate, e la r che si trasforma in vocale",
+  "introAudioKey": "de-b01-q-i",
+  "introPt": "Un viaggiatore ordina al bancone di una panetteria la mattina e chiede dell'acqua mentre esce.",
+  "cenario": "Una panetteria poco dopo le sette, una persona che serve, un vassoio di panini e un'alzata per le torte tra voi.",
+  "dialogo": [
+    {
+      "audioKey": "de-b01-q01",
+      "voz": "target_de_f",
+      "es": "Guten Morgen. Ein Brötchen, bitte.",
+      "pt": "Buongiorno. Un panino, per favore.",
+      "tts": "Guten Morgen. Ein Brötchen, bitte."
+    },
+    {
+      "audioKey": "de-b01-q02",
+      "voz": "target_de_m",
+      "es": "Guten Morgen! Sonst noch etwas?",
+      "pt": "Buongiorno! Altro?",
+      "tts": "Guten Morgen! Sonst noch etwas?"
+    },
+    {
+      "audioKey": "de-b01-q03",
+      "voz": "target_de_f",
+      "es": "Ein Stück Kuchen und Wasser, bitte.",
+      "pt": "Una fetta di torta e dell'acqua, per favore.",
+      "tts": "Ein Stück Kuchen und Wasser, bitte."
+    },
+    {
+      "audioKey": "de-b01-q04",
+      "voz": "target_de_m",
+      "es": "Gerne. Schönen Tag noch, auf Wiedersehen.",
+      "pt": "Volentieri. Buona giornata, arrivederci.",
+      "tts": "Gerne. Schönen Tag noch, auf Wiedersehen."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Vedi la parola Wasser su una bottiglia. Che suono ha la prima lettera?",
+      "opcoes": [
+        "La w di water",
+        "Una v — Wasser inizia come la parola inglese vast",
+        "È muta",
+        "Una f"
+      ],
+      "correta": 1,
+      "explica": "Il regolamento ufficiale dà w come [v]: wann, Wagen, Möwe. La coppia da tenere ben distinta è wir e vier, dove ogni lettera fa il lavoro dell'altra."
+    },
+    {
+      "pergunta": "La v tedesca si pronuncia sempre f. Vero o falso?",
+      "opcoes": [
+        "Vero, senza eccezioni",
+        "Falso — è f in un breve elenco chiuso di vecchie parole native e in ver-, v nei prestiti, e oscilla in un terzo elenco",
+        "Falso — è sempre v",
+        "Vero, tranne alla fine di parola"
+      ],
+      "correta": 1,
+      "explica": "Il regolamento la divide in tre modi: Vater, viel, vier, von, vor prendono f; privat, Vase, Universität prendono v; e November è registrata come genuinamente in entrambi i modi."
+    },
+    {
+      "pergunta": "Come leggi le coppie di vocali in Ein Bier?",
+      "opcoes": [
+        "Entrambe come una ee lunga",
+        "Pronuncia ogni volta il nome della seconda lettera — ei è eye (come ai), ie è ee",
+        "Entrambe come eye (come ai)",
+        "Nel verso in cui va il termine imparentato inglese"
+      ],
+      "correta": 1,
+      "explica": "La regola non ha eccezioni native: il digramma si legge come la sua seconda lettera. Ein è eye, Bier è ee, e la stessa regola copre tutto il vocabolario."
+    },
+    {
+      "pergunta": "Che cosa succede alla r alla fine di Wasser?",
+      "opcoes": [
+        "È una piena r americana",
+        "Diventa una vocale — una piccola uh — e la finale -er è sempre quella",
+        "È arrotata con la punta della lingua",
+        "Sparisce senza nulla al suo posto"
+      ],
+      "correta": 1,
+      "explica": "Alla fine di una sillaba lì non c'è affatto una consonante. Butter, Vater, Kinder, besser, aber, oder finiscono tutte con la stessa piccola uh, ed è la correzione singola più udibile a tua disposizione."
+    },
+    {
+      "pergunta": "Rad e Rat si scrivono in modo diverso. Come suonano?",
+      "opcoes": [
+        "La prima finisce morbida, la seconda dura",
+        "Uguali — una d, b o g a fine parola arriva sorda",
+        "La prima ha una vocale più lunga",
+        "La seconda è accentata sulla fine"
+      ],
+      "correta": 1,
+      "explica": "L'ortografia non lo registra, ma la finale si indurisce: Rad è raht, Hund finisce come Hunt, Tag finisce come Tak. Ammorbidirla è ciò che marca la frase come straniera."
+    }
+  ]
+}

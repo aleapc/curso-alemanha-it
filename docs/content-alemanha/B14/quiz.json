@@ -1,0 +1,96 @@
+{
+  "id": "q-b14",
+  "nivel": "basico",
+  "titulo": "Quiz — Zahlen, bitte, e i due avvisi leciti",
+  "subtitulo": "Chiedere il conto, controllare la carta prima del pasto, e un arrotondamento che nessuno può importi",
+  "introAudioKey": "de-b14-q-i",
+  "introPt": "Un tavolo si chiude: si chiede il conto, si decide la divisione con una parola, e il totale si arrotonda o no.",
+  "cenario": "La fine del pranzo in una Gaststätte, con un terminale per carte sul bancone e un avviso accanto.",
+  "dialogo": [
+    {
+      "audioKey": "de-b14-q01",
+      "voz": "target_de_f",
+      "es": "Zahlen, bitte. Nehmen Sie Karte?",
+      "pt": "Il conto, per favore. Accettate la carta?",
+      "tts": "Zahlen, bitte. Nehmen Sie Karte?"
+    },
+    {
+      "audioKey": "de-b14-q02",
+      "voz": "target_de_m",
+      "es": "Tut mir leid, nur Bargeld. Zusammen oder getrennt?",
+      "pt": "Mi dispiace, solo contanti. Insieme o separati?",
+      "tts": "Tut mir leid, nur Bargeld. Zusammen oder getrennt?"
+    },
+    {
+      "audioKey": "de-b14-q03",
+      "voz": "target_de_f",
+      "es": "Zusammen, bitte.",
+      "pt": "Insieme, per favore.",
+      "tts": "Zusammen, bitte."
+    },
+    {
+      "audioKey": "de-b14-q04",
+      "voz": "target_de_m",
+      "es": "Das macht dreiunddreißig Euro vierzig.",
+      "pt": "Fanno trentatré euro e quaranta.",
+      "tts": "Das macht dreiunddreißig Euro vierzig."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "L'avviso dice nur Bargeld. Qual è la tua posizione?",
+      "opcoes": [
+        "Il locale infrange una regola e gli si può chiedere di accettare la carta",
+        "È lecito — nessuna legge tedesca obbliga qualcuno ad accettare una carta",
+        "È lecito solo nelle attività sotto una certa dimensione",
+        "Dipende dall'importo che stai pagando"
+      ],
+      "correta": 1,
+      "explica": "Le banconote in euro sono l'unico mezzo di pagamento a corso legale illimitato ai sensi del § 14 della legge sulla Bundesbank, e non c'è alcun obbligo di accettare una carta. L'avviso speculare, solo carta, è lecito allo stesso modo."
+    },
+    {
+      "pergunta": "Qual è il momento migliore per chiedere Nehmen Sie Karte?",
+      "opcoes": [
+        "Quando arriva il conto",
+        "Alla porta, prima di sederti o ordinare",
+        "Una volta visto se c'è un terminale",
+        "Solo nei posti che sembrano piccoli"
+      ],
+      "correta": 1,
+      "explica": "È il momento in cui hai ancora una scelta su dove spendere. Dopo, l'unica opzione rimasta è cercare un bancomat mentre il tuo tavolo aspetta."
+    },
+    {
+      "pergunta": "Il menù indicava 12,50 per il piatto. Cosa compare sullo scontrino della carta?",
+      "opcoes": [
+        "12,50 più IVA alla cassa",
+        "12,50, perché il prezzo esposto deve includere l'IVA",
+        "12,50 più una componente per il servizio",
+        "Varia con l'aliquota applicata al cibo"
+      ],
+      "correta": 1,
+      "explica": "La normativa sui prezzi richiede il Gesamtpreis — il totale comprensivo di IVA e di ogni altra componente. Non vedrai mai il 7 % o il 19 % scorporati, anche se l'aliquota sui servizi di ristorazione è cambiata il 1° gennaio 2026."
+    },
+    {
+      "pergunta": "Quanto sei obbligato a lasciare di mancia?",
+      "opcoes": [
+        "Tra il cinque e il dieci per cento",
+        "Quello che suggerisce il terminale",
+        "Nulla — il codice fiscale deve definirla volontaria per esentarla",
+        "Il dieci per cento nei ristoranti, meno al bancone"
+      ],
+      "correta": 2,
+      "explica": "Il § 3 Nr. 51 della legge sull'imposta sul reddito esenta le mance solo dopo aver stabilito che sono date liberamente, senza alcun diritto legale ad esse, e in aggiunta all'importo dovuto. Il 5–10 % che leggerai altrove viene da un sondaggio commissionato da un'azienda che vende terminali predisposti per le mance."
+    },
+    {
+      "pergunta": "«Das macht dreiunddreißig Euro vierzig.» Quanto fa?",
+      "opcoes": [
+        "43,30",
+        "33,40",
+        "23,40",
+        "33,14"
+      ],
+      "correta": 1,
+      "explica": "Drei-und-dreißig è tre-e-trenta, trentatré. Le unità si dicono prima delle decine, quindi tieni il numero piccolo e aspetta quello grande."
+    }
+  ]
+}

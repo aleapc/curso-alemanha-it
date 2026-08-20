@@ -1,0 +1,96 @@
+{
+  "id": "q-a01",
+  "nivel": "avancado",
+  "titulo": "Quiz — Come parlano quando non è a te che si rivolgono",
+  "subtitulo": "Cinque domande sulla r che sparisce, le lettere scambiate e le finali dure",
+  "introAudioKey": "de-a01-q-i",
+  "introPt": "Quattro battute a tutta velocità, rivolte a qualcun altro, con tutte le regole di questa parte che lavorano insieme.",
+  "cenario": "Un binario, una fila e la porta di una cucina, tutti ascoltati di sfuggita e non rivolti a te.",
+  "dialogo": [
+    {
+      "audioKey": "de-a01-q01",
+      "voz": "ear_de_f",
+      "es": "Wasser, Butter, Vater, aber, oder.",
+      "pt": "Acqua, burro, padre, ma, oppure.",
+      "tts": "Wasser, Butter, Vater, aber, oder."
+    },
+    {
+      "audioKey": "de-a01-q02",
+      "voz": "ear_de_m",
+      "es": "Wo ist der Wagen? Da vorne, viertel vor vier.",
+      "pt": "Dov'è la macchina? Lì davanti, alle quattro meno un quarto.",
+      "tts": "Wo ist der Wagen? Da vorne, viertel vor vier."
+    },
+    {
+      "audioKey": "de-a01-q03",
+      "voz": "ear_de_f",
+      "es": "Vier Bier, bitte. Nein, sieben!",
+      "pt": "Quattro birre, per favore. No, sette!",
+      "tts": "Vier Bier, bitte. Nein, sieben!"
+    },
+    {
+      "audioKey": "de-a01-q04",
+      "voz": "ear_de_m",
+      "es": "Also, dann machen wir das so.",
+      "pt": "Allora, facciamo così.",
+      "tts": "Also, dann machen wir das so."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Senti Butter e alla fine non c'è nessuna r. Che cosa hai sentito in realtà?",
+      "opcoes": [
+        "Una finale caduta, pronunciata con trascuratezza",
+        "Una vocale — la finale -er è sempre quel suono morbido, una specie di uh",
+        "Un'abitudine regionale da ignorare",
+        "Una parola del tutto diversa"
+      ],
+      "correta": 1,
+      "explica": "Dopo una vocale, e nella finale atona -er, la lettera r non è affatto una consonante. Butter, Vater, Kinder, besser, aber, oder — sempre la stessa vocale, ed è la pronuncia corretta."
+    },
+    {
+      "pergunta": "Wagen è uscita con una v e vier con una f. Perché?",
+      "opcoes": [
+        "Chi parla ha un accento",
+        "La w tedesca è la tua v, e la v nelle parole native di solito è la tua f",
+        "Le lettere cambiano valore davanti a una vocale posteriore",
+        "Succede solo quando si parla veloce"
+      ],
+      "correta": 1,
+      "explica": "È una pura rimappatura e non contiene alcun suono nuovo. Wasser è vasser, viel è fiil. Il manuale precisa però che nei prestiti come Vase e Universität la v è una v, e qualche parola oscilla davvero."
+    },
+    {
+      "pergunta": "Bier e nein. Quale vocale è quale?",
+      "opcoes": [
+        "Entrambe sono la ee inglese",
+        "Entrambe sono la eye inglese (come ai)",
+        "Pronuncia la seconda lettera: ie è ee, ei è eye (come ai)",
+        "Dipende dalla consonante che segue"
+      ],
+      "correta": 2,
+      "explica": "Il digramma tedesco si legge come la sua seconda lettera, senza eccezioni native. Bier suona come beer, nein fa rima con mine, ed eu e äu escono come oy."
+    },
+    {
+      "pergunta": "Qualcuno dice Rad e qualcun altro dice Rat. Che differenza c'è per il tuo orecchio?",
+      "opcoes": [
+        "La d è più morbida",
+        "Nessuna — le consonanti sonore diventano sorde alla fine della sillaba",
+        "La vocale è più lunga in Rad",
+        "Rat ha un colpo di glottide"
+      ],
+      "correta": 1,
+      "explica": "Auslautverhärtung, e l'ortografia non lo registra mai: Hund suona come Hunt, Tag come Tak, und come unt. Le misurazioni trovano un residuo di differenza appena percettibile; è il contesto a distinguere le parole."
+    },
+    {
+      "pergunta": "Una frase veloce si apre con also. Che cosa è appena successo?",
+      "opcoes": [
+        "Si sta aggiungendo qualcosa a un elenco",
+        "Si sta introducendo una conclusione — quindi, allora, dunque",
+        "Qualcuno sta dando ragione",
+        "Sta arrivando una domanda"
+      ],
+      "correta": 1,
+      "explica": "Also significa quindi o dunque, da folglich, demnach. Sentirlo come l'inglese also ribalta la logica della frase, e ciò che segue è di solito la metà che ti serviva."
+    }
+  ]
+}

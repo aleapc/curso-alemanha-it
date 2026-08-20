@@ -1,0 +1,96 @@
+{
+  "id": "q-i03",
+  "nivel": "intermediario",
+  "titulo": "Quiz — Il piatto che non avresti ordinato",
+  "subtitulo": "Cedi la scelta e ti torna indietro un piatto migliore",
+  "introAudioKey": "de-i03-q-i",
+  "introPt": "Un viaggiatore smette di leggere tutta la carta stampata, chiede quello del giorno e mangia ciò che la cucina ha preparato stamattina.",
+  "cenario": "Una Gasthaus alle dodici e mezza, una lavagna accanto alla porta e una carta stampata sul tavolo.",
+  "dialogo": [
+    {
+      "audioKey": "de-i03-q01",
+      "voz": "target_de_f",
+      "es": "Was empfehlen Sie?",
+      "pt": "Cosa mi consiglia?",
+      "tts": "Was empfehlen Sie?"
+    },
+    {
+      "audioKey": "de-i03-q02",
+      "voz": "target_de_m",
+      "es": "Heute empfehle ich das Tagesgericht. Steht draußen an der Tafel.",
+      "pt": "Oggi le consiglio il piatto del giorno. È scritto sulla lavagna fuori.",
+      "tts": "Heute empfehle ich das Tagesgericht. Steht draußen an der Tafel."
+    },
+    {
+      "audioKey": "de-i03-q03",
+      "voz": "target_de_f",
+      "es": "Entschuldigung, was ist das?",
+      "pt": "Scusi, cos'è?",
+      "tts": "Entschuldigung, was ist das?"
+    },
+    {
+      "audioKey": "de-i03-q04",
+      "voz": "target_de_m",
+      "es": "Das ist eine Suppe mit Klößen. Sehr gut heute.",
+      "pt": "È una zuppa con canederli. Molto buona oggi.",
+      "tts": "Das ist eine Suppe mit Klößen. Sehr gut heute."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Perché chiedere «Was empfehlen Sie?» invece di chiedere cosa è buono?",
+      "opcoes": [
+        "Chiede a una persona di scegliere una cosa, il che ha una risposta — chiedere cosa è buono invita a difendere l'intera carta",
+        "È più formale, e la formalità è attesa",
+        "È l'unica opzione grammaticalmente corretta",
+        "Segnala che lascerai una mancia più alta"
+      ],
+      "correta": 0,
+      "explica": "Nulla su una carta verrà descritto come cattivo. Chiedere un consiglio è una richiesta più piccola e con risposta, e la replica di solito nomina un piatto."
+    },
+    {
+      "pergunta": "Il conto corrisponde esattamente ai numeri sulla carta, senza nulla aggiunto. Perché?",
+      "opcoes": [
+        "Il cameriere ha dimenticato l'imposta",
+        "L'imposta si riscuote a parte all'ingresso",
+        "Le norme sull'indicazione dei prezzi impongono che il prezzo esposto sia il totale, con l'IVA già inclusa",
+        "I ristoranti sono esenti dall'IVA"
+      ],
+      "correta": 2,
+      "explica": "Il prezzo indicato deve includere l'IVA e ogni altra componente di prezzo, quindi alla fine non si aggiunge nulla. Dal 1° gennaio 2026 il cibo al ristorante è tassato al sette per cento e le bevande al diciannove — e tu non vedi mai nessuna delle due cifre."
+    },
+    {
+      "pergunta": "Cosa dice la legge tributaria tedesca sulla mancia?",
+      "opcoes": [
+        "È una percentuale fissa dovuta oltre il conto",
+        "È volontaria, non esiste alcun diritto ad essa, ed è aggiuntiva rispetto all'importo dovuto per il lavoro",
+        "Deve essere indicata sul conto dal ristorante",
+        "Sostituisce parte del prezzo esposto"
+      ],
+      "correta": 1,
+      "explica": "L'esenzione prevista dalla legge sull'imposta sul reddito deve prima definire le mance, e le definisce esattamente così — il che significa che il prezzo del pasto è giuridicamente l'intero prezzo. Questo corso non dà alcuna percentuale: non c'è né una norma né una statistica ufficiale."
+    },
+    {
+      "pergunta": "Non riesci a leggere una riga sulla lavagna. Qual è la mossa?",
+      "opcoes": [
+        "Ordina qualcosa che già riconosci",
+        "Cercalo e spera che la traduzione sia giusta",
+        "Chiedi un menù in inglese e ricomincia da capo",
+        "Indica e di' «Entschuldigung, was ist das?» — la risposta arriva come descrizione, che è ciò che ti serviva"
+      ],
+      "correta": 3,
+      "explica": "Le parole dei menù tedeschi saldano insieme più sostantivi e nessuna preparazione le copre. Una descrizione — eine Suppe mit Klößen, sehr gut heute — è comunque più utile di una traduzione."
+    },
+    {
+      "pergunta": "«Und zu trinken?» arriva subito dopo che hai ordinato il cibo. Che cos'è?",
+      "opcoes": [
+        "Un suggerimento che dovresti ordinare di più",
+        "La seconda domanda, e arriva veloce — decidi prima di sederti",
+        "Una richiesta di pagamento",
+        "Una domanda su se vuoi acqua del rubinetto"
+      ],
+      "correta": 1,
+      "explica": "Tende a seguire subito dopo che il cibo è deciso, e veloce. Avere la risposta pronta mantiene ogni battuta dello scambio lunga quattro parole."
+    }
+  ]
+}

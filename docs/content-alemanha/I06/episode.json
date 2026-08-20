@@ -1,0 +1,485 @@
+{
+  "id": "i06",
+  "nivel": "intermediario",
+  "numero": 24,
+  "parte": "I06",
+  "titulo": "Ich war, ich hatte — e otto blocchi già pronti per tutto il resto",
+  "subtitulo": "Due forme di una sola parola reggono tutto il tuo viaggio; il resto si impara a memoria, come i numeri di telefono",
+  "cena": "Domenica sera a una tavolata condivisa: qualcuno ti ha appena chiesto cosa hai fatto ieri, e l'intera giornata ti sta in testa in italiano.",
+  "moldura": "ganha",
+  "frasePiso": "Ich war in Dresden. Es war super. Due frasi, e la giornata è già raccontata.",
+  "decisao": "quali tre cose racconto e in che ordine; raccontare ieri con blocchi già pronti invece di rispondere a tutto al presente e perdere la raccomandazione che arriva dopo",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-i06-gift",
+      "afirmacao": "Il falso amico più costoso di questa coppia si annida proprio in un racconto sui souvenir. Il DWDS definisce das Gift come «Stoff, der im Körper eine zerstörende oder tödliche Wirkung hervorruft» — una sostanza con un effetto distruttivo o mortale sul corpo. In italiano è il veleno; il tedesco per «regalo» è das Geschenk. Le due parole sono veri cognati: il DWDS registra Gift come formazione astratta germanica del verbo geben, in origine col significato di «das Geben, Gabe, Geschenk, Schenkung», con la specializzazione a «veleno» attribuita all'influsso del tardo greco e latino dosis, a sua volta letteralmente un «dare»; il Duden dà indipendentemente il medio e antico alto tedesco gift, in origine «das Geben, Übergabe; Gabe». Il tedesco ha conservato il senso antico solo nel composto Mitgift, la dote. Perciò un'etichetta che riporta Gift è un avvertimento, mai un regalo.",
+      "fonte": "DWDS (Wörterbuch der deutschen Gegenwartssprache + etimológico de Pfeifer) e Duden, verbetes abertos e lidos. Dossiê § 2. ⚠ O lado INGLÊS dos pares só foi verificado em dicionário para «sensible» e «eventually» (Longman/LDOCE): Merriam-Webster, Cambridge e Collins devolveram 403. A lista vale como sentido ALEMÃO verificado, não como afirmação sobre o inglês.",
+      "ano": 2026,
+      "revisarAte": "2031-08-05",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": [
+        "de-i06-n07",
+        "de-i06-n08"
+      ]
+    },
+    {
+      "id": "de-i06-falsche-freunde",
+      "afirmacao": "Altri quattro significati tedeschi verificati che tendono un'imboscata al racconto di un viaggiatore, tutti controllati sul DWDS o sul Duden. Bekommen è «in den Besitz von etw. kommen», ricevere — «diventare» è werden, «eine Zustandsveränderung». Eventuell significa «mit einer eher geringen Wahrscheinlichkeit», forse, eventualmente — non «alla fine, prima o poi», che in tedesco è schließlich; questa coppia inverte un impegno ed è la più costosa delle quattro. Aktuell è «gegenwärtig vorhanden, bedeutsam für die unmittelbare Gegenwart», attuale — non «in realtà», che è eigentlich. Der Chef è «verantwortlicher Leiter; Inhaber eines Betriebes», il capo — un cuoco è der Koch. Also è la congiunzione «folglich, demnach», quindi, dunque, non l'inglese also né l'italiano «allora». E das Handy è semplicemente un telefono cellulare.",
+      "fonte": "DWDS e Duden, doze lemas alemães verificados, verbatim das definições. Dossiê § 2, tabela dos falsos amigos. ⚠ auch, Fels/Stein, Küchenchef e tatsächlich foram propostos como equivalentes mas o verbete NÃO foi aberto — não entram como afirmação. Kroschewski (2000) está confirmada só como referência bibliográfica: o livro não foi lido e nada de conteúdo se cita dele.",
+      "ano": 2026,
+      "revisarAte": "2031-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-i06-n08"
+      ]
+    },
+    {
+      "id": "de-i06-ei-ie",
+      "afirmacao": "La regola ortografica che rende leggibili i blocchi già pronti è fissa e non ha eccezioni native. Il Regelwerk ufficiale 2024, § 1, elenca ⟨ie⟩ come [iː] nelle parole native (Liebe, Dieb) e ⟨ei⟩ come il dittongo [aɪ] (eigen, Eile, beiseite), con ⟨eu⟩ e ⟨äu⟩ come [ɔʏ] e ⟨au⟩ come [aʊ]. Il § 1.3 stabilisce che la lunghezza è marcata regolarmente da ie solo nelle parole native con [iː]. Qui non c'è nessun suono nuovo per chi parla italiano — i suoni di «ai» e di «i» esistono già — il problema è che l'occhio, abituato a leggere le vocali una per una, tende a tirare a indovinare. Il promemoria robusto, senza eccezioni native: nel digramma tedesco, pronuncia la seconda lettera.",
+      "fonte": "Amtliches Regelwerk der deutschen Rechtschreibung 2024, § 1 e § 1.3, verbatim do PDF. Dossiê § 1.4 (classificada FORTE) e síntese § 1.11, onde ei/ie aparece como «nenhum som novo, custo baixíssimo, prioridade alta».",
+      "ano": 2024,
+      "revisarAte": "2031-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-i06-n04"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i06-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "tom": "ganha",
+      "pt": "Ieri sono due forme di una sola parola e otto blocchi imparati a memoria. È una lista breve, non un sistema da costruire."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i06-r01",
+      "es": "Und was haben Sie gestern gemacht?",
+      "pt": "E lei ieri cosa ha fatto?",
+      "tts": "Und was haben Sie gestern gemacht?",
+      "receptivo": true,
+      "acao": "Una versione di questa domanda arriva ogni sera. Tre frasi già pronte sono una risposta completa; quattro sono un racconto."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i06-n02",
+      "bloco": "corpo",
+      "tom": "ganha",
+      "pt": "Comincia con war. Una sola parola, nessun accordo, nessun secondo pezzo — regge una città, una giornata e un intero verdetto."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i06-p01",
+      "promptPt": "Ha chiesto della giornata di prima, e tu l'hai passata a due ore di treno da qui, nella capitale. Parla ora.",
+      "audioKey": "de-i06-t01",
+      "es": "Ich war in Berlin.",
+      "pinyin": "ikh vahr in ber-LEEN",
+      "pt": "Ero a Berlino.",
+      "tts": "Ich war in Berlin."
+    },
+    {
+      "consulta": [
+        "simpatia/elogiar-lugar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i06-p02",
+      "promptPt": "Aspetta il verdetto sull'intera giornata, e un cenno del capo non basta. Stessa parola, secondo lavoro. Parla ora.",
+      "audioKey": "de-i06-t02",
+      "es": "Es war super.",
+      "pinyin": "es vahr ZOO-per",
+      "pt": "È stato fantastico.",
+      "tts": "Es war super."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-i06-r02",
+      "es": "Ach, in Berlin waren Sie? Und wie war's?",
+      "pt": "Ah, era a Berlino? E com'è stato?",
+      "tts": "Ach, in Berlin waren Sie? Und wie war's?",
+      "receptivo": true,
+      "acao": "L'ha fatto il nome del luogo, non la grammatica. Wie war's vuole una parola in risposta, non l'itinerario."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i06-n03",
+      "tom": "ganha",
+      "pt": "Tutto il resto è un panino: una paroletta verso l'inizio, e la parola finale che aspetta proprio in fondo."
+    },
+    {
+      "consulta": [
+        "transporte/qual-trem",
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i06-p03",
+      "promptPt": "Il giorno prima ancora hai preso un treno presto verso sud e sei tornato a mezzanotte. Di' come ci sei arrivato. Parla ora.",
+      "audioKey": "de-i06-t03",
+      "es": "Ich bin nach Dresden gefahren.",
+      "pinyin": "ikh bin nahkh DRESS-den guh-FAH-ren",
+      "pt": "Sono andato a Dresda.",
+      "tts": "Ich bin nach Dresden gefahren."
+    },
+    {
+      "consulta": [
+        "mesa/comida",
+        "simpatia/elogiar-comida"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i06-p04",
+      "promptPt": "Il pranzo è stato in piedi, da un vassoio di carta, a una finestrella all'angolo. Nomina cosa c'era sul vassoio. Parla ora.",
+      "audioKey": "de-i06-t04",
+      "es": "Ich habe eine Currywurst gegessen.",
+      "pinyin": "ikh HAH-buh EYE-nuh KA-ree-voorst guh-GESS-en",
+      "pt": "Ho mangiato una currywurst.",
+      "tts": "Ich habe eine Currywurst gegessen."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i06-n04",
+      "tom": "ganha",
+      "pt": "Leggerli ad alta voce: in queste coppie di vocali, pronuncia la seconda lettera. Gesehen, geblieben, gefahren."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa",
+        "simpatia/elogiar-lugar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i06-p05",
+      "promptPt": "Hai fatto quaranta minuti di coda per la grande collezione sull'isola ed è valsa ognuno di quei minuti. Parla ora.",
+      "audioKey": "de-i06-t05",
+      "es": "Ich habe das Museum gesehen.",
+      "pinyin": "ikh HAH-buh dass moo-ZAY-oom guh-ZAY-en",
+      "pt": "Ho visto il museo.",
+      "tts": "Ich habe das Museum gesehen."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i06-p06",
+      "promptPt": "Hai attraversato tutto il centro due volte a piedi e le tue gambe te lo stanno ancora ricordando. Parla ora.",
+      "audioKey": "de-i06-t06",
+      "es": "Ich bin viel gelaufen.",
+      "pinyin": "ikh bin feel guh-LOW-fen",
+      "pt": "Ho camminato molto.",
+      "tts": "Ich bin viel gelaufen."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i06-n05",
+      "tom": "ganha",
+      "pt": "Tre frasi sono un racconto: dove eri, una cosa che hai fatto e com'è stato. Poi fermati e lascia che chiedano."
+    },
+    {
+      "consulta": [
+        "simpatia/elogiar-lugar",
+        "simpatia/elogiar-comida"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i06-p07",
+      "promptPt": "Vuole sapere se la lunga giornata ne è valsa la pena, e qui qualcosa di più caloroso di super funzionerebbe meglio. Parla ora.",
+      "audioKey": "de-i06-t07",
+      "es": "Es hat mir sehr gefallen.",
+      "pinyin": "es hat meer zayr guh-FA-len",
+      "pt": "Mi è piaciuto molto.",
+      "tts": "Es hat mir sehr gefallen."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i06-n06",
+      "tom": "ganha",
+      "pt": "Hatte è la seconda forma di una sola parola. War per il dove e il come, hatte per cosa conteneva la giornata. Entrambe reggono da sole."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i06-p08",
+      "promptPt": "Riassumi tutto in una riga, come faresti al telefono con un amico a casa. Parla ora.",
+      "audioKey": "de-i06-t08",
+      "es": "Ich hatte einen guten Tag.",
+      "pinyin": "ikh HA-tuh EYE-nen GOO-ten tahk",
+      "pt": "Ho avuto una bella giornata.",
+      "tts": "Ich hatte einen guten Tag."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i06-r03",
+      "es": "Und das Grüne Gewölbe? Das müssen Sie unbedingt sehen.",
+      "pt": "E la Volta Verde? Quella deve assolutamente vederla.",
+      "tts": "Und das Grüne Gewölbe? Das müssen Sie unbedingt sehen.",
+      "receptivo": true,
+      "acao": "Una raccomandazione con dentro un nome proprio. Mettila su carta prima che la serata vada avanti senza di essa."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i06-n07",
+      "bloco": "capsula",
+      "tom": "ganha",
+      "pt": "Nominare un luogo vero è ciò che ti compra il prossimo consiglio. E una parola nel negozio di souvenir va azzeccata."
+    },
+    {
+      "consulta": [
+        "reparo/como-se-diz",
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ENTSCHULDIGUNG",
+      "encaixe": "wie heißt das",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i06-p09",
+      "promptPt": "Stai descrivendo la cosa che hai mangiato e la parola per dirla semplicemente non ti viene. Fattela dare da lui. Parla ora.",
+      "audioKey": "de-i06-t09",
+      "es": "Entschuldigung, wie heißt das?",
+      "pinyin": "ent-SHOOL-di-goong, vee hysst dass",
+      "pt": "Scusi, come si chiama questo?",
+      "tts": "Entschuldigung, wie heißt das?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i06-n08",
+      "tom": "protege",
+      "pt": "Gift su un'etichetta qui significa veleno. Un regalo è ein Geschenk — le due parole si sono separate secoli fa."
+    },
+    {
+      "consulta": [
+        "compras/balcao",
+        "compras/so-olhando"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-SUCHE",
+      "encaixe": "ein Geschenk",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i06-p10",
+      "promptPt": "Ultima tappa del viaggio, e devi a tua sorella qualcosa da questa città. Apri dicendo cosa cerchi. Parla ora.",
+      "audioKey": "de-i06-t10",
+      "es": "Ich suche ein Geschenk.",
+      "pinyin": "ikh ZOO-khuh eyn guh-SHENK",
+      "pt": "Cerco un regalo.",
+      "tts": "Ich suche ein Geschenk."
+    },
+    {
+      "consulta": [
+        "compras/quanto"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WAS-KOSTET",
+      "encaixe": "das Buch",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i06-p11",
+      "promptPt": "Ha messo tre cose sul bancone e solo una non ha il prezzo. Chiedi di quella. Parla ora.",
+      "audioKey": "de-i06-t11",
+      "es": "Was kostet das Buch?",
+      "pinyin": "vass KOS-tet dass bookh",
+      "pt": "Quanto costa il libro?",
+      "tts": "Was kostet das Buch?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-i06-r04",
+      "es": "Achtzehn Euro. Soll ich es einpacken?",
+      "pt": "Diciotto euro. Glielo incarto?",
+      "tts": "Achtzehn Euro. Soll ich es einpacken?"
+    },
+    {
+      "consulta": [
+        "mesa/bebida"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-MOCHTE",
+      "encaixe": "noch einen Kaffee",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i06-p12",
+      "promptPt": "Di nuovo al tavolo, il racconto è solo a metà e la tua tazza è vuota da dieci minuti. Parla ora.",
+      "audioKey": "de-i06-t12",
+      "es": "Ich möchte noch einen Kaffee, bitte.",
+      "pinyin": "ikh MURKH-tuh nokh EYE-nen KA-fay, BIT-tuh",
+      "pt": "Vorrei un altro caffè, per favore.",
+      "tts": "Ich möchte noch einen Kaffee, bitte."
+    },
+    {
+      "consulta": [
+        "reparo/escreve"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "das aufschreiben",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i06-p13",
+      "promptPt": "Ha appena nominato un posto di quattro sillabe che domattina non riprodurrai mai. Parla ora.",
+      "audioKey": "de-i06-t13",
+      "es": "Können Sie das aufschreiben?",
+      "pinyin": "KUR-nen zee dass OWF-shry-ben",
+      "pt": "Può scriverlo?",
+      "tts": "Können Sie das aufschreiben?"
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "DANKE",
+      "encaixe": "Vielen Dank",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i06-p14",
+      "promptPt": "Ti ha consegnato il domani sul retro di un sottobicchiere. Chiudi come si deve. Parla ora.",
+      "audioKey": "de-i06-t14",
+      "es": "Vielen Dank für den Tipp!",
+      "pinyin": "FEE-len dank fuer dayn tip",
+      "pt": "Grazie mille per il consiglio!",
+      "tts": "Vielen Dank für den Tipp!"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i06-n09",
+      "tom": "ganha",
+      "pt": "Chiudi guardando avanti. Una breve riga sul ritorno trasforma il resoconto di un viaggio in una promessa sul prossimo."
+    },
+    {
+      "consulta": [
+        "simpatia/convite",
+        "chegar/sair"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i06-p15",
+      "promptPt": "Il racconto è finito, sorridono tutti, e martedì riparti in aereo. Chiudi guardando avanti. Parla ora.",
+      "audioKey": "de-i06-t15",
+      "es": "Ich komme wieder.",
+      "pinyin": "ikh KOM-uh VEE-der",
+      "pt": "Tornerò.",
+      "tts": "Ich komme wieder."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-i06-s01",
+      "es": "Ich war in Berlin. Ich habe eine Currywurst gegessen. Es war super. Ich komme wieder.",
+      "pinyin": "ikh vahr in ber-LEEN. ikh HAH-buh EYE-nuh KA-ree-voorst guh-GESS-en. es vahr ZOO-per. ikh KOM-uh VEE-der",
+      "pt": "Ripeti in shadowing un'intera giornata: dove eri, una cosa che hai fatto, com'è stato e la promessa alla fine.",
+      "tts": "Ich war in Berlin. Ich habe eine Currywurst gegessen. Es war super. Ich komme wieder."
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i06-n10",
+      "bloco": "recap",
+      "tom": "ganha",
+      "pt": "I06 fatto. War, hatte, otto blocchi, un nome di luogo vero — e una tua giornata raccontata ad alta voce in tre righe."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Due forme di una sola parola e otto blocchi",
+    "secoes": [
+      {
+        "titulo": "War e hatte fanno il lavoro pesante",
+        "corpo": "Ich war e ich hatte sono le due forme che reggono da sole: una parola ciascuna, niente che aspetta in fondo alla frase, niente da accordare con niente. Ich war in Berlin, ich war müde, es war super, ich hatte einen guten Tag. Tra loro coprono dove eri, com'è stato e cosa conteneva la giornata, cioè la maggior parte di ciò che chiunque ti chiede. Tutto il resto in questa parte è un blocco a due pezzi, e si impara come un blocco.",
+        "exemplos": [
+          {
+            "es": "Ich war in Berlin.",
+            "pt": "Ero a Berlino."
+          },
+          {
+            "es": "Ich hatte einen guten Tag.",
+            "pt": "Ho avuto una bella giornata."
+          }
+        ]
+      },
+      {
+        "titulo": "Il panino, e perché non ne costruisci mai uno",
+        "corpo": "Ich habe eine Currywurst gegessen. Ich bin nach Dresden gefahren. C'è una paroletta verso l'inizio e una parola finale proprio in fondo, e nel mezzo va la parte interessante. Alcuni blocchi prendono habe e altri bin, e dietro c'è una regola che non userai sotto pressione a tavola. Impara a memoria gli otto che ti servono, come hai imparato un numero di telefono: gefahren, gegessen, gesehen, getrunken, gelaufen, geblieben, gekauft, gefallen. Di' il blocco intero oppure di' war. Entrambi sono corretti; uno costruito a metà no."
+      },
+      {
+        "titulo": "Leggerli ad alta voce",
+        "corpo": "Quasi ogni blocco della lista comincia con ge-, e diversi contengono le due coppie di vocali che decidono se un lettore italiano azzecca o no le parole tedesche. La regola è fissa e non ha eccezioni native: in ⟨ie⟩ e ⟨ei⟩, pronuncia la seconda lettera. Così geblieben ha la vocale di «vino» e heißt ha il suono di «ai», gesehen si dice ge-ZAY-en con una s che suona come una z dolce, e gefahren finisce nella -en smorzata con cui finiscono tutti. Nessuno di questi è un suono nuovo per te. Sono riscritture di suoni che già possiedi."
+      },
+      {
+        "titulo": "Nomina il luogo, ottieni il consiglio",
+        "corpo": "Un verdetto generico — è stato carino, la giornata è stata buona — non dà nulla a cui aggrapparsi alla persona di fronte. Un nome proprio sì: ci è stata, o ci è stato suo cugino, oppure ti dirà dove avresti dovuto andare invece. È lì che la serata passa da te che reciti un riassunto a loro che ti pianificano il domani, e vale la pena avere lo stampo pronto per il momento in cui succede: können Sie das aufschreiben, perché un nome di quattro sillabe sentito una volta a una tavolata rumorosa è sparito entro colazione."
+      },
+      {
+        "titulo": "Gift non è un regalo",
+        "corpo": "Questa è l'unica parola della coppia che può costare qualcosa di reale. Das Gift è una sostanza con un effetto distruttivo o mortale — il veleno. Un regalo è das Geschenk. Ciò che la rende memorabile invece che arbitraria è che le due sono davvero la stessa parola: Gift è un'antica formazione del verbo geben, e un tempo significava il dare, il dono, prima di restringersi alla dose che uccide. Il tedesco ha conservato il senso originario in un solo punto, Mitgift, la dote. Altre quattro vale la pena portarsi in una conversazione su un viaggio: bekommen è ricevere e non diventare, che è werden; eventuell significa forse e non «alla fine», che è schließlich, e questa inverte un impegno; aktuell significa attuale e non «in realtà», che è eigentlich; e der Chef è il capo, mentre un cuoco è der Koch."
+      }
+    ]
+  },
+  "slot": "I06",
+  "permissao": "Hai il permesso di raccontare ieri in tre frasi brevi e fermarti. Nessuno a quella tavola aspetta un itinerario completo, e «Ich war in Berlin. Es war super.» è un resoconto completo e adulto di una giornata. Hai il permesso di ripiegare su war per qualsiasi cosa per cui non hai un blocco — non è una risposta minore, è la stessa risposta in meno pezzi. E hai il permesso di sbagliare la fine di una parola mentre la racconti: la giornata è comunque successa, chi ti ascolta sa comunque dove sei stato, ed essere capito è tutto il lavoro.",
+  "permissaoAudioKey": "de-i06-n05",
+  "espelho": "Chiunque sia tornato a casa e si sia sentito chiedere com'è andato il viaggio conosce già questo problema: la settimana è stata enorme e ciò che esce è «bene, sì, davvero bene». Il rimedio è lo stesso in entrambe le lingue — nomina un luogo, nomina una cosa che hai mangiato, e lascia che l'altro faccia la seconda domanda.",
+  "fichasCulturais": [
+    {
+      "sinal": "Dici che la giornata è stata schön e ricevi un cenno cordiale; dici Dresden e la sedia si avvicina.",
+      "suaLeitura": "Il mio tedesco è migliorato tra una frase e l'altra.",
+      "oQueEAli": "L'ha cambiato il nome proprio, non la grammatica. Un nome di luogo è qualcosa a cui l'altra persona può aggrapparsi — c'è stata, è cresciuta lì vicino, o ne ha uno migliore da consigliarti. Un verdetto generico non le lascia nulla a cui rispondere.",
+      "oQueVoceFaz": "Metti il nome vero nella frase — la città, la strada, il museo, il piatto — poi fermati e lascia che torni la domanda. Se ti rimbalza un nome, chiedi di averlo per iscritto.",
+      "oQueMelhora": "Smetti di consegnare un riassunto e cominci a raccogliere raccomandazioni, che è tutta la ragione per raccontare la storia ad alta voce in primo luogo.",
+      "ondeNaoVale": "Non è una tecnica da usare con tutti. Chi lavora a un bancone con una coda dietro di te è cordiale, non si sta accomodando per la serata, e lì le stesse tre frasi sono già la lunghezza giusta.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "de-i06-n07"
+      ]
+    },
+    {
+      "sinal": "Una bottiglia in un'officina, un armadietto in cucina o uno scaffale in una ferramenta porta l'etichetta Gift.",
+      "suaLeitura": "Qualcosa su quello scaffale è pensato come regalo, o il negozio fa lo spiritoso in inglese.",
+      "oQueEAli": "Das Gift è veleno — una sostanza con un effetto distruttivo o mortale sul corpo. Il tedesco per «regalo» è das Geschenk. Le due sono veri cognati: Gift è un'antica formazione del verbo geben e un tempo significava il dare, il dono, restringendosi più tardi sotto l'influsso di una parola greca e latina per «dose». Il senso antico sopravvive in tedesco solo dentro Mitgift, la dote.",
+      "oQueVoceFaz": "Leggi Gift come un avvertimento ovunque compaia, e usa Geschenk quando intendi un regalo — ich suche ein Geschenk in un negozio, nient'altro.",
+      "oQueMelhora": "La singola parola più costosa di questa coppia di lingue smette di essere ambigua, nei due posti in cui la incontrerai davvero: un'etichetta e un banco di souvenir.",
+      "ondeNaoVale": "Solo il lato tedesco di questa e delle altre coppie è stato verificato sui dizionari; il lato inglese è stato controllato per due parole. Tratta la lista come significati tedeschi affidabili, non come un'affermazione su come funziona l'inglese, e non estenderla a coppie che nessuno ha controllato.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-i06-n08"
+      ]
+    }
+  ]
+}

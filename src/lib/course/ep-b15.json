@@ -1,0 +1,422 @@
+{
+  "id": "b15",
+  "nivel": "basico",
+  "numero": 15,
+  "parte": "B15",
+  "titulo": "Was kostet das? — le tre parole che danno il prezzo a qualsiasi cosa sullo scaffale",
+  "subtitulo": "Più la taglia, il camerino, la busta — e perché lo scaffale e la cassa indicano due numeri diversi",
+  "cena": "Sabato pomeriggio in una via commerciale di Colonia: le saracinesche si abbassano alle otto, e domani tutta la via è al buio.",
+  "moldura": "ganha",
+  "frasePiso": "Was kostet, e poi una cosa. Puoi dare il prezzo a un'intera via con tre parole e un dito, e senza mai dire come si chiama la cosa.",
+  "moldes": ["WAS-KOSTET"],
+  "clique": {
+    "contagem": [
+      "la bancarella di souvenir",
+      "il negozio di abbigliamento",
+      "il banco della panetteria"
+    ],
+    "desconto": "Nessuno ti ha dato una domanda diversa per ciascuno di quei banchi. Hai cambiato la cosa in fondo e tenuto le stesse tre parole davanti.",
+    "piso": "La prossima volta che un prezzo non è scritto da nessuna parte e la cosa si chiama qualcosa che non hai mai visto, non uscirai. Indicherai e chiederai in tre parole."
+  },
+  "fatosDatados": [
+    {
+      "id": "de-b15-ladenschluss",
+      "afirmacao": "Gli orari di apertura dei negozi sono legge, non abitudine. Il § 3 LadSchlG richiede che i punti vendita siano chiusi la domenica e nei giorni festivi, prima delle 6 e dalle 20 dal lunedì al sabato, e il 24 dicembre dalle 14 dove quel giorno è feriale; le panetterie possono aprire dalle 5.30. Dalla Föderalismusreform del 2006 la competenza spetta ai Länder — l'art. 74 Abs. 1 Nr. 11 GG esclude «das Recht des Ladenschlusses» dal diritto economico federale — e la legge federale del 1956 sopravvive solo come modello residuo. L'affermazione comune che la sola Baviera segua ancora la legge federale è superata: la Bayerisches Ladenschlussgesetz del 25 luglio 2025 è in vigore dal 1º agosto 2025, mantenendo il limite delle 20 ma consentendo fino a otto serate all'anno approvate dal comune fino a mezzanotte, altre quattro per commerciante con due settimane di preavviso, e Kleinstsupermärkte senza personale fino a 150 m² aperti 24 ore su 24, domeniche comprese. Berlino consente le 24 ore dal lunedì al sabato con le domeniche di regola chiuse. Lo status della legge federale è stato verificato solo in tre dei sedici Länder, quindi nulla si può dire degli altri tredici.",
+      "fonte": "pesquisa-alemanha-en.md §7.1, §7.5 e §7.6 — § 3 LadSchlG e Art. 74 Abs. 1 Nr. 11 GG (gesetze-im-internet.de, abertos, verbatim); BayLadSchlG de 25/7/2025, GVBl. S. 246, verificado em gesetze-bayern.de; Berlim [RESUMO de berlin.de, lei não aberta]. O dossiê registra: «Verificou-se o estatuto do LadSchlG federal em apenas 3 dos 16 Länder.»",
+      "ano": 2026,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": ["de-b15-n09"]
+    },
+    {
+      "id": "de-b15-sonntag",
+      "afirmacao": "Ciò che davvero apre di domenica è una lista breve e definita per legge. Farmacie di turno (§ 4 LadSchlG con § 23 ApBetrO); distributori di benzina, che possono aprire ogni giorno ma durante gli orari di chiusura possono vendere solo pezzi di ricambio per veicoli, carburante e Reisebedarf (§ 6) — un distributore non è un lecito supermercato domenicale; negozi nelle stazioni ferroviarie passeggeri (§ 8) e negli aeroporti (§ 9), che fuori dagli orari normali possono vendere solo «Reisebedarf an Reisende», beni di prima necessità da viaggio ai viaggiatori; una breve finestra domenicale mattutina per latte e latticini, prodotti di panetteria e pasticceria, frutta fresca, fiori e giornali (§ 12), con gli orari fissati da ciascun Land «unter Berücksichtigung der Zeit des Hauptgottesdienstes», motivo per cui la finestra è stretta e chiude intorno alla funzione principale in chiesa; città termali e di villeggiatura (§ 10), fino a 40 domeniche e festivi all'anno per al massimo 8 ore. Una verkaufsoffener Sonntag è locale, datata e legata a un'occasione, e la Corte costituzionale federale ha stabilito a dicembre 2009 che l'interesse al fatturato di un commerciante e l'ordinario «Shopping-Interesse» di un cliente non bastano da soli a giustificarne una.",
+      "fonte": "pesquisa-alemanha-en.md §7.3, §7.4 e §7.5 — §§ 4, 6, 8, 9, 10 e 12 LadSchlG (gesetze-im-internet.de, abertos, §§ 9 e 12 verbatim); BVerfG, Urteil de 1/12/2009, 1 BvR 2857/07 e 1 BvR 2858/07, verbatim do comunicado. O dossiê marca como NÃO CONFIRMADO que restaurantes e cafés abrem por estarem fora do Ladenschluss, e que o supermercado de estação funcione como mercearia dominical plena.",
+      "ano": 2026,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["de-b15-n09"]
+    },
+    {
+      "id": "de-b15-pfand",
+      "afirmacao": "La cauzione è l'unica eccezione legale alla regola che il prezzo esposto è il prezzo pagato. Il § 31 Abs. 1 VerpackG fissa una cauzione di «mindestens 0,25 Euro einschließlich Umsatzsteuer» per confezione — un minimo, non una cifra fissa, e IVA compresa — e richiede che la confezione sia contrassegnata in modo permanente prima della vendita. Il § 7 PAngV 2022 richiede poi al commerciante di indicare la cauzione «neben dem Gesamtpreis anzugeben und nicht in diesen einzubeziehen»: accanto al prezzo totale ed espressamente non inclusa in esso. È per questo che lo scaffale dice 0,99 € e la cassa dice 1,24 €. Non è né un errore né una truffa: è un obbligo legale di non sommarla. La regola pratica è che il materiale decide più della bevanda — le bottiglie in PET e le lattine quasi sempre la portano, i cartoni e le bottiglie di vino no — e dal 1º gennaio 2024 anche il latte e i latticini bevibili in bottiglie di plastica monouso la portano. Le cauzioni Mehrweg a rendere sono accordi di diritto privato, tipicamente 0,08 € per una bottiglia di birra e 1,50 € per una cassa, senza alcun obbligo legale di ritiro.",
+      "fonte": "pesquisa-alemanha-en.md §9.1, §9.2, §9.3, §9.5 e §9.6 — § 31 Abs. 1 VerpackG e § 7 PAngV 2022 (gesetze-im-internet.de, abertos, verbatim); Verbraukerzentrale sobre Mehrweg como «zivilrechtliche Vereinbarungen», verbatim. Os valores de Mehrweg são uso de mercado, não norma; a extensão ao leite em 1/1/2024 é [RESUMO do Umweltbundesamt].",
+      "ano": 2026,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["de-b15-n07", "de-b15-n08"]
+    },
+    {
+      "id": "de-b15-taxfree",
+      "afirmacao": "Il rimborso della tassa in aeroporto è l'esenzione del negozio, non del viaggiatore. Il Merkblatt del BMF del marzo 2025, distribuito da zoll.de, fissa tre condizioni: l'acquirente deve risiedere in un paese terzo, la merce deve raggiungere quel paese terzo entro tre mesi, e il valore totale IVA compresa deve superare i 50 euro. Decide la residenza e la nazionalità è irrilevante — gli esempi svolti del Merkblatt stesso fanno di un cittadino britannico residente in Inghilterra un Drittlandskäufer e di un cittadino britannico residente in Irlanda del Nord no. All'ufficio doganale di frontiera il viaggiatore deve presentare passaporto, documento di esportazione e la merce stessa, che è esattamente dove le persone sbagliano imbarcando l'acquisto nella stiva prima che sia timbrato. E la frase che conta: «Die Steuerbefreiung gilt ausschließlich für den Unternehmer» — l'esenzione appartiene al solo commerciante. Non c'è alcun diritto a un rimborso dall'ufficio delle imposte; ciò che il viaggiatore riceve è un Preisnachlass che il commerciante può concedere come parte della vendita, motivo per cui le società di rimborso in aeroporto pagano dopo aver detratto una commissione di gestione. Nessuno riceve mai indietro l'intero 19%, ed è lecito e previsto.",
+      "fonte": "pesquisa-alemanha-en.md §4.7 — BMF, «Merkblatt zur Umsatzsteuerbefreiung für Ausfuhrlieferungen im nichtkommerziellen Reiseverkehr», Stand März 2025, distribuído por zoll.de, PDF de 15 páginas aberto; todas as passagens citadas são verbatim do Merkblatt.",
+      "ano": 2025,
+      "revisarAte": "2027-03-31",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["de-b15-n10"]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b15-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "tom": "ganha",
+      "pt": "Sabato pomeriggio, e le saracinesche si abbassano alle otto. Domani la via è al buio. Quindi oggi, allora."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b15-n02",
+      "bloco": "molde",
+      "tom": "ganha",
+      "pt": "Ed ecco lo stampo: Was kostet, e poi una cosa. Una alla volta, sempre, e non cambia mai forma."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b15-t01",
+      "es": "Was kostet das?",
+      "pinyin": "vass KOS-tet dass",
+      "pt": "Quanto costa quello?",
+      "tts": "Was kostet das?"
+    },
+    {
+      "consulta": ["compras/quanto", "compras/balcao"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WAS-KOSTET",
+      "encaixe": "das",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b15-p01",
+      "promptPt": "Alla bancarella di souvenir, il piccolo oggetto di legno non ha prezzo né un nome che sapresti pronunciare. Indica e chiedi. Parla adesso.",
+      "audioKey": "de-b15-t01",
+      "es": "Was kostet das?",
+      "pinyin": "vass KOS-tet dass",
+      "pt": "Quanto costa quello?",
+      "tts": "Was kostet das?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b15-n03",
+      "bloco": "corpo",
+      "tom": "ganha",
+      "pt": "Was kostet das funziona con un dito. Non devi mai sapere come si chiama l'oggetto per scoprirne il prezzo."
+    },
+    {
+      "consulta": ["compras/quanto"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WAS-KOSTET",
+      "encaixe": "der Rock",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b15-p02",
+      "promptPt": "Nel negozio di abbigliamento, la cosa grigia sull'appendiabiti è quella che lei metterebbe davvero. Chiedine il prezzo. Parla adesso.",
+      "audioKey": "de-b15-t02",
+      "es": "Was kostet der Rock?",
+      "pinyin": "vass KOS-tet dair rock",
+      "pt": "Quanto costa la gonna?",
+      "tts": "Was kostet der Rock?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b15-n04",
+      "bloco": "corpo",
+      "tom": "ganha",
+      "pt": "Der Rock è una gonna. Può anche significare musica rock — ma mai una pietra. Quest'ultima lettura è quella cara."
+    },
+    {
+      "consulta": ["compras/quanto"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WAS-KOSTET",
+      "encaixe": "die Jacke",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b15-p03",
+      "promptPt": "Ancora nel negozio di abbigliamento: hai messo in valigia troppo poco, fa più freddo di quanto dicessero le previsioni, e una cosa sull'appendiabiti lo risolverebbe. Parla adesso.",
+      "audioKey": "de-b15-t03",
+      "es": "Was kostet die Jacke?",
+      "pinyin": "vass KOS-tet dee YAK-kuh",
+      "pt": "Quanto costa la giacca?",
+      "tts": "Was kostet die Jacke?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b15-r01",
+      "es": "Das kostet neunundzwanzig Euro neunzig.",
+      "pinyin": "dass KOS-tet NOYN-oont-tsvan-tsikh OY-ro NOYN-tsikh",
+      "pt": "Costa ventinove euro e novanta.",
+      "tts": "Das kostet neunundzwanzig Euro neunzig.",
+      "receptivo": true,
+      "acao": "Le unità vengono prima delle decine: nove-e-venti fa ventinove. Senti prima il numero piccolo e tienilo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b15-n05",
+      "bloco": "corpo",
+      "tom": "ganha",
+      "pt": "Ora lo stampo che possiedi già: Haben Sie, e poi la cosa. Un'altra taglia, una busta, lo stesso in un altro colore."
+    },
+    {
+      "consulta": ["compras/balcao", "mesa/tamanho"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "eine andere Größe",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b15-p04",
+      "promptPt": "Va bene sulle spalle e da nessun'altra parte, e ce n'è un altro sull'appendiabiti. Chiedi. Parla adesso.",
+      "audioKey": "de-b15-t04",
+      "es": "Haben Sie eine andere Größe?",
+      "pinyin": "HAA-ben zee EYE-nuh AN-duh-ruh GRER-suh",
+      "pt": "Avete un'altra taglia?",
+      "tts": "Haben Sie eine andere Größe?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b15-r02",
+      "es": "Die Umkleidekabine ist da hinten.",
+      "pinyin": "dee oom-KLY-duh-ka-BEE-nuh ist daa HIN-ten",
+      "pt": "Il camerino è là in fondo.",
+      "tts": "Die Umkleidekabine ist da hinten.",
+      "receptivo": true,
+      "acao": "Umkleidekabine è il camerino e da hinten significa in fondo. Segui la mano, non la parola lunga."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b15-n06",
+      "bloco": "corpo",
+      "tom": "ganha",
+      "pt": "Un regalo è ein Geschenk. Mai das Gift — quella parola su una bottiglia è un avvertimento, e significa veleno."
+    },
+    {
+      "consulta": ["compras/balcao", "compras/so-olhando"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-MOCHTE",
+      "encaixe": "das anprobieren",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b15-p05",
+      "promptPt": "Ce l'hai sul braccio e non lo compri a scatola chiusa. Di' cosa vuoi farci. Parla adesso.",
+      "audioKey": "de-b15-t05",
+      "es": "Ich möchte das anprobieren, bitte.",
+      "pinyin": "ikh MERKH-tuh dass AN-pro-bee-ren, BIT-tuh",
+      "pt": "Vorrei provarlo, per favore.",
+      "tts": "Ich möchte das anprobieren, bitte."
+    },
+    {
+      "consulta": ["compras/balcao"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-MOCHTE",
+      "encaixe": "ein Geschenk",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b15-p06",
+      "promptPt": "Porti a casa qualcosa per la persona che ha dato da mangiare al tuo gatto tutta la settimana, e vuoi che ti indichino lo scaffale giusto. Parla adesso.",
+      "audioKey": "de-b15-t06",
+      "es": "Ich möchte ein Geschenk, bitte.",
+      "pinyin": "ikh MERKH-tuh eyn guh-SHENK, BIT-tuh",
+      "pt": "Vorrei un regalo, per favore.",
+      "tts": "Ich möchte ein Geschenk, bitte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b15-n07",
+      "bloco": "corpo",
+      "tom": "ganha",
+      "pt": "L'etichetta dice 0,99 e la cassa dice 1,24. Quel divario è una cauzione, e la legge vieta di sommarla."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b15-n08",
+      "bloco": "corpo",
+      "tom": "ganha",
+      "pt": "Almeno venticinque centesimi, su lattine e bottiglie di plastica, e la macchina all'ingresso te li restituisce."
+    },
+    {
+      "consulta": ["compras/quanto", "compras/balcao"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WAS-KOSTET",
+      "encaixe": "das Brot",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b15-p10",
+      "promptPt": "Al banco della panetteria, la pagnotta scura dietro il vetro non ha cartellino. Le stesse tre parole. Parla adesso.",
+      "audioKey": "de-b15-t10",
+      "es": "Was kostet das Brot?",
+      "pinyin": "vass KOS-tet dass broht",
+      "pt": "Quanto costa il pane?",
+      "tts": "Was kostet das Brot?"
+    },
+    {
+      "consulta": ["compras/pagar", "compras/balcao"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "eine Tüte",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b15-p07",
+      "promptPt": "In panetteria, hai entrambe le mani piene e il banco non ti darà nulla in cui portarlo. Chiedi. Parla adesso.",
+      "audioKey": "de-b15-t07",
+      "es": "Haben Sie eine Tüte?",
+      "pinyin": "HAA-ben zee EYE-nuh TEW-tuh",
+      "pt": "Avete una busta?",
+      "tts": "Haben Sie eine Tüte?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b15-r03",
+      "es": "Möchten Sie eine Tüte?",
+      "pinyin": "MERKH-ten zee EYE-nuh TEW-tuh",
+      "pt": "Desidera una busta?",
+      "tts": "Möchten Sie eine Tüte?",
+      "receptivo": true,
+      "acao": "La busta si offre, non si dà per scontata. Tieni pronto ja bitte o nein danke prima che la cassa ti aspetti."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b15-n09",
+      "bloco": "corpo",
+      "tom": "protege",
+      "pt": "I negozi chiudono alle otto e restano chiusi la domenica. I negozi di stazione e aeroporto possono aprire, solo per i viaggiatori."
+    },
+    {
+      "consulta": ["compras/devolver"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-MOCHTE",
+      "encaixe": "das umtauschen",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b15-p08",
+      "promptPt": "Sembrava giusto in negozio e sbagliato allo specchio dell'albergo, e hai tenuto lo scontrino. Di nuovo alla cassa. Parla adesso.",
+      "audioKey": "de-b15-t08",
+      "es": "Ich möchte das umtauschen, bitte.",
+      "pinyin": "ikh MERKH-tuh dass OOM-tow-shen, BIT-tuh",
+      "pt": "Vorrei cambiare questo, per favore.",
+      "tts": "Ich möchte das umtauschen, bitte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b15-n10",
+      "bloco": "capsula",
+      "tom": "ganha",
+      "pt": "La tassa indietro in aeroporto è l'esenzione del negozio, non la tua. Ne ricevi una parte, per accordo, ed è lecito."
+    },
+    {
+      "consulta": ["compras/so-olhando"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b15-p09",
+      "promptPt": "Qualcuno si è avvicinato per aiutare e preferiresti restare da solo con l'appendiabiti per cinque minuti. Due parole. Parla adesso.",
+      "audioKey": "de-b15-t09",
+      "es": "Nur schauen, danke.",
+      "pinyin": "noor SHOW-en, DAN-kuh",
+      "pt": "Solo guardare, grazie.",
+      "tts": "Nur schauen, danke."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-b15-s01",
+      "molde": "WAS-KOSTET",
+      "es": "Was kostet das? Was kostet der Rock? Was kostet die Jacke?",
+      "pinyin": "vass KOS-tet dass. vass KOS-tet dair rock. vass KOS-tet dee YAK-kuh",
+      "pt": "Ripeti in ombra le stesse tre parole attraverso tre oggetti completamente diversi.",
+      "tts": "Was kostet das? Was kostet der Rock? Was kostet die Jacke?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b15-n11",
+      "bloco": "recap",
+      "pt": "B15 fatto. Una domanda ha dato il prezzo a tutta la via, e il numero alla cassa non ti sorprende più."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Dare il prezzo a una via con tre parole",
+    "secoes": [
+      {
+        "titulo": "Was kostet, più una cosa",
+        "corpo": "Metti dopo Was kostet qualsiasi cosa tu possa indicare, e la domanda è finita. Nota il limite voluto: tutto ciò che inserisci è singolare. Was kosten, per il plurale, ti chiederebbe di prendere una decisione di accordo in piedi a un banco, ed è esattamente ciò che questo corso è costruito per non chiederti. Dai il prezzo a un articolo alla volta. È il progetto, non un buco in esso.",
+        "exemplos": [
+          { "es": "Was kostet das?", "pt": "Quanto costa quello?" },
+          { "es": "Was kostet die Jacke?", "pt": "Quanto costa la giacca?" }
+        ]
+      },
+      {
+        "titulo": "La cosa arriva con l'articolo già attaccato",
+        "corpo": "Der Rock, die Jacke, eine andere Größe, eine Tüte, ein Geschenk. Impara ciascuno di questi come un blocco unico, come hai imparato un numero di telefono, e non togliere mai la prima parola. Il tedesco cambia quella prima parola secondo il compito che la cosa svolge nella frase, e questo corso ha sistemato le cose in modo che tu non debba mai risolverlo a un banco. Dopo ist e dopo kostet la forma è per caso quella da dizionario; dopo haben Sie e dopo ich möchte non lo è, e non te ne accorgerai, perché hai imparato il blocco."
+      },
+      {
+        "titulo": "Due parole che faranno inciampare il tuo occhio",
+        "corpo": "Der Rock è una gonna — è un vero omonimo in tedesco, dove il secondo senso è davvero la musica rock, ma mai una pietra. E das Gift è veleno: la parola tedesca e quella inglese sono veri cognati, entrambe dall'antico senso di un dono, e l'inglese ne ha conservato il significato mentre il tedesco lo ha conservato solo dentro il composto Mitgift, una dote. Ciò che vuoi comprare è ein Geschenk. Leggere Gift su una bottiglia come qualcosa di piacevole è l'errore di lettura più caro a disposizione di un anglofono in un negozio tedesco."
+      },
+      {
+        "titulo": "Perché lo scaffale e la cassa non concordano",
+        "corpo": "Ovunque altrove il prezzo esposto è il prezzo finale — è la Preisangabenverordnung, che richiede il totale IVA compresa. La cauzione sui contenitori di bevande è l'unica eccezione legale, e va nell'altro senso: la stessa norma richiede che la cauzione sia mostrata accanto al prezzo totale ed espressamente non inclusa in esso. Quindi lo scaffale dice 0,99 € e la cassa dice 1,24 €, e nessuna delle due cifre è un errore. Almeno venticinque centesimi, sui contenitori monouso, e tornano indietro dalla macchina all'ingresso del supermercato. La regola pratica è che il materiale decide più della bevanda: bottiglie di plastica e lattine quasi sempre la portano, i cartoni e le bottiglie di vino no. Il vetro a rendere è un accordo privato anziché legale, di solito otto centesimi a bottiglia di birra e un euro e cinquanta per la cassa — e senza alcun obbligo legale di ritiro, quindi quelli tornano al negozio che li ha venduti."
+      },
+      {
+        "titulo": "Il limite delle otto e la domenica",
+        "corpo": "La legge federale sulla chiusura dei negozi richiede che i punti vendita siano chiusi la domenica e nei festivi e dalle 20 nei giorni feriali, con le panetterie autorizzate ad aprire dalle cinque e mezza del mattino. Dal 2006 ciascun Land scrive la propria versione, e la frase tanto ripetuta che la sola Baviera segua ancora la legge federale ha smesso di essere vera il 1º agosto 2025. Ciò che è confermato aprire di domenica è una lista breve: la farmacia di turno, il distributore — limitato per legge a carburante, pezzi di veicoli e beni da viaggio, quindi non un supermercato — i negozi di stazione e aeroporto, limitati ai beni da viaggio per i viaggiatori, una stretta finestra mattutina per pane, latte, fiori, frutta fresca e giornali, e le città di villeggiatura. Una verkaufsoffener Sonntag è locale, datata e legata a un'occasione; la corte costituzionale ha stabilito che voler commerciare e voler fare acquisti non bastano da soli a giustificarne una. Non organizzarti mai contando su di essa."
+      },
+      {
+        "titulo": "Il rimborso che non è tuo",
+        "corpo": "Se vivi fuori dall'UE potresti vedere un banco tax-free in aeroporto. Tre condizioni: risiedi in un paese terzo, la merce parte entro tre mesi, e l'acquisto IVA compresa supera i 50 euro. Decide la residenza, non il passaporto — gli esempi stessi dell'opuscolo ufficiale rendono idoneo un cittadino britannico che vive in Inghilterra e non idoneo uno che vive in Irlanda del Nord. Mostra il passaporto, il documento di esportazione e la merce al banco della dogana, motivo per cui la cosa che hai comprato non deve già essere in stiva. E la parte che nessuno spiega: l'esenzione appartiene al negozio, non a te. Non hai alcun diritto a un rimborso dall'ufficio delle imposte; ciò che ottieni è una riduzione di prezzo che il commerciante accetta di concedere, motivo per cui la società di rimborso paga dopo la sua commissione di gestione. Non vedrai mai l'intero 19%, ed è esattamente come è scritta la regola."
+      }
+    ]
+  },
+  "slot": "B15",
+  "permissao": "Ti è permesso indicare. Was kostet das con un dito è una domanda completa in qualsiasi negozio del paese, e nessuno valuta se conoscevi la parola per l'oggetto — e ti è permesso usare quelle stesse tre parole alla bancarella, sull'appendiabiti e al banco senza variarle per sembrare più interessante. Ti è anche permesso dire nur schauen, danke ed essere lasciato in pace, e restituire qualcosa che non ha funzionato con lo scontrino ancora attaccato. Niente di tutto ciò ha bisogno di una spiegazione costruita attorno.",
+  "permissaoAudioKey": "de-b15-n03",
+  "espelho": "Chiunque abbia mai fatto acquisti in un paese di cui sapeva leggere l'alfabeto ma non le parole fa già questo: indica, chiedi il prezzo, alza la cosa, controlla il numero. L'unica parte nuova è che il chiedere è tre parole e il numero alla cassa può legalmente essere più grande di quello sullo scaffale.",
+  "fichasCulturais": [
+    {
+      "sinal": "L'etichetta dello scaffale dice 0,99 € e la cassa chiede 1,24 €, e nessuno spiega la differenza.",
+      "suaLeitura": "O l'etichetta è vecchia o qualcosa è stato aggiunto in silenzio — il genere di cosa su cui vale la pena chiedere.",
+      "oQueEAli": "È un obbligo legale di non sommarla. La legge sugli imballaggi fissa una cauzione di almeno venticinque centesimi IVA compresa sui contenitori di bevande monouso, e la norma sui prezzi richiede al commerciante di mostrare quella cauzione accanto al prezzo totale ed espressamente non dentro di esso. L'etichetta con «zzgl. 0,25 € Pfand» è il negozio che rispetta la regola, ed è l'unica eccezione nel paese al principio che il prezzo esposto è il prezzo pagato.",
+      "oQueVoceFaz": "Leggi la rigetta sotto il prezzo prima di contare il resto, e conserva i vuoti. Riporta lattine e bottiglie di plastica con il logo della cauzione a un negozio che vende lo stesso materiale — con la macchina o alla cassa — e la cauzione ti viene restituita.",
+      "oQueMelhora": "Un numero che sembrava un errore diventa un numero che puoi prevedere, e i vuoti nella stanza d'albergo tornano a essere denaro.",
+      "ondeNaoVale": "Non copre tutto. I contenitori sotto 0,1 litri e sopra 3 litri ne sono fuori, così come cartoni, vino e alcolici — ma quelle esenzioni basate sulla bevanda cadono nel momento in cui il contenitore è una bottiglia di plastica o una lattina. Il vetro a rendere è diverso per natura: quelle cauzioni sono accordi privati, gli importi sono prassi di mercato anziché legge, e non c'è alcun obbligo legale su alcun negozio di riprenderli.",
+      "evidencia": "FATO",
+      "audioKeys": ["de-b15-n07"]
+    },
+    {
+      "sinal": "Sono le sei di sera di un sabato e decidi di lasciare la spesa a domani.",
+      "suaLeitura": "La domenica sarà più tranquilla e facile, come di solito è un giorno del fine settimana.",
+      "oQueEAli": "La chiusura domenicale è scritta nella legge anziché lasciata all'abitudine, ed è ancorata costituzionalmente: la domenica e i giorni festivi riconosciuti sono tutelati come giorni di riposo tramite un articolo di Weimar ripreso nella Legge Fondamentale. I punti vendita sono chiusi la domenica e nei festivi e dalle otto di sera nei giorni feriali. Dal 2006 ciascun Land scrive la propria versione della regola, quindi i dettagli si spostano nel paese, ma la domenica stessa no.",
+      "oQueVoceFaz": "Fa' la spesa il sabato, prima delle otto. Se ti trovi in difficoltà, la lista domenicale confermata è breve: la farmacia di turno, una stretta finestra mattutina per pane, latte, fiori, frutta e giornali, negozi di stazione e aeroporto per beni da viaggio, e il distributore per carburante e beni da viaggio.",
+      "oQueMelhora": "Smetti di perdere un giorno di viaggio davanti a porte chiuse, e smetti di camminare verso un supermercato che non sarebbe mai stato aperto.",
+      "ondeNaoVale": "La competenza appartiene ai Länder e questo corso ha verificato la posizione solo in tre dei sedici, quindi nulla qui va letto come un orario nazionale — Berlino consente le 24 ore dal lunedì al sabato, la Baviera ha approvato la propria legge nel 2025 con serate prolungate e piccoli negozi senza personale aperti 24 ore su 24, e gli altri tredici non sono stati verificati. Ristoranti e caffè rientrano in una legge separata e non sono coperti da nulla di ciò. E una verkaufsoffener Sonntag, dove esiste, è un singolo evento locale datato e mai qualcosa su cui contare.",
+      "evidencia": "FATO",
+      "audioKeys": ["de-b15-n09"]
+    },
+    {
+      "sinal": "Un cartello in aeroporto offre di rimborsare l'IVA su ciò che hai comprato, e calcoli il 19% del totale.",
+      "suaLeitura": "La tassa è tua da reclamare, e il banco esiste per restituirtela.",
+      "oQueEAli": "L'opuscolo ufficiale dice che l'esenzione si applica esclusivamente al commerciante. Non c'è alcun rimborso diretto dall'ufficio delle imposte a un acquirente; ciò che il negozio può concedere è una riduzione di prezzo concordata come parte della vendita, motivo per cui le società in aeroporto pagano dopo aver detratto una commissione di gestione. Le condizioni sono la residenza fuori dall'UE, l'esportazione entro tre mesi, e un acquisto superiore a 50 euro IVA compresa — e a decidere è la residenza, non la nazionalità.",
+      "oQueVoceFaz": "Chiedi il documento di esportazione in negozio, tieni l'acquisto nel bagaglio a mano, e presenta passaporto, documento e merce insieme al banco della dogana prima di imbarcare qualsiasi cosa. Poi tratta ciò che arriva come uno sconto anziché un rimborso.",
+      "oQueMelhora": "Smetti di mettere a budget un 19% che non sarebbe mai arrivato, e smetti di perdere l'intero reclamo mettendo la cosa in stiva.",
+      "ondeNaoVale": "Non si applica affatto ai residenti di paesi UE, e il criterio della residenza taglia fine: l'esempio stesso dell'opuscolo rende idoneo un cittadino britannico che vive in Inghilterra e non uno che vive in Irlanda del Nord. E l'importo che ricevi è una questione di contratto tra te e il negozio, quindi nessuna cifra può essere promessa in anticipo.",
+      "evidencia": "FATO",
+      "audioKeys": ["de-b15-n10"]
+    }
+  ]
+}

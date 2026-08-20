@@ -1,0 +1,422 @@
+{
+  "id": "b06",
+  "nivel": "basico",
+  "numero": 6,
+  "parte": "B06",
+  "titulo": "Haben Sie — e poi qualsiasi cosa serva alla prima ora",
+  "subtitulo": "Quattro banconi tra il nastro dei bagagli e un posto sul treno, e un'apertura che va bene per ognuno di essi",
+  "cena": "Arrivi in Germania: il nastro si è fermato, il telefono non ha trovato rete, e ci sono quattro banconi tra te e il poterti sedere.",
+  "moldura": "ganha",
+  "frasePiso": "Haben Sie, più la cosa, e tutta la sala arrivi diventa risolvibile in tre parole.",
+  "moldes": [
+    "HABEN-SIE"
+  ],
+  "clique": {
+    "contagem": [
+      "il bancone dei telefoni",
+      "il banco informazioni",
+      "il chiosco vicino all'uscita",
+      "il caffè dell'aeroporto"
+    ],
+    "desconto": "Il bancone dei telefoni, il banco informazioni, il chiosco e il caffè ti hanno estratto le stesse identiche due parole. Solo la cosa in fondo è cambiata, ed è arrivata già vestita.",
+    "piso": "La prossima volta che non sai se un posto ha ciò che ti serve, non lo mimerai e non aprirai un'app. Dirai Haben Sie e nominerai la cosa."
+  },
+  "fatosDatados": [
+    {
+      "id": "de-b06-pfand",
+      "afirmacao": "Il divario tra il prezzo a scaffale e la cassa deve essere lì per legge. Il § 31 Abs. 1 VerpackG fissa una cauzione di «mindestens 0,25 Euro einschließlich Umsatzsteuer» per confezione monouso — un minimo anziché una cifra fissa, e IVA compresa — e richiede che la confezione sia contrassegnata in modo permanente come soggetta a cauzione prima di essere venduta. Il § 7 PAngV 2022 fa poi la parte controintuitiva: il commerciante «hat deren Höhe neben dem Gesamtpreis anzugeben und nicht in diesen einzubeziehen» — indicare la cauzione accanto al prezzo totale ed espressamente non includervela. Ecco perché un'etichetta riporta 0,99 euro e la cassa dice 1,24: è l'unica eccezione dichiarata alla regola del § 3 PAngV secondo cui il prezzo esposto contiene già tutto. La restituzione è un obbligo ai sensi del § 31 Abs. 2: il distributore riprende il vuoto nel punto vendita o nei pressi, durante l'orario di apertura, e rimborsa la cauzione gratuitamente; un rivenditore con una superficie di vendita inferiore a 200 metri quadrati può limitarsi ai materiali che vende, il che non lo esenta. Le bottiglie riutilizzabili funzionano al contrario — il Mehrwegpfand è un accordo di diritto civile, il suo livello è fissato da ciascun imbottigliatore, e non c'è alcun obbligo di legge di riprenderle indietro, benché la maggior parte dei negozi rimborsi i propri marchi come cortesia commerciale.",
+      "fonte": "§ 31 Abs. 1 e Abs. 2 VerpackG e § 7 PAngV 2022, verbatim de gesetze-im-internet.de; § 3 Abs. 1 e § 2 PAngV (Gesamtpreis inclui o IVA) verbatim; Verbraucherzentrale, verbatim «Die Pfandhöhe und die Erstattung für Mehrwegflaschen sind zivilrechtliche Vereinbarungen» e «Immerhin erstatten die meisten Geschäfte das Pfand jedoch auch für Mehrwegflaschen ihrer Marken»; dpg-pfandsystem.de sobre retomada por máquina e à mão no caixa. RESSALVAS: as isenções do § 31 Abs. 4 estão em PARÁFRASE (a ferramenta recusou transcrever a lista) e nenhuma citação literal lhes é atribuída; os valores costumeiros de Mehrweg (0,08 € / 0,15 € / 1,50 € o engradado) são uso de mercado, não norma; o termo «Pfandbon» não aparece verbatim na fonte oficial; a data de entrada em vigor do VerpackG não foi verificada em fonte primária.",
+      "ano": 2026,
+      "revisarAte": "2028-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-b06-n06",
+        "de-b06-n07",
+        "de-b06-n08"
+      ]
+    },
+    {
+      "id": "de-b06-terminal",
+      "afirmacao": "Il negozio ancora aperto nel terminal alle nove e mezza è aperto in virtù di un'eccezione con una condizione allegata. Il § 9 LadSchlG consente ai negozi negli aeroporti di aprire «an allen Tagen während des ganzen Tages», con il 24 dicembre tagliato alle 17, e limita poi ciò che può essere venduto fuori dall'orario normale: «An Werktagen während der allgemeinen Ladenschlusszeiten (§ 3) und an Sonn- und Feiertagen ist nur die Abgabe von Reisebedarf an Reisende gestattet» — necessità di viaggio, ai viaggiatori, e nient'altro. Il § 8 concede ai negozi nelle stazioni ferroviarie passeggeri il regime equivalente. La regola generale da cui sono esentati è il § 3 LadSchlG: chiuso la domenica e nei giorni festivi, e dalle 20 di sera negli altri giorni.",
+      "fonte": "§§ 3, 8 e 9 LadSchlG, verbatim de gesetze-im-internet.de, abertos em 5/8/2026. RESSALVAS: o § 8 Abs. 2a, com regime próprio para estações de longa distância em cidades acima de 200.000 habitantes, foi lido só em resumo; e a prática amplamente relatada de usar o supermercado de uma Hauptbahnhof como mercearia dominical plena NÃO foi confirmada em fonte alguma — juridicamente o § 8 só autoriza Reisebedarf a viajantes. Desde 2006 o Ladenschluss é competência dos Länder (Art. 74 Abs. 1 Nr. 11 GG) e só 3 dos 16 foram verificados.",
+      "ano": 2026,
+      "revisarAte": "2027-02-28",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": [
+        "de-b06-n10"
+      ]
+    },
+    {
+      "id": "de-b06-karte",
+      "afirmacao": "Accettare le carte qui non è la stessa cosa che accettare la tua. Il circuito nazionale di debito girocard, gestito da EURO Kartensysteme GmbH per il settore bancario tedesco, si descrive come «das elektronische Bezahlsystem der deutschen Banken und Sparkassen» con «rund 100 Millionen ausgegebenen Karten», e afferma che la portata internazionale dipende da un co-badge: «Darüber hinaus verfügt die girocard in der Regel über eine Zusatzfunktion, ein sogenanntes Co-Badge eines internationalen Debitsystems (Maestro, Debit Mastercard, V Pay, Visa Debit oder JCB).» La scala è il motivo per cui conta: lo Zahlungssysteme im Einzelhandel 2025 dell'EHI Retail Institute, che copre 495 miliardi di euro del commercio al dettaglio fisso tedesco nel 2024, colloca girocard al 41,5 per cento del fatturato e al 28,89 per cento delle transazioni, contro il 33,8 per cento del fatturato in contanti e l'8,3 per cento con carte di credito.",
+      "fonte": "girocard.eu, operado pela EURO Kartensysteme GmbH (empresa conjunta da Deutsche Kreditwirtschaft), verbatim; EHI Retail Institute, «Zahlungssysteme im Einzelhandel 2025», Colônia, junho/2025, dados de 2024, PDF de amostra aberto. RESSALVA EXPRESSA: NÃO existe declaração institucional da Bundesbank ou da Deutsche Kreditwirtschaft afirmando que cartões Visa/Mastercard estrangeiros são recusados em terminais girocard-only — a ligação causal é explicação de mecanismo e nunca pode ser apresentada como citação.",
+      "ano": 2025,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-b06-n11"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b06-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "pt": "La tua prima ora è quattro banconi e quattro piccoli bisogni. Ognuno di essi si apre con le stesse due parole."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b06-n02",
+      "bloco": "molde",
+      "pt": "Ecco «lo stampo»: Haben Sie, e poi la cosa. Avete — e poi qualsiasi cosa ti capiti di volere."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b06-t01",
+      "es": "Guten Tag, haben Sie eine SIM-Karte?",
+      "pinyin": "GOO-ten TAHK, HAH-ben zee EYE-nuh ZIM-kar-tuh",
+      "pt": "Buongiorno, avete una scheda SIM?",
+      "tts": "Guten Tag, haben Sie eine SIM-Karte?"
+    },
+    {
+      "consulta": [
+        "chegar/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "eine SIM-Karte",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b06-p01",
+      "promptPt": "Al bancone dei telefoni accanto al nastro dei bagagli, senza rete da quando le ruote hanno toccato terra. Chiedi. Parla adesso.",
+      "audioKey": "de-b06-t01",
+      "es": "Guten Tag, haben Sie eine SIM-Karte?",
+      "pinyin": "GOO-ten TAHK, HAH-ben zee EYE-nuh ZIM-kar-tuh",
+      "pt": "Buongiorno, avete una scheda SIM?",
+      "tts": "Guten Tag, haben Sie eine SIM-Karte?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b06-r01",
+      "es": "Ja, natürlich. Mit oder ohne Vertrag?",
+      "pinyin": "yah, na-TEWR-likh. mit OH-der OH-nuh fer-TRAHK",
+      "pt": "Sì, certo. Con o senza contratto?",
+      "tts": "Ja, natürlich. Mit oder ohne Vertrag?",
+      "receptivo": true,
+      "acao": "Resta per la seconda metà della risposta — è la domanda che decide quanto paghi."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b06-n03",
+      "bloco": "corpo",
+      "pt": "La cosa arriva già vestita. Non Tisch ma einen Tisch, e impari la coppia intera, mai a metà."
+    },
+    {
+      "consulta": [
+        "chegar/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "WLAN",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b06-p02",
+      "promptPt": "Al banco informazioni, e tutto ciò che devi inviare dice di essere offline. Chiedi. Parla adesso.",
+      "audioKey": "de-b06-t02",
+      "es": "Haben Sie WLAN?",
+      "pinyin": "HAH-ben zee VAY-lahn",
+      "pt": "Avete il wifi?",
+      "tts": "Haben Sie WLAN?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b06-n04",
+      "pt": "«Lo stampo» chiede cosa ha questa persona, non se la cosa esista da qualche parte nell'edificio."
+    },
+    {
+      "consulta": [
+        "pagar/dinheiro"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "Wechselgeld",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b06-p03",
+      "promptPt": "Il carrello portabagagli al chiosco vicino all'uscita accetta monete, e lo sportello ti ha dato un cinquanta. Chiedi. Parla adesso.",
+      "audioKey": "de-b06-t03",
+      "es": "Haben Sie Wechselgeld?",
+      "pinyin": "HAH-ben zee VEK-sel-gelt",
+      "pt": "Avete degli spiccioli?",
+      "tts": "Haben Sie Wechselgeld?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b06-r02",
+      "es": "Nein, aber der Automat da drüben gibt Münzen.",
+      "pinyin": "nine, AH-ber dair ow-toh-MAHT dah DREW-ben gipt MEWN-tsen",
+      "pt": "No, ma lo sportello automatico là dà monete.",
+      "tts": "Nein, aber der Automat da drüben gibt Münzen.",
+      "receptivo": true,
+      "acao": "Resta un tempo oltre la prima parola. Un no qui di solito arriva con l'indirizzo del sì allegato."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b06-n05",
+      "pt": "Sie è già dentro «lo stampo», quindi la cortesia è gestita prima che tu apra bocca."
+    },
+    {
+      "consulta": [
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "eine Toilette",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b06-p04",
+      "promptPt": "Al caffè dell'aeroporto, prima di un'ora di treno verso il centro. Chiedi. Parla adesso.",
+      "audioKey": "de-b06-t04",
+      "es": "Haben Sie eine Toilette?",
+      "pinyin": "HAH-ben zee EYE-nuh twa-LE-tuh",
+      "pt": "Avete una toilette?",
+      "tts": "Haben Sie eine Toilette?"
+    },
+    {
+      "consulta": [
+        "mesa/bebida"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "Wasser",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b06-p05",
+      "promptPt": "Ancora al caffè dell'aeroporto, e ciò che avevi con te è finito in un cestino ai controlli. Chiedi. Parla adesso.",
+      "audioKey": "de-b06-t05",
+      "es": "Haben Sie Wasser?",
+      "pinyin": "HAH-ben zee VA-ser",
+      "pt": "Avete dell'acqua?",
+      "tts": "Haben Sie Wasser?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b06-n06",
+      "pt": "Lo scaffale diceva novantanove centesimi e la cassa dice uno e ventiquattro. Quel divario ha un nome: Pfand."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b06-r03",
+      "es": "Das macht ein Euro vierundzwanzig.",
+      "pinyin": "das makht ine OY-roh FEER-oont-tsvan-tsikh",
+      "pt": "Fa un euro e ventiquattro.",
+      "tts": "Das macht ein Euro vierundzwanzig.",
+      "receptivo": true,
+      "acao": "Pagalo e tieni la bottiglia vuota. Il sovrapprezzo è una cauzione, ed è il marchio DPG sulla bottiglia a farla tornare indietro."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b06-n07",
+      "pt": "La legge vieta di includere la cauzione nel prezzo a scaffale. È l'unica eccezione al fatto che ciò che vedi è ciò che paghi."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b06-n08",
+      "pt": "Venticinque centesimi almeno, su bottiglie di plastica e lattine. Riprendere il vuoto è un obbligo del negozio."
+    },
+    {
+      "consulta": [
+        "chegar/balcao",
+        "transporte/placas"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "einen Stadtplan",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b06-p06",
+      "promptPt": "Di nuovo al banco informazioni, con il telefono al quattro per cento e una via che non hai mai percorso. Chiedi. Parla adesso.",
+      "audioKey": "de-b06-t06",
+      "es": "Haben Sie einen Stadtplan?",
+      "pinyin": "HAH-ben zee EYE-nen SHTAT-plahn",
+      "pt": "Avete una piantina della città?",
+      "tts": "Haben Sie einen Stadtplan?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b06-n09",
+      "bloco": "capsula",
+      "pt": "A «lo stampo» non importa cosa sia la cosa. Una scheda, una piantina, monete, acqua, una toilette, biglietti."
+    },
+    {
+      "consulta": [
+        "transporte/bagagem",
+        "quarto/mala"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "eine Gepäckaufbewahrung",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b06-p07",
+      "promptPt": "La camera non è pronta prima delle tre e stai portando tutto ciò che possiedi. Al banco informazioni, chiedi. Parla adesso.",
+      "audioKey": "de-b06-t07",
+      "es": "Haben Sie eine Gepäckaufbewahrung?",
+      "pinyin": "HAH-ben zee EYE-nuh ge-PECK-owf-be-vah-roong",
+      "pt": "Avete un deposito bagagli?",
+      "tts": "Haben Sie eine Gepäckaufbewahrung?"
+    },
+    {
+      "consulta": [
+        "transporte/bilhete"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "Fahrkarten",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b06-p08",
+      "promptPt": "Il chiosco vicino all'uscita vende biglietti di viaggio, e ci sono undici persone alla macchinetta. Chiedi. Parla adesso.",
+      "audioKey": "de-b06-t08",
+      "es": "Haben Sie Fahrkarten?",
+      "pinyin": "HAH-ben zee FAR-kar-ten",
+      "pt": "Avete biglietti?",
+      "tts": "Haben Sie Fahrkarten?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b06-n10",
+      "pt": "Un negozio del terminal aperto alle nove e mezza è aperto ai viaggiatori, e per legge solo per cose di viaggio."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b06-n11",
+      "pt": "Accettare le carte qui non significa accettare la tua. Molti terminali sono collegati prima al sistema nazionale."
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "DANKE",
+      "encaixe": "vielen Dank",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b06-p09",
+      "promptPt": "Ti hanno risolto tutto in dieci secondi netti. Chiudi come si chiude qui. Parla adesso.",
+      "audioKey": "de-b06-t09",
+      "es": "Vielen Dank!",
+      "pinyin": "FEE-len DANK",
+      "pt": "Grazie mille!",
+      "tts": "Vielen Dank!"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-b06-s01",
+      "es": "Haben Sie WLAN? Haben Sie Wechselgeld? Haben Sie eine Toilette?",
+      "pinyin": "HAH-ben zee VAY-lahn. HAH-ben zee VEK-sel-gelt. HAH-ben zee EYE-nuh twa-LE-tuh",
+      "pt": "Ripeti in ombra un'apertura su tre banconi completamente diversi.",
+      "tts": "Haben Sie WLAN? Haben Sie Wechselgeld? Haben Sie eine Toilette?",
+      "molde": "HABEN-SIE"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b06-n12",
+      "bloco": "recap",
+      "pt": "B06 fatto. Uno «stampo», quattro banconi, e tutta la prima ora risolta con Haben Sie e una cosa."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Un'apertura, e otto cose da chiedere",
+    "secoes": [
+      {
+        "titulo": "Haben Sie più la cosa",
+        "corpo": "Tieni Haben Sie e mettici dopo qualsiasi cosa una persona dietro un bancone potrebbe fisicamente avere. L'apertura non cambia mai: porta già la forma di cortesia, è già una domanda nel momento in cui la tua voce sale, e nulla al suo interno dipende da con chi parli o da cosa sia la cosa. È questo che la rende «lo stampo» più economico e più ampio del corso — ritorna nella biglietteria, al tavolo, nel negozio e alla reception dell'hotel senza una sola modifica.",
+        "exemplos": [
+          {
+            "es": "Haben Sie WLAN?",
+            "pt": "Avete il wifi?"
+          },
+          {
+            "es": "Haben Sie Wechselgeld?",
+            "pt": "Avete degli spiccioli?"
+          }
+        ]
+      },
+      {
+        "titulo": "La cosa arriva già vestita",
+        "corpo": "Il tedesco segna il compito di un sostantivo nella frase sulla paroletta davanti a esso, e dopo Haben Sie quella paroletta è fissa. Questo corso non ti consegna mai un sostantivo nudo proprio per questo motivo: la casella dice einen Tisch, ein Zimmer, eine SIM-Karte, e impari ognuna intera, come hai imparato un numero di telefono. Nulla va risolto al bancone. Che la forma da dizionario di einen Tisch sia der Tisch è vero, e puoi ignorarlo per tutto il viaggio. Due cose arrivano genuinamente nude e non è un'eccezione da sorvegliare: i plurali, come in Haben Sie Fahrkarten, e le sostanze, come in Haben Sie Wasser — l'inglese fa lo stesso e tu lo fai già senza pensarci."
+      },
+      {
+        "titulo": "Cosa ha questa persona, non cosa esiste",
+        "corpo": "L'inglese ricorre a is there a…, e anche il tedesco ha un modo per dirlo. A un bancone è la forma sbagliata. La domanda che ottiene una risposta riguarda la persona davanti a te — cosa ha lei — e la differenza tra le due è la differenza tra leggere da un frasario e sembrare qualcuno che l'ha già fatto. Ti procura anche una risposta migliore: una persona che non ha la cosa di solito ti dice chi ce l'ha."
+      },
+      {
+        "titulo": "L'etichetta mente per legge, e la cassa ha ragione",
+        "corpo": "Una bottiglia contrassegnata 0,99 viene battuta a 1,24, e nessuno ti ha fatto pagare troppo. Le confezioni di bevande monouso portano una cauzione di almeno venticinque centesimi IVA compresa, e una regola separata richiede al commerciante di mostrare quella cauzione accanto al prezzo totale ed espressamente di non includervela. Quindi il prezzo a scaffale è un prezzo reale con un sovrapprezzo noto imbullonato accanto — l'unica eccezione dichiarata alla regola tedesca altrimenti assoluta secondo cui il numero che vedi è il numero che paghi. Il denaro torna: il negozio ha l'obbligo di legge di riprendere il vuoto e rimborsare gratuitamente, e un piccolo negozio può limitarsi ai tipi di materiale che vende. Il vetro riutilizzabile è un'altra bestia, disposto privatamente tra imbottigliatori anziché per legge, e la regola pratica è semplice — plastica o lattina col marchio della cauzione va in qualsiasi supermercato, il vetro a rendere torna dove l'hai comprato."
+      },
+      {
+        "titulo": "Aperto alle nove e mezza, e cosa ciò permette",
+        "corpo": "I negozi negli aeroporti e nelle stazioni ferroviarie passeggeri possono aprire tutti i giorni e tutto il giorno, ed è per questo che il terminal è vivo a un'ora in cui la città non lo è. Il permesso è ristretto: fuori dall'orario normale dei negozi, e la domenica e nei giorni festivi, possono vendere necessità di viaggio ai viaggiatori e nient'altro. La regola generale a cui sfuggono chiude i negozi la domenica e nei giorni festivi e dalle otto di sera. Vale la pena sapere quale delle due regole ti trovi ad abitare, perché spiega sia la porta aperta qui sia quella chiusa un'ora dopo in città."
+      },
+      {
+        "titulo": "I contanti, e la carta che non è la tua carta",
+        "corpo": "Non c'è alcun obbligo di legge in Germania di accettare una carta, e «nur Bargeld» su un cartello è lecito anziché ostruttivo. C'è un secondo problema, più silenzioso, sotto: il circuito nazionale di debito conta circa cento milioni di carte e il quarantuno per cento del fatturato del commercio al dettaglio fisso, e la sua portata internazionale dipende da un co-badge. Quindi un terminale qui può essere costruito per il sistema nazionale, e un posto che accetta le carte non è automaticamente un posto che accetta la tua. Chiedi prima di impegnarti, e tieni con te abbastanza banconote da rendere la risposta irrilevante."
+      }
+    ]
+  },
+  "slot": "B06",
+  "permissao": "Non ti serve una frase diversa per ogni bancone di quell'edificio, e nessuno lì sta valutando il tuo tedesco. Guten Tag, Haben Sie, la cosa, e una voce che sale è una richiesta completa ovunque nel terminal — e ti è permesso usare le stesse identiche due parole a tutti e quattro i banconi senza variarle per suonare meglio.",
+  "permissaoAudioKey": "de-b06-n02",
+  "espelho": "Chiunque atterri in un aeroporto sconosciuto a casa esegue già questo identico triage senza dargli un nome — segnale, denaro, bagagli, un posto dove stare. L'unica parte nuova è farlo in tre parole che non cambiano mai.",
+  "fichasCulturais": [
+    {
+      "sinal": "Porti alla cassa una bottiglia contrassegnata 0,99 e ti vengono chiesti 1,24, senza spiegazioni offerte e senza scuse.",
+      "suaLeitura": "Ti hanno fatto pagare troppo, o c'è una tassa aggiunta alla cassa come succede a casa.",
+      "oQueEAli": "Nessuna delle due. Le confezioni di bevande monouso portano una cauzione di almeno venticinque centesimi IVA compresa, e la legge richiede al commerciante di mostrare quell'importo accanto al prezzo totale ed espressamente di non includerlo nel totale. Il divario è la cauzione, ed è l'unica eccezione dichiarata alla regola tedesca secondo cui il prezzo esposto contiene già tutto, tassa compresa. Il negozio ha poi l'obbligo di legge di riprendere il vuoto durante l'orario di apertura e rimborsare la cauzione gratuitamente.",
+      "oQueVoceFaz": "Pagala senza contestarla, tieni il vuoto, e infilalo in una macchina di reso praticamente in qualsiasi supermercato — è il marchio della cauzione sulla bottiglia che la macchina legge, e un piccolo negozio deve riprendere solo i tipi di materiale che vende. Se invece è una bottiglia di vetro a rendere, riportala al negozio da cui l'hai comprata.",
+      "oQueMelhora": "Un numero che sembrava una furbata si trasforma in denaro che hai in mano, e un cestino alla stazione smette di essere dove finisce una bottiglia.",
+      "ondeNaoVale": "Il lato riutilizzabile non è legge: quelle cauzioni sono accordi privati tra imbottigliatori, il loro livello varia, e non c'è alcun obbligo di legge di riprendere quelle bottiglie — la maggior parte dei negozi rimborsa i propri marchi come cortesia commerciale. La lista delle esenzioni su cosa porti una cauzione è letta qui in parafrasi, e gli importi consueti del riutilizzabile sono uso di mercato anziché una cifra di legge.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b06-n06",
+        "de-b06-n07",
+        "de-b06-n08"
+      ]
+    },
+    {
+      "sinal": "Il negozio del terminal commercia allegramente alle nove e mezza di sera, e il supermercato a cui vai un'ora dopo in città è buio.",
+      "suaLeitura": "Gli orari di apertura qui sono arbitrari, o quel particolare supermercato ha semplicemente chiuso presto.",
+      "oQueEAli": "Due regole diverse. I negozi negli aeroporti e nelle stazioni ferroviarie passeggeri possono aprire tutti i giorni e tutto il giorno, ma fuori dall'orario normale e la domenica e nei festivi possono vendere solo necessità di viaggio, e solo ai viaggiatori. Tutto il resto rientra nella regola generale: chiuso la domenica e nei giorni festivi, e dalle otto di sera negli altri giorni.",
+      "oQueVoceFaz": "Compra ciò che serve alla sera prima delle otto, e tratta il negozio del terminal per ciò che giuridicamente è — un posto per merci di viaggio, non una drogheria.",
+      "oQueMelhora": "Smetti di leggere una vetrina buia come sfortuna e inizi a pianificare la sera dell'arrivo intorno a una regola che puoi prevedere.",
+      "ondeNaoVale": "La chiusura dei negozi è affare di ciascun Land dal 2006, e solo tre dei sedici sono stati verificati qui. La Baviera ha lasciato il modello federale il 1º agosto 2025 e ora consente ai mini-supermercati senza personale fino a 150 metri quadrati di operare ininterrottamente. E la pratica ampiamente riferita di usare il supermercato di una stazione centrale come drogheria domenicale completa non è stata confermata in alcuna fonte — la legge autorizza solo le necessità di viaggio.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b06-n10"
+      ]
+    }
+  ]
+}

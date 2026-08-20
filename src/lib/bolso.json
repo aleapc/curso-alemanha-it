@@ -1,0 +1,46 @@
+{
+  "marca": "Bitte?",
+  "cabecalho": "La Germania in breve",
+  "titulo": "Tasca del viaggiatore",
+  "subtitulo": "L’essenziale resta disponibile anche in modalità aereo.",
+  "rotulos": {
+    "cambio": "Convertitore di valuta",
+    "valorEm": "Importo in",
+    "dataCotacao": "Data del cambio",
+    "avisoCotacao": "Solo indicativo. Controlla il tasso della tua carta o banca prima di spendere.",
+    "tomadas": "Prese e corrente",
+    "emergencia": "Emergenza",
+    "ligar": "Chiama",
+    "saberUtil": "Utile da sapere"
+  },
+  "mesmaMoeda": "La Germania usa l’euro, la stessa moneta che spendi a casa — nessuna conversione necessaria.",
+  "moedas": {
+    "EUR": { "flag": "🇪🇺", "locale": "it-IT" }
+  },
+  "cambio": {
+    "date": "2026-08-05",
+    "rates": {}
+  },
+  "emergencia": [
+    { "numero": "112", "oQue": "Vigili del fuoco e ambulanza (Rettungsdienst). In Germania il 112 non ti mette in contatto con la polizia — quello è un numero a parte." },
+    { "numero": "110", "oQue": "Polizia. La Germania ha mantenuto due numeri di emergenza, quindi è questo da comporre per furto, aggressione o un incidente in cui è coinvolta la polizia." },
+    { "numero": "116117", "oQue": "Non è una linea di emergenza — per quella, il 112. È il servizio medico di guardia per ciò che porteresti dal medico di base quando l’ambulatorio è chiuso, 24 ore su 24, dentisti esclusi. La sua pagina ufficiale dichiara che la linea è disponibile solo in tedesco, ed è gratuita solo con un contratto telefonico tedesco." }
+  ],
+  "saberUtil": [
+    { "emoji": "🏷️", "texto": "Il numero sull’etichetta e sul menù è il prezzo totale IVA inclusa — la legge tedesca sui prezzi impone di mostrare il Gesamtpreis, quindi alla cassa non si aggiunge nulla." },
+    { "emoji": "🧾", "texto": "L’unica eccezione legale è il Pfand: una cauzione di almeno 25 centesimi su lattine e bottiglie di plastica monouso deve essere indicata accanto al prezzo ed espressamente non inclusa in esso, ecco perché una bottiglia segnata 0,99 € alla cassa fa 1,24 €." },
+    { "emoji": "🥫", "texto": "Una lattina o bottiglia PET con il logo DPG può essere restituita in quasi ogni supermercato, con la macchina o alla cassa, ma una bottiglia di vetro a rendere (Mehrweg) non ha alcun obbligo legale di ritiro — quella riportala al negozio che te l’ha venduta." },
+    { "emoji": "🛒", "texto": "Di norma i negozi devono restare chiusi la domenica e nei festivi e dalle 20:00 nei giorni feriali; restano aperti la farmacia di turno, il distributore di benzina e i negozi dentro stazioni e aeroporti — e questi ultimi possono legalmente vendere ai viaggiatori solo articoli da viaggio (Reisebedarf)." },
+    { "emoji": "📅", "texto": "Solo il 3 ottobre è un festivo fissato dalla legge federale, tutti gli altri sono stabiliti da ciascun Land, quindi attraversare il confine di uno Stato può cambiare se i negozi sono aperti quel giorno." },
+    { "emoji": "💶", "texto": "Nessuno è obbligato ad accettare la tua carta: il contante in euro è l’unico mezzo di pagamento a corso legale illimitato e un cartello \"nur Bargeld\" è del tutto lecito — nell’indagine 2025 della Bundesbank il contante era utilizzabile nel 94% degli acquisti in presenza, i mezzi cashless nell’86%." },
+    { "emoji": "💳", "texto": "Dove le carte sono accettate il terminale può essere collegato solo alla rete tedesca girocard, quindi \"accettiamo carte\" non significa sempre che il negozio accetti la tua carta." },
+    { "emoji": "💁", "texto": "La legge fiscale tedesca definisce la mancia come volontaria, senza alcun diritto legale a riceverla, e come qualcosa aggiunto sopra l’importo già dovuto per il servizio — non esiste una cifra ufficiale o statistica su quanto lasciare." },
+    { "emoji": "🎟️", "texto": "Un biglietto cartaceo preso alla macchinetta va timbrato nell’Entwerter prima di salire, perché un biglietto non convalidato equivale a nessun biglietto; un biglietto comprato nell’app è già convalidato." },
+    { "emoji": "🚔", "texto": "Viaggiare senza un biglietto valido costa fino a 60 € sui trasporti urbani e almeno 60 € sul treno, ed è anche un reato penale ai sensi del §265a del codice penale, punibile con fino a un anno — tentativo compreso." },
+    { "emoji": "🚆", "texto": "La puntualità ufficiale delle ferrovie è generosa — un arrivo con meno di sei minuti di ritardo conta come in orario — eppure solo il 60,1% dei treni a lunga percorrenza è arrivato puntuale nel 2025, quindi lascia margine per le coincidenze." },
+    { "emoji": "💊", "texto": "Le farmacie osservano un turno di guardia imposto per legge, quindi una chiusa deve esporre un avviso con le più vicine aperte, e aspettati un sovrapprezzo di 2,50 € tra le 20:00 e le 6:00 e nei festivi." },
+    { "emoji": "🩺", "texto": "Una GHIC o EHIC ti dà l’assistenza sanitaria pubblica medicalmente necessaria alle stesse condizioni di un residente tedesco, il che può significare pagare quanto paga un residente — il ticket ospedaliero è di 10 € al giorno per un massimo di 28 giorni l’anno — e non sostituisce un’assicurazione di viaggio." },
+    { "emoji": "🛃", "texto": "Se risiedi fuori dall’UE un acquisto superiore a 50 € può essere venduto esente IVA, ma l’esenzione appartiene al negozio e non a te: ottieni la riduzione di prezzo che il negozio concede, e solo se mostri la merce, la ricevuta di esportazione e il passaporto alla dogana prima di imbarcare la merce." },
+    { "emoji": "⚖️", "texto": "Simboli, slogan e saluti nazisti sono un reato penale ai sensi del §86a del codice penale — la legge nomina esplicitamente le Grußformen — punibile con fino a tre anni o una multa, e le eccezioni coprono arte, ricerca, insegnamento e cronaca, non i turisti." }
+  ]
+}

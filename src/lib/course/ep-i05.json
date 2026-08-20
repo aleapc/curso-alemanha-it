@@ -1,0 +1,498 @@
+{
+  "id": "i05",
+  "nivel": "intermediario",
+  "numero": 23,
+  "parte": "I05",
+  "titulo": "Le cinque domande, e le due frasi che chiudono qualsiasi sesta",
+  "subtitulo": "Da dove vieni, per quanto resti, come ti trovi — più una via d'uscita da un argomento che non hai scelto",
+  "cena": "Un tavolo condiviso in un Biergarten a Norimberga, un giovedì: la coppia di fronte ha detto Guten Abend, e la prima domanda è già in arrivo.",
+  "moldura": "ganha",
+  "frasePiso": "Cinque risposte che non devi mai costruire, e una frase che chiude un argomento senza chiudere la serata.",
+  "decisao": "resto nella conversazione o ne esco; quali cinque risposte tengo pronte prima di sedermi, e quale frase uso quando l'argomento diventa uno che non ho scelto",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-i05-englisch",
+      "afirmacao": "La Germania registra un alto livello di inglese tra gli adulti, e il numero dipende dalla domanda. Special Eurobarometer 540, Europeans and their languages (rilevazione set–ott 2023, pubblicato 2024): il 65% in Germania dichiara di parlare inglese abbastanza bene da sostenere una conversazione, contro una media UE27 del 47%. Il dato precedente comparabile, Special Eurobarometer 386 (rilevazione feb–mar 2012): Germania 56%, UE27 38%. L'Adult Education Survey di Eurostat pone una domanda diversa e ottiene una forma diversa: tra i 25–64enni in Germania, l'87,7% dichiara almeno una lingua straniera nel 2022 (78,7% nel 2016), ma solo il 28,0% di questi si valuta competente nella migliore — all'incirca il 24,5% della fascia d'età. Le due domande non sono intercambiabili e non vanno sommate né presentate come conferma l'una dell'altra.",
+      "fonte": "Special Eurobarometer 540 (Verian para a DG EAC, DOI 10.2766/28257), p. 20, tabela D48.otherlang; Special Eurobarometer 386 (TNS Opinion & Social, jun/2012), p. 21, tabela D48T; Eurostat AES, tabelas edat_aes_l21 e edat_aes_l31 via API de disseminação. Dossiê § 10.1. ⚠ RESSALVA DE PROVENIÊNCIA: o PDF do SP540 foi aberto num espelho fora do domínio europa.eu (capa, ISBN, DOI e layout íntegros, valor 65 validado contra o texto corrido da p. 19). O EF EPI (Alemanha 4º de 123 em 2025) NÃO entra como estimativa populacional: a própria EF declara a amostra «self-selected and not guaranteed to be representative».",
+      "ano": 2024,
+      "revisarAte": "2029-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-i05-n05"
+      ]
+    },
+    {
+      "id": "de-i05-quebras",
+      "afirmacao": "Dove l'inglese è più forte è documentato solo a livello europeo, mai all'interno della Germania. Special Eurobarometer 386 riporta che un inglese «molto buono» è più frequente tra i più giovani, in particolare i 15–24enni (27%) rispetto agli over 55 (15%); tra chi ha concluso l'istruzione a tempo pieno a 20 anni o oltre (26%); e tra chi vive nelle grandi città (29%) rispetto ai villaggi rurali (15%). Lo stesso rapporto registra che i tedeschi che parlano inglese rientrano tra quelli che lo usano solo occasionalmente (58%). Nessuna indagine scompone l'inglese in Germania per Bundesland o per ex Est e Ovest: quella differenza è assente come dato.",
+      "fonte": "Special Eurobarometer 386, quebras europeias verbatim (não alemãs). Dossiê § 10.1. ⚠ A diferença leste-oeste é AUSENTE como dado: Eurobarómetro e Eurostat quebram por país, idade, escolaridade e urbano/rural, nunca por Bundesland ou ex-RDA. A premissa do russo como primeira língua estrangeira na RDA está documentada (KMK, 7/3/2014, p. 4, verbatim), mas a ligação «leste 50+ fala menos inglês» é inferência plausível e NÃO se escreve como estatística.",
+      "ano": 2012,
+      "revisarAte": "2028-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-i05-n06"
+      ]
+    },
+    {
+      "id": "de-i05-schweigen",
+      "afirmacao": "L'unico argomento in cui una frase improvvisata da un visitatore può diventare una questione penale è scritto nel codice penale, e il corso riporta la norma e nessuna opinione. Il § 86a StGB punisce la diffusione o l'uso pubblico dei simboli di organizzazioni incostituzionali con «Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe», e l'Abs. 2 elenca tra i simboli bandiere, distintivi, parti di uniforme, «Parolen und Grußformen» — slogan e forme di saluto — più tutto ciò che è confondibilmente simile. Le eccezioni del § 86 Abs. 4 riguardano l'educazione civica, la difesa contro attività incostituzionali, l'arte, la scienza, la ricerca, l'insegnamento e la cronaca di attualità o storia; nessuna di esse copre un visitatore. Il § 130 Abs. 3 StGB punisce con fino a cinque anni o una multa chiunque approvi, neghi o minimizzi pubblicamente i crimini nazisti in modo atto a turbare la pace pubblica — billigen, leugnen, verharmlosen, e il minimizzare basta di per sé.",
+      "fonte": "§ 86a StGB e § 86 Abs. 4 StGB verbatim (gesetze-im-internet.de); § 130 Abs. 3 e Abs. 4 StGB lidos na mesma página oficial (a extração verbatim foi bloqueada pelo limite de citação da ferramenta — conferir uma vez antes de imprimir; texto de lei alemã é amtliches Werk, § 5 UrhG). Dossiê §§ 10.2 e 10.6. ⚠ DOIS AUSENTES A DIZER EM VOZ ALTA: o desfecho processual dos casos de turistas noticiados em 2017 (Berlim, 5/8; Dresden, 12–13/8) não consta da cobertura; e NÃO se encontrou nenhum caso de turista estrangeiro entre 2023 e 2026. Não sugerir que é corriqueiro: dizer que é crime, com a pena, e parar aí.",
+      "ano": 2026,
+      "revisarAte": "2029-08-05",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": [
+        "de-i05-n09",
+        "de-i05-n10"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i05-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "tom": "ganha",
+      "pt": "Le stesse cinque domande arrivano a ogni tavolo. Rispondi a memoria e passi la serata ad ascoltare."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i05-r01",
+      "es": "Und woher kommen Sie?",
+      "pt": "E lei da dove viene?",
+      "tts": "Und woher kommen Sie?"
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i05-p01",
+      "promptPt": "Domanda uno, e arriva entro un minuto da quando ti siedi. Di' la città, non il paese. Parla ora.",
+      "audioKey": "de-i05-t01",
+      "es": "Ich komme aus Manchester.",
+      "pinyin": "ikh KOM-uh owss MAN-ches-ter",
+      "pt": "Vengo da Manchester.",
+      "tts": "Ich komme aus Manchester."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i05-n02",
+      "bloco": "corpo",
+      "tom": "ganha",
+      "pt": "Di' la città e hai offerto qualcosa a cui appigliarsi. Il nome di un paese chiude lo scambio; una città lo apre."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa",
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i05-p02",
+      "promptPt": "La domanda due arriva subito dopo la prima, e riparti in aereo tra una settimana, domenica. Parla ora.",
+      "audioKey": "de-i05-t02",
+      "es": "Ich bin zehn Tage hier.",
+      "pinyin": "ikh bin tsayn TAH-guh heer",
+      "pt": "Sono qui per dieci giorni.",
+      "tts": "Ich bin zehn Tage hier."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-i05-r02",
+      "es": "Sie sprechen aber gut Deutsch!",
+      "pt": "Però il suo tedesco è davvero buono!",
+      "tts": "Sie sprechen aber gut Deutsch!",
+      "receptivo": true,
+      "acao": "L'aber è sorpresa, non correzione. Danke è tutta la risposta — non metterti a spiegare quanto poco ne sai."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i05-n03",
+      "tom": "ganha",
+      "pt": "Terza domanda, e la risposta onesta è quella giusta. Nur ein bisschen compra una pazienza che non serve chiedere."
+    },
+    {
+      "consulta": [
+        "reparo/ingles",
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i05-p03",
+      "promptPt": "Ti ha appena fatto un complimento che non puoi incassare, e la risposta sincera è lunga due parole. Parla ora.",
+      "audioKey": "de-i05-t03",
+      "es": "Nur ein bisschen.",
+      "pinyin": "noor ine BIS-hyen",
+      "pt": "Solo un po'.",
+      "tts": "Nur ein bisschen."
+    },
+    {
+      "consulta": [
+        "reparo/devagar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ENTSCHULDIGUNG",
+      "encaixe": "ich habe das nicht verstanden",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i05-p04",
+      "promptPt": "Ha detto qualcosa di lungo e veloce e tu ne hai colto due parole. Dillo, prima che il momento si chiuda. Parla ora.",
+      "audioKey": "de-i05-t04",
+      "es": "Entschuldigung, ich habe das nicht verstanden.",
+      "pinyin": "ent-SHOOL-di-goong, ikh HAH-buh das nikht fer-SHTAN-den",
+      "pt": "Scusi, non ho capito.",
+      "tts": "Entschuldigung, ich habe das nicht verstanden."
+    },
+    {
+      "consulta": [
+        "reparo/devagar",
+        "reparo/apontar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "das wiederholen",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i05-p05",
+      "promptPt": "È disponibile e sta aspettando. Chiedigli di ripetere tutto una seconda volta. Parla ora.",
+      "audioKey": "de-i05-t05",
+      "es": "Können Sie das wiederholen?",
+      "pinyin": "KUR-nen zee dass VEE-der-hoh-len",
+      "pt": "Può ripeterlo?",
+      "tts": "Können Sie das wiederholen?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i05-r03",
+      "es": "Wir können auch Englisch sprechen.",
+      "pt": "Possiamo anche parlare inglese.",
+      "tts": "Wir können auch Englisch sprechen.",
+      "receptivo": true,
+      "acao": "Quello è un aiuto offerto, non un verdetto su di te. Di' danke, accettalo, e tieni il tedesco per il prossimo bancone."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i05-n04",
+      "tom": "ganha",
+      "pt": "Il passaggio all'inglese è una scorciatoia che ti viene offerta. Prenderla non costa nulla e non fa perdere nulla."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i05-n05",
+      "tom": "ganha",
+      "pt": "Il sessantacinque per cento degli adulti qui dice di saper sostenere una conversazione in inglese. La media UE è quarantasette."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i05-n06",
+      "tom": "ganha",
+      "pt": "Le scomposizioni europee indicano parlanti più giovani, più istruiti e di grandi città. Dentro la Germania un dato così non esiste."
+    },
+    {
+      "consulta": [
+        "simpatia/elogiar-lugar",
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i05-p06",
+      "promptPt": "La domanda quattro è quella che tutti fanno a un visitatore, e la risposta breve e calorosa batte quella lunga e cauta. Parla ora.",
+      "audioKey": "de-i05-t06",
+      "es": "Es gefällt mir sehr.",
+      "pinyin": "es guh-FELT meer zayr",
+      "pt": "Mi piace molto.",
+      "tts": "Es gefällt mir sehr."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i05-r04",
+      "es": "Möchten Sie einen Schnaps? Aufs Haus.",
+      "pt": "Gradisce uno schnapps? Offre la casa.",
+      "tts": "Möchten Sie einen Schnaps? Aufs Haus."
+    },
+    {
+      "consulta": [
+        "mesa/bebida",
+        "dieta/sem"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "OHNE",
+      "encaixe": "Alkohol",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i05-p07",
+      "promptPt": "È offerto, è gratis, e tu torni in bici. Rifiutalo senza rifiutare il tavolo. Parla ora.",
+      "audioKey": "de-i05-t07",
+      "es": "Für mich bitte etwas ohne Alkohol.",
+      "pinyin": "fuer mikh BIT-tuh ET-vass OH-nuh AL-ko-hohl",
+      "pt": "Per me qualcosa senza alcol, per favore.",
+      "tts": "Für mich bitte etwas ohne Alkohol."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i05-n07",
+      "bloco": "capsula",
+      "tom": "ganha",
+      "pt": "Dopo cinque risposte, la conversazione si gira. Lo stampo che la gira è quello che usi già ai banconi."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa",
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "einen Tipp für morgen",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i05-p08",
+      "promptPt": "Loro vivono qui, domani hai l'agenda vuota, e nessuno ha ancora proposto nulla. Chiediglielo. Parla ora.",
+      "audioKey": "de-i05-t08",
+      "es": "Haben Sie einen Tipp für morgen?",
+      "pinyin": "HAH-ben zee EYE-nen tip fuer MOR-gen",
+      "pt": "Ha un consiglio per domani?",
+      "tts": "Haben Sie einen Tipp für morgen?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-i05-r05",
+      "es": "Gehen Sie auf den Flohmarkt! Der ist wirklich schön.",
+      "pt": "Vada al mercatino delle pulci! È davvero bello.",
+      "tts": "Gehen Sie auf den Flohmarkt! Der ist wirklich schön."
+    },
+    {
+      "consulta": [
+        "chegar/balcao",
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "der Flohmarkt",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i05-p09",
+      "promptPt": "Ti ha appena consegnato il domani. Scopri in quale parte della città si svolge. Parla ora.",
+      "audioKey": "de-i05-t09",
+      "es": "Wo ist der Flohmarkt?",
+      "pinyin": "voh ist dair FLOH-markt",
+      "pt": "Dov'è il mercatino delle pulci?",
+      "tts": "Wo ist der Flohmarkt?"
+    },
+    {
+      "consulta": [
+        "transporte/qual-trem",
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WANN-IST",
+      "encaixe": "der Flohmarkt",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i05-p10",
+      "promptPt": "Ora conosci il quartiere ma non l'ora, e presentarsi alle quattro sprecherebbe tutto il consiglio. Parla ora.",
+      "audioKey": "de-i05-t10",
+      "es": "Wann ist der Flohmarkt?",
+      "pinyin": "vahn ist dair FLOH-markt",
+      "pt": "Quando c'è il mercatino delle pulci?",
+      "tts": "Wann ist der Flohmarkt?"
+    },
+    {
+      "consulta": [
+        "compras/quanto"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WAS-KOSTET",
+      "encaixe": "der Eintritt",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i05-p11",
+      "promptPt": "Hanno anche indicato un museo per il pomeriggio, e preferisci saperlo prima della porta che davanti alla porta. Parla ora.",
+      "audioKey": "de-i05-t11",
+      "es": "Was kostet der Eintritt?",
+      "pinyin": "vass KOSS-tet dair EYN-tritt",
+      "pt": "Quanto costa l'ingresso?",
+      "tts": "Was kostet der Eintritt?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i05-n08",
+      "tom": "ganha",
+      "pt": "Dopo due domande stanno già organizzando qualcosa per te. Tutto il trucco è questo: rispondi a cinque, poi fanne tre."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i05-r06",
+      "es": "Und was denken Sie über unsere Geschichte?",
+      "pt": "E cosa pensa della nostra storia?",
+      "tts": "Und was denken Sie über unsere Geschichte?",
+      "receptivo": true,
+      "acao": "Questa è la sesta domanda, ed è quella che declini. Non sei tenuto ad avere un'opinione, in nessuna lingua."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i05-n09",
+      "tom": "protege",
+      "pt": "Qui questo corso non ti dà lessico d'opinione, di proposito. Ti dà due vie d'uscita e un fatto sulla norma."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa",
+        "reparo/ingles"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i05-p12",
+      "promptPt": "L'argomento è cambiato e non sei stato tu a cambiarlo. Declinalo una volta, con calore, e lascia la porta aperta. Parla ora.",
+      "audioKey": "de-i05-t12",
+      "es": "Davon weiß ich zu wenig.",
+      "pinyin": "dah-FON vyce ikh tsoo VAY-nikh",
+      "pt": "Ne so troppo poco.",
+      "tts": "Davon weiß ich zu wenig."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i05-p13",
+      "promptPt": "Ci è tornato comunque su. Di' quella cortese e definitiva — la versione a cui non resta nulla da rispondere. Parla ora.",
+      "audioKey": "de-i05-t13",
+      "es": "Da möchte ich lieber nichts zu sagen.",
+      "pinyin": "dah MURKH-tuh ikh LEE-ber nikhts tsoo ZAH-gen",
+      "pt": "Preferisco non dire niente al riguardo.",
+      "tts": "Da möchte ich lieber nichts zu sagen."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i05-n10",
+      "tom": "protege",
+      "pt": "Simboli, slogan e saluti comportano qui fino a tre anni, e le eccezioni sono l'arte, l'insegnamento e la cronaca."
+    },
+    {
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i05-p14",
+      "promptPt": "Due rifiuti non l'hanno smosso, e il tavolo è calato nel silenzio. Smuovilo tu, ad alta voce e in modo garbato. Parla ora.",
+      "audioKey": "de-i05-t14",
+      "es": "Können wir über etwas anderes sprechen?",
+      "pinyin": "KUR-nen veer UE-ber ET-vass AN-duh-res SHPREH-khen",
+      "pt": "Possiamo parlare d'altro?",
+      "tts": "Können wir über etwas anderes sprechen?"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-i05-s01",
+      "es": "Ich komme aus Manchester. Ich bin zehn Tage hier. Es gefällt mir sehr.",
+      "pinyin": "ikh KOM-uh owss MAN-ches-ter. ikh bin tsayn TAH-guh heer. es guh-FELT meer zayr",
+      "pt": "Ripeti in ombra le tre che arrivano per prime, nell'ordine in cui arrivano.",
+      "tts": "Ich komme aus Manchester. Ich bin zehn Tage hier. Es gefällt mir sehr."
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i05-n11",
+      "bloco": "recap",
+      "tom": "ganha",
+      "pt": "I05 fatto. Cinque risposte pronte, tre domande di rimando, e una frase che chiude un argomento senza chiudere il tavolo."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Cinque risposte pronte, tre domande di rimando, una via d'uscita",
+    "secoes": [
+      {
+        "titulo": "Le cinque, nell'ordine in cui atterrano",
+        "corpo": "Woher kommen Sie, wie lange bleiben Sie, sprechen Sie Deutsch, gefällt es Ihnen, e una qualche versione di ciò che hai visto finora. Nessuna va costruita: ich komme aus, ich bin zehn Tage hier, nur ein bisschen, es gefällt mir sehr. Impara le quattro risposte come quattro oggetti fissi e i due minuti di apertura di ogni serata smettono del tutto di costarti qualcosa.",
+        "exemplos": [
+          {
+            "es": "Ich komme aus Manchester.",
+            "pt": "Vengo da Manchester."
+          },
+          {
+            "es": "Ich bin zehn Tage hier.",
+            "pt": "Sono qui per dieci giorni."
+          }
+        ]
+      },
+      {
+        "titulo": "Nur ein bisschen, e perché vince la risposta onesta",
+        "corpo": "Sie sprechen aber gut Deutsch è un complimento con dentro un piccolo tocco di sorpresa, e la tentazione è rispondere con un paragrafo su quanto in realtà parli male. Danke, e poi nur ein bisschen se insistono, fa tutto il lavoro: accetta la gentilezza e imposta la velocità per tutto ciò che segue. La persona di fronte ora sa di dover andare più piano senza che glielo si sia chiesto, che è esattamente la cosa che volevi."
+      },
+      {
+        "titulo": "Quando passano all'inglese",
+        "corpo": "Succede, e vale la pena conoscere la conformazione del terreno. Nell'indagine europea del 2023 il 65% degli adulti in Germania ha dichiarato di parlare inglese abbastanza bene da sostenere una conversazione, contro il 47% nell'UE. Un'altra indagine che poneva una domanda diversa ha trovato l'87,7% dei 25–64enni a dichiarare almeno una lingua straniera ma solo il 28% di questi a definirsi competente — ecco perché i due numeri non vanno sovrapposti. Le scomposizioni europee dicono che sono gli intervistati più giovani, più istruiti e di grandi città a riportare l'inglese più forte, e non esiste alcun dato scomposto all'interno della Germania, tra Est e Ovest. In pratica: non dare nulla per scontato sull'individuo, apri in tedesco, e accetta il passaggio quando ti viene offerto."
+      },
+      {
+        "titulo": "Rispondi a cinque, poi fanne tre",
+        "corpo": "La svolta è la parte che la maggior parte dei visitatori non compie mai. Haben Sie einen Tipp für morgen mette la serata nelle loro mani, e le due domande di seguito sono stampi che possiedi già dalla strada: wo ist e wann ist. Aggiungi was kostet der Eintritt e hai convertito le chiacchiere in un programma per domani, usando quattro frasi che non cambiano mai forma."
+      },
+      {
+        "titulo": "La sesta domanda, e le due frasi che la chiudono",
+        "corpo": "A volte il tavolo si volge al Novecento e qualcuno ti chiede cosa ne pensi. Questo corso deliberatamente non ti dà lessico per avere un'opinione — non per condannare, non per relativizzare, non per mostrare che stai dalla parte giusta. Il lessico d'opinione in una lingua che non controlli è precisamente il meccanismo dell'incidente. Quello che ti dà invece sono due vie d'uscita neutre, «Davon weiß ich zu wenig» e «Da möchte ich lieber nichts zu sagen», e una terza che sposta l'argomento, «Können wir über etwas anderes sprechen?». Se qualcuno fa la battuta, la risposta è il silenzio e un cambio di argomento: non unirti mai a essa, e non provare mai a correggerla in una lingua che stai ancora imparando. Dietro a tutto questo c'è un fatto, non una preferenza. Il § 86a StGB punisce i simboli, gli slogan e i saluti di organizzazioni incostituzionali con fino a tre anni o una multa — la parola nella norma è Grußformen, forme di saluto — e le eccezioni del § 86 Abs. 4 sono l'educazione civica, l'arte, la scienza, la ricerca, l'insegnamento e la cronaca. Nessuna di esse copre un visitatore, e non lo fanno nemmeno una macchina fotografica, una battuta o un bicchiere."
+      }
+    ]
+  },
+  "slot": "I05",
+  "permissao": "Hai il permesso di avere esattamente una frase per domanda e non di più. Nur ein bisschen è una risposta completa, es gefällt mir sehr è un verdetto completo, e nessuna delle due deve a nessuno un paragrafo. Hai il permesso di accettare il passaggio all'inglese nel momento in cui viene offerto senza trattarlo come un fallimento, e hai il permesso — questo è quello importante — di declinare un argomento. Nessuno a quel tavolo ha diritto alla tua opinione su alcunché, e «Davon weiß ich zu wenig» è una risposta intera, adulta, non ripetibile.",
+  "permissaoAudioKey": "de-i05-n09",
+  "espelho": "Chiunque abbia ospitato un visitatore a casa ha fatto queste cinque domande nello stesso ordine senza accorgersene. Lo sconosciuto che risponde con frasi brevi e calorose e poi ti fa a sua volta una domanda è quello a cui finisci per dare indicazioni, un numero di telefono e un'opinione su dove mangiare.",
+  "fichasCulturais": [
+    {
+      "sinal": "Apri in un tedesco curato e la risposta torna dritta in inglese.",
+      "suaLeitura": "Il mio tedesco era così scarso che hanno rinunciato a me.",
+      "oQueEAli": "Di solito è la via più rapida verso ciò che hai chiesto, offerta da qualcuno che ce l'ha a disposizione. Nell'indagine europea del 2023 il 65% degli adulti in Germania ha dichiarato di parlare inglese abbastanza bene da sostenere una conversazione, contro una media UE del 47%. Il passaggio è un servizio che viene reso, non un voto che viene dato.",
+      "oQueVoceFaz": "Di' danke, accetta l'inglese, e continua ad aprire in tedesco la volta dopo. È l'apertura a guadagnare la benevolenza; la lingua in cui arriva la risposta non sono affari tuoi.",
+      "oQueMelhora": "Smetti di leggere la disponibilità come rifiuto, e continui a usare il tedesco che di fatto sta funzionando per te.",
+      "ondeNaoVale": "Non è una promessa sulla persona che hai davanti. Un'altra indagine che poneva una domanda diversa ha trovato l'87,7% dei 25–64enni a dichiarare almeno una lingua straniera ma solo il 28% di questi a definirsi competente — le due cifre non sono intercambiabili e non si sommano. Le scomposizioni europee favoriscono gli intervistati più giovani, più istruiti e di grandi città, e non esiste alcun dato scomposto tra Est e Ovest all'interno della Germania.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-i05-n05",
+        "de-i05-n06"
+      ]
+    },
+    {
+      "sinal": "Il tavolo si volge al Novecento e qualcuno ti chiede, direttamente, cosa ne pensi.",
+      "suaLeitura": "Dovrei dire qualcosa che mostri che sto dalla parte giusta di questa faccenda.",
+      "oQueEAli": "L'argomento è al tempo stesso memoria di Stato e diritto penale. Il § 86a StGB punisce i simboli, gli slogan e i saluti di organizzazioni incostituzionali con fino a tre anni o una multa, e il § 130 Abs. 3 punisce l'approvare, negare o minimizzare i crimini nazisti con fino a cinque anni — il minimizzare basta di per sé. Le eccezioni del § 86 Abs. 4 sono l'educazione civica, l'arte, la scienza, la ricerca, l'insegnamento e la cronaca di storia o attualità.",
+      "oQueVoceFaz": "Usa una frase e lasciala andare: «Davon weiß ich zu wenig.» Se ci torna su, «Da möchte ich lieber nichts zu sagen.» Se non si smuove, «Können wir über etwas anderes sprechen?» Se qualcuno fa la battuta, non dire niente e cambia argomento. E non fare mai il gesto — non per una foto, non in gruppo, non dopo quattro birre.",
+      "oQueMelhora": "Ti tieni la serata, ti tieni il tavolo, e non ti ritrovi mai a improvvisare una posizione in una lingua in cui sei da dieci giorni.",
+      "ondeNaoVale": "Questa è un'affermazione su una norma, non sulle persone. Non è prova che l'argomento sia vietato in conversazione, che qualcuno lo eviti, o che un visitatore rischi di essere incriminato: tra il 2023 e il 2026 non è stato trovato alcun caso di un visitatore straniero ai sensi del § 86a, e i due casi di turisti riportati risalgono al 2017 con i loro esiti non agli atti. La regola sul gesto riguarda la condotta, e vale a prescindere.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-i05-n10"
+      ]
+    }
+  ]
+}

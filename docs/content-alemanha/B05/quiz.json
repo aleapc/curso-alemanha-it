@@ -1,0 +1,96 @@
+{
+  "id": "q-b05",
+  "nivel": "basico",
+  "titulo": "Quiz — Tre domande, e hai già tutte e tre le risposte",
+  "subtitulo": "Lo sportello, la forma di cortesia, e il saluto che dipende dalla pista",
+  "introAudioKey": "de-b05-q-i",
+  "introPt": "Tre domande allo sportello, due vie d'uscita quando la risposta torna veloce, e una scelta sociale che non fai mai.",
+  "cenario": "Controllo passaporti in un aeroporto tedesco, venti minuti dopo l'atterraggio.",
+  "dialogo": [
+    {
+      "audioKey": "de-b05-q01",
+      "voz": "target_de_m",
+      "es": "Was ist der Grund Ihrer Reise?",
+      "pt": "Qual è il motivo del suo viaggio?",
+      "tts": "Was ist der Grund Ihrer Reise?"
+    },
+    {
+      "audioKey": "de-b05-q02",
+      "voz": "target_de_f",
+      "es": "Ich mache Urlaub.",
+      "pt": "Sono in vacanza.",
+      "tts": "Ich mache Urlaub."
+    },
+    {
+      "audioKey": "de-b05-q03",
+      "voz": "target_de_m",
+      "es": "Wie lange bleiben Sie in Deutschland?",
+      "pt": "Quanto tempo si ferma in Germania?",
+      "tts": "Wie lange bleiben Sie in Deutschland?"
+    },
+    {
+      "audioKey": "de-b05-q04",
+      "voz": "target_de_f",
+      "es": "Ich bleibe zehn Tage.",
+      "pt": "Mi fermo dieci giorni.",
+      "tts": "Ich bleibe zehn Tage."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "L'agente ti chiede dove alloggi e il nome della via è lungo. Qual è la mossa migliore?",
+      "opcoes": [
+        "Compitarlo lettera per lettera",
+        "Dire il tipo di posto, poi mostrare l'indirizzo scritto",
+        "Dare solo il codice postale",
+        "Consegnare il telefono sbloccato"
+      ],
+      "correta": 1,
+      "explica": "Ich wohne in einem Hotel risponde alla domanda, e Die Adresse steht hier la conclude. Leggere ad alta voce e a velocità il nome di una via tedesca non è né richiesto né più rapido."
+    },
+    {
+      "pergunta": "Chi decide se uno scambio passa dal Sie al du?",
+      "opcoes": [
+        "La persona più giovane",
+        "Chi parla meglio il tedesco",
+        "L'altra persona, offrendolo — ed è praticamente irreversibile",
+        "Nessuno: il passaggio è automatico dopo il primo incontro"
+      ],
+      "correta": 2,
+      "explica": "Una guida di stile descrive il du come offerto dall'alto verso il basso; un linguista della Freie Universität Berlin aggiunge che chiunque può offrirlo e che la vera asimmetria è che chi riceve l'offerta difficilmente può rifiutare. Non sei mai tu ad aprire quella porta."
+    },
+    {
+      "pergunta": "«Entschuldigung, ich habe das nicht verstanden.» Cosa fa questa frase?",
+      "opcoes": [
+        "Si scusa di essere straniero",
+        "Chiede l'intera conversazione in inglese",
+        "Compra una ripetizione, senza scusarsi di esistere",
+        "Chiude educatamente la conversazione"
+      ],
+      "correta": 2,
+      "explica": "La formula è Entschuldigung più ciò di cui hai bisogno da uno sconosciuto. Attaccaci una richiesta diversa e fa un lavoro diverso: sprechen Sie Englisch consegna la lingua, ich spreche nur wenig Deutsch fissa il livello."
+    },
+    {
+      "pergunta": "Atterri ad Amburgo alle quattro del pomeriggio e senti «Moin». Cos'è?",
+      "opcoes": [
+        "Un Guten Morgen abbreviato, usato per errore nel pomeriggio",
+        "Un saluto del nord da un'antica parola che significa «piacevole», usato a qualsiasi ora",
+        "Un dialetto che gli estranei dovrebbero ripetere",
+        "Un modo regionale di dire addio"
+      ],
+      "correta": 1,
+      "explica": "Moin viene da moien Dag e dal basso-tedesco moi, quindi ciò che sopravvive è l'aggettivo — ed è per questo che l'ora non conta. Riconoscilo; rispondi Guten Tag, che funziona in ogni sala arrivi del paese."
+    },
+    {
+      "pergunta": "Su quanto inglese puoi contare allo sportello?",
+      "opcoes": [
+        "Tutti i funzionari sono tenuti a parlarlo",
+        "Quasi niente — metti in conto solo il tedesco",
+        "Circa due adulti su tre dicono di saper sostenere una conversazione in inglese, il che è ampia disponibilità, non una garanzia",
+        "Dipende solo dalla grandezza dell'aeroporto"
+      ],
+      "correta": 2,
+      "explica": "Il sessantacinque per cento l'ha dichiarato nel sondaggio europeo del 2023, contro una media UE del quarantasette. Un altro sondaggio che chiede il livello anziché la conversazione dà una quota di persone competenti molto più piccola — domande diverse, e non qualcosa da sommare insieme."
+    }
+  ]
+}

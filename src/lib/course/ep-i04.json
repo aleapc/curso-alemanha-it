@@ -1,0 +1,498 @@
+{
+  "id": "i04",
+  "nivel": "intermediario",
+  "numero": 22,
+  "parte": "I04",
+  "titulo": "Die Runde — un tavolo, un giro, una parola per il conto",
+  "subtitulo": "Sedersi, ordinare, dividere e tornare a casa, in frasi che non cambiano mai forma",
+  "cena": "Una Kneipe a Lipsia alle nove e mezza: siete in quattro, un solo tavolo lungo, una lavagna al muro senza prezzi e un lettore di carte che nessuno ha toccato per tutta la sera.",
+  "moldura": "ganha",
+  "frasePiso": "Zahlen, bitte — e poi una parola per insieme o separati. È tutta qui la fine di una serata tedesca.",
+  "decisao": "dove mi siedo e quanto costa la serata; chiedo il conto insieme o separato, arrotondo o no, e mi alzo dal tavolo con il biglietto di ritorno già comprato",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-i04-bargeld",
+      "afirmacao": "In Germania non esiste alcun obbligo legale di accettare le carte. Il § 14 Abs. 1 BBankG fa delle banconote in euro «das einzige unbeschränkte gesetzliche Zahlungsmittel», e la posizione della BCE è che un commerciante può rifiutare il contante solo dove acquirente e venditore hanno concordato prima un altro mezzo — quindi «nur Bargeld» e «nur Karte» sono entrambi leciti. Bundesbank, Zahlungsverhalten in Deutschland 2025 (pubblicato il 17.06.2026): per la prima volta più della metà dei pagamenti quotidiani è avvenuta senza contante (55%, contro il 49% del 2023), il contante resta lo strumento più usato per numero di transazioni (45%) e il 23% del giro d'affari. Il contante poteva essere usato nel 94% degli acquisti in presenza; il pagamento senza contante è stato o sarebbe stato accettato nell'86% dei casi osservati (81% nel 2023, 61% nel 2021). Un buon quarto degli intervistati ha avuto almeno un pagamento con carta o telefono fallito nel mese precedente (18% nel 2023), la causa dominante essendo che il beneficiario non offre alcun metodo senza contante (77%). Il contante resta il mezzo più usato nel commercio quotidiano, nella Gastronomie e ai mercati e nelle vendite in strada.",
+      "fonte": "§ 14 Abs. 1 BBankG verbatim (gesetze-im-internet.de) + FAQ do BCE verbatim + Deutsche Bundesbank, «Zahlungsverhalten in Deutschland 2025», Stand jul/2026, publicado 17/6/2026, PDF de 82 páginas lido; metodologia forsa, 6.070 entrevistas, campo 8/9 a 2/12/2025, 5.302 diários, base POS n=10.394. Dossiê §§ 4.1, 4.2, 4.4.",
+      "ano": 2026,
+      "revisarAte": "2028-06-30",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-i04-n05",
+        "de-i04-n06"
+      ]
+    },
+    {
+      "id": "de-i04-trinkgeld",
+      "afirmacao": "La legge fiscale tedesca deve dichiarare che una mancia è volontaria per poterla esentare. Il § 3 Nr. 51 EStG esenta le mance date «freiwillig und ohne dass ein Rechtsanspruch auf sie besteht», in aggiunta all'importo dovuto per il servizio — giuridicamente, il prezzo del pasto è già il prezzo pieno. L'associazione di categoria dice lo stesso: DEHOGA Bundesverband, dichiarazione del 04.06.2024, «Trinkgelder sind und bleiben ein freiwilliges Dankeschön für tolle Gastfreundschaft und guten Service.» Non esiste alcuna norma né alcuna statistica ufficiale su quanto.",
+      "fonte": "§ 3 Nr. 51 EStG verbatim (gesetze-im-internet.de); DEHOGA Bundesverband, statement de 4/6/2024 (RA Jürgen Benad), verbatim. Dossiê § 4.5. ⚠ Os «5% a 10%» estão RECUSADOS como fato: a única fonte é pesquisa encomendada pela Lightspeed (fornecedora de terminais de PDV com função de gorjeta) com o instituto Medallia, maio/2025, ~1.000 respondentes.",
+      "ano": 2024,
+      "revisarAte": "2029-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-i04-n09"
+      ]
+    },
+    {
+      "id": "de-i04-endpreis",
+      "afirmacao": "Il numero sul menù è il numero che si paga. Preisangabenverordnung 2022, § 3 Abs. 1: un commerciante che offre beni o servizi ai consumatori «hat die Gesamtpreise anzugeben», e il § 2 definisce il Gesamtpreis come il prezzo dovuto «einschließlich der Umsatzsteuer und sonstiger Preisbestandteile». Alla cassa non si aggiunge nulla. Il § 12 UStG fissa il 19% e l'aliquota ridotta del 7%; il BMF-Schreiben del 22.12.2025 (GZ III C 2 - S 7220/00023/014/027) ha reintrodotto l'aliquota ridotta sui servizi di ristorazione e catering dal 1 gennaio 2026, escludendo espressamente le bevande («mit Ausnahme der Abgabe von Getränken»). A causa della PAngV il cliente non vede mai nessuna delle due aliquote — solo un numero.",
+      "fonte": "PAngV 2022 §§ 2 e 3 Abs. 1 verbatim e § 12 UStG verbatim (gesetze-im-internet.de); BMF-Schreiben de 22/12/2025, PDF aberto, vigência verbatim «auf alle Umsätze ab dem 1. Januar 2026». Dossiê § 4.6. A única exceção declarada a esta regra é o Pfand (§ 7 PAngV, dossiê § 9.5).",
+      "ano": 2026,
+      "revisarAte": "2027-06-30",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "de-i04-n04"
+      ]
+    },
+    {
+      "id": "de-i04-fahrschein",
+      "afirmacao": "Viaggiare senza un biglietto valido in Germania comporta sia una penale sia un reato penale, e le due basi giuridiche funzionano in direzioni opposte. Trasporto urbano, § 9 Abs. 2 BefBedV: l'operatore può imporre una tariffa maggiorata di «bis zu 60 Euro» — un tetto. Ferrovia, § 6 EVO (versione 2023): la tariffa maggiorata è il doppio della tariffa ordinaria, «mindestens jedoch 60 Euro» — una soglia minima, che può salire su un viaggio lungo. Entrambe si riducono a 7 euro se il passeggero dimostra entro una settimana dal controllo di possedere un biglietto valido. Il § 6 Abs. 4 EVO elimina del tutto la penale dove la stazione di partenza non aveva né una biglietteria aperta né una macchina funzionante. E il § 265a StGB, «Erschleichen von Leistungen», copre «die Beförderung durch ein Verkehrsmittel» con «Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe», col tentativo punibile. Il 16 aprile 2026 il Bundestag ha respinto entrambe le proposte di abrogazione del § 265a (Drucksachen 21/2722 e 21/1757); al 5 agosto 2026 è pienamente in vigore. Anche i biglietti cartacei vanno obliterati: il § 9 Abs. 1 Nr. 3 BefBedV collega la tariffa maggiorata a un biglietto non convalidato senza indugio.",
+      "fonte": "§ 9 BefBedV, § 6 EVO (versão consolidada 2023), § 265a StGB — todos verbatim em gesetze-im-internet.de, lidos em 5/8/2026; Beförderungsbedingungen da DB Stand 1/1/2026 verbatim; página do Deutscher Bundestag sobre a votação de 16/4/2026. Dossiê §§ 5.4 e 5.6. ⚠ CORREÇÃO DE PREMISSA: «§ 9 Abs. 3 EVO» e «§ 12 Abs. 1 VO-ABB», que circulam como base legal, NÃO são os dispositivos corretos. O curso registra o resultado da votação e não toma lado no debate.",
+      "ano": 2026,
+      "revisarAte": "2027-08-05",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": [
+        "de-i04-n10",
+        "de-i04-n11"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i04-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "tom": "ganha",
+      "pt": "Una serata fuori qui ha tre momenti: sedersi, il giro e il conto. Tre frasi brevi coprono tutto."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i04-n02",
+      "bloco": "molde",
+      "tom": "ganha",
+      "pt": "Apri con lo stampo che porti già con te: Haben Sie, e poi la cosa. Stasera la cosa è un tavolo per quattro."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i04-r01",
+      "es": "Guten Abend! Sind Sie zu viert?",
+      "pt": "Buonasera! Siete in quattro?",
+      "tts": "Guten Abend! Sind Sie zu viert?"
+    },
+    {
+      "consulta": [
+        "mesa/mesa",
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "HABEN-SIE",
+      "encaixe": "einen Tisch für vier",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i04-p01",
+      "promptPt": "Sei in piedi appena dentro la porta con tre amici dietro di te e nessuno ha ancora alzato lo sguardo. Parla ora.",
+      "audioKey": "de-i04-t01",
+      "es": "Haben Sie einen Tisch für vier?",
+      "pinyin": "HAH-ben zee EYE-nen tish fuer feer",
+      "pt": "Avete un tavolo per quattro?",
+      "tts": "Haben Sie einen Tisch für vier?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i04-n03",
+      "bloco": "corpo",
+      "tom": "ganha",
+      "pt": "I prezzi possono essere al muro o da nessuna parte. Chiedere quanto costa una cosa prima del primo giro è normale, non maleducato."
+    },
+    {
+      "consulta": [
+        "mesa/bebida",
+        "compras/quanto"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WAS-KOSTET",
+      "encaixe": "ein Bier",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i04-p02",
+      "promptPt": "La lavagna al muro elenca cosa versano e nessun numero, e stai per ordinare quattro volte la stessa cosa. Parla ora.",
+      "audioKey": "de-i04-t02",
+      "es": "Was kostet ein Bier?",
+      "pinyin": "vass KOS-tet ine beer",
+      "pt": "Quanto costa una birra?",
+      "tts": "Was kostet ein Bier?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i04-n04",
+      "tom": "ganha",
+      "pt": "Il numero sul menù è il numero che paghi. L'imposta è già dentro per legge e alla cassa non si aggiunge nulla."
+    },
+    {
+      "consulta": [
+        "mesa/bebida",
+        "dieta/sem"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "OHNE",
+      "encaixe": "Alkohol",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i04-p03",
+      "promptPt": "Uno dei quattro deve guidare per tornare a casa e non vuole passare la serata a spiegarlo. Chiedi per lei. Parla ora.",
+      "audioKey": "de-i04-t03",
+      "es": "Haben Sie etwas ohne Alkohol?",
+      "pinyin": "HAH-ben zee ET-vass OH-nuh AL-ko-hohl",
+      "pt": "Avete qualcosa senza alcol?",
+      "tts": "Haben Sie etwas ohne Alkohol?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i04-r02",
+      "es": "Klar. Apfelschorle, Spezi oder alkoholfreies Bier.",
+      "pt": "Certo. Spritzer di mela, cola e aranciata, o birra analcolica.",
+      "tts": "Klar. Apfelschorle, Spezi oder alkoholfreies Bier."
+    },
+    {
+      "consulta": [
+        "mesa/bebida"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-MOCHTE",
+      "encaixe": "eine Apfelschorle",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i04-p04",
+      "promptPt": "Ne ha proposte tre, e la prima che ha nominato è quella che lei vuole. Ordinala per lei. Parla ora.",
+      "audioKey": "de-i04-t04",
+      "es": "Ich möchte eine Apfelschorle, bitte.",
+      "pinyin": "ikh MURKH-tuh EYE-nuh AP-fel-shor-luh, BIT-tuh",
+      "pt": "Vorrei uno spritzer di mela, per favore.",
+      "tts": "Ich möchte eine Apfelschorle, bitte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i04-n05",
+      "tom": "protege",
+      "pt": "Un buon quarto delle persone qui ha avuto un pagamento con carta fallito il mese scorso, soprattutto perché il locale non aveva proprio la macchina."
+    },
+    {
+      "consulta": [
+        "pagar/cartao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i04-p05",
+      "promptPt": "Prima che qualcuno beva qualcosa, risolvi l'unica domanda che decide come finisce la serata. Falla. Parla ora.",
+      "audioKey": "de-i04-t05",
+      "es": "Kann ich mit Karte zahlen?",
+      "pinyin": "kann ikh mitt KAR-tuh TSAH-len",
+      "pt": "Posso pagare con la carta?",
+      "tts": "Kann ich mit Karte zahlen?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i04-r03",
+      "es": "Nur Bargeld, tut mir leid.",
+      "pt": "Solo contanti, mi dispiace.",
+      "tts": "Nur Bargeld, tut mir leid.",
+      "receptivo": true,
+      "acao": "Due parole su una porta o dalla bocca di qualcuno. Sentile presto e la serata ha ancora un piano; sentile tardi e non ce l'ha."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i04-n06",
+      "tom": "ganha",
+      "pt": "Nur Bargeld è perfettamente lecito qui. Le banconote sono l'unica valuta a corso legale illimitato, e le carte sono facoltative."
+    },
+    {
+      "consulta": [
+        "pagar/dinheiro",
+        "compras/pagar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "ICH-SUCHE",
+      "encaixe": "einen Geldautomaten",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i04-p06",
+      "promptPt": "Hai undici euro in tasca e il giro costerà di più. Ferma qualcuno mentre esci. Parla ora.",
+      "audioKey": "de-i04-t06",
+      "es": "Ich suche einen Geldautomaten.",
+      "pinyin": "ikh ZOO-khuh EYE-nen GELT-ow-toh-mah-ten",
+      "pt": "Sto cercando un bancomat.",
+      "tts": "Ich suche einen Geldautomaten."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i04-n07",
+      "bloco": "capsula",
+      "tom": "ganha",
+      "pt": "Zahlen, bitte. Due parole e la serata comincia a chiudersi. Poi un'altra parola decide come si chiude."
+    },
+    {
+      "consulta": [
+        "mesa/conta",
+        "pagar/pedir"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i04-p07",
+      "promptPt": "I bicchieri sono vuoti, i cappotti sono sugli schienali delle sedie, e lui è a due tavoli di distanza. Incrocia il suo sguardo e dillo. Parla ora.",
+      "audioKey": "de-i04-t07",
+      "es": "Zahlen, bitte.",
+      "pinyin": "TSAH-len, BIT-tuh",
+      "pt": "Il conto, per favore.",
+      "tts": "Zahlen, bitte."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i04-r04",
+      "es": "Zusammen oder getrennt?",
+      "pt": "Insieme o separati?",
+      "tts": "Zusammen oder getrennt?"
+    },
+    {
+      "consulta": [
+        "pagar/rachar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i04-p08",
+      "promptPt": "Tiene in mano la cartellina e aspetta, e voi quattro non avete concordato niente prima. Una parola. Parla ora.",
+      "audioKey": "de-i04-t08",
+      "es": "Getrennt, bitte.",
+      "pinyin": "guh-TRENT, BIT-tuh",
+      "pt": "Separati, per favore.",
+      "tts": "Getrennt, bitte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i04-n08",
+      "tom": "ganha",
+      "pt": "Zusammen è insieme, getrennt è separati. Una parola risponde, e puoi decidere quale prima ancora di sederti."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i04-n09",
+      "tom": "ganha",
+      "pt": "Una mancia è volontaria per legge — la norma dice che non c'è alcun diritto ad essa. Non esiste alcuna percentuale ufficiale da nessuna parte."
+    },
+    {
+      "consulta": [
+        "pagar/gorjeta"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i04-p09",
+      "promptPt": "Il tuo è arrivato a diciotto euro e quaranta, stai dando una banconota da venti, e vorresti che lo scambio finisse lì. Parla ora.",
+      "audioKey": "de-i04-t09",
+      "es": "Stimmt so.",
+      "pinyin": "shtimmt zo",
+      "pt": "Tenga il resto.",
+      "tts": "Stimmt so."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i04-r05",
+      "es": "Wir machen gleich Feierabend.",
+      "pt": "Stiamo per chiudere.",
+      "tts": "Wir machen gleich Feierabend.",
+      "receptivo": true,
+      "acao": "Quello è l'orario di chiusura annunciato con gentilezza. Ordina ora o chiedi il conto — non verrà detto due volte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i04-n10",
+      "tom": "protege",
+      "pt": "Viaggiare senza biglietto qui non è solo sessanta euro. È anche un reato penale, e il tentativo conta."
+    },
+    {
+      "consulta": [
+        "transporte/qual-trem",
+        "transporte/bilhete"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WANN-IST",
+      "encaixe": "die letzte Bahn",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i04-p10",
+      "promptPt": "Sono le undici e venti e qualcuno ha appena proposto un altro giro. Scopri quanto tempo hai davvero. Parla ora.",
+      "audioKey": "de-i04-t10",
+      "es": "Wann ist die letzte Bahn?",
+      "pinyin": "vahn ist dee LETS-tuh bahn",
+      "pt": "Quando parte l'ultimo treno?",
+      "tts": "Wann ist die letzte Bahn?"
+    },
+    {
+      "consulta": [
+        "transporte/plataforma",
+        "chegar/sair"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "die Haltestelle",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-i04-p11",
+      "promptPt": "Hai undici minuti e nessuna idea di quale angolo sia. Chiedi all'uomo che raccoglie i bicchieri. Parla ora.",
+      "audioKey": "de-i04-t11",
+      "es": "Wo ist die Haltestelle?",
+      "pinyin": "voh ist dee HAHL-tuh-shtell-uh",
+      "pt": "Dov'è la fermata?",
+      "tts": "Wo ist die Haltestelle?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-i04-n11",
+      "tom": "protege",
+      "pt": "Biglietto cartaceo, obliteralo prima di salire. Comprato nell'app, è già obliterato e non c'è niente da fare."
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer",
+        "chegar/sair"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "DANKE",
+      "encaixe": "Vielen Dank",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-i04-p12",
+      "promptPt": "Il tavolo resta e tu no. Chiudi la tua serata senza chiudere quella degli altri. Parla ora.",
+      "audioKey": "de-i04-t12",
+      "es": "Vielen Dank! Ich muss los.",
+      "pinyin": "FEE-len dank! ikh muss lohs",
+      "pt": "Grazie mille! Devo andare.",
+      "tts": "Vielen Dank! Ich muss los."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i04-r07",
+      "es": "Schade! Tschüss, bis morgen.",
+      "pt": "Peccato! Ciao, a domani.",
+      "tts": "Schade! Tschüss, bis morgen."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-i04-r06",
+      "es": "Die Fahrkarte, bitte.",
+      "pt": "Il biglietto, per favore.",
+      "tts": "Die Fahrkarte, bitte.",
+      "receptivo": true,
+      "acao": "Consegnalo e non dire altro. Se davvero ne avevi uno valido con te, una settimana è il tempo per dimostrarlo."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-i04-s01",
+      "molde": "HABEN-SIE",
+      "es": "Haben Sie einen Tisch? Haben Sie etwas ohne Alkohol? Haben Sie WLAN?",
+      "pinyin": "HAH-ben zee EYE-nen tish. HAH-ben zee ET-vass OH-nuh AL-ko-hohl. HAH-ben zee VAY-lahn",
+      "pt": "Ripeti in shadowing una sola apertura per tutta una serata: il tavolo, la bevanda e la rete.",
+      "tts": "Haben Sie einen Tisch? Haben Sie etwas ohne Alkohol? Haben Sie WLAN?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-i04-n12",
+      "bloco": "recap",
+      "tom": "ganha",
+      "pt": "I04 fatto. Un tavolo, un giro, zahlen bitte, getrennt, stimmt so — e un biglietto in mano prima del binario."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Le quattro parole che chiudono una serata tedesca",
+    "secoes": [
+      {
+        "titulo": "Zahlen, bitte — e poi una parola",
+        "corpo": "Zahlen, bitte è tutta la richiesta. La domanda che può tornare indietro è zusammen oder getrennt, e vale la pena avere la risposta pronta prima che arrivi. Zusammen vuol dire un conto solo per il tavolo; getrennt vuol dire che lui fa il giro, persona per persona, al tavolo, coi numeri in testa. Sono frasi da riconoscere e da dire, non una regola su come qui si comporta la gente: nessuna fonte ufficiale o istituzionale documenta la pratica, e questo corso non ne rivendica nessuna. Decidere in anticipo quale delle due vuoi è la differenza tra una chiusura pulita e quattro persone che fanno aritmetica a mezzanotte.",
+        "exemplos": [
+          {
+            "es": "Zahlen, bitte.",
+            "pt": "Il conto, per favore."
+          },
+          {
+            "es": "Getrennt, bitte.",
+            "pt": "Separati, per favore."
+          }
+        ]
+      },
+      {
+        "titulo": "Stimmt so, e cosa dice davvero la legge",
+        "corpo": "Stimmt so consegna la banconota e chiude la transazione: va bene così, tieni il resto. Vale la pena sapere perché non si deve nient'altro. Per esentare le mance dall'imposta sul reddito, il § 3 Nr. 51 EStG deve prima dichiarare cosa sono — denaro dato volontariamente, senza alcun diritto legale ad esso, in aggiunta all'importo dovuto per il lavoro. L'associazione di categoria lo mette allo stesso modo: un ringraziamento volontario. Quindi il prezzo del pasto è giuridicamente il prezzo intero, e arrotondare per eccesso è una decisione più che un dovere. Qualsiasi percentuale tu abbia letto non è una regola: nessuna norma e nessuna statistica ufficiale dice quanto, e la cifra che circola viene da un sondaggio commissionato da un'azienda che vende terminali di pagamento con sopra un pulsante per la mancia."
+      },
+      {
+        "titulo": "Contanti, carte e il terminale che non è per te",
+        "corpo": "Niente obbliga un'attività qui ad accettare una carta, e niente la obbliga ad accettare nemmeno il contante, purché lo dica in anticipo. Le banconote in euro sono per legge l'unica valuta a corso legale illimitato, ed è per questo che «nur Bargeld» sulla porta è lecito e non un raggiro. La direzione di marcia è reale — il pagamento senza contante è stato accettato nell'86% dei pagamenti osservati nel 2025, contro il 61% del 2021 — ma la Gastronomie è proprio dove il contante resiste. C'è una seconda trappola che vale la pena conoscere come meccanismo più che come affermazione: un terminale tedesco può essere collegato solo alla girocard, il sistema nazionale. Accettare le carte non è lo stesso che accettare la tua."
+      },
+      {
+        "titulo": "Perché il numero del menù è il numero finale",
+        "corpo": "La Preisangabenverordnung obbliga un commerciante a mostrare il Gesamtpreis, definito come il prezzo dovuto comprensivo dell'IVA e di ogni altra componente. Quindi la cifra sul menù è la cifra sul conto, che è l'opposto dell'abitudine nordamericana di aggiungere l'imposta alla fine. Vuol dire anche che un cambio di aliquota è per te invisibile: il cibo al ristorante è passato all'aliquota ridotta del 7% il 1 gennaio 2026 mentre le bevande sono rimaste al 19%, e il cliente vede un solo numero e nessuna percentuale. L'unica eccezione dichiarata a tutto questo è il Pfand su una bottiglia, che la legge dice debba essere mostrato accanto al prezzo ed espressamente non aggiunto ad esso."
+      },
+      {
+        "titulo": "Il ritorno a casa, e perché è una questione penale",
+        "corpo": "Viaggiare senza un biglietto valido comporta qui due conseguenze distinte, e il viaggiatore anglofono di solito ne aspetta solo una. La penale è fissata da due regole diverse che puntano in direzioni opposte: nel trasporto urbano l'operatore può imporre fino a sessanta euro — un tetto — mentre in ferrovia è il doppio della tariffa e almeno sessanta euro — una soglia minima che sale su un viaggio lungo. Entrambe scendono a sette euro se dimostri entro una settimana dal controllo che possedevi un biglietto valido, e la regola ferroviaria rinuncia del tutto alla penale se la stazione di partenza non aveva né una biglietteria aperta né una macchina funzionante. Separatamente, il § 265a StGB rende l'ottenere un trasporto con l'intenzione di non pagare un reato punibile con fino a un anno o una multa, e anche il tentativo è punibile. Due proposte di abrogarlo sono state respinte al Bundestag il 16 aprile 2026, quindi resta in vigore. Un biglietto cartaceo va anche obliterato prima di salire; uno comprato nell'app è già convalidato."
+      }
+    ]
+  },
+  "slot": "I04",
+  "permissao": "Ti è permesso chiedere quanto costa una bevanda prima di ordinarne quattro, e nessuno a quel tavolo penserà meno di te per questo. Ti è permesso rispondere a zusammen oder getrennt con una parola e nessuna spiegazione, consegnare la banconota e dire stimmt so senza aggiungere nulla, e non lasciare proprio niente — la legge è esplicita nel dire che nessuno ha un diritto ad essa. E ti è permesso lasciare un tavolo che resta: vielen Dank, ich muss los, tschüss è un'uscita completa e adulta a qualsiasi ora della notte.",
+  "permissaoAudioKey": "de-i04-n09",
+  "espelho": "Chiunque sia stato quello con una carta in mano in un pub solo-contanti a casa propria conosce già questa serata: il problema non è mai il denaro, è scoprirlo troppo tardi. La versione tedesca ha lo stesso rimedio — chiedi entrando, mentre hai ancora la scelta di dove sederti.",
+  "fichasCulturais": [
+    {
+      "sinal": "C'è un lettore di carte sul bancone e la risposta è comunque «nur Bargeld».",
+      "suaLeitura": "Stanno rifiutando i miei soldi, probabilmente per tenere la serata fuori dai registri.",
+      "oQueEAli": "Nessuna legge obbliga un'attività in Germania ad accettare le carte. Le banconote in euro sono l'unica valuta a corso legale illimitato, e un commerciante può concordare un altro mezzo in anticipo — quindi «solo contanti» e «solo carta» sono entrambe posizioni lecite. C'è un secondo strato: un terminale può essere collegato solo alla girocard, il sistema di debito nazionale, quindi una macchina sul bancone non è una promessa sulla tua carta.",
+      "oQueVoceFaz": "Chiedi prima del primo giro invece che dopo l'ultimo, e tieni dei contanti con te per una serata fuori. Se la risposta è solo contanti, la domanda sul bancomat è la frase successiva, non una sconfitta.",
+      "oQueMelhora": "Lo scopri nel momento in cui puoi ancora scegliere dove sederti, e smetti di leggere una lecita regola della casa come un'offesa.",
+      "ondeNaoVale": "Questo riguarda la sala in cui sei, non il Paese. L'accettazione del pagamento senza contante ha raggiunto l'86% dei casi osservati nel 2025, contro il 61% del 2021 — la tendenza è nel senso opposto. E il punto sulla girocard è un meccanismo, non una citazione: non esiste alcuna dichiarazione istituzionale che dica che le carte Visa o Mastercard straniere falliscono sui terminali solo-girocard.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-i04-n06"
+      ]
+    },
+    {
+      "sinal": "Il terminale viene girato verso di te con un pulsante per la mancia già acceso.",
+      "suaLeitura": "È lo stesso schermo che ho a casa, quindi ci si aspetta lo stesso quindici o venti per cento.",
+      "oQueEAli": "La legge fiscale tedesca deve dire cosa sia una mancia per poterla esentare, e ciò che dice è che viene data volontariamente, senza alcun diritto legale ad essa, in aggiunta a quanto è dovuto per il servizio. L'associazione di categoria ripete la parola freiwillig. Il prezzo del pasto è giuridicamente il prezzo intero, e il pulsante è una funzione che il titolare ha scelto di attivare.",
+      "oQueVoceFaz": "Decidi tu la cifra prima che appaia lo schermo. Stimmt so con una banconota, una cifra tonda detta ad alta voce, o niente del tutto sono tutte risposte complete.",
+      "oQueMelhora": "Smetti di farti negoziare da uno schermo, e l'importo smette di essere una percentuale importata da un altro Paese.",
+      "ondeNaoVale": "Non esiste alcuna norma né alcuna statistica ufficiale su quanto si dà, quindi questa non è nemmeno una licenza per dire che una cifra qualsiasi è corretta. L'unica fascia che circola viene da un sondaggio commissionato da un fornitore di terminali di pagamento con funzione mancia, e questo corso non ripete la cifra. E niente qui dice che lasciare contanti sul tavolo sia sbagliato — non c'è alcuna fonte per quell'affermazione in nessuna direzione.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-i04-n09"
+      ]
+    }
+  ]
+}

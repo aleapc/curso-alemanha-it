@@ -1,0 +1,413 @@
+{
+  "id": "b01",
+  "nivel": "basico",
+  "numero": 1,
+  "parte": "B01",
+  "titulo": "I suoni sono già tuoi — cinque lettere hanno bisogno di un nuovo compito",
+  "subtitulo": "Inglese e tedesco condividono la stessa bocca: sch, la ts di cats, Hand, Wasser, Buch. Ciò che cambia è quale lettera chiede quale suono, e una mano tiene in ordine le cinque",
+  "cena": "La vetrina di una panetteria a Berlino con quattro parole dipinte sopra — Weißbrot, Brötchen, Kuchen, Süß — dove ogni lettera è una che scrivi fin dai tempi della scuola e quattro di esse non sono il suono che il tuo occhio ti sta offrendo.",
+  "moldura": "ganha",
+  "frasePiso": "Incrocia per w e v, di' la seconda lettera, batti la z, arrotonda per ü e ö, lascia cadere la r finale in una piccola uh. Cinque mosse, e la parola arriva.",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-b01-regelwerk",
+      "afirmacao": "La tabella lettera-suono che questa parte insegna è quella ufficiale. L'Amtliches Regelwerk der deutschen Rechtschreibung, edizione 2024, in vigore dal 1º luglio 2024 (Rat für deutsche Rechtschreibung / IDS Mannheim), assegna al § 22(1) [v] alla w (wann, Wagen, Möwe), [z] alla s davanti a vocale (sagen, Seife, lesen, Laser), [s] alla s altrove (Hast, hopsen) e [ʃ] a sch. Al § 22(2) classifica la z non come consonante singola ma tra le Konsonantenverbindungen, [ts] (zart, Zaun, tanzen), accanto a qu = [kv] e x = [ks]. Il § 27 mette [ʃ] sulla s davanti a p o t all'inizio della RADICE anziché della parola — da cui verspotten con [ʃ] ma Wespe e Kiste senza.",
+      "fonte": "Rat für deutsche Rechtschreibung / IDS Mannheim, Amtliches Regelwerk der deutschen Rechtschreibung, edição 2024, em vigor desde 1/7/2024. PDF baixado, símbolos IPA íntegros. §22(1) verbatim: `[j] | j | ja, Jagd, Boje, Objekt` · `[s] | s | skurril, Hast, hopsen` · `[z] | s | sagen, Seife, lesen, Laser` · `[ʃ] | sch | scharf, Schaufel, rauschen` · `[v] | w | wann, Wagen, Möwe`. §22(2), sob «Konsonantenverbindungen»: `[ts] | z | zart, Zaun, tanzen, speziell, Zenit`. §27 verbatim: «Für den Laut [ʃ] am Anfang des Wortstammes vor folgendem [p] oder [t] schreibt man s statt sch.» Pesquisa §1.5.",
+      "ano": 2024,
+      "revisarAte": "2030-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-b01-n05"
+      ]
+    },
+    {
+      "id": "de-b01-vau",
+      "afirmacao": "La regola ordinata «la v tedesca è f» non è ciò che dice la norma ufficiale, e la correzione conta davanti a un menù. Il § 29 del Regelwerk 2024 dà [f] in una lista breve e chiusa di parole native — Vater, Veilchen, Vettel, Vetter, Vieh, viel, vielleicht, vier, Vlies, Vogel, Vogt, Volk, voll, von, vor, vordere, vorn, più Frevel e Nerv — e nel prefisso ver-. Il § 30 dà [v] nelle parole prese da altre lingue: privat, Revolution, Universität, Virus, zivil, Malve, Vase. E una terza lista è registrata come genuinamente oscillante tra [v] e [f]: Initiative, Larve, Pulver, evangelisch, Vers, Vesper, November, brave. Quindi Vater è f, Vase è v, e November va in entrambi i modi.",
+      "fonte": "Regelwerk 2024, §29 verbatim: «Vater, Veilchen, Vettel, Vetter, Vieh, viel, vielleicht, vier, Vlies, Vogel, Vogt, Volk, voll (aber füllen), von, vor, vordere, vorn. Dazu kommen: Frevel, Nerv (Nerven).» §30 verbatim sobre oscilação: «Bei einigen Wörtern schwankt die Aussprache von v zwischen [v] und [f] wie bei Initiative, Larve, Pulver, evangelisch, Vers, Vesper, November, brave.» Pesquisa §1.5, com o aviso explícito de que «a regra simplista ⟨v⟩ = [f] está errada, e a norma oficial diz isso».",
+      "ano": 2024,
+      "revisarAte": "2030-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-b01-n03"
+      ]
+    },
+    {
+      "id": "de-b01-er",
+      "afirmacao": "L'elemento di maggior valore in questa parte è che una r tedesca alla fine di una sillaba non è una consonante. La descrizione del tedesco di Kohler per il Handbook of the International Phonetic Association (Cambridge University Press, 1999, pp. 87–88) registra che /ʁ/ in posizione postvocalica davanti a una consonante o a fine parola si vocalizza in [ɐ], e che la desinenza -er si realizza come [ɐ] — Butter come [ˈbʊtɐ]. La regola di più ampia copertura per un viaggiatore: -er atono è sempre quella piccola uh, in Butter, Vater, Kinder, besser, aber, oder, unter. Un punto al suo interno è contestato: dopo /aː/ lunga, Dittrich e Reibisch (AIPUK 37, Kiel) misurano un monottongo più scuro anziché il dittongo che Kohler trascrive — il disaccordo riguarda Haar, non Uhr, Ohr o -er.",
+      "fonte": "Kohler, Klaus J., «German», Handbook of the International Phonetic Association, Cambridge UP, 1999, pp. 87–88, verbatim (símbolos restaurados): «postvocalically before a consonant or word-finally it is vocalized to [ɐ] … the ending -er is realized as [ɐ] (e.g. [ˈbʊtɐ] Butter 'butter')». CONTESTADO só para /aː/: Dittrich & Reibisch, «An acoustic study of /r/-vocalization in word-final position», AIPUK 37, Univ. Kiel. Recorte declarado da pesquisa: alemão padrão do NORTE da Alemanha; nada validado para a Áustria ou a Suíça. Pesquisa §1.2.",
+      "ano": 1999,
+      "revisarAte": "2031-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-b01-n08"
+      ]
+    },
+    {
+      "id": "de-b01-vokale",
+      "afirmacao": "Le due vocali arrotondate sono un problema di udito prima di essere un problema di bocca, e c'è un dato misurato dietro tutto ciò. Kaucke e Schlechtweg, «English Speakers' Perception of Non-native Vowel Contrasts», Language and Speech 68(1), riferiscono da Strange et al. (2005) che in un compito di assimilazione percettiva il 97 per cento delle vocali anteriori arrotondate tedesche è stato categorizzato dagli ascoltatori anglofoni come vocali POSTERIORI: /y/ è stato percepito costantemente come il più vicino a /u/, mentre /ø/ è stato assimilato a /u/, /ʊ/ o /oʊ/ senza una preferenza chiara, il che ha portato Strange et al. a trattare /ø/ come non categorizzabile per gli ascoltatori dell'inglese americano. La conseguenza progettuale è che esercitare la produzione senza esercitare la percezione non lo risolve.",
+      "fonte": "Kaucke & Schlechtweg, «English Speakers' Perception of Non-native Vowel Contrasts…», Language and Speech 68(1), 2024/2025 (HTML bruto lido), verbatim: «in a perceptual assimilation task, Strange et al. (2005) found that 97% of the German front rounded vowels were categorized as back vowels: /y/ was consistently perceived as most similar to /u/, and /ø/ was assimilated to /u/, /ʊ/, or /oʊ/, with no clear preference for either of these back vowels. Because there was no single category that /ø/ could be mapped on, Strange et al. regarded /ø/ as uncategorizable for American English listeners.» Pesquisa §1.3. RESSALVA: o número de 97% é de Strange et al. (2005) e chega por CITAÇÃO em Kaucke & Schlechtweg — o original não foi aberto. O inventário do Regelwerk 2024, §1, cobre as grafias ⟨ö⟩ e ⟨ü⟩; a receita articulatória (diga [iː] e arredonde os lábios) é do mesmo §1.3.",
+      "ano": 2024,
+      "revisarAte": "2031-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "de-b01-n06"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b01-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "pt": "Prima la buona notizia. Tedesco e inglese condividono la stessa bocca. Possiedi già sch, la ts di cats e metà delle parole.",
+      "tom": "ganha"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b01-n02",
+      "bloco": "corpo",
+      "pt": "La tua mano fa cinque cose qui, e ognuna tradisce uno scivolone prima che il tuo orecchio possa sentirlo.",
+      "tom": "ganha"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b01-n03",
+      "pt": "Mossa uno, l'incrocio. Due dita si scambiano. Una w tedesca è la tua v, e una v tedesca è f in una breve lista antica.",
+      "tom": "ganha"
+    },
+    {
+      "consulta": [
+        "mesa/bebida"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b01-p01",
+      "promptPt": "Al bancone della panetteria, la brocca sullo scaffale dietro di lei è quella che vuoi, e la prima lettera è quella che si scambia. Parla adesso.",
+      "audioKey": "de-b01-t01",
+      "es": "Wasser, bitte.",
+      "pinyin": "VAH-suh, BIT-tuh",
+      "pt": "Acqua, per favore.",
+      "tts": "Wasser, bitte."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b01-r01",
+      "receptivo": true,
+      "es": "wir — vier",
+      "pinyin": "veer — feer",
+      "pt": "Noi; quattro. Due parole, due lettere, e i suoni sono l'esatto opposto di ciò che il tuo occhio offre.",
+      "tts": "wir, vier.",
+      "acao": "Incrocia le dita su ciascuna prima di copiare. Se la tua mano non fa niente, il tuo occhio ha già vinto."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b01-n04",
+      "pt": "Mossa due, la seconda lettera. Per ei e ie, di' il nome della seconda. Ein Bier fa ai, poi i.",
+      "tom": "ganha"
+    },
+    {
+      "consulta": [
+        "mesa/bebida"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b01-p02",
+      "promptPt": "Sera, un localino con sei tavoli, e vuoi la cosa più comune che tutti al bancone hanno in mano. Parla adesso.",
+      "audioKey": "de-b01-t02",
+      "es": "Ein Bier, bitte.",
+      "pinyin": "ine BEE-uh, BIT-tuh",
+      "pt": "Una birra, per favore.",
+      "tts": "Ein Bier, bitte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b01-n05",
+      "pt": "Mossa tre, il colpetto. Una z è sempre ts, mai un ronzio. È la s davanti a vocale a ronzare: sagen comincia come zebra in inglese.",
+      "tom": "ganha"
+    },
+    {
+      "consulta": [
+        "transporte/bilhete"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b01-p03",
+      "promptPt": "Allo sportello dei biglietti, viaggiate in due e il numero davanti al sostantivo comincia con la lettera che dà il colpetto. Parla adesso.",
+      "audioKey": "de-b01-t03",
+      "es": "Zwei Karten, bitte.",
+      "pinyin": "tsvy KAH-ten, BIT-tuh",
+      "pt": "Due biglietti, per favore.",
+      "tts": "Zwei Karten, bitte."
+    },
+    {
+      "consulta": [
+        "chegar/sair"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b01-p04",
+      "promptPt": "Esci da un ufficio dove qualcuno in giacca e cravatta ti ha appena restituito un modulo. Quattro delle cinque mosse vivono in questa sola parola. Parla adesso.",
+      "audioKey": "de-b01-t04",
+      "es": "Auf Wiedersehen.",
+      "pinyin": "owf VEE-duh-zay-en",
+      "pt": "Arrivederci.",
+      "tts": "Auf Wiedersehen."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b01-n06",
+      "pt": "Mossa quattro, l'arrotondamento. Di' i e arrotonda le labbra senza muovere la lingua. Quella è ü. Arrotonda una e chiusa per ö.",
+      "tom": "ganha"
+    },
+    {
+      "consulta": [
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b01-p05",
+      "promptPt": "Il tuo dito è sul vassoio con la torta e c'è una persona davanti a te. La vocale in mezzo vuole le labbra arrotondate. Parla adesso.",
+      "audioKey": "de-b01-t05",
+      "es": "Ein Stück Kuchen, bitte.",
+      "pinyin": "ine SHTUEK KOO-khen, BIT-tuh",
+      "pt": "Una fetta di torta, per favore.",
+      "tts": "Ein Stück Kuchen, bitte."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b01-r02",
+      "receptivo": true,
+      "es": "Buch — Bücher",
+      "pinyin": "bookh — BUE-hyuh",
+      "pt": "Libro; libri. Una vocale si arrotonda in avanti, e il raschio in fondo si assottiglia e si sposta in avanti con lei.",
+      "tts": "Buch, Bücher.",
+      "acao": "Arrotonda le labbra sulla seconda prima di copiare, e lascia che il suono di gola segua la vocale in avanti."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b01-n07",
+      "pt": "Il suono di gola cavalca la stessa mano. Dopo a, o e u, ch raschia in fondo; altrove è sottile e in avanti.",
+      "tom": "ganha"
+    },
+    {
+      "consulta": [
+        "compras/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b01-p06",
+      "promptPt": "Stesso vassoio, uno scaffale più giù, il panino piccolo e rotondo che mezzo paese mangia a colazione. Labbra arrotondate, poi il ch sottile. Parla adesso.",
+      "audioKey": "de-b01-t06",
+      "es": "Ein Brötchen, bitte.",
+      "pinyin": "ine BROET-hyen, BIT-tuh",
+      "pt": "Un panino, per favore.",
+      "tts": "Ein Brötchen, bitte."
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b01-p07",
+      "promptPt": "Lei l'ha incartato, ha preso le monete e ha rialzato lo sguardo. Arrotonda la prima vocale ed escine sopra. Parla adesso.",
+      "audioKey": "de-b01-t07",
+      "es": "Schönen Tag noch.",
+      "pinyin": "SHOE-nen tahk nokh",
+      "pt": "Buona giornata.",
+      "tts": "Schönen Tag noch."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b01-n08",
+      "pt": "Mossa cinque, la caduta. Alla fine di una sillaba una r tedesca non è affatto una consonante. È una piccola uh, e -er lo è sempre.",
+      "tom": "ganha"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b01-r03",
+      "receptivo": true,
+      "es": "Wasser · Butter · aber · oder",
+      "pinyin": "VAH-suh · BOO-tuh · AH-buh · OH-duh",
+      "pt": "Acqua; burro; ma; o. Quattro desinenze, un suono, e nessuna lingua si arriccia da nessuna parte nella fila.",
+      "tts": "Wasser. Butter. aber. oder.",
+      "acao": "Lascia che la mano si apra su ogni desinenza. Una mano arricciata significa una lingua arricciata, e in questa fila non ce n'è nessuna."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b01-n09",
+      "pt": "Un'ultima cosa che il tuo occhio deve concedere. Una d, b o g alla fine di una parola arriva dura, e l'ortografia lo nasconde.",
+      "tom": "ganha"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b01-r04",
+      "receptivo": true,
+      "es": "Rad — Rat · Hund — Hunde",
+      "pinyin": "raht — raht · hoont — HOON-duh",
+      "pt": "Ruota; consiglio; cane; cani. La prima coppia è un suono in due grafie, e la desinenza è ciò che restituisce quello più morbido.",
+      "tts": "Rad. Rat. Hund. Hunde.",
+      "acao": "Copia la desinenza dura di proposito. Ammorbidirla è ciò che segna la frase come straniera, e non se ne guadagna nulla."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b01-n10",
+      "pt": "I cartelli sono l'esercizio più economico. Ogni sostantivo è stampato in maiuscolo, e la parola che vuoi salta all'occhio.",
+      "tom": "ganha"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-b01-r05",
+      "receptivo": true,
+      "es": "Ausgang · Eingang · Ausfahrt · Einfahrt",
+      "pinyin": "OWS-gang · INE-gang · OWS-fahrt · INE-fahrt",
+      "pt": "Uscita; entrata; uscita per auto; ingresso per auto. Due vocali, au e ai, e il resto del cartello le segue.",
+      "acao": "Leggi ciascuno due volte — una come te lo offre l'occhio, una dopo la voce. La seconda è la parola.",
+      "tts": "Ausgang. Eingang. Ausfahrt. Einfahrt."
+    },
+    {
+      "consulta": [
+        "reparo/apontar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b01-p08",
+      "promptPt": "Il corridoio del tram è stretto e la tua borsa ha appena urtato il braccio di qualcuno. La parola più lunga della giornata, e ne possiedi già ogni suono. Parla adesso.",
+      "audioKey": "de-b01-t08",
+      "es": "Entschuldigung.",
+      "pinyin": "ent-SHOOL-di-goong",
+      "pt": "Scusi; mi scusi.",
+      "tts": "Entschuldigung."
+    },
+    {
+      "consulta": [
+        "chegar/entrar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b01-p09",
+      "promptPt": "Sette e mezza, stai varcando la soglia della panetteria, e la donna dietro il bancone alza lo sguardo. Parla adesso.",
+      "audioKey": "de-b01-t09",
+      "es": "Guten Morgen.",
+      "pinyin": "GOO-ten MOR-gen",
+      "pt": "Buongiorno.",
+      "tts": "Guten Morgen."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-b01-s01",
+      "es": "Wasser, bitte. Ein Bier, bitte. Ein Brötchen, bitte.",
+      "pinyin": "VAH-suh · ine BEE-uh · ine BROET-hyen",
+      "pt": "Ripeti in ombra tre mosse in una tirata: l'incrocio, la seconda lettera e le labbra arrotondate.",
+      "tts": "Wasser, bitte. Ein Bier, bitte. Ein Brötchen, bitte."
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b01-n11",
+      "bloco": "recap",
+      "pt": "B01 fatto. Incrocia per w e v, di' la seconda lettera, batti la z, arrotonda per ü e ö, lascia cadere la r finale in una piccola uh.",
+      "tom": "ganha"
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Il modello sonoro che questo corso usa",
+    "secoes": [
+      {
+        "titulo": "Come leggere le trascrizioni",
+        "corpo": "La riga sotto ogni frase tedesca è scritta per il tuo occhio, non per un fonetista. Le maiuscole segnano l'accento. UE è ü — di' i e arrotonda le labbra. OE è ö — di' e chiusa e arrotonda le labbra. KH è il ch che raschia in fondo, dopo a, o e u. HY è il ch sottile, dopo e, i e consonanti, ed è vicino alla h dell'inglese huge. Una -uh finale è la vocale in cui una r scritta si trasforma alla fine di una sillaba.",
+        "exemplos": [
+          {
+            "es": "Ein Stück Kuchen, bitte.",
+            "pt": "ine SHTUEK KOO-khen — labbra arrotondate, poi il raschio in fondo"
+          },
+          {
+            "es": "Ein Brötchen, bitte.",
+            "pt": "ine BROET-hyen — labbra arrotondate, poi quello sottile"
+          }
+        ]
+      },
+      {
+        "titulo": "L'inversione a tuo favore",
+        "corpo": "Tedesco e inglese sono cugini, e il lessico lo mostra prima della grammatica. Hand, Wasser, Buch, Milch, trinken, kommen, gut arrivano già per metà noti, e il suono che ti aspetteresti difficile, sch, è la sh che hai detto per tutta la vita. Anche l'accento funziona allo stesso modo. La descrizione in letteratura è che tedesco, inglese e olandese collocano tutti l'accento di parola entro le ultime tre sillabe anziché in una posizione fissa, e che tutti e tre prendono regolarmente l'accento sulla penultima sillaba quando l'ultima è ridotta. Quindi non c'è un sistema d'accento tedesco separato da imparare qui, e questo corso non finge che ce ne sia uno."
+      },
+      {
+        "titulo": "L'incrocio, e perché la regola ordinata è sbagliata",
+        "corpo": "Una w scritta è [v]: wann, Wagen, Möwe. Una v scritta è più insidiosa di quanto dicano i frasari, e la norma ufficiale è esplicita al riguardo. Una breve lista chiusa di parole native prende [f] — Vater, viel, vier, von, vor, voll, Vogel, Volk e qualcuna in più, più il prefisso ver-. Le parole entrate da altre lingue prendono [v]: privat, Vase, Virus, Universität, zivil. E una terza lista è registrata come genuinamente oscillante tra i due, November compresa. Quindi la regola operativa è: w è sempre v, e v è f nelle piccole parole antiche e v in quelle prese in prestito."
+      },
+      {
+        "titulo": "Le due vocali arrotondate, e perché l'ascolto viene prima",
+        "corpo": "ü e ö sono le due vocali più care del viaggio, e il motivo è percettivo più che muscolare. In un compito di assimilazione percettiva riportato nella letteratura di ricerca, il 97 per cento delle vocali anteriori arrotondate tedesche è stato categorizzato dagli ascoltatori anglofoni come vocali posteriori — /y/ percepito come il più vicino a /u/, e /ø/ così fuori posto da essere trattato come non categorizzabile per gli ascoltatori americani. Esercitare la produzione senza esercitare l'ascolto non lo risolve. La ricetta in sé è banale: di' i e arrotonda le labbra senza muovere la lingua, e di' e chiusa e arrotonda le labbra. La mano esiste perché tu possa vedere se le labbra si sono davvero mosse."
+      },
+      {
+        "titulo": "La r che è una vocale",
+        "corpo": "Questo è l'elemento che più segna una frase come straniera, e non è tanto una difficoltà quanto un permesso. Alla fine di una sillaba il tedesco non ha lì alcuna consonante: Wasser finisce in una piccola uh, Uhr è una u lunga che scivola nella stessa uh, e la desinenza -er è quella uh ogni volta — Butter, Vater, Kinder, besser, aber, oder, unter. Un parlante americano inserisce una r che non c'è; un parlante dell'inglese britannico meridionale la elimina anziché vocalizzarla. Entrambi si correggono con la stessa mossa: lascia che la mano si apra anziché arricciarsi. Un punto al suo interno è genuinamente controverso tra i fonetisti — cosa succede dopo una a lunga, come in Haar — e non tocca nessuna parola di questo corso."
+      },
+      {
+        "titulo": "Le desinenze dure, e la lettera che non è una B",
+        "corpo": "Una d, b o g alla fine di una sillaba arriva sorda, e l'ortografia non lo registra: Rad e Rat sono entrambi raht, Hund finisce come Hunt, Tag finisce come Tak. L'ambito è più ampio di quanto ammetta gran parte del materiale — copre anche la w e la z scritte, e si applica davanti a una consonante dentro la sillaba, non solo alla fine di una parola. L'inglese non fa questo, quindi l'istinto è di ammorbidire, e ammorbidire è ciò che suona sbagliato. Infine, ß è una lettera e non un suono: è una semplice s sorda e nient'altro. Chi scrive ss al suo posto non è mai formalmente in errore — il regolamento stesso prevede quel caso, e la Svizzera e il Liechtenstein possono sempre scriverlo così."
+      }
+    ]
+  },
+  "slot": "B01",
+  "permissao": "Ti è permesso suonare straniero qui. Nessuno a quel bancone sta valutando il tuo ch, e la cosa più difficile della parte — due vocali arrotondate — è un movimento delle labbra, non un talento. Metti l'accento dove lo prenderebbe una parola inglese, perché il tedesco fa la stessa cosa, e concentra invece tutta l'attenzione sulle cinque lettere. Questo è tutto il lavoro del primo giorno, ed è breve.",
+  "permissaoAudioKey": "de-b01-n01",
+  "espelho": "Leggi già forme che mentono nella tua lingua: la g di gem e di get, l'ough di though, through e cough, la c di cell e di cat. Nessuno per questo definisce difficile l'inglese, perché il tuo occhio ha imparato una volta le eccezioni e ha smesso di discutere. Questa parte è lo stesso lavoro su cinque lettere, e il tedesco è di gran lunga più coerente al riguardo di quanto l'inglese sia mai stato.",
+  "fichasCulturais": [
+    {
+      "sinal": "Leggi una parola direttamente dal menù o dal cartello così come appare, e la persona a cui la dici fa una pausa prima di rispondere.",
+      "suaLeitura": "Il mio accento dev'essere così marcato che nemmeno le singole parole passano.",
+      "oQueEAli": "Molto spesso i suoni andavano bene e le lettere no. Il tedesco assegna alcune lettere diversamente dall'inglese, e la norma ufficiale lo dice chiaramente: w è [v], s davanti a vocale è [z], z è classificata come la combinazione [ts], e sch è [ʃ]. La lettera v è quella che resiste a una regola ordinata — è [f] in una breve lista chiusa di antiche parole native e nel prefisso ver-, [v] nelle parole prese da altre lingue, e genuinamente oscillante in una terza lista che include November.",
+      "oQueVoceFaz": "Incrocia due dita ogni volta che il tuo occhio si posa su una w o una v, e di' la seconda lettera di ei e ie. Se una parola ancora non arriva, indicala sulla pagina anziché ripeterla più forte.",
+      "oQueMelhora": "Le singole parole iniziano a essere riconosciute al primo colpo, e smetti di trattare un problema di decodifica come un problema di accento.",
+      "ondeNaoVale": "Questa non è un'affermazione che v sia sempre f — la norma stessa la divide in tre modi, e sbagliarla in una parola presa in prestito è una cosa che fanno anche i lettori madrelingua. Non è nemmeno una regola che qualcuno faccia rispettare: nessuno a un bancone sta controllando, e moltissimi scambi funzionano con ogni lettera pronunciata male.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b01-n03"
+      ]
+    },
+    {
+      "sinal": "Dici Wasser o Uhr con una r americana piena, oppure elimini del tutto la r, e la parola arriva strana anche se tutto il resto era giusto.",
+      "suaLeitura": "La r tedesca è un suono di gola che non so fare, quindi sono bloccato con quella che ho.",
+      "oQueEAli": "Alla fine di una sillaba non c'è lì alcuna consonante da fare. La descrizione standard del tedesco registra che una r postvocalica davanti a una consonante o alla fine di una parola si vocalizza — diventa la vocale [ɐ] — e che la desinenza atona -er è quella vocale ogni volta: Butter, Vater, Kinder, besser, aber, oder. La r di gola di cui ti preoccupi compare solo davanti a una vocale, in parole come rot e Reise.",
+      "oQueVoceFaz": "Lascia che la mano si apra alla fine della parola anziché arricciarla, e di' una piccola uh. Fai lo stesso per ogni desinenza -er senza eccezione, dato che non ce ne sono da imparare.",
+      "oQueMelhora": "Il singolo marcatore più udibile di un accento straniero scompare da ogni seconda parola, e costa un movimento della mano anziché una nuova consonante.",
+      "ondeNaoVale": "Un punto al suo interno è controverso in letteratura — cosa succede dopo una a lunga, come in Haar, dove uno studio misura una singola vocale più scura anziché lo scivolamento descritto altrove — e non tocca nessuna parola di questo corso. E la descrizione qui è del tedesco standard della Germania settentrionale; nulla è stato verificato per l'Austria o la Svizzera.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b01-n08"
+      ]
+    }
+  ]
+}

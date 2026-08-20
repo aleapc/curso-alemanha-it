@@ -1,0 +1,410 @@
+{
+  "id": "b09",
+  "nivel": "basico",
+  "numero": 9,
+  "parte": "B09",
+  "slot": "B09",
+  "titulo": "Il timbro che trasforma la carta in un biglietto",
+  "subtitulo": "Una macchinetta, una scatoletta sul binario, e un numero che esce da un altoparlante alla fine di una frase",
+  "cena": "Un binario regionale quattro minuti prima della partenza: carta in una mano, una scatoletta su un palo, e un annuncio che mette il numero per ultimo.",
+  "moldura": "ganha",
+  "frasePiso": "Carta dalla macchinetta, timbro nella scatoletta, numero nell'orecchio. Tre mosse e il viaggio ti appartiene.",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-b09-entwertung",
+      "afirmacao": "Convalidare un biglietto cartaceo è un obbligo scritto nella normativa federale, non una cortesia dell'operatore. Il § 9 BefBedV elenca, tra i casi in cui un passeggero deve una tariffa maggiorata, il passeggero che «den Fahrausweis nicht oder nicht unverzüglich im Sinne des § 6 Abs. 3 entwertet hat oder entwerten ließ» — cioè, accanto al non aver ottenuto alcun biglietto valido e al non poterne mostrare uno. Sul versante ferroviario, le Beförderungsbedingungen der Deutschen Bahn AG (Stand 1/1/2026) affermano che un biglietto non è valido «wenn … sie vorgeschriebene Entwertungen nicht aufweist». Un biglietto digitale si convalida da sé: «Durch die Nutzung des Komfort Check-ins wird die gebuchte Fahrkarte elektronisch entwertet.»",
+      "fonte": "§ 9 BefBedV, texto consolidado em gesetze-im-internet.de, aberto em 5/8/2026, verbatim; Beförderungsbedingungen der Deutschen Bahn AG, Stand 01.01.2026, verbatim. ⚠ Que bilhetes exigem carimbo em que rede varia por operadora e NÃO foi verificado; e a afirmação corrente de que «não há catracas, é sistema de honra com controle aleatório» é inferência sem confirmação de operadora e está na lista de exclusão do dossiê (item 56).",
+      "ano": 2026,
+      "revisarAte": "2027-08-01",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": [
+        "de-b09-n02",
+        "de-b09-n04"
+      ]
+    },
+    {
+      "id": "de-b09-ebe",
+      "afirmacao": "La tariffa maggiorata ha due diverse forme giuridiche. Nel trasporto urbano, il § 9 Abs. 2 BefBedV dice che l'operatore può addebitare una tariffa maggiorata «bis zu 60 Euro» — un tetto — oppure il doppio della tariffa singola per la distanza percorsa se questa risulta maggiore. Sulla ferrovia, il § 6 Abs. 2 EVO dice che la tariffa maggiorata è il doppio della tariffa ordinaria per la distanza percorsa, «mindestens jedoch 60 Euro» — un minimo, che può salire su un viaggio lungo. Entrambe le regole riducono l'importo a 7 euro se il passeggero dimostra, entro una settimana dal giorno del controllo, che al momento possedeva un biglietto valido. E il § 6 Abs. 4 EVO elimina del tutto l'obbligo dove, alla stazione di partenza, non c'era né una biglietteria aperta né una macchinetta funzionante.",
+      "fonte": "§ 9 BefBedV e § 6 EVO (Eisenbahnverkehrs-Verordnung, versão consolidada de 2023), ambos em gesetze-im-internet.de, abertos em 5/8/2026, verbatim. ⚠ CORREÇÃO DE PREMISSA: os dispositivos habitualmente citados — «§ 9 Abs. 3 EVO» e «§ 12 Abs. 1 VO-ABB» — NÃO são os corretos, e a citação errada é conferível por qualquer leitor. ⚠ A data da elevação de 40 € para 60 € (1/8/2015) é só [RESUMO]; o valor vigente de 60 € está verbatim no texto legal lido em 5/8/2026.",
+      "ano": 2026,
+      "revisarAte": "2027-08-01",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": [
+        "de-b09-n05",
+        "de-b09-n06"
+      ]
+    },
+    {
+      "id": "de-b09-265a",
+      "afirmacao": "Viaggiare senza biglietto è anche una questione penale. Il § 265a StGB, «Erschleichen von Leistungen», riguarda chiunque ottenga «die Beförderung durch ein Verkehrsmittel» con l'intenzione di non pagare la tariffa, e prevede «Freiheitsstrafe bis zu einem Jahr oder … Geldstrafe»; il comma 2 aggiunge che il tentativo è punibile. Giovedì 16 aprile 2026 il Bundestag ha respinto due proposte di legge che avrebbero abrogato l'articolo, Drucksache 21/2722 (Bündnis 90/Die Grünen) e 21/1757 (Die Linke). Al 5 agosto 2026 l'articolo è pienamente in vigore.",
+      "fonte": "§ 265a StGB, gesetze-im-internet.de, aberto em 5/8/2026, verbatim; página do Deutscher Bundestag sobre a votação de 16/4/2026. O curso registra o resultado da votação e NÃO toma lado no debate — os proponentes argumentaram desproporcionalidade e impacto sobre pessoas pobres ou sem-teto; a favor votaram Grünen e Die Linke, contra CDU/CSU, AfD e SPD.",
+      "ano": 2026,
+      "revisarAte": "2027-04-30",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": [
+        "de-b09-n07"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b09-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "tom": "ganha",
+      "pt": "Macchinetta, carta, timbro, binario. Quattro mosse, e solo due di esse richiedono una frase da te."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b09-n02",
+      "tom": "ganha",
+      "pt": "La scatoletta sul palo è l'Entwerter. La carta entra, ci viene stampata sopra un'ora, e il viaggio è tuo."
+    },
+    {
+      "consulta": [
+        "transporte/bilhete"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "der Fahrkartenautomat",
+      "encaixeGloss": "la macchinetta dei biglietti",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b09-p01",
+      "promptPt": "Sei nell'atrio d'ingresso e la cosa che ti vende i biglietti è dietro una di queste colonne. Chiedi. Parla adesso.",
+      "audioKey": "de-b09-t01",
+      "es": "Wo ist der Fahrkartenautomat?",
+      "pinyin": "voh ist dair FAR-kar-ten-ow-toh-maht",
+      "pt": "Dov'è la macchinetta dei biglietti?",
+      "tts": "Wo ist der Fahrkartenautomat?"
+    },
+    {
+      "consulta": [
+        "transporte/bilhete",
+        "chegar/balcao"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b09-p02",
+      "promptPt": "C'è una persona al bancone e una fila dietro di te. Un viaggio, una persona, una città. Parla adesso.",
+      "audioKey": "de-b09-t02",
+      "es": "Einmal nach Hamburg, bitte.",
+      "pinyin": "EYN-mahl nakh HAHM-boork, BIT-uh",
+      "pt": "Uno per Amburgo, per favore.",
+      "tts": "Einmal nach Hamburg, bitte."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b09-r01",
+      "es": "Einfach oder hin und zurück?",
+      "pt": "Solo andata o andata e ritorno?",
+      "tts": "Einfach oder hin und zurück?",
+      "receptivo": true,
+      "acao": "Due parole da riconoscere: einfach è sola andata, hin und zurück è andata e ritorno. Rispondi con quella che vuoi e nient'altro."
+    },
+    {
+      "consulta": [
+        "transporte/bilhete"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "WO-IST",
+      "encaixe": "der Entwerter",
+      "encaixeGloss": "l'obliteratrice",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b09-p02b",
+      "promptPt": "Carta in mano, e da qualche parte su questo binario c'è una scatoletta su un palo che stampa un'ora. Chiedi. Parla adesso.",
+      "audioKey": "de-b09-t03",
+      "es": "Wo ist der Entwerter?",
+      "pinyin": "voh ist dair ent-VAIR-ter",
+      "pt": "Dov'è l'obliteratrice?",
+      "tts": "Wo ist der Entwerter?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b09-n03",
+      "tom": "ganha",
+      "pt": "L'hai comprato nell'app invece? Allora il check-in l'ha convalidato per te, e non c'è nessuna scatoletta da cercare."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b09-n04",
+      "tom": "protege",
+      "pt": "La carta senza quel timbro vale lo stesso di nessuna carta. La regola è federale, non l'abitudine di un'azienda."
+    },
+    {
+      "consulta": [
+        "transporte/bilhete",
+        "reparo/apontar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b09-p03",
+      "promptPt": "L'hai timbrato, e la stampa è uscita sbiadita e storta. Tre parole alla persona in divisa. Parla adesso.",
+      "audioKey": "de-b09-t04",
+      "es": "Ist das gültig?",
+      "pinyin": "ist dass GEWL-tikh",
+      "pt": "È valido?",
+      "tts": "Ist das gültig?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b09-r02",
+      "es": "Der Zug nach Hamburg fährt heute von Gleis sieben.",
+      "pt": "Oggi il treno per Amburgo parte dal binario sette.",
+      "tts": "Der Zug nach Hamburg fährt heute von Gleis sieben.",
+      "receptivo": true,
+      "acao": "Gleis è binario, e il numero atterra proprio alla fine. Aspetta l'ultima parola, poi cammina."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b09-n08",
+      "tom": "ganha",
+      "pt": "I numeri arrivano per ultimi qui: Gleis sieben, zehn Uhr zwölf. Ascolta oltre la frase per l'ultima parola."
+    },
+    {
+      "consulta": [
+        "transporte/plataforma"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b09-p04",
+      "promptPt": "Hai colto l'ultima parola dell'annuncio e i cartelli si fermano al cinque. Chiedi quello che hai sentito. Parla adesso.",
+      "audioKey": "de-b09-t05",
+      "es": "Wo ist Gleis sieben?",
+      "pinyin": "voh ist glyce ZEE-ben",
+      "pt": "Dov'è il binario sette?",
+      "tts": "Wo ist Gleis sieben?"
+    },
+    {
+      "consulta": [
+        "reparo/devagar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "das wiederholen",
+      "encaixeGloss": "ripeterlo",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b09-p05",
+      "promptPt": "L'altoparlante ha cambiato qualcosa e tutto il binario ha iniziato a muoversi. Quattro parole alla persona accanto a te. Parla adesso.",
+      "audioKey": "de-b09-t06",
+      "es": "Können Sie das wiederholen?",
+      "pinyin": "KUR-nen zee dass VEE-der-hoh-len",
+      "pt": "Può ripeterlo?",
+      "tts": "Können Sie das wiederholen?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b09-n05",
+      "tom": "protege",
+      "pt": "In città sessanta euro è il tetto, a meno che il doppio della tariffa sia di più. Sulla ferrovia sessanta è il minimo, non il tetto."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b09-n06",
+      "tom": "ganha",
+      "pt": "Dimostra entro una settimana che possedevi davvero un biglietto valido, ed entrambe le regole abbassano l'importo a sette euro."
+    },
+    {
+      "consulta": [
+        "transporte/bilhete",
+        "reparo/apontar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "mir beim Automaten helfen",
+      "encaixeGloss": "aiutarmi con la macchinetta",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b09-p06",
+      "promptPt": "Terza schermata e la tua carta è uscita di nuovo, con qualcuno che aspetta dietro di te. Chiedi a loro. Parla adesso.",
+      "audioKey": "de-b09-t07",
+      "es": "Können Sie mir beim Automaten helfen?",
+      "pinyin": "KUR-nen zee meer byme ow-toh-MAH-ten HELL-fen",
+      "pt": "Può aiutarmi con la macchinetta?",
+      "tts": "Können Sie mir beim Automaten helfen?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b09-r03",
+      "es": "Die Fahrkarten, bitte.",
+      "pt": "I biglietti, prego.",
+      "tts": "Die Fahrkarten, bitte.",
+      "receptivo": true,
+      "acao": "Quello è il controllo. Porgi la carta con il lato stampato verso l'alto, timbro compreso, e lascia che la leggano."
+    },
+    {
+      "consulta": [
+        "transporte/bilhete"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b09-p07",
+      "promptPt": "La divisa raggiunge la tua fila e le tue mani sono piene di caffè e cappotto. Di' la frase mentre lo tiri fuori. Parla adesso.",
+      "audioKey": "de-b09-t08",
+      "es": "Ich habe eine Fahrkarte.",
+      "pinyin": "ikh HAH-buh EYE-nuh FAR-kar-tuh",
+      "pt": "Ho un biglietto.",
+      "tts": "Ich habe eine Fahrkarte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-b09-n07",
+      "tom": "protege",
+      "pt": "Viaggiare con l'intenzione di non pagare è un reato anche qui, fino a un anno. Il parlamento ha mantenuto quell'articolo nell'aprile 2026."
+    },
+    {
+      "consulta": [
+        "pagar/pedir",
+        "compras/pagar"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "molde": "KONNEN-SIE",
+      "encaixe": "mir eine Quittung geben",
+      "encaixeGloss": "darmi una ricevuta",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-b09-p08",
+      "promptPt": "Hai pagato al bancone e il tuo datore di lavoro vuole poi la ricevuta. Chiedi prima di andartene. Parla adesso.",
+      "audioKey": "de-b09-t09",
+      "es": "Können Sie mir eine Quittung geben?",
+      "pinyin": "KUR-nen zee meer EYE-nuh KVIT-oong GAY-ben",
+      "pt": "Può darmi una ricevuta?",
+      "tts": "Können Sie mir eine Quittung geben?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-b09-r04",
+      "es": "Nächster Halt: Hauptbahnhof.",
+      "pt": "Prossima fermata: stazione centrale.",
+      "tts": "Nächster Halt: Hauptbahnhof.",
+      "receptivo": true,
+      "acao": "Halt è fermata e Hauptbahnhof è la stazione centrale. Quando senti il tuo nome in quella posizione, alzati."
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-b09-p09",
+      "promptPt": "Carta controllata, posto mantenuto, e la persona in divisa prosegue lungo il corridoio. Chiudi. Parla adesso.",
+      "audioKey": "de-b09-t10",
+      "es": "Danke schön!",
+      "pinyin": "DAHN-kuh shurn",
+      "pt": "Grazie!",
+      "tts": "Danke schön!"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-b09-s01",
+      "es": "Wo ist der Entwerter? Ist das gültig? Ich habe eine Fahrkarte.",
+      "pinyin": "voh ist dair ent-VAIR-ter. ist dass GEWL-tikh. ikh HAH-buh EYE-nuh FAR-kar-tuh",
+      "pt": "Ripeti in ombra le tre frasi che coprono l'intero viaggio, dalla macchinetta al controllo a bordo.",
+      "tts": "Wo ist der Entwerter? Ist das gültig? Ich habe eine Fahrkarte."
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-b09-n09",
+      "bloco": "recap",
+      "tom": "ganha",
+      "pt": "B09 fatto. Timbra la carta, cogli l'ultima parola dell'annuncio, e cammina verso il numero che hai sentito."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Carta, timbro, numero",
+    "secoes": [
+      {
+        "titulo": "La scatoletta sul palo",
+        "corpo": "Un biglietto cartaceo comprato da una macchinetta di solito non è ancora un biglietto. L'Entwerter — una scatoletta su un palo sul binario o appena dentro il veicolo — ci stampa sopra una data e un'ora, e quella stampa è ciò che lo avvia. L'obbligo è scritto nella normativa federale sui trasporti, che elenca il non convalidare immediatamente accanto al non avere alcun biglietto valido e al non poterne mostrare uno. Tre situazioni, una conseguenza.",
+        "exemplos": [
+          {
+            "es": "Wo ist der Entwerter?",
+            "pt": "Dov'è l'obliteratrice?"
+          },
+          {
+            "es": "Ist das gültig?",
+            "pt": "È valido?"
+          }
+        ]
+      },
+      {
+        "titulo": "Comprato nell'app invece",
+        "corpo": "Un biglietto comprato e con check-in fatto attraverso l'app dell'operatore si convalida da sé — le condizioni lo dicono testualmente: usare la funzione di check-in convalida elettronicamente il biglietto acquistato. Non c'è nulla da cercare sul binario, e nulla da stampare. La regola che conta è semplicemente questa: la carta ha bisogno di un timbro, un telefono no."
+      },
+      {
+        "titulo": "Due forme della stessa sovrattassa",
+        "corpo": "La tariffa maggiorata ha due forme giuridiche e non sono lo stesso numero. Nel trasporto urbano l'operatore può addebitare fino a sessanta euro — è un tetto — oppure il doppio della tariffa singola per la distanza se questa è di più. Sulla ferrovia, il doppio della tariffa ordinaria con un minimo di sessanta euro — è un minimo, e su un viaggio lungo sale. Entrambe le regole hanno la stessa via d'uscita: se possedevi davvero un biglietto valido e non potevi mostrarlo, dimostrarlo entro una settimana dal controllo abbassa l'importo a sette euro. Sulla ferrovia ce n'è un'altra: se la stazione di partenza non aveva né una biglietteria aperta né una macchinetta funzionante, non è dovuta alcuna sovrattassa."
+      },
+      {
+        "titulo": "E la parte che sorprende i visitatori",
+        "corpo": "Viaggiare senza biglietto non è solo una questione di sovrattassa. Il codice penale riguarda l'ottenere il trasporto con l'intenzione di non pagare, con fino a un anno o una multa, e il tentativo è punibile di per sé. Due proposte di legge per abrogare quell'articolo sono state bocciate in parlamento il 16 aprile 2026, quindi resta in vigore. Questo è tutto ciò di cui un visitatore ha bisogno: non una posizione sul dibattito, che qui è acceso, ma la consapevolezza che l'articolo esiste e che un biglietto che non hai timbrato è giuridicamente un biglietto che non hai."
+      },
+      {
+        "titulo": "I numeri, e dove si nascondono",
+        "corpo": "Questa è la parte del viaggio in cui i numeri arrivano senza che tu li chieda, e il tedesco li mette alla fine: der Zug nach Hamburg fährt heute von Gleis sieben. La frase è lunga e la parola utile è l'ultima. Due abitudini ti portano avanti: aspetta la fine anziché tradurre l'inizio, e quando l'altoparlante cambia qualcosa, quattro parole te lo fanno ripetere. Gli orari funzionano allo stesso modo — zehn Uhr zwölf è le dieci e dodici, prima l'ora, poi i minuti."
+      },
+      {
+        "titulo": "Cosa non si sta affermando qui",
+        "corpo": "Niente di quanto sopra ti dice quali biglietti vadano timbrati su quale rete — varia per operatore e città, e la risposta onesta è cercare la scatoletta e chiedere. Niente di quanto sopra cita nemmeno una tariffa locale: le zone urbane e i prezzi cambiano ogni gennaio e variano da città a città. Quando ti servono quei due dati, sono sulla macchinetta davanti a te, e alla persona accanto si può chiedere in quattro parole."
+      }
+    ]
+  },
+  "permissao": "Ti è permesso timbrare un biglietto di cui non sei sicuro che vada timbrato — non si perde nulla con una stampa che non ti serviva. Ti è permesso chiedere a uno sconosciuto dov'è la scatoletta, chiedere se la stampa sbiadita conta, e mostrare la carta anziché spiegarla. E se vieni controllato mentre possiedi un biglietto che non puoi esibire, ti è permesso prendere con calma il verbale e portare la prova entro la settimana anziché trattare l'importo su di esso come definitivo.",
+  "permissaoAudioKey": "de-b09-n06",
+  "espelho": "Chiunque abbia mai comprato un biglietto del parcheggio a casa e l'abbia lasciato a faccia in giù sul cruscotto conosce già questa sensazione: la carta era reale, la prova non era visibile. Il timbro è la metà visibile.",
+  "fichasCulturais": [
+    {
+      "sinal": "La macchinetta ti dà un biglietto cartaceo con la data di oggi già stampata sopra, e c'è una scatoletta su un palo a pochi passi.",
+      "suaLeitura": "La data è stampata, quindi il biglietto è ovviamente attivo — quella scatoletta dev'essere per gli abbonamenti o per chi ama le macchinette.",
+      "oQueEAli": "La normativa federale sui trasporti elenca il passeggero che non ha convalidato, o non ha convalidato immediatamente, nella stessa frase del passeggero che non ha mai comprato un biglietto e del passeggero che non può mostrarne uno. Le condizioni ferroviarie lo dicono ancora più chiaramente: un biglietto non è valido se manca la convalida prescritta.",
+      "oQueVoceFaz": "Timbralo prima di salire, non dopo. Se non trovi la scatoletta, chiedi dov'è — la parola è Entwerter — e se la stampa esce sbiadita, mostrala alla prima persona in divisa e chiedi se conta.",
+      "oQueMelhora": "La carta diventa un biglietto, il controllo a bordo dura dieci secondi, e smetti di portarti dietro un sottofondo di dubbio per tutto il viaggio.",
+      "ondeNaoVale": "Non ti dice quali biglietti richiedono la timbratura su quale rete — varia per operatore e non è stato verificato qui. Un biglietto comprato e con check-in fatto tramite l'app è convalidato elettronicamente e non ha nessuna scatoletta da cercare. E niente in questo descrive le zone urbane o le tariffe, che cambiano ogni gennaio e differiscono da città a città.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b09-n02",
+        "de-b09-n04"
+      ]
+    },
+    {
+      "sinal": "Un controllore chiede i biglietti e quello valido che possiedi è nell'altro cappotto, all'hotel.",
+      "suaLeitura": "Sono sessanta euro persi e non c'è nulla da fare.",
+      "oQueEAli": "Entrambi gli insiemi di regole — quello urbano e quello ferroviario — riducono la tariffa maggiorata a sette euro se dimostri entro una settimana dal giorno del controllo che al momento possedevi un biglietto valido. La regola ferroviaria aggiunge una seconda via d'uscita: dove la stazione di partenza non aveva né una biglietteria aperta né una macchinetta funzionante, la tariffa maggiorata non è affatto dovuta. E i due importi non sono simmetrici: sessanta è un tetto in città e un minimo sulla ferrovia.",
+      "oQueVoceFaz": "Prendi il verbale, conservalo, e torna entro la settimana con il biglietto o la registrazione dell'app. Chiedi loro di scrivere dove va mostrata la prova — quattro parole lo risolvono.",
+      "oQueMelhora": "Sette invece di sessanta, e un incontro che sembrava definitivo si trasforma in una commissione con una scadenza.",
+      "ondeNaoVale": "La riduzione è per il caso di possedere un biglietto valido che non potevi mostrare — non copre il non avere biglietto, e sul versante urbano la formulazione è costruita intorno al titolare di un abbonamento personale. L'articolo penale è più ristretto della sovrattassa: fa perno sull'intenzione di non pagare, quindi non riguarda un timbro dimenticato su un biglietto che hai comprato. Prevede fino a un anno, con il tentativo punibile; due proposte di legge per abrogarlo sono state respinte in parlamento il 16 aprile 2026, e questo corso registra il voto senza prendere posizione in un dibattito che appartiene a chi vive lì.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "de-b09-n05",
+        "de-b09-n06",
+        "de-b09-n07"
+      ]
+    }
+  ]
+}

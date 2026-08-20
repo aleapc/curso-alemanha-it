@@ -1,0 +1,96 @@
+{
+  "id": "q-b15",
+  "nivel": "basico",
+  "titulo": "Quiz — Was kostet das, e il divario tra lo scaffale e la cassa",
+  "subtitulo": "Una domanda, la taglia, due falsi amici, la cauzione, e la linea delle otto",
+  "introAudioKey": "de-b15-q-i",
+  "introPt": "Un cliente chiede il prezzo di una cosa, ne chiede un'altra taglia, e poi si trova davanti a un totale più grande di quanto prometteva l'etichetta.",
+  "cenario": "Un negozio di abbigliamento e poi un supermercato, nel tardo pomeriggio di sabato a Colonia.",
+  "dialogo": [
+    {
+      "audioKey": "de-b15-q01",
+      "voz": "target_de_f",
+      "es": "Was kostet der Rock? Haben Sie eine andere Größe?",
+      "pt": "Quanto costa la gonna? Avete un'altra taglia?",
+      "tts": "Was kostet der Rock? Haben Sie eine andere Größe?"
+    },
+    {
+      "audioKey": "de-b15-q02",
+      "voz": "target_de_m",
+      "es": "Der kostet vierzig Euro. Die Umkleidekabine ist da hinten.",
+      "pt": "Quella costa quaranta euro. Il camerino è là in fondo.",
+      "tts": "Der kostet vierzig Euro. Die Umkleidekabine ist da hinten."
+    },
+    {
+      "audioKey": "de-b15-q03",
+      "voz": "target_de_f",
+      "es": "Ich möchte das anprobieren, bitte. Haben Sie eine Tüte?",
+      "pt": "Vorrei provare quella, per favore. Avete un sacchetto?",
+      "tts": "Ich möchte das anprobieren, bitte. Haben Sie eine Tüte?"
+    },
+    {
+      "audioKey": "de-b15-q04",
+      "voz": "target_de_m",
+      "es": "Das macht einundvierzig Euro fünfundzwanzig, mit Pfand.",
+      "pt": "Fanno quarantuno euro e venticinque, con la cauzione.",
+      "tts": "Das macht einundvierzig Euro fünfundzwanzig, mit Pfand."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Vedi «der Rock» su un'etichetta. Cos'è?",
+      "opcoes": [
+        "Una pietra o una parete rocciosa",
+        "Una gonna",
+        "Uno scaffale o un appendiabiti",
+        "Un cappotto"
+      ],
+      "correta": 1,
+      "explica": "Der Rock è una gonna. Il secondo senso tedesco è davvero la musica rock, il che ne fa un vero omonimo più che un puro falso amico — ma non è mai una pietra."
+    },
+    {
+      "pergunta": "Vuoi comprare un regalo. Quale parola chiedi?",
+      "opcoes": [
+        "ein Gift",
+        "ein Geschenk",
+        "eine Gabe",
+        "eine Mitgift"
+      ],
+      "correta": 1,
+      "explica": "Das Gift è veleno. Le due parole sono veri affini da un antico senso di un dare — l'inglese ha conservato il significato, il tedesco lo ha conservato solo dentro Mitgift, una dote. Su una bottiglia, Gift è un avvertimento."
+    },
+    {
+      "pergunta": "Lo scaffale diceva 0,99 € e la cassa ha chiesto 1,24 €. Cos'è successo?",
+      "opcoes": [
+        "L'IVA è stata aggiunta alla cassa",
+        "L'etichetta non era stata aggiornata",
+        "La cauzione è stata indicata accanto al prezzo perché la legge vieta di includerla nel prezzo",
+        "È stato incluso automaticamente un costo per il sacchetto"
+      ],
+      "correta": 2,
+      "explica": "La legge sugli imballaggi fissa una cauzione di almeno venticinque centesimi IVA inclusa, e la normativa sui prezzi richiede che sia indicata accanto al totale ed espressamente non dentro di esso. È l'unica eccezione legale al principio prezzo esposto uguale prezzo finale."
+    },
+    {
+      "pergunta": "È domenica mattina e ti serve qualcosa da mangiare. Quale di questi la legge conferma essere aperto?",
+      "opcoes": [
+        "Il supermercato, perché il cibo è esente",
+        "Il distributore di benzina, come drogheria generica",
+        "Un panificio, in una breve finestra mattutina",
+        "Qualsiasi negozio sotto i 150 m², ovunque nel paese"
+      ],
+      "correta": 2,
+      "explica": "Il § 12 della legge sulla chiusura dei negozi copre prodotti da forno, latte, frutta fresca, fiori e giornali in una finestra ristretta fissata attorno alla funzione religiosa principale. I distributori possono aprire, ma durante l'orario di chiusura possono vendere solo carburante, ricambi per veicoli e beni di prima necessità per il viaggio. La regola sui piccoli negozi non presidiati è una legge propria della Baviera, non nazionale."
+    },
+    {
+      "pergunta": "Vivi fuori dall'UE e recuperi l'IVA all'aeroporto. Cosa ricevi davvero?",
+      "opcoes": [
+        "Il 19 % pieno, pagato dall'ufficio delle imposte",
+        "Una riduzione di prezzo che il negozio accetta di concedere, meno una commissione di gestione",
+        "Il 19 % pieno, meno il costo della pratica",
+        "Nulla, a meno che l'acquisto non superi i 500 euro"
+      ],
+      "correta": 1,
+      "explica": "L'esenzione spetta al commerciante, non al viaggiatore — non c'è alcun rimborso diretto dall'ufficio delle imposte a un acquirente. Mostra passaporto, documento di esportazione e la merce stessa alla dogana prima di imbarcare qualcosa nella stiva."
+    }
+  ]
+}

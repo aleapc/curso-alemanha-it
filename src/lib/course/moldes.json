@@ -1,0 +1,302 @@
+{
+  "versao": 1,
+  "sku": "IT → Alemanha",
+  "_regras": {
+    "vocabulario_molde": {
+      "termo": "lo stampo",
+      "porque": "Termo canônico da linha EN, idêntico ao do EN → Itália, França, Grécia, Türkiye, México e Portugal."
+    },
+    "criterio": "Um molde entra se, e só se: (1) o buraco é uma COISA DO MUNDO que o aluno escolhe sob pressão, nunca uma categoria gramatical que ele teria que calcular; (2) a peça fixa é INVARIÁVEL, ou seja, o aluno nunca conjuga, declina nem concorda nada para usá-la; (3) ela atravessa a jornada — nasce numa casa e volta em pelo menos duas outras partes.",
+    "restricao_do_destino": "O ALEMÃO É O DESTINO MORFOLOGICAMENTE MAIS DURO DO CATÁLOGO, e por uma margem larga: quatro CASOS cruzados com três GÊNEROS, e a marca não fica no substantivo — fica no ARTIGO, que é justamente a primeira palavra do buraco. «Haben Sie ___?» pede acusativo, e no masculino isso muda *der* para *den* e *ein* para *einen*, enquanto feminino e neutro não mudam nada. Pedir ao aluno que decida isso no balcão é devolver-lhe uma tabela de declinação sob pressão, o que o critério (1) proíbe. A saída é a que a Grécia impôs por causa do caso e Portugal por causa do gênero, e aqui ela é OBRIGATÓRIA em todos os moldes de coisa: O ENCAIXE ENTRA JÁ FLEXIONADO, como bloco. As tiles não trazem «Tisch», trazem «einen Tisch»; não trazem «Zimmer», trazem «ein Zimmer». O aluno nunca vê substantivo nu e por isso nunca declina. Custa uma coisa e vale a pena: ele não generaliza o sistema de casos, e este curso não promete que ele generalize — promete que ele peça a mesa e entenda a resposta.",
+    "o_que_o_destino_dá_de_graça": "Em compensação, o alemão devolve duas coisas que nenhum outro destino deu. A primeira é o VOCABULÁRIO: inglês e alemão são germânicos, e o comprador chega reconhecendo Hand, Wasser, Buch, Milch, trinken, kommen, gut. Metade do encaixe de um molde ele adivinha antes de aprender. A segunda é o TRATAMENTO: «Sie» é o padrão seguro e a passagem para «du» é OFERECIDA pelo outro lado, não escolhida pelo aluno. Ou seja, ao contrário de cinco destinos anteriores, aqui não há decisão social sob pressão — há uma forma só, e ela é a certa a viagem inteira.",
+    "recusados": [
+      {
+        "candidato": "o CASO e o GÊNERO como buraco",
+        "porque": "Ver `restricao_do_destino`. É a recusa que estrutura o roster inteiro: se um só molde deixasse o aluno escolher entre *der/den/dem/des*, o método deixaria de funcionar sob pressão neste destino. Todo encaixe de coisa entra flexionado."
+      },
+      {
+        "candidato": "du / Sie",
+        "porque": "SÉTIMA vez que o par T/V é recusado no catálogo — lei/tu na Itália, tu/vous na França, εσύ/εσείς na Grécia, sen/siz na Türkiye, tu/você em Portugal, e agora du/Sie. Aqui, porém, a recusa é a mais fácil de todas e é uma boa notícia para o aluno: o alemão tem o *Du-Angebot*, ou seja, a passagem ao «du» é um convite que a outra pessoa FAZ. O aluno nunca escolhe: usa «Sie» sempre e aprende a RECONHECER a oferta. Vai para A05/A07 como sinal receptivo."
+      },
+      {
+        "candidato": "a ordem V2 e o verbo no fim",
+        "porque": "O alemão manda o verbo para a segunda posição na principal e para o fim na subordinada. Um molde cujo buraco obrigasse o aluno a reordenar a frase não é molde: é sintaxe sob pressão. Todos os moldes deste roster são frases curtas em que o buraco é o ÚLTIMO elemento, justamente para o aluno nunca precisar mover nada."
+      },
+      {
+        "candidato": "os verbos separáveis (anrufen, mitkommen, aufmachen)",
+        "porque": "O prefixo se solta e viaja para o fim da frase — *ich rufe dich an*. É a construção que mais quebra a ilusão de que alemão é «inglês com outro sotaque», e é exatamente o tipo de coisa que um molde não pode conter, porque a peça fixa deixaria de ser fixa. Onde a cena pedir um desses verbos, ele entra como bloco inteiro dentro do encaixe, nunca como buraco."
+      }
+    ]
+  },
+  "moldes": [
+    {
+      "id": "HABEN-SIE",
+      "categoria": "operacional",
+      "forma": "Haben Sie [coisa]?",
+      "encaixe": "qualquer coisa que ele precisa que exista ali",
+      "tipo": "aberto",
+      "tipoBuraco": "coisa",
+      "casa": "B06",
+      "redisparos": [
+        "B08",
+        "B11",
+        "B12",
+        "B15",
+        "B16",
+        "I03"
+      ],
+      "tiles": [
+        "comprar",
+        "comer",
+        "quarto",
+        "chegar"
+      ],
+      "exemplos": [
+        "einen Tisch",
+        "ein Zimmer",
+        "eine Karte",
+        "WLAN",
+        "Wechselgeld"
+      ],
+      "nota": "O de maior alcance do SKU, e ele já vem com o tratamento certo embutido: «Sie» está dentro da peça fixa, então o aluno acerta o registro sem tomar decisão nenhuma. O encaixe entra flexionado em acusativo — «einen Tisch», nunca «Tisch» — e é por isso que o molde sobrevive à declinação alemã."
+    },
+    {
+      "id": "WO-IST",
+      "categoria": "operacional",
+      "forma": "Wo ist [o lugar]?",
+      "encaixe": "qualquer lugar que ele precisa alcançar",
+      "tipo": "aberto",
+      "tipoBuraco": "lugar",
+      "casa": "B08",
+      "redisparos": [
+        "B09",
+        "B10",
+        "B17"
+      ],
+      "tiles": [
+        "chegar",
+        "transporte",
+        "cidade"
+      ],
+      "exemplos": [
+        "die Toilette",
+        "der Bahnhof",
+        "der Ausgang",
+        "die Haltestelle",
+        "der Aufzug"
+      ],
+      "nota": "O que move os pés, e o molde mais barato do roster: depois de «ist» o caso é NOMINATIVO, que é a forma de dicionário. O artigo entra como bloco por disciplina — o aluno nunca vê substantivo nu em lugar nenhum do curso —, mas aqui ele coincide com a forma que está no dicionário e na placa."
+    },
+    {
+      "id": "ICH-MOCHTE",
+      "categoria": "operacional",
+      "forma": "Ich möchte [coisa], bitte.",
+      "encaixe": "o que ele quer pedir",
+      "tipo": "aberto",
+      "tipoBuraco": "coisa",
+      "casa": "B11",
+      "redisparos": [
+        "B14",
+        "B15",
+        "I01",
+        "I04"
+      ],
+      "tiles": [
+        "comer",
+        "pagar",
+        "compras"
+      ],
+      "exemplos": [
+        "einen Kaffee",
+        "die Rechnung",
+        "eine Fahrkarte",
+        "ein Bier",
+        "zahlen"
+      ],
+      "nota": "«Möchte» é o subjuntivo de *mögen* usado como cortesia — o «I'd like» do alemão — e é invariável para o aluno porque ele só fala por si. Vem cercado dos dois lados, com «bitte» no fecho. É preferível a «Ich will», que soa a exigência, e a «Ich hätte gern», que é mais longo e não cabe no primeiro dia."
+    },
+    {
+      "id": "KONNEN-SIE",
+      "categoria": "operacional",
+      "forma": "Können Sie [ação]?",
+      "encaixe": "o que ele precisa que a outra pessoa faça",
+      "tipo": "aberto",
+      "tipoBuraco": "acao",
+      "casa": "B07",
+      "redisparos": [
+        "B09",
+        "B13",
+        "B17",
+        "I02"
+      ],
+      "tiles": [
+        "reparo",
+        "chegar",
+        "saude",
+        "conversa"
+      ],
+      "exemplos": [
+        "das wiederholen",
+        "langsamer sprechen",
+        "mir helfen",
+        "das aufschreiben"
+      ],
+      "nota": "O molde de socorro. O buraco é um bloco de ação que termina em infinitivo — e isso resolve, sem o aluno perceber, a regra que manda o verbo para o fim da frase: a peça fixa já o deixou lá. Cobre pedido de ajuda, reparo de conversa e emergência com a mesma peça."
+    },
+    {
+      "id": "OHNE",
+      "categoria": "operacional",
+      "forma": "ohne [coisa]",
+      "encaixe": "o que não pode entrar no prato",
+      "tipo": "aberto",
+      "tipoBuraco": "coisa",
+      "casa": "B12",
+      "redisparos": [
+        "B13",
+        "B16",
+        "I04"
+      ],
+      "tiles": [
+        "comer",
+        "saude"
+      ],
+      "exemplos": [
+        "Fleisch",
+        "Milch",
+        "Gluten",
+        "Zwiebeln",
+        "Eis"
+      ],
+      "nota": "A peça de segurança do curso: restrição alimentar é onde o mal-entendido custa saúde, não dinheiro. E é o único molde em que o encaixe entra REALMENTE nu, porque nomes de massa e plurais genéricos dispensam artigo em alemão — «ohne Fleisch», não «ohne das Fleisch»."
+    },
+    {
+      "id": "ICH-SUCHE",
+      "categoria": "operacional",
+      "forma": "Ich suche [coisa].",
+      "encaixe": "o que ele procura, quando não sabe onde se acha",
+      "tipo": "aberto",
+      "tipoBuraco": "coisa",
+      "casa": "B10",
+      "redisparos": [
+        "B16",
+        "B17",
+        "I09"
+      ],
+      "tiles": [
+        "compras",
+        "chegar",
+        "cidade"
+      ],
+      "exemplos": [
+        "eine Apotheke",
+        "einen Geldautomaten",
+        "den Hauptbahnhof",
+        "einen Supermarkt"
+      ],
+      "nota": "Cobre o buraco entre WO-IST e HABEN-SIE: WO-IST pergunta por um lugar conhecido, HABEN-SIE por existência ali, e ICH-SUCHE abre a busca. A casa é B10 e é deliberada — é a parte de ler o lugar, e na Alemanha a primeira coisa que o viajante procura é uma farmácia ou um caixa, porque muita casa não aceita cartão."
+    },
+    {
+      "id": "WAS-KOSTET",
+      "categoria": "operacional",
+      "forma": "Was kostet [coisa]?",
+      "encaixe": "qualquer coisa antes de se comprometer com ela",
+      "tipo": "aberto",
+      "tipoBuraco": "coisa",
+      "casa": "B15",
+      "redisparos": [
+        "B18",
+        "I10"
+      ],
+      "tiles": [
+        "pagar",
+        "compras",
+        "transporte"
+      ],
+      "exemplos": [
+        "das",
+        "die Fahrkarte",
+        "das Zimmer",
+        "die Fahrt"
+      ],
+      "nota": "Nasce onde o erro custa dinheiro. LIMITE DELIBERADO: as tiles são todas SINGULARES, porque *kostet* concorda com o número e «was kosten» exigiria do aluno uma decisão de concordância sob pressão. Perguntar por um item de cada vez é o desenho, não uma limitação a corrigir depois."
+    },
+    {
+      "id": "ENTSCHULDIGUNG",
+      "categoria": "social",
+      "forma": "Entschuldigung, + [pedido]",
+      "encaixe": "o que ele precisa de um estranho",
+      "tipo": "aberto",
+      "tipoBuraco": "acao",
+      "casa": "B03",
+      "redisparos": [
+        "B05",
+        "B07",
+        "B08",
+        "I02"
+      ],
+      "tiles": [
+        "reparo",
+        "chegar",
+        "conversa"
+      ],
+      "exemplos": [
+        "ich habe das nicht verstanden",
+        "sprechen Sie Englisch",
+        "wo ist der Ausgang"
+      ],
+      "nota": "Abridor universal de reparo, e a palavra mais longa que o aluno aprende no primeiro dia — de propósito: ela é fácil de reconhecer, impossível de confundir e compra a atenção de um estranho sem nenhuma outra cortesia. «Entschuldigen Sie» é a forma plena; dar as duas e deixar o aluno usar a curta é o que faz a peça sair sob pressão."
+    },
+    {
+      "id": "WANN-IST",
+      "categoria": "operacional",
+      "forma": "Wann ist [o/a coisa]?",
+      "encaixe": "o que tem hora marcada",
+      "tipo": "aberto",
+      "tipoBuraco": "coisa",
+      "casa": "I01",
+      "redisparos": [
+        "I03",
+        "I07",
+        "A06"
+      ],
+      "tiles": [
+        "comer",
+        "transporte",
+        "cidade"
+      ],
+      "exemplos": [
+        "das Frühstück",
+        "der nächste Zug",
+        "die Führung",
+        "das Abendessen"
+      ],
+      "nota": "Entra no intermediário porque é aí que o aluno para de sobreviver e começa a planejar. A forma fixa traz o verbo dentro, e o buraco é a coisa — nunca o verbo — para ele não ter de escolher entre *ist*, *öffnet* e *schließt*. Nominativo, então o encaixe coincide com a forma de dicionário."
+    },
+    {
+      "id": "DANKE",
+      "categoria": "social",
+      "forma": "Danke / Danke schön / Vielen Dank",
+      "encaixe": "o fecho de qualquer troca",
+      "tipo": "fechado",
+      "tipoBuraco": "acao",
+      "casa": "B02",
+      "redisparos": [
+        "B11",
+        "B14",
+        "B18",
+        "I07"
+      ],
+      "tiles": [
+        "simpatia",
+        "pagar",
+        "comer"
+      ],
+      "exemplos": [
+        "danke",
+        "danke schön",
+        "vielen Dank"
+      ],
+      "nota": "Molde FECHADO — o buraco tem três opções e não um mundo — porque a escolha entre a forma seca, a média e a plena é o que o aluno decide sob pressão, e é ela que carrega o registro. É também o item que ele vai dizer dez vezes por dia. ATENÇÃO DE PRODUTO, a ser confirmada contra a pesquisa: em alemão «danke» sozinho pode ser lido como RECUSA ao ser oferecida uma coisa, e o par com «bitte» resolve — se a pesquisa sustentar, isto é conteúdo de B02; se não sustentar, não entra."
+    }
+  ]
+}

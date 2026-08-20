@@ -1,0 +1,96 @@
+{
+  "id": "q-i07",
+  "nivel": "intermediario",
+  "titulo": "Quiz — Di' ad alta voce la cosa buona",
+  "subtitulo": "Un elogio con dentro il piatto, e sei parole piane per il resto",
+  "introAudioKey": "de-i07-q-i",
+  "introPt": "Un viaggiatore fa arrivare un complimento in cucina, poi risolve in una frase un piatto arrivato freddo.",
+  "cenario": "A metà pasto in una Gasthaus: un piatto ottimo, uno arrivato freddo e un conto da leggere dopo.",
+  "dialogo": [
+    {
+      "audioKey": "de-i07-q01",
+      "voz": "target_de_f",
+      "es": "Das Schnitzel war ausgezeichnet.",
+      "pt": "La Schnitzel era eccellente.",
+      "tts": "Das Schnitzel war ausgezeichnet."
+    },
+    {
+      "audioKey": "de-i07-q02",
+      "voz": "target_de_m",
+      "es": "Das freut mich! Ich sage es der Küche weiter.",
+      "pt": "Che piacere sentirlo! Lo riferisco alla cucina.",
+      "tts": "Das freut mich! Ich sage es der Küche weiter."
+    },
+    {
+      "audioKey": "de-i07-q03",
+      "voz": "target_de_f",
+      "es": "Entschuldigung, das ist kalt.",
+      "pt": "Scusi, questo è freddo.",
+      "tts": "Entschuldigung, das ist kalt."
+    },
+    {
+      "audioKey": "de-i07-q04",
+      "voz": "target_de_m",
+      "es": "Oh, das tut mir leid. Ich bringe Ihnen einen neuen Teller.",
+      "pt": "Oh, mi dispiace. Le porto un nuovo piatto.",
+      "tts": "Oh, das tut mir leid. Ich bringe Ihnen einen neuen Teller."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Cosa fa arrivare un complimento fino in cucina?",
+      "opcoes": [
+        "Dirlo abbastanza forte da farsi sentire in tutta la sala",
+        "Nominare il piatto",
+        "Lasciare soldi in più sul tavolo",
+        "Ripeterlo all'uscita"
+      ],
+      "correta": 1,
+      "explica": "Nessuno può portare «era tutto delizioso» al passe. Possono portare «das Schnitzel»."
+    },
+    {
+      "pergunta": "Come è costruita la frase sul piatto freddo?",
+      "opcoes": [
+        "Entschuldigung, poi il fatto, poi stop",
+        "Delle scuse, il fatto, poi delle seconde scuse",
+        "Un resoconto completo di come è andata la serata",
+        "Non dire niente e scriverlo online più tardi"
+      ],
+      "correta": 0,
+      "explica": "L'apertura porta la cortesia, così che il contenuto non debba farlo. Sei parole sono una richiesta completa."
+    },
+    {
+      "pergunta": "Ti viene consegnato un conto. Dov'è l'IVA?",
+      "opcoes": [
+        "Aggiunta alla cassa, come l'imposta sulle vendite a casa",
+        "Già dentro il prezzo stampato — la legge sui prezzi impone che il totale la includa",
+        "Addebitata a parte solo sulle bevande, all'ingresso",
+        "Rimborsata ai visitatori all'uscita"
+      ],
+      "correta": 1,
+      "explica": "La legge tedesca sui prezzi obbliga i commercianti a indicare il Gesamtpreis IVA inclusa. Dal 1° gennaio 2026 il cibo è al 7 per cento e le bevande al 19, e tu non vedi nessuna delle due cifre."
+    },
+    {
+      "pergunta": "Vielen Dank inizia con quale suono?",
+      "opcoes": [
+        "Una v, come in very",
+        "Una f — la v è f in un breve elenco chiuso di parole antiche come viel, vier, von e vor",
+        "Una w, come in wet",
+        "Varia per regione e non si può prevedere"
+      ],
+      "correta": 1,
+      "explica": "E l'immagine speculare: una w tedesca è la tua v. Wann è vann, war è var."
+    },
+    {
+      "pergunta": "Il cameriere che ha sostituito il tuo piatto continua a darti del Sie per tutta la sera. Significa:",
+      "opcoes": [
+        "Li hai offesi menzionando il piatto",
+        "Vogliono che tu offra il du",
+        "Niente sul calore dello scambio — il Sie è la forma standard con i nuovi contatti, e il du arriva come offerta da parte loro",
+        "Devi passare al du per essere educato"
+      ],
+      "correta": 2,
+      "explica": "Calore e Sie viaggiano insieme. Il Sie è già dentro ogni schema che possiedi, quindi non devi mai decidere."
+    }
+  ]
+}

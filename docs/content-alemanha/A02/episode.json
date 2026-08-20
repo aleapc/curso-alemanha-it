@@ -1,0 +1,369 @@
+{
+  "id": "a02",
+  "nivel": "avancado",
+  "numero": 30,
+  "parte": "A02",
+  "titulo": "Di cosa ridono, e la battuta che è tua",
+  "subtitulo": "La ferrovia si prende in giro da sola in pubblico, il tuo tedesco è il materiale che fa sempre centro, e un gesto è scritto nel codice penale",
+  "cena": "Un binario in ritardo, una carrozza che ride di qualcosa detto dal capotreno all'altoparlante, e tu tre secondi dietro alla stanza.",
+  "moldura": "ganha",
+  "frasePiso": "Ridi di te stesso e ridi insieme alle battute sul treno, e sei già dentro la stanza. Tutto il resto lo si può ascoltare.",
+  "moldes": [],
+  "fatosDatados": [
+    {
+      "id": "de-a02-bahn",
+      "afirmacao": "Deutsche Bahn ha chiuso il 2025 con il 60,1 per cento dei treni a lunga percorrenza arrivati in orario, contro il 62,5 per cento dell'anno prima (Presseinformation Bilanz 2025, Berlino, 27 marzo 2026), e l'azienda attribuisce il calo al numero record di cantieri sulla rete, aggiungendo che la puntualità «wird die Pünktlichkeit unter Druck bleiben» per tutto l'anno di lavori 2026. La definizione conta quanto il numero: il Geschäftsbericht 2025 afferma «Pünktlich sind Ankünfte mit einer Abweichung kleiner + 6 Minuten», misurato a ogni fermata anziché soltanto a destinazione. La metrica rivolta al passeggero, la Reisendenpünktlichkeit, ammette 14:59 minuti e conta le coincidenze perse e le soppressioni: 65,5 per cento nel 2025. La rete regionale si è attestata all'89,2 per cento. La tabella mensile del 2026 mostra la puntualità a lunga percorrenza al 52,6 per cento a giugno e luglio, sotto l'obiettivo ufficiale del 60 per cento per l'anno. Sull'umorismo in sé: NPR, «Germany's train service is one of Europe's worst. How did it get so bad?», 12 dicembre 2025, documenta che la stessa DB ha lanciato una serie mockumentary per i social sul personale alle prese con condizioni assurde, e riferisce di un capotreno che augura ai passeggeri un buon viaggio «per quanto sia possibile», con la carrozza che ride.",
+      "fonte": "DB, Presseinformation Bilanz 2025 (PDF baixado, «Berlin, 27.03.2026»), verbatim: «60,1 Prozent der DB-Fernverkehrszüge erreichten 2025 pünktlich das Ziel (Vorjahr: 62,5 Prozent).» Geschäftsbericht 2025, seção «Betrieb — Pünktlichkeit», verbatim: «Pünktlich sind Ankünfte mit einer Abweichung kleiner + 6 Minuten.» Reisendenpünktlichkeit definida na página oficial de Pünktlichkeitswerte, limiar «14:59 Minuten»: 65,5% em 2025; DB Regio Schiene 89,2%. Tabela mensal 2026 (acessada 5/8/2026): junho 52,6%, julho 52,6%. Meta 2026 verbatim: «das Ziel für 2026 auf 60 % festgelegt». NPR, Esme Nicholson, 12/12/2025 (página aberta e lida). Pesquisa §5.1 e §10.5. ⚠ Sustentar-se em «a própria DB faz humor institucional sobre seus atrasos», nunca em «é um clichê nacional documentado».",
+      "ano": 2026,
+      "revisarAte": "2027-05-31",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["de-a02-n03", "de-a02-n04"]
+    },
+    {
+      "id": "de-a02-falsche-freunde",
+      "afirmacao": "I falsi amici in cui inciampa un anglofono sono verificati nei dizionari tedeschi, il che li rende materiale sicuro per una battuta su sé stessi. DWDS dà bekommen come «⟨etw., jmdn. bekommen⟩ in den Besitz von etw., jmdm. kommen» — ottenere, ricevere — mentre diventare è werden, «bezeichnet das Übergehen … eine Zustandsveränderung». Gift è «Stoff, der im Körper eine zerstörende oder tödliche Wirkung hervorruft», veleno; un regalo è un Geschenk. L'etimologia è la parte migliore ed è verificata due volte: DWDS registra che Gift «ist eine germ. Abstraktbildung (*gefti-) mit t-Suffix zu dem unter geben behandelten Verb», in origine «das Geben, Gabe, Geschenk, Schenkung», con la specializzazione in veleno attribuita al greco e al tardo latino dosis, esso stesso letteralmente un dare; Duden dà indipendentemente «mittelhochdeutsch, althochdeutsch gift», in origine «das Geben, Übergabe; Gabe». Mitgift, una dote, conserva il senso antico. L'inglese gift e il tedesco Gift sono quindi veri cognati che si sono divisi. Also è «folglich, demnach», allora o quindi; eventuell significa forse, «mit einer eher geringen Wahrscheinlichkeit», non alla fine.",
+      "fonte": "Todos os lemas alemães verificados no DWDS e, onde acessível, no Duden — pesquisa §2, tabela dos doze lemas, e a nota etimológica de Gift/Mitgift, marcada como VERIFICADA e «o melhor gancho didático do bloco». ⚠ O lado inglês só foi verificado em dicionário para sensible e eventually (Longman/LDOCE); Merriam-Webster, Cambridge e Collins devolveram 403, e a pesquisa recusa qualquer entrada de dicionário inglês além dessas duas (item 12 da lista de exclusão). Nenhum conteúdo de Kroschewski (2000) é usado: só a referência está confirmada.",
+      "ano": 2026,
+      "revisarAte": "2031-08-05",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["de-a02-n06", "de-a02-n07"]
+    },
+    {
+      "id": "de-a02-achtung",
+      "afirmacao": "La battuta sulla guerra nel calcio è documentata come viaggiante in una sola direzione. Il Daily Mirror del 24 giugno 1996, sotto la direzione di Piers Morgan e due giorni prima della semifinale di Euro 96, pubblicò in prima pagina «ACHTUNG! SURRENDER», sottotitolato «For you Fritz, ze Euro 96 Championship is over»; il Sun pubblicò «Let's Blitz Fritz» e il Daily Star seguì. Quel titolo e la sua data sono verificati. Ciò che non è verificato, e quindi non è affermato qui, è la reazione — proteste, lettere all'ambasciata, le scuse di un direttore sono tutte riferite di seconda mano e la fonte contemporanea ha restituito un errore. La letteratura accademica esiste (Maguire, Poulton & Possamai, Journal of Sport and Social Issues 23(4), 1999; Garland & Rowe, stessa rivista 23(1), 1999) ma sta dietro un paywall e non è stata letta; da titoli e abstract viene solo il concetto chiave di asimmetria, e cioè che l'inquadratura bellica appartiene alla stampa inglese e ai tifosi inglesi e non è ricambiata dal lato tedesco. Nessuno studio misura come tutto ciò venga recepito in Germania, quindi questo corso sconsiglia la battuta sul solo terreno dell'asimmetria e mai su un'affermazione di offesa.",
+      "fonte": "Daily Mirror, 24/6/1996, manchete e subtítulo verificados; The Sun e Daily Star registrados. ⚠ A reação é PROVÁVEL e NÃO VERIFICADA (UPI de 25/6/1996 devolveu HTTP 403) — item 45 da lista de exclusão: «a manchete e a data entram; a reação não». Literatura acadêmica em paywall, NÃO LIDA — item 47: só o conceito de assimetria, sem citação. Item 8 da lista de exclusão: «'Piada sobre a guerra ofende alemães' — percepção anglófona sem registro… O curso pode desaconselhar por assimetria de contexto, não por alegação de ofensa.» Pesquisa §10.5.",
+      "ano": 1996,
+      "revisarAte": "2031-08-05",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["de-a02-n08", "de-a02-n09"]
+    },
+    {
+      "id": "de-a02-86a",
+      "afirmacao": "Il saluto nazista è un reato in Germania, e la norma nomina esplicitamente le formule di saluto. Il § 86a StGB, «Verwenden von Kennzeichen verfassungswidriger und terroristischer Organisationen», punisce con «Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe» chi distribuisce o usa pubblicamente, in una riunione o in un contenuto da lui diffuso, i simboli dei partiti e delle associazioni nominati nel § 86; l'Abs. 2 definisce quei simboli: «Kennzeichen im Sinne des Absatzes 1 sind namentlich Fahnen, Abzeichen, Uniformstücke, Parolen und Grußformen», e tratta come equivalenti i simboli a essi confondibilmente simili. Le esenzioni del § 86 Abs. 4 coprono l'educazione civica, il contrasto delle attività anticostituzionali, l'arte, la scienza, la ricerca, l'insegnamento e la cronaca di eventi attuali o storici — nessuna esenzione copre un visitatore, una fotografia o uno scherzo. Una norma separata e più pesante, il § 130 Abs. 3 StGB, punisce con fino a cinque anni chi approva, nega o minimizza («billigt, leugnet oder verharmlost») atti commessi sotto il nazionalsocialismo in un modo idoneo a turbare la pace pubblica, e l'Abs. 4 non richiede alcuna negazione dell'Olocausto. La copertura stampa registra due casi di turisti nel 2017 — due turisti cinesi fermati a Berlino il 5 agosto 2017 e rilasciati su cauzione di 500 euro ciascuno, e un americano di 41 anni fermato a Dresda il 12-13 agosto 2017 — ma gli esiti non sono nella copertura, e nessun caso che coinvolga un turista straniero è stato trovato tra il 2023 e il 2026. Il corso enuncia la legge e la pena e si ferma lì.",
+      "fonte": "§86a StGB verbatim (gesetze-im-internet.de, aberto), incluindo o Abs. 2 com «Parolen und Grußformen» — o termo que faz a saudação cair aqui. §86 Abs. 4 verbatim. §130 Abs. 3 e 4 lidos na mesma página oficial por outra via (⚠ a extração verbatim foi bloqueada pelo limite de citação da ferramenta; conferir uma vez antes de imprimir). Casos de 2017: cobertura jornalística convergente (BBC, NPR, TIME, LA Times, 6-7/8/2017; CNN para Dresden devolveu HTTP 451) — MODERADA. ⚠ Itens 42 e 43 da lista de exclusão: o desfecho processual não consta, não há nenhum caso de turista estrangeiro entre 2023 e 2026, e a PMK não separa turistas. «Não sugerir ao aluno que é corriqueiro hoje. Dizer que é crime, com a pena, e parar aí.» Pesquisa §10.2 e §10.6.",
+      "ano": 2026,
+      "revisarAte": "2029-08-05",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": ["de-a02-n12", "de-a02-n13", "de-a02-n14"]
+    }
+  ],
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a02-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "pt": "L'umorismo arriva per ultimo e sbaglia mira per primo, quindi gran parte di questa parte è costruita per il tuo orecchio e solo un po' per la tua bocca."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a02-n02",
+      "bloco": "corpo",
+      "pt": "Comincia dalla battuta che gira già in pubblico, perché quella porta è aperta a chiunque: la ferrovia."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-a02-r01",
+      "receptivo": true,
+      "acao": "Quello è un capotreno che scherza sul suo stesso treno. Ridi con la carrozza — è un invito, non un avvertimento.",
+      "es": "Ich wünsche Ihnen eine gute Fahrt, soweit das möglich ist.",
+      "pt": "Vi auguro un buon viaggio, per quanto sia possibile.",
+      "tts": "Ich wünsche Ihnen eine gute Fahrt, soweit das möglich ist."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a02-n03",
+      "pt": "Sei treni a lunga percorrenza su dieci sono arrivati in orario nel 2025, e in orario vuol dire con meno di sei minuti di ritardo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a02-n04",
+      "pt": "La ferrovia manda in onda una sua serie comica sul suo stesso personale. Quella battuta è loro, ed è condivisa liberamente."
+    },
+    {
+      "consulta": ["simpatia/puxar-conversa", "transporte/qual-trem"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a02-p01",
+      "promptPt": "Hai perso una coincidenza, sei arrivato un'ora tardi, e la tavolata vuole la storia. Tienila leggera e su te stesso. Parla adesso.",
+      "audioKey": "de-a02-t01",
+      "es": "Die Bahn und ich, wir haben eine schwierige Beziehung!",
+      "pinyin": "dee BAHN oont ikh, veer HAH-ben EYE-nuh SHVEE-ri-guh buh-TSEE-hoong",
+      "pt": "La ferrovia e io abbiamo un rapporto difficile!",
+      "tts": "Die Bahn und ich, wir haben eine schwierige Beziehung!"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-a02-r02",
+      "receptivo": true,
+      "acao": "Ti hanno appena fatto entrare in qualcosa, più che compatito. Restaci dentro — la battuta successiva è di solito una storia.",
+      "es": "Willkommen im Club!",
+      "pt": "Benvenuto nel club!",
+      "tts": "Willkommen im Club!"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a02-n05",
+      "bloco": "capsula",
+      "pt": "Secondo, ed è quello affidabile: la battuta su te stesso. Il tuo tedesco è materiale gratis."
+    },
+    {
+      "consulta": ["simpatia/puxar-conversa", "reparo/ingles"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a02-p02",
+      "promptPt": "Anticipa tu sui tuoi stessi tentativi, prima che qualcun altro debba essere gentile a riguardo. Parla adesso.",
+      "audioKey": "de-a02-t02",
+      "es": "Mein Deutsch ist furchtbar!",
+      "pinyin": "mine DOYTCH isst FOORKHT-bar",
+      "pt": "Il mio tedesco è terribile!",
+      "tts": "Mein Deutsch ist furchtbar!"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-a02-r03",
+      "receptivo": true,
+      "acao": "Accetta il complimento e fermati lì. Discuterlo fa lavorare tutti a tavola.",
+      "es": "Aber nein, das ist doch schon sehr gut!",
+      "pt": "Ma no, è già molto buono!",
+      "tts": "Aber nein, das ist doch schon sehr gut!"
+    },
+    {
+      "consulta": ["simpatia/puxar-conversa", "mesa/bebida"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a02-p03",
+      "promptPt": "Confessa il pasticcio che ogni anglofono fa a un bancone il primo giorno, e mostrati contento di averlo fatto. Parla adesso.",
+      "audioKey": "de-a02-t03",
+      "es": "Ich bekomme ein Bier, ich werde kein Bier!",
+      "pinyin": "ikh buh-KOM-muh eyn BEER, ikh VAIR-duh kine BEER",
+      "pt": "Ricevo una birra, non divento una birra!",
+      "tts": "Ich bekomme ein Bier, ich werde kein Bier!"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a02-n06",
+      "pt": "Bekommen è ottenere. Diventare è werden. Tutti sbagliano una volta, ed è sempre divertente."
+    },
+    {
+      "consulta": ["simpatia/puxar-conversa", "compras/balcao"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a02-p04",
+      "promptPt": "Fai tua l'etichetta che ti ha bloccato di colpo in un negozio di ferramenta la seconda mattina qui. Parla adesso.",
+      "audioKey": "de-a02-t04",
+      "es": "Ich habe Gift gelesen und an ein Geschenk gedacht!",
+      "pinyin": "ikh HAH-buh GIFT guh-LAY-zen oont ann eyn guh-SHENK guh-DAHKHT",
+      "pt": "Ho letto Gift e ho pensato a un regalo!",
+      "tts": "Ich habe Gift gelesen und an ein Geschenk gedacht!"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a02-n07",
+      "pt": "Gift è veleno. Il tuo «gift» e il loro Gift sono la stessa antica parola, e il tedesco ha conservato il senso antico in Mitgift."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_f",
+      "audioKey": "de-a02-r04",
+      "receptivo": true,
+      "acao": "Un falscher Freund è un falso amico. Stanno nominando la trappola, allegramente, e non stanno nominando te.",
+      "es": "Vorsicht, das ist ein falscher Freund!",
+      "pt": "Attento, quello è un falso amico!",
+      "tts": "Vorsicht, das ist ein falscher Freund!"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a02-n08",
+      "pt": "Terza, una che va nel senso opposto. Nel 1996 una prima pagina londinese uscì con ACHTUNG, SURRENDER prima di una semifinale."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a02-n09",
+      "pt": "Nessuno ha misurato come venga letto qui. Ciò che è agli atti è che il traffico è andato sempre in una sola direzione."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a02-n10",
+      "pt": "Quindi è una battuta senza partner da questo lato. Non una regola sul gusto — solo uno scambio che non torna indietro."
+    },
+    {
+      "consulta": ["simpatia/puxar-conversa"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a02-p05",
+      "promptPt": "La tavolata si è girata verso di te per un verdetto su una discussione riguardante il loro stesso paese. Declinala con calore. Parla adesso.",
+      "audioKey": "de-a02-t05",
+      "es": "Davon weiß ich zu wenig.",
+      "pinyin": "dah-FON vyce ikh tsoo VAY-nikh",
+      "pt": "Ne so troppo poco.",
+      "tts": "Davon weiß ich zu wenig."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a02-n11",
+      "pt": "Quella frase chiude un argomento senza chiudere la serata, ed è l'uscita più economica che possiedi."
+    },
+    {
+      "consulta": ["simpatia/puxar-conversa"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a02-p06",
+      "promptPt": "Insistono ancora una volta, sempre cordiali, sempre in attesa. Chiudi con garbo e stavolta per sempre. Parla adesso.",
+      "audioKey": "de-a02-t06",
+      "es": "Dazu möchte ich lieber nichts sagen.",
+      "pinyin": "DAH-tsoo MURKH-tuh ikh LEE-buh nikhts ZAH-gen",
+      "pt": "Preferirei non dire niente a riguardo.",
+      "tts": "Dazu möchte ich lieber nichts sagen."
+    },
+    {
+      "consulta": ["simpatia/puxar-conversa"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_f",
+      "promptAudioKey": "de-a02-p07",
+      "promptPt": "Qualcuno ha parcheggiato la serata sull'unico argomento di cui non vuoi discutere. Spostala tu. Parla adesso.",
+      "audioKey": "de-a02-t07",
+      "es": "Können wir über etwas anderes sprechen?",
+      "pinyin": "KUR-nen veer UE-ber ET-vass AN-duh-res SHPREH-khen",
+      "pt": "Possiamo parlare di qualcos'altro?",
+      "tts": "Können wir über etwas anderes sprechen?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a02-n12",
+      "pt": "E una linea dura, che è legge più che gusto. Il saluto a braccio teso è un reato qui."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a02-n13",
+      "pt": "Fino a tre anni, e l'articolo nomina le formule di saluto con tante parole. Non per una foto, non per una risata."
+    },
+    {
+      "tipo": "intro",
+      "voz": "guide_en_us_m",
+      "audioKey": "de-a02-n14",
+      "pt": "Le esenzioni sono arte, scienza, insegnamento e cronaca. Non c'è alcuna esenzione che copra un visitatore."
+    },
+    {
+      "consulta": ["reparo/como-se-diz", "simpatia/puxar-conversa"],
+      "tipo": "responde",
+      "voz": "target_de_f",
+      "promptVoz": "guide_en_us_m",
+      "promptAudioKey": "de-a02-p08",
+      "promptPt": "Hanno riso tutti e tu non hai colto nulla. Chiedi, invece di fare la risata cortese un attimo dopo. Parla adesso.",
+      "audioKey": "de-a02-t08",
+      "es": "Entschuldigung, ich habe den Witz nicht verstanden.",
+      "pinyin": "ent-SHOOL-di-goong, ikh HAH-buh dane VITS nikht fair-SHTAN-den",
+      "pt": "Scusi, non ho capito la battuta.",
+      "tts": "Entschuldigung, ich habe den Witz nicht verstanden."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "target_de_m",
+      "audioKey": "de-a02-r05",
+      "receptivo": true,
+      "acao": "La spiegazione è in arrivo, ed è passato al tu informale per dartela. Senti il calore; tu continua col Sie.",
+      "es": "Kein Problem, ich erkläre es dir!",
+      "pt": "Nessun problema, te lo spiego io!",
+      "tts": "Kein Problem, ich erkläre es dir!"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "target_de_f",
+      "audioKey": "de-a02-s01",
+      "es": "Mein Deutsch ist furchtbar! Davon weiß ich zu wenig. Können wir über etwas anderes sprechen?",
+      "pinyin": "mine DOYTCH isst FOORKHT-bar · dah-FON vyce ikh tsoo VAY-nikh · KUR-nen veer UE-ber ET-vass AN-duh-res SHPREH-khen",
+      "pt": "Ripeti le tre che coprono tutto: ridi di te stesso, declina il verdetto, sposta la serata.",
+      "tts": "Mein Deutsch ist furchtbar! Davon weiß ich zu wenig. Können wir über etwas anderes sprechen?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "guide_en_us_f",
+      "audioKey": "de-a02-n15",
+      "bloco": "recap",
+      "pt": "A02 fatto. Unisciti alla battuta sul treno, fai di te stesso il soggetto, declina il verdetto, e non fare mai il gesto."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Umorismo ricettivo, il materiale che è tuo, e la linea che è legge",
+    "secoes": [
+      {
+        "titulo": "La ferrovia ride di sé stessa, in pubblico",
+        "corpo": "Questa è la battuta condivisa più sicura a disposizione di un visitatore, perché la racconta già l'istituzione a cui si riferisce. Deutsche Bahn ha chiuso il 2025 con il 60,1 per cento dei treni a lunga percorrenza in orario, in calo dal 62,5, e ha prodotto una serie mockumentary per i social sul suo stesso personale alle prese con condizioni assurde. La definizione vale la pena portarsela dietro, perché è la battuta finale: in orario significa arrivare con meno di sei minuti di ritardo, misurati a ogni fermata. La metrica per il passeggero che conta le coincidenze perse ammette quindici minuti ed è risultata pari al 65,5 per cento. I treni regionali fanno molto meglio, all'89,2 per cento. Unisciti, lamentati con leggerezza del tuo viaggio, e fermati lì — il materiale riguarda un'azienda, non qualcuno a tavola.",
+        "exemplos": [
+          { "es": "Ich wünsche Ihnen eine gute Fahrt, soweit das möglich ist.", "pt": "Vi auguro un buon viaggio, per quanto sia possibile." },
+          { "es": "Die Bahn und ich, wir haben eine schwierige Beziehung!", "pt": "La ferrovia e io abbiamo un rapporto difficile!" }
+        ]
+      },
+      {
+        "titulo": "Il tuo tedesco è il materiale affidabile",
+        "corpo": "L'autoironia è il registro che viaggia intatto, e qui arriva con battute già pronte che per giunta sono vere. Bekommen significa ottenere, quindi ich bekomme ein Bier è corretto e ich werde ein Bier vuol dire che ti stai trasformando in una birra — ogni anglofono fa quello scambio una volta. Gift significa veleno, e un regalo è un Geschenk, il che è più buffo una volta che sai che sono la stessa antichissima parola: il tedesco ha conservato il senso antico del dare solo in Mitgift, una dote. Also significa allora o quindi, non «anche». Eventuell significa forse, non alla fine, che è quella che cambia in sordina ciò che qualcuno pensa tu abbia promesso. Raccontarle contro te stesso fa qualcosa di utile oltre alla risata — toglie dalla stanza l'ansia per il tuo accento prima che qualcuno debba essere cortese a riguardo."
+      },
+      {
+        "titulo": "La battuta che viaggia in un solo senso",
+        "corpo": "Il 24 giugno 1996, due giorni prima della semifinale di Euro 96, un tabloid londinese pubblicò ACHTUNG! SURRENDER a tutta prima pagina, sottotitolato «for you Fritz, ze Euro 96 Championship is over»; altri due giornali seguirono con varianti. Il titolo e la data sono documentati. Ciò che non è documentato è come tutto ciò sia stato recepito in Germania — nessuno studio lo misura, e la reazione riferita all'epoca è di seconda mano. Ciò che la letteratura accademica aggiunge, da titoli e abstract, è il concetto di asimmetria: l'inquadratura bellica appartiene alla stampa e alle curve di un paese, e non c'è tradizione corrispondente dall'altro lato. Questa è la ragione onesta per lasciarla stare. Non perché offenda — nessuno l'ha misurato e questo corso non finge il contrario — ma perché una battuta ha bisogno di un partner, e questa qui non ce l'ha."
+      },
+      {
+        "titulo": "La discussione che ti viene passata, e come restituirla",
+        "corpo": "Prima o poi una tavolata si girerà verso il visitatore per un verdetto su qualcosa di interno al proprio paese. Essere interpellati è ospitalità, la stessa mossa dell'esserti passato il pane, e non comporta alcun obbligo di rispondere. Tre frasi coprono ogni versione: davon weiß ich zu wenig, che chiude l'argomento senza chiudere la serata; dazu möchte ich lieber nichts sagen, che è cortese e definitiva se insistono; e können wir über etwas anderes sprechen, che sposta tutti. Nota ciò che questo corso non ti dà: il lessico per avere una posizione. Il lessico dell'opinione in una lingua che non controlli è esattamente il meccanismo dell'incidente, e restare un ospite vale più che suonare informato."
+      },
+      {
+        "titulo": "L'unica cosa che non è affatto una battuta",
+        "corpo": "Il § 86a del codice penale tedesco punisce l'uso dei simboli delle organizzazioni nominate nel § 86 con fino a tre anni o un'ammenda, e il comma 2 specifica cosa conta come simbolo: bandiere, distintivi, pezzi di uniforme, slogan e formule di saluto. «Formule di saluto» è la locuzione che colloca il saluto a braccio teso dentro l'articolo. Le esenzioni del § 86 comma 4 sono educazione civica, contrasto di attività anticostituzionali, arte, scienza, ricerca, insegnamento e cronaca di eventi attuali o storici. Non c'è esenzione per uno scherzo, per una fotografia, per l'essere ubriaco o per l'essere straniero. La copertura stampa registra due turisti fermati nel 2017, un caso a Berlino e uno a Dresda; gli esiti non sono nella cronaca, e nessun caso che coinvolga un visitatore straniero emerge tra il 2023 e il 2026. Quindi questa non è una storia su quanto spesso accada. È semplicemente la legge, con una pena annessa, e conoscerla non ti costa nulla. Un articolo separato, il § 130, colpisce l'approvare, negare o minimizzare ciò che fu fatto sotto il nazionalsocialismo, con fino a cinque anni — e minimizzare da solo è sufficiente."
+      }
+    ]
+  },
+  "slot": "A02",
+  "permissao": "Ti è permesso non capire la battuta e dirlo ad alta voce. Entschuldigung, ich habe den Witz nicht verstanden, mezzo tempo in ritardo, funziona molto meglio della risata cortese, che comunque ti smaschera, e chiedere cosa fosse buffo è la cosa più amichevole disponibile a una tavolata che ha appena riso. Ti è anche permesso essere l'unica persona a quella tavolata senza un'opinione sul paese che stai visitando — declinare un verdetto qui non è maleducazione, e una frase breve fa tutto il lavoro.",
+  "permissaoAudioKey": "de-a02-n11",
+  "espelho": "Chiunque abbia riso mezzo secondo dopo un gruppo nella propria lingua conosce già il piccolo panico di questa parte. L'umorismo è dove la fluidità viene davvero misurata, in ogni lingua, ed è esattamente per questo che nessuno si aspetta che tu sia rapido alla terza settimana — ed è perché la battuta sui tuoi stessi errori è quella che funziona ovunque.",
+  "fichasCulturais": [
+    {
+      "sinal": "Viene annunciato un ritardo, la carrozza ride di qualcosa di secco detto dal personale, e non sai dire se la gente sia divertita o furiosa.",
+      "suaLeitura": "Lamentarsi dei treni qui dev'essere un tasto dolente, e un visitatore che si unisce farebbe una scortesia al paese.",
+      "oQueEAli": "È l'istituzione stessa a portare avanti la battuta. Deutsche Bahn ha realizzato una serie mockumentary per i social sul suo stesso personale, e i numeri sono pubblici: il 60,1 per cento dei treni a lunga percorrenza è arrivato in orario nel 2025, dove in orario vuol dire con meno di sei minuti di ritardo, misurati a ogni fermata. La metrica per il passeggero che conta le coincidenze perse era del 65,5 per cento. I servizi regionali viaggiano all'89,2 per cento.",
+      "oQueVoceFaz": "Unisciti con leggerezza e sul tuo viaggio più che sul paese. Die Bahn und ich, wir haben eine schwierige Beziehung basta, e di solito ti compra in cambio la storia di qualcun altro.",
+      "oQueMelhora": "Ottieni una battuta condivisa che non costa nulla e non richiede tempismo, il che è molto più di quanto abbiano gran parte dei visitatori nella prima settimana.",
+      "ondeNaoVale": "Non è licenza per il cliché più ampio sull'efficienza, che la ricerca dietro questo corso rifiuta: ciò che è documentato è un'azienda che si prende in giro sui propri ritardi, non un tratto nazionale. E non è una battuta da usare sul membro del personale in piedi davanti a te alla fine di un turno di dodici ore.",
+      "evidencia": "FATO",
+      "audioKeys": ["de-a02-n03", "de-a02-n04"]
+    },
+    {
+      "sinal": "A tarda ora di una bella serata, qualcuno propone una foto e scherza sul fare il saluto, e la proposta in sé pare divertire tutti.",
+      "suaLeitura": "È ovviamente ironico, lo vedono tutti, e rifiutare mi farebbe sembrare quello senza senso dell'umorismo.",
+      "oQueEAli": "È un reato, e l'articolo lo dice specificamente. Il § 86a del codice penale copre i simboli delle organizzazioni nominate nel § 86 e li definisce come comprensivi di slogan e formule di saluto, con una pena fino a tre anni o un'ammenda; un simbolo confondibilmente simile a uno di essi conta allo stesso modo. Le esenzioni del § 86 comma 4 sono arte, scienza, ricerca, insegnamento, educazione civica e cronaca. L'ironia non è tra queste, e nemmeno il turismo.",
+      "oQueVoceFaz": "Non fare il gesto — non per scherzo, non per una foto, non in gruppo e non dopo una lunga serata. Se l'argomento arriva, di' davon weiß ich zu wenig e cambialo. Non correggere mai nessuno in un tedesco stentato; il silenzio e un nuovo argomento fanno tutto il lavoro.",
+      "oQueMelhora": "Toglie l'unica situazione in tutto questo corso in cui potresti essere arrestato, e lo fa senza che tu debba prendere una posizione su nulla.",
+      "ondeNaoVale": "Questa non è un'affermazione che sia un'esperienza comune per i visitatori: la copertura stampa registra due casi di turisti nel 2017, gli esiti non sono riferiti, e nessun caso che coinvolga un turista straniero è stato trovato tra il 2023 e il 2026. E non è nemmeno un invito a fare la predica a qualcuno, o a trattare il tema come conversazione — la legge è la ragione, e la legge è dove finisce.",
+      "evidencia": "FATO",
+      "audioKeys": ["de-a02-n12", "de-a02-n13", "de-a02-n14"]
+    }
+  ]
+}
